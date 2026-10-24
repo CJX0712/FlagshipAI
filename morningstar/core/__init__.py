@@ -1,1 +1,29 @@
-IiIiTW9ybmluZ1N0YXItQUkg4oCU4oCUIOS4lueVjOmhtue6pyBBSSDns7vnu5/lupXluqfjgIINCg0K6K6+6K6h5ZOy5a2m77yI6Zu26YeN5YaZIC8g6ZuG5aSn5oiQ77yJ77yaDQogICog5pWw5YC86YeN5rS75LiO5oiQ54af566X5rOV55u05o6l5aSN55So5LiW55WM6aG257qn5bqT77yIbnVtcHkgLyBzY2lweSAvIHNjaWtpdC1sZWFybiAvIHRvcmNo77yJ44CCDQogICog5qC45b+D566X5rOV5Y+m5Lul57qv5a6e546wIGZvcmdlIOaooeWdl+mHjeWGme+8jOW5tueUqOOAjOaVsOWtpuS4jeWPmOmHjyArIOi3qOW6k+S6pOWPiemqjOivgeOAjQ0KICAgIOeLrOeri+ivgeaYjuWFtuS4lueVjOe6p+ato+ehruaApyDigJTigJQg5LiN6Z2g5L+h5Luw77yM6Z2g5Y+v6aqM6K+B55qE56Gs5qCH5YeG44CCDQoNCuWNgeWxguaetuaehOaYoOWwhO+8iOivpuingSBkb2NzL0FSQ0hJVEVDVFVSRS5tZO+8ie+8mg0KICBMMSDnur/mgKfku6PmlbAgICDihpIgbW9ybmluZ3N0YXJfYWkubWF0aHgubGluYWxnDQogIEwyIOamgueOh+e7n+iuoSAgIOKGkiAo5bWM5YWl5ZCE5qaC546H5qih5Z2XKQ0KICBMMyDlvq7np6/liIbkvJjljJYg4oaSIG1vcm5pbmdzdGFyX2FpLm1hdGh4Lm9wdGltaXplDQogIEw0LTYg55uR552j5a2m5LmgIOKGkiBtb3JuaW5nc3Rhcl9haS5zdXBlcnZpc2VkLioNCiAgTDctOCDml6Dnm5HnnaMgICDihpIgbW9ybmluZ3N0YXJfYWkudW5zdXBlcnZpc2VkLioNCiAgTDkgICDmt7HluqblrabkuaAg4oaSIG1vcm5pbmdzdGFyX2FpLmRlZXAuKg0KICBMMTAgIOmbhuaIkOS6pOS7mCDihpIgYmVuY2htYXJrcyArIENMSSArICjlpJbpg6ggMTAyNCDlvq7mjIfku6Tlt6XnqIspDQoiIiINCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMNCg0KX192ZXJzaW9uX18gPSAiMC4xLjAiDQpfX2F1dGhvcl9fID0gIuaZqOaYnyAoTW9ybmluZ1N0YXIpIg0KDQpmcm9tIC4gaW1wb3J0IG1hdGh4LCBzdXBlcnZpc2VkLCB1bnN1cGVydmlzZWQsIGRlZXAsIGJlbmNobWFya3MgICMgbm9xYTogRjQwMQ0KDQoNCmRlZiBpbmZvKCkgLT4gc3RyOg0KICAgIHJldHVybiAoDQogICAgICAgIGYiTW9ybmluZ1N0YXItQUkgdntfX3ZlcnNpb25fX30gfCDkvZzogIUg5pmo5pifXG4iDQogICAgICAgICLpm7bph43lhpkgwrcg6ZuG5aSn5oiQIMK3IOS4jeWPmOmHj+mqjOivgSDCtyDot6jlupPkuqTlj4npqozor4Egwrcg6Zet546v5Lqk5LuYIg0KICAgICkNCg==
+"""MorningStar-AI —— 世界顶级 AI 系统底座。
+
+设计哲学（零重写 / 集大成）：
+  * 数值重活与成熟算法直接复用世界顶级库（numpy / scipy / scikit-learn / torch）。
+  * 核心算法另以纯实现 forge 模块重写，并用「数学不变量 + 跨库交叉验证」
+    独立证明其世界级正确性 —— 不靠信仰，靠可验证的硬标准。
+
+十层架构映射（详见 docs/ARCHITECTURE.md）：
+  L1 线性代数   → morningstar_ai.mathx.linalg
+  L2 概率统计   → (嵌入各概率模块)
+  L3 微积分优化 → morningstar_ai.mathx.optimize
+  L4-6 监督学习 → morningstar_ai.supervised.*
+  L7-8 无监督   → morningstar_ai.unsupervised.*
+  L9   深度学习 → morningstar_ai.deep.*
+  L10  集成交付 → benchmarks + CLI + (外部 1024 微指令工程)
+"""
+from __future__ import annotations
+
+__version__ = "0.1.0"
+__author__ = "晨星 (MorningStar)"
+
+from . import mathx, supervised, unsupervised, deep, benchmarks  # noqa: F401
+
+
+def info() -> str:
+    return (
+        f"MorningStar-AI v{__version__} | 作者 晨星\n"
+        "零重写 · 集大成 · 不变量验证 · 跨库交叉验证 · 闭环交付"
+    )

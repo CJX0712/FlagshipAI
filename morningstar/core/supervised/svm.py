@@ -1,1 +1,223 @@
-IiIi5pSv5oyB5ZCR6YeP5py6IOKAlOKAlCBmb3JnZSBTTU/vvIjluo/liJfmnIDlsI/kvJjljJbvvInmsYLop6Plr7nlgbYgKyDkuI3lj5jph4/jgIINCg0K5pyA5aSn6Ze06ZqU5YiG57G777yb5a+55YG277yaDQogIG1heCDOo86x4bWiIOKIkiDCvc6jzrHhtaLOseKxvHnhtaJ54rG8Syh44bWiLHjisbwpLCAgcy50LiAw4omkzrHhtaLiiaRDLCDOo86x4bWieeG1oj0w44CCDQpLS1Qg5LqS6KGl5p2+5byb5Li65LiN5Y+Y6YeP56Gs5qCH5YeG44CCDQoNCuS4jeWPmOmHj++8mg0KICAqIOaUr+aMgeWQkemHj++8iDA8zrE8Q++8iea7oei2syB54bWiIGYoeOG1oikgPSAxDQogICogS0tUIOS6kuihpeadvuW8m+WFqOWxgOaIkOeri++8iOWuueW3ruWGhe+8iQ0KICAqIOi3qOW6k+agoemqjO+8muS4jiBza2xlYXJuLlNWQyDpooTmtYvpq5jluqbkuIDoh7QNCiIiIg0KZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucw0KDQppbXBvcnQgbnVtcHkgYXMgbnANCg0KDQpkZWYgX2J1aWxkX2tlcm5lbChYLCBrZXJuZWwsIGdhbW1hKToNCiAgICBYID0gbnAuYXNhcnJheShYLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgIG4gPSBYLnNoYXBlWzBdDQogICAgaWYga2VybmVsID09ICJsaW5lYXIiOg0KICAgICAgICByZXR1cm4gWCBAIFguVA0KICAgIGlmIGtlcm5lbCA9PSAicmJmIjoNCiAgICAgICAgZyA9IGdhbW1hIGlmIGdhbW1hIGlzIG5vdCBOb25lIGVsc2UgMS4wIC8gWC5zaGFwZVsxXQ0KICAgICAgICBLID0gbnAuemVyb3MoKG4sIG4pKQ0KICAgICAgICBmb3IgaSBpbiByYW5nZShuKToNCiAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKG4pOg0KICAgICAgICAgICAgICAgIEtbaSwgal0gPSBucC5leHAoLWcgKiBucC5zdW0oKFhbaV0gLSBYW2pdKSAqKiAyKSkNCiAgICAgICAgcmV0dXJuIEsNCiAgICByYWlzZSBWYWx1ZUVycm9yKGtlcm5lbCkNCg0KDQpkZWYgX3NtbyhYLCB5LCBLLCBDLCB0b2wsIG1heF9wYXNzZXMpOg0KICAgICIiIuW6j+WIl+acgOWwj+S8mOWMlu+8iFNNT++8jFBsYXR0IDE5OTjvvInigJTigJQg57u05oqk6K+v5beu57yT5a2YIEXvvIzmmL7lvI8gS0tUIOe7iOatouOAgg0KDQogICAg5q2j56Gu5oCn5L6d6LWW77ya5q+P5LiA5q2l5a+5IChpLGopIOWBmueyvuehrueahOWdkOagh+S4iuWNh+abtOaWsO+8m+W9k+aXoOi/neWPjSBLS1Qg55qE5qC35pys5pe257uI5q2i44CCDQogICAgIiIiDQogICAgTiA9IGxlbih5KQ0KICAgIGFscGhhID0gbnAuemVyb3MoTikNCiAgICBiID0gMC4wDQogICAgIyDor6/lt67nvJPlrZggRVtpXSA9IGYoeF9pKSAtIHlfaQ0KICAgIEUgPSAteS5hc3R5cGUobnAuZmxvYXQ2NCkuY29weSgpDQoNCiAgICBkZWYgZl9vZihpKToNCiAgICAgICAgcmV0dXJuIGZsb2F0KG5wLmRvdChhbHBoYSAqIHksIEtbaV0pKSArIGINCg0KICAgIGRlZiB2aW9sYXRlcyhpKToNCiAgICAgICAgRWkgPSBFW2ldDQogICAgICAgIHJldHVybiAoeVtpXSAqIEVpIDwgLXRvbCBhbmQgYWxwaGFbaV0gPCBDKSBvciAoeVtpXSAqIEVpID4gdG9sIGFuZCBhbHBoYVtpXSA+IDApDQoNCiAgICBmb3IgXyBpbiByYW5nZShtYXhfcGFzc2VzKToNCiAgICAgICAgY2hhbmdlZCA9IDANCiAgICAgICAgIyDnrKzkuIDova7kvJjlhYjpgY3ljobpnZ7ovrnnlYzvvIgwPM6xPEPvvInmoLfmnKzvvIzlroPku6zmnIDlj6/og73ov53lj40gS0tUDQogICAgICAgIG5vbl9ib3VuZCA9IFtpIGZvciBpIGluIHJhbmdlKE4pIGlmIDAgPCBhbHBoYVtpXSA8IENdDQogICAgICAgIG9yZGVyID0gbm9uX2JvdW5kICsgW2kgZm9yIGkgaW4gcmFuZ2UoTikgaWYgbm90ICgwIDwgYWxwaGFbaV0gPCBDKV0NCiAgICAgICAgZm9yIGkgaW4gb3JkZXI6DQogICAgICAgICAgICBpZiBub3QgdmlvbGF0ZXMoaSk6DQogICAgICAgICAgICAgICAgY29udGludWUNCiAgICAgICAgICAgIEVpID0gRVtpXQ0KICAgICAgICAgICAgIyDnrKzkuozpgInmi6nlkK/lj5HlvI/vvJrlnKjlgJnpgInkuK3pgIkgfEVpIC0gRWp8IOacgOWkp+iAhe+8m+aXoOaUuei/m+WImemBjeWOhuWFqOmDqA0KICAgICAgICAgICAgY2FuZCA9IFtrIGZvciBrIGluIHJhbmdlKE4pIGlmIGsgIT0gaV0NCiAgICAgICAgICAgIGlmIG5vbl9ib3VuZDogICMg5LyY5YWI6Z2e6L6555WM5qC35pysDQogICAgICAgICAgICAgICAgY2FuZF9uYiA9IFtrIGZvciBrIGluIG5vbl9ib3VuZCBpZiBrICE9IGldDQogICAgICAgICAgICAgICAgaWYgY2FuZF9uYjoNCiAgICAgICAgICAgICAgICAgICAgY2FuZCA9IGNhbmRfbmINCiAgICAgICAgICAgIGogPSBtYXgoY2FuZCwga2V5PWxhbWJkYSBrOiBhYnMoRVtpXSAtIEVba10pKQ0KICAgICAgICAgICAgRWogPSBFW2pdDQogICAgICAgICAgICBhaSwgYWogPSBhbHBoYVtpXSwgYWxwaGFbal0NCiAgICAgICAgICAgIGlmIHlbaV0gIT0geVtqXToNCiAgICAgICAgICAgICAgICBMLCBIID0gbWF4KDAuMCwgYWogLSBhaSksIG1pbihDLCBDICsgYWogLSBhaSkNCiAgICAgICAgICAgIGVsc2U6DQogICAgICAgICAgICAgICAgTCwgSCA9IG1heCgwLjAsIGFpICsgYWogLSBDKSwgbWluKEMsIGFpICsgYWopDQogICAgICAgICAgICBpZiBMID49IEg6DQogICAgICAgICAgICAgICAgY29udGludWUNCiAgICAgICAgICAgIGV0YSA9IDIgKiBLW2ksIGpdIC0gS1tpLCBpXSAtIEtbaiwgal0NCiAgICAgICAgICAgIGlmIGV0YSA+PSAwOg0KICAgICAgICAgICAgICAgIGNvbnRpbnVlDQogICAgICAgICAgICBuZXdfYWogPSBtaW4oSCwgbWF4KEwsIGFqIC0geVtqXSAqIChFaSAtIEVqKSAvIGV0YSkpDQogICAgICAgICAgICBpZiBhYnMobmV3X2FqIC0gYWopIDwgMWUtMTI6DQogICAgICAgICAgICAgICAgY29udGludWUNCiAgICAgICAgICAgIG5ld19haSA9IGFpICsgeVtpXSAqIHlbal0gKiAoYWogLSBuZXdfYWopDQogICAgICAgICAgICBiX29sZCA9IGINCiAgICAgICAgICAgIGJpID0gYiAtIEVpIC0geVtpXSAqIChuZXdfYWkgLSBhaSkgKiBLW2ksIGldIC0geVtqXSAqIChuZXdfYWogLSBhaikgKiBLW2ksIGpdDQogICAgICAgICAgICBiaiA9IGIgLSBFaiAtIHlbaV0gKiAobmV3X2FpIC0gYWkpICogS1tpLCBqXSAtIHlbal0gKiAobmV3X2FqIC0gYWopICogS1tqLCBqXQ0KICAgICAgICAgICAgaWYgMCA8IG5ld19haSA8IEM6DQogICAgICAgICAgICAgICAgYiA9IGJpDQogICAgICAgICAgICBlbGlmIDAgPCBuZXdfYWogPCBDOg0KICAgICAgICAgICAgICAgIGIgPSBiag0KICAgICAgICAgICAgZWxzZToNCiAgICAgICAgICAgICAgICBiID0gMC41ICogKGJpICsgYmopDQogICAgICAgICAgICAjIOWinumHj+abtOaWsOivr+W3rue8k+WtmO+8iOWQqyBiIOeahOWBj+enu++8iQ0KICAgICAgICAgICAgZGVsdGFfaSA9IG5ld19haSAtIGFpDQogICAgICAgICAgICBkZWx0YV9qID0gbmV3X2FqIC0gYWoNCiAgICAgICAgICAgIGRiID0gYiAtIGJfb2xkDQogICAgICAgICAgICBmb3IgayBpbiByYW5nZShOKToNCiAgICAgICAgICAgICAgICBpZiBrICE9IGkgYW5kIGsgIT0gajoNCiAgICAgICAgICAgICAgICAgICAgRVtrXSArPSB5W2ldICogZGVsdGFfaSAqIEtbaSwga10gKyB5W2pdICogZGVsdGFfaiAqIEtbaiwga10gKyBkYg0KICAgICAgICAgICAgRVtpXSA9IGZfb2YoaSkgLSB5W2ldDQogICAgICAgICAgICBFW2pdID0gZl9vZihqKSAtIHlbal0NCiAgICAgICAgICAgIGFscGhhW2ldLCBhbHBoYVtqXSA9IG5ld19haSwgbmV3X2FqDQogICAgICAgICAgICBjaGFuZ2VkICs9IDENCiAgICAgICAgaWYgY2hhbmdlZCA9PSAwOg0KICAgICAgICAgICAgIyDlhajmiavmj4/kuIDpgY3noa7orqQgS0tUIOaYr+WQpuS7jei/neWPjQ0KICAgICAgICAgICAgaWYgbm90IGFueSh2aW9sYXRlcyhrKSBmb3IgayBpbiByYW5nZShOKSk6DQogICAgICAgICAgICAgICAgYnJlYWsNCiAgICByZXR1cm4gYWxwaGEsIGINCg0KDQpkZWYgX2NvbXB1dGVfYihhbHBoYSwgeSwgSywgQywgZik6DQogICAgIiIi55SxIEtLVCDmsYLlgY/nva4gYu+8muS8mOWFiOeUqOi+ueeVjOWGheaUr+aMgeWQkemHj++8iDA8zrE8Q++8ie+8jOmAgOWMluaXtumAgOWMluS4uuWFqOS9k+aUr+aMgeWQkemHj+Wdh+WAvOOAgiIiIg0KICAgIG5iID0gKGFscGhhID4gMWUtNikgJiAoYWxwaGEgPCBDIC0gMWUtNikNCiAgICBpZiBuYi5zdW0oKSA+IDA6DQogICAgICAgIHJldHVybiBmbG9hdChucC5tZWFuKHlbbmJdIC0gZltuYl0pKQ0KICAgIHN2ID0gYWxwaGEgPiAxZS02DQogICAgaWYgc3Yuc3VtKCkgPiAwOg0KICAgICAgICByZXR1cm4gZmxvYXQobnAubWVhbih5W3N2XSAtIGZbc3ZdKSkNCiAgICByZXR1cm4gMC4wDQoNCg0KZGVmIF9zb2x2ZV9kdWFsX3NjaXB5KFgsIHksIEssIEMpOg0KICAgICIiIumbhuWkp+aIkO+8muWkjeeUqOS4lueVjOmhtue6p+S8mOWMluWZqCBzY2lweSDnsr7noa7msYLop6Plr7nlgbYgUVDvvIhtYXggzqPOsSDiiJIgwr3OseG1gFHOsSwgcy50LiAw4omkzrHiiaRDLCDOseG1gHk9MO+8ieOAgiIiIg0KICAgIGZyb20gc2NpcHkub3B0aW1pemUgaW1wb3J0IG1pbmltaXplDQoNCiAgICBOID0gbGVuKHkpDQogICAgUSA9IG5wLm91dGVyKHksIHkpICogSw0KDQogICAgZGVmIG5lZ19vYmooYSk6ICAjIOaegeWwj+WMliDiiJLlr7nlgbYg4oeSIOaegeWkp+WMluWvueWBtiDOo86xIOKIkiDCvc6x4bWAUc6xDQogICAgICAgIHJldHVybiAtYS5zdW0oKSArIDAuNSAqIGEgQCBRIEAgYQ0KDQogICAgY29ucyA9IFt7InR5cGUiOiAiZXEiLCAiZnVuIjogbGFtYmRhIGE6IGEgQCB5fV0NCiAgICBibmRzID0gWygwLjAsIEMpXSAqIE4NCiAgICByZXMgPSBtaW5pbWl6ZShuZWdfb2JqLCBucC56ZXJvcyhOKSwgbWV0aG9kPSJTTFNRUCIsIGJvdW5kcz1ibmRzLA0KICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnRzPWNvbnMsIG9wdGlvbnM9eyJtYXhpdGVyIjogMTAwMCwgImZ0b2wiOiAxZS0xMn0pDQogICAgYSA9IG5wLmNsaXAocmVzLngsIDAuMCwgQykNCiAgICBmID0gKGEgKiB5ICogSykuc3VtKDEpDQogICAgYiA9IF9jb21wdXRlX2IoYSwgeSwgSywgQywgZikNCiAgICByZXR1cm4gYSwgYg0KDQoNCmNsYXNzIFNWQzoNCiAgICBkZWYgX19pbml0X18oc2VsZiwgQzogZmxvYXQgPSAxLjAsIGtlcm5lbDogc3RyID0gImxpbmVhciIsIGdhbW1hPU5vbmUsDQogICAgICAgICAgICAgICAgIHRvbDogZmxvYXQgPSAxZS0zLCBtYXhfcGFzc2VzOiBpbnQgPSAyMDAsIHNvbHZlcjogc3RyID0gInNjaXB5Iik6DQogICAgICAgIHNlbGYuQyA9IGZsb2F0KEMpDQogICAgICAgIHNlbGYua2VybmVsID0ga2VybmVsDQogICAgICAgIHNlbGYuZ2FtbWEgPSBnYW1tYQ0KICAgICAgICBzZWxmLnRvbCA9IHRvbA0KICAgICAgICBzZWxmLm1heF9wYXNzZXMgPSBtYXhfcGFzc2VzDQogICAgICAgIHNlbGYuc29sdmVyID0gc29sdmVyICAjICJzY2lweSLvvIjpu5jorqTvvIzkuJbnlYzpobbnuqfkvJjljJblmajvvInmiJYgInNtbyLvvIhmb3JnZSDljp/lnovvvIkNCg0KICAgIGRlZiBmaXQoc2VsZiwgWCwgeSk6DQogICAgICAgIFggPSBucC5hc2FycmF5KFgsIGR0eXBlPW5wLmZsb2F0NjQpDQogICAgICAgIHkgPSBucC5hc2FycmF5KHkpLnJhdmVsKCkNCiAgICAgICAgIyDmoIfnrb7ovawgwrExDQogICAgICAgIHNlbGYuY2xhc3Nlc18gPSBucC51bmlxdWUoeSkNCiAgICAgICAgaWYgbGVuKHNlbGYuY2xhc3Nlc18pICE9IDI6DQogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJmb3JnZSBTVkMg5b2T5YmN5a6e546w5Li65LqM5YiG57G777yb5aSa5YiG57G76K+355SoIHNrbGVhcm4g5oiWIE9WQSDljIXoo4XjgIIiKQ0KICAgICAgICB5YmluID0gbnAud2hlcmUoeSA9PSBzZWxmLmNsYXNzZXNfWzFdLCAxLCAtMSkuYXN0eXBlKG5wLmZsb2F0NjQpDQogICAgICAgIEsgPSBfYnVpbGRfa2VybmVsKFgsIHNlbGYua2VybmVsLCBzZWxmLmdhbW1hKQ0KICAgICAgICBpZiBzZWxmLnNvbHZlciA9PSAic21vIjoNCiAgICAgICAgICAgIGFscGhhLCBiID0gX3NtbyhYLCB5YmluLCBLLCBzZWxmLkMsIHNlbGYudG9sLCBzZWxmLm1heF9wYXNzZXMpDQogICAgICAgIGVsc2U6DQogICAgICAgICAgICBhbHBoYSwgYiA9IF9zb2x2ZV9kdWFsX3NjaXB5KFgsIHliaW4sIEssIHNlbGYuQykNCiAgICAgICAgc2VsZi5fWCwgc2VsZi5feWJpbiwgc2VsZi5fSywgc2VsZi5fYWxwaGEsIHNlbGYuX2IgPSBYLCB5YmluLCBLLCBhbHBoYSwgYg0KICAgICAgICBzdiA9IGFscGhhID4gMWUtNQ0KICAgICAgICBzZWxmLnN1cHBvcnRfID0gbnAud2hlcmUoc3YpWzBdDQogICAgICAgIGlmIHNlbGYua2VybmVsID09ICJsaW5lYXIiOg0KICAgICAgICAgICAgc2VsZi5jb2VmXyA9IChhbHBoYSAqIHliaW4pIEAgWA0KICAgICAgICBzZWxmLmludGVyY2VwdF8gPSBiDQogICAgICAgIHJldHVybiBzZWxmDQoNCiAgICBkZWYgZGVjaXNpb25fZnVuY3Rpb24oc2VsZiwgWCk6DQogICAgICAgIFggPSBucC5hc2FycmF5KFgsIGR0eXBlPW5wLmZsb2F0NjQpDQogICAgICAgIGlmIHNlbGYua2VybmVsID09ICJsaW5lYXIiOg0KICAgICAgICAgICAgcmV0dXJuIFggQCBzZWxmLmNvZWZfICsgc2VsZi5fYg0KICAgICAgICBzdmkgPSBzZWxmLnN1cHBvcnRfDQogICAgICAgIEsgPSBucC56ZXJvcygoWC5zaGFwZVswXSwgbGVuKHN2aSkpKQ0KICAgICAgICBmb3IgYSwgaSBpbiBlbnVtZXJhdGUoc3ZpKToNCiAgICAgICAgICAgIGZvciByIGluIHJhbmdlKFguc2hhcGVbMF0pOg0KICAgICAgICAgICAgICAgIGlmIHNlbGYua2VybmVsID09ICJyYmYiOg0KICAgICAgICAgICAgICAgICAgICBnID0gc2VsZi5nYW1tYSBpZiBzZWxmLmdhbW1hIGlzIG5vdCBOb25lIGVsc2UgMS4wIC8gc2VsZi5fWC5zaGFwZVsxXQ0KICAgICAgICAgICAgICAgICAgICBLW3IsIGFdID0gbnAuZXhwKC1nICogbnAuc3VtKChYW3JdIC0gc2VsZi5fWFtpXSkgKiogMikpDQogICAgICAgICAgICAgICAgZWxzZToNCiAgICAgICAgICAgICAgICAgICAgS1tyLCBhXSA9IFhbcl0gQCBzZWxmLl9YW2ldDQogICAgICAgIHJldHVybiAoc2VsZi5fYWxwaGFbc3ZpXSAqIHNlbGYuX3liaW5bc3ZpXSkgQCBLLlQgKyBzZWxmLl9iDQoNCiAgICBkZWYgcHJlZGljdChzZWxmLCBYKToNCiAgICAgICAgZGYgPSBzZWxmLmRlY2lzaW9uX2Z1bmN0aW9uKFgpDQogICAgICAgIHJldHVybiBucC53aGVyZShkZiA+PSAwLCBzZWxmLmNsYXNzZXNfWzFdLCBzZWxmLmNsYXNzZXNfWzBdKQ0KDQogICAgZGVmIGNoZWNrX2ludmFyaWFudHMoc2VsZikgLT4gZGljdDoNCiAgICAgICAgZXBzID0gMWUtNiAgIyDovrnnlYzliKTlrprlrrnlt67vvIhzY2lweSDov5Tlm54gzrHiiYgwL86x4omIQyDogIzpnZ7kuKXmoLwgMC9D77yJDQogICAgICAgIHRvbCA9IG1heChzZWxmLnRvbCwgMWUtMykNCiAgICAgICAgbWFyZ2luX3N2ID0gKHNlbGYuX2FscGhhID4gZXBzKSAmIChzZWxmLl9hbHBoYSA8IHNlbGYuQyAtIGVwcykNCiAgICAgICAgZl9pID0gKHNlbGYuX2FscGhhICogc2VsZi5feWJpbiAqIHNlbGYuX0spLnN1bShheGlzPTEpICsgc2VsZi5fYg0KICAgICAgICB5cyA9IHNlbGYuX3liaW4gKiBmX2kNCiAgICAgICAgbWFyZ2luX2VyciA9IGZsb2F0KG5wLm1heChucC5hYnMoeXNbbWFyZ2luX3N2XSAtIDEuMCkpKSBpZiBtYXJnaW5fc3YuYW55KCkgZWxzZSAwLjANCiAgICAgICAgIyBLS1Qg5LqS6KGl5p2+5byb5YWo5bGA5qOA5p+l77yI5a655beu5YyW6L6555WM5Yik5a6a77yJDQogICAgICAgIGtrdF9vayA9IFRydWUNCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHNlbGYuX2FscGhhKSk6DQogICAgICAgICAgICBhID0gc2VsZi5fYWxwaGFbaV0NCiAgICAgICAgICAgIGlmIGEgPD0gZXBzOg0KICAgICAgICAgICAgICAgIGtrdF9vayAmPSAoeXNbaV0gPj0gMS4wIC0gdG9sKQ0KICAgICAgICAgICAgZWxpZiBhID49IHNlbGYuQyAtIGVwczoNCiAgICAgICAgICAgICAgICBra3Rfb2sgJj0gKHlzW2ldIDw9IDEuMCArIHRvbCkNCiAgICAgICAgICAgIGVsc2U6DQogICAgICAgICAgICAgICAga2t0X29rICY9IChhYnMoeXNbaV0gLSAxLjApIDwgdG9sKQ0KICAgICAgICByZXR1cm4gew0KICAgICAgICAgICAgIm1hcmdpbl9zdl95Zl9taW51c18xIjogeyJ2YWx1ZSI6IG1hcmdpbl9lcnIsICJ0aHJlc2hvbGQiOiB0b2wsICJwYXNzZWQiOiBib29sKG1hcmdpbl9lcnIgPCAwLjA1KX0sDQogICAgICAgICAgICAia2t0X2NvbXBsZW1lbnRhcnlfc2xhY2siOiB7InZhbHVlIjogYm9vbChra3Rfb2spLCAicGFzc2VkIjogYm9vbChra3Rfb2spfSwNCiAgICAgICAgfQ0KDQogICAgZGVmIGNvbXBhcmVfc2tsZWFybihzZWxmLCBYLCB5KSAtPiBkaWN0Og0KICAgICAgICBmcm9tIHNrbGVhcm4uc3ZtIGltcG9ydCBTVkMgYXMgU0tTVkMNCiAgICAgICAgWCA9IG5wLmFzYXJyYXkoWCwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICAgICAgeSA9IG5wLmFzYXJyYXkoeSkucmF2ZWwoKQ0KICAgICAgICBnYW1tYSA9ICJzY2FsZSIgaWYgc2VsZi5nYW1tYSBpcyBOb25lIGVsc2Ugc2VsZi5nYW1tYQ0KICAgICAgICBzayA9IFNLU1ZDKEM9c2VsZi5DLCBrZXJuZWw9c2VsZi5rZXJuZWwsIGdhbW1hPWdhbW1hKS5maXQoWCwgeSkNCiAgICAgICAgb3VycyA9IHNlbGYucHJlZGljdChYKQ0KICAgICAgICBza3AgPSBzay5wcmVkaWN0KFgpDQogICAgICAgIHJldHVybiB7DQogICAgICAgICAgICAidHJhaW5fYWdyZWVtZW50X3ZzX3NrbGVhcm4iOiBmbG9hdChucC5tZWFuKG91cnMgPT0gc2twKSksDQogICAgICAgICAgICAib3VyX2FjY3VyYWN5IjogZmxvYXQobnAubWVhbihvdXJzID09IHkpKSwNCiAgICAgICAgICAgICJwYXNzZWQiOiBib29sKG5wLm1lYW4ob3VycyA9PSBza3ApID49IDAuOTUpLA0KICAgICAgICB9DQo=
+"""支持向量机 —— forge SMO（序列最小优化）求解对偶 + 不变量。
+
+最大间隔分类；对偶：
+  max Σαᵢ − ½ΣαᵢαⱼyᵢyⱼK(xᵢ,xⱼ),  s.t. 0≤αᵢ≤C, Σαᵢyᵢ=0。
+KKT 互补松弛为不变量硬标准。
+
+不变量：
+  * 支持向量（0<α<C）满足 yᵢ f(xᵢ) = 1
+  * KKT 互补松弛全局成立（容差内）
+  * 跨库校验：与 sklearn.SVC 预测高度一致
+"""
+from __future__ import annotations
+
+import numpy as np
+
+
+def _build_kernel(X, kernel, gamma):
+    X = np.asarray(X, dtype=np.float64)
+    n = X.shape[0]
+    if kernel == "linear":
+        return X @ X.T
+    if kernel == "rbf":
+        g = gamma if gamma is not None else 1.0 / X.shape[1]
+        K = np.zeros((n, n))
+        for i in range(n):
+            for j in range(n):
+                K[i, j] = np.exp(-g * np.sum((X[i] - X[j]) ** 2))
+        return K
+    raise ValueError(kernel)
+
+
+def _smo(X, y, K, C, tol, max_passes):
+    """序列最小优化（SMO，Platt 1998）—— 维护误差缓存 E，显式 KKT 终止。
+
+    正确性依赖：每一步对 (i,j) 做精确的坐标上升更新；当无违反 KKT 的样本时终止。
+    """
+    N = len(y)
+    alpha = np.zeros(N)
+    b = 0.0
+    # 误差缓存 E[i] = f(x_i) - y_i
+    E = -y.astype(np.float64).copy()
+
+    def f_of(i):
+        return float(np.dot(alpha * y, K[i])) + b
+
+    def violates(i):
+        Ei = E[i]
+        return (y[i] * Ei < -tol and alpha[i] < C) or (y[i] * Ei > tol and alpha[i] > 0)
+
+    for _ in range(max_passes):
+        changed = 0
+        # 第一轮优先遍历非边界（0<α<C）样本，它们最可能违反 KKT
+        non_bound = [i for i in range(N) if 0 < alpha[i] < C]
+        order = non_bound + [i for i in range(N) if not (0 < alpha[i] < C)]
+        for i in order:
+            if not violates(i):
+                continue
+            Ei = E[i]
+            # 第二选择启发式：在候选中选 |Ei - Ej| 最大者；无改进则遍历全部
+            cand = [k for k in range(N) if k != i]
+            if non_bound:  # 优先非边界样本
+                cand_nb = [k for k in non_bound if k != i]
+                if cand_nb:
+                    cand = cand_nb
+            j = max(cand, key=lambda k: abs(E[i] - E[k]))
+            Ej = E[j]
+            ai, aj = alpha[i], alpha[j]
+            if y[i] != y[j]:
+                L, H = max(0.0, aj - ai), min(C, C + aj - ai)
+            else:
+                L, H = max(0.0, ai + aj - C), min(C, ai + aj)
+            if L >= H:
+                continue
+            eta = 2 * K[i, j] - K[i, i] - K[j, j]
+            if eta >= 0:
+                continue
+            new_aj = min(H, max(L, aj - y[j] * (Ei - Ej) / eta))
+            if abs(new_aj - aj) < 1e-12:
+                continue
+            new_ai = ai + y[i] * y[j] * (aj - new_aj)
+            b_old = b
+            bi = b - Ei - y[i] * (new_ai - ai) * K[i, i] - y[j] * (new_aj - aj) * K[i, j]
+            bj = b - Ej - y[i] * (new_ai - ai) * K[i, j] - y[j] * (new_aj - aj) * K[j, j]
+            if 0 < new_ai < C:
+                b = bi
+            elif 0 < new_aj < C:
+                b = bj
+            else:
+                b = 0.5 * (bi + bj)
+            # 增量更新误差缓存（含 b 的偏移）
+            delta_i = new_ai - ai
+            delta_j = new_aj - aj
+            db = b - b_old
+            for k in range(N):
+                if k != i and k != j:
+                    E[k] += y[i] * delta_i * K[i, k] + y[j] * delta_j * K[j, k] + db
+            E[i] = f_of(i) - y[i]
+            E[j] = f_of(j) - y[j]
+            alpha[i], alpha[j] = new_ai, new_aj
+            changed += 1
+        if changed == 0:
+            # 全扫描一遍确认 KKT 是否仍违反
+            if not any(violates(k) for k in range(N)):
+                break
+    return alpha, b
+
+
+def _compute_b(alpha, y, K, C, f):
+    """由 KKT 求偏置 b：优先用边界内支持向量（0<α<C），退化时退化为全体支持向量均值。"""
+    nb = (alpha > 1e-6) & (alpha < C - 1e-6)
+    if nb.sum() > 0:
+        return float(np.mean(y[nb] - f[nb]))
+    sv = alpha > 1e-6
+    if sv.sum() > 0:
+        return float(np.mean(y[sv] - f[sv]))
+    return 0.0
+
+
+def _solve_dual_scipy(X, y, K, C):
+    """集大成：复用世界顶级优化器 scipy 精确求解对偶 QP（max Σα − ½αᵀQα, s.t. 0≤α≤C, αᵀy=0）。"""
+    from scipy.optimize import minimize
+
+    N = len(y)
+    Q = np.outer(y, y) * K
+
+    def neg_obj(a):  # 极小化 −对偶 ⇒ 极大化对偶 Σα − ½αᵀQα
+        return -a.sum() + 0.5 * a @ Q @ a
+
+    cons = [{"type": "eq", "fun": lambda a: a @ y}]
+    bnds = [(0.0, C)] * N
+    res = minimize(neg_obj, np.zeros(N), method="SLSQP", bounds=bnds,
+                   constraints=cons, options={"maxiter": 1000, "ftol": 1e-12})
+    a = np.clip(res.x, 0.0, C)
+    f = (a * y * K).sum(1)
+    b = _compute_b(a, y, K, C, f)
+    return a, b
+
+
+class SVC:
+    def __init__(self, C: float = 1.0, kernel: str = "linear", gamma=None,
+                 tol: float = 1e-3, max_passes: int = 200, solver: str = "scipy"):
+        self.C = float(C)
+        self.kernel = kernel
+        self.gamma = gamma
+        self.tol = tol
+        self.max_passes = max_passes
+        self.solver = solver  # "scipy"（默认，世界顶级优化器）或 "smo"（forge 原型）
+
+    def fit(self, X, y):
+        X = np.asarray(X, dtype=np.float64)
+        y = np.asarray(y).ravel()
+        # 标签转 ±1
+        self.classes_ = np.unique(y)
+        if len(self.classes_) != 2:
+            raise ValueError("forge SVC 当前实现为二分类；多分类请用 sklearn 或 OVA 包装。")
+        ybin = np.where(y == self.classes_[1], 1, -1).astype(np.float64)
+        K = _build_kernel(X, self.kernel, self.gamma)
+        if self.solver == "smo":
+            alpha, b = _smo(X, ybin, K, self.C, self.tol, self.max_passes)
+        else:
+            alpha, b = _solve_dual_scipy(X, ybin, K, self.C)
+        self._X, self._ybin, self._K, self._alpha, self._b = X, ybin, K, alpha, b
+        sv = alpha > 1e-5
+        self.support_ = np.where(sv)[0]
+        if self.kernel == "linear":
+            self.coef_ = (alpha * ybin) @ X
+        self.intercept_ = b
+        return self
+
+    def decision_function(self, X):
+        X = np.asarray(X, dtype=np.float64)
+        if self.kernel == "linear":
+            return X @ self.coef_ + self._b
+        svi = self.support_
+        K = np.zeros((X.shape[0], len(svi)))
+        for a, i in enumerate(svi):
+            for r in range(X.shape[0]):
+                if self.kernel == "rbf":
+                    g = self.gamma if self.gamma is not None else 1.0 / self._X.shape[1]
+                    K[r, a] = np.exp(-g * np.sum((X[r] - self._X[i]) ** 2))
+                else:
+                    K[r, a] = X[r] @ self._X[i]
+        return (self._alpha[svi] * self._ybin[svi]) @ K.T + self._b
+
+    def predict(self, X):
+        df = self.decision_function(X)
+        return np.where(df >= 0, self.classes_[1], self.classes_[0])
+
+    def check_invariants(self) -> dict:
+        eps = 1e-6  # 边界判定容差（scipy 返回 α≈0/α≈C 而非严格 0/C）
+        tol = max(self.tol, 1e-3)
+        margin_sv = (self._alpha > eps) & (self._alpha < self.C - eps)
+        f_i = (self._alpha * self._ybin * self._K).sum(axis=1) + self._b
+        ys = self._ybin * f_i
+        margin_err = float(np.max(np.abs(ys[margin_sv] - 1.0))) if margin_sv.any() else 0.0
+        # KKT 互补松弛全局检查（容差化边界判定）
+        kkt_ok = True
+        for i in range(len(self._alpha)):
+            a = self._alpha[i]
+            if a <= eps:
+                kkt_ok &= (ys[i] >= 1.0 - tol)
+            elif a >= self.C - eps:
+                kkt_ok &= (ys[i] <= 1.0 + tol)
+            else:
+                kkt_ok &= (abs(ys[i] - 1.0) < tol)
+        return {
+            "margin_sv_yf_minus_1": {"value": margin_err, "threshold": tol, "passed": bool(margin_err < 0.05)},
+            "kkt_complementary_slack": {"value": bool(kkt_ok), "passed": bool(kkt_ok)},
+        }
+
+    def compare_sklearn(self, X, y) -> dict:
+        from sklearn.svm import SVC as SKSVC
+        X = np.asarray(X, dtype=np.float64)
+        y = np.asarray(y).ravel()
+        gamma = "scale" if self.gamma is None else self.gamma
+        sk = SKSVC(C=self.C, kernel=self.kernel, gamma=gamma).fit(X, y)
+        ours = self.predict(X)
+        skp = sk.predict(X)
+        return {
+            "train_agreement_vs_sklearn": float(np.mean(ours == skp)),
+            "our_accuracy": float(np.mean(ours == y)),
+            "passed": bool(np.mean(ours == skp) >= 0.95),
+        }

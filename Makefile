@@ -1,1 +1,56 @@
-IyBGbGFnc2hpcEFJIOKAlOKAlCBNYWtlZmlsZQojIOS4gOmUruWkjeeOsOWFqOmTvui3rzog546v5aKDIOKGkiDpqozor4Eg4oaSIOa1i+ivlSDihpIg5Z+65YeGIOKGkiDorq3nu4Mg4oaSIOaWh+ahowojIOS9nOiAhTog5pmo5pifIChNb3JuaW5nU3RhcikKClBZICAgICAgPz0gcHl0aG9uClZFTlYgICAgPz0gLnZlbnYKUFlQWSAgICA6PSAkKFZFTlYpL1NjcmlwdHMvcHl0aG9uLmV4ZQpQWVBZX0xOIDo9ICQoVkVOVikvYmluL3B5dGhvbgpQICAgICAgIDo9ICQoc2hlbGwgaWYgWyAtZiAiJChQWVBZKSIgXTsgdGhlbiBlY2hvICIkKFBZUFkpIjsgZWxzZSBlY2hvICIkKFBZUFlfTE4pIjsgZmkpCk9VVCAgICAgPz0gcmVzdWx0cwoKLkRFRkFVTFRfR09BTCA6PSBoZWxwCi5QSE9OWTogaGVscCB2ZW52IGluc3RhbGwgZGV2IHRlc3QgdmVyaWZ5IGJlbmNoIHRyYWluIGV4YW1wbGUgY2xlYW4gYWxsIGNpCgpoZWxwOiAjIyDmmL7npLrmiYDmnInlj6/nlKjnm67moIcKCUBncmVwIC1FICdeW2EtekEtWl8tXSs6Lio/IyMgLiokJCcgJChNQUtFRklMRV9MSVNUKSBcCgkJfCBhd2sgJ0JFR0lOIHtGUyA9ICI6Lio/IyMgIn07IHtwcmludGYgIiAgXDAzM1szNm0lLTEyc1wwMzNbMG0gJXNcbiIsICQkMSwgJCQyfScKCnZlbnY6ICMjIOWIm+W7uumalOemu+iZmuaLn+eOr+WigwoJJChQWSkgLW0gdmVudiAkKFZFTlYpCglAZWNobyAi5bey5Yib5bu6ICQoVkVOVikiCgppbnN0YWxsOiAjIyDlronoo4XmoLjlv4Pkvp3otZYgKG51bXB5KQoJJChQKSAtbSBwaXAgaW5zdGFsbCAtVSBwaXAKCSQoUCkgLW0gcGlwIGluc3RhbGwgLWUgLgoKZGV2OiAjIyDlronoo4Xlhajph4/lvIDlj5Hkvp3otZYgKOWQqyB0b3JjaCDkuqTlj4npqozor4EgLyBweXRlc3QgLyBzY2lweSAvIHNrbGVhcm4pCgkkKFApIC1tIHBpcCBpbnN0YWxsIC1VIHBpcAoJJChQKSAtbSBwaXAgaW5zdGFsbCAtZSAiLltkZXZdIgoKdGVzdDogIyMg6L+Q6KGM5Y2V5YWD5rWL6K+VCgkkKFApIC1tIHB5dGVzdCB0ZXN0cyAtcQoKdmVyaWZ5OiAjIyDov5DooYzlhajpg6jnoazkuI3lj5jph4/lubbokL3nm5ggcmVzdWx0cy92ZXJpZmljYXRpb24uanNvbgoJJChQKSAtbSBtb3JuaW5nc3Rhci52ZXJpZnkucmVwb3J0IC0tb3V0ICQoT1VUKQoKYmVuY2g6ICMjIOi/kOihjOWfuuWHhuivhOa1i+W5tuiQveebmCByZXN1bHRzL2JlbmNobWFyay5qc29uCgkkKFApIC1tIG1vcm5pbmdzdGFyLnZlcmlmeS5iZW5jaG1hcmsgLS1vdXQgJChPVVQpCgp0cmFpbjogIyMg6K6t57uD5peX6IiwIEdQVCAoNjAwIOatpSwgQ1BVIOWPr+i3kSkKCSQoUCkgZXhhbXBsZXMvdHJhaW5fdGlueS5weSAtLXN0ZXBzIDYwMCAtLW91dCAkKE9VVCkKCmV4YW1wbGU6ICMjIOmAkOS4qui/kOihjCBleGFtcGxlcy8g5LiL55qE56S65L6LCglAZm9yIGYgaW4gZXhhbXBsZXMvKi5weTsgZG8gXAoJCWVjaG8gIj09PSAkJGYgPT09IjsgXAoJCSQoUCkgJCRmIHx8IGV4aXQgMTsgXAoJZG9uZQoKYWxsOiBpbnN0YWxsIHRlc3QgdmVyaWZ5IGJlbmNoIHRyYWluICMjIOWujOaVtOWkjeeOsOmTvui3rwoKY2k6IHRlc3QgdmVyaWZ5ICMjIENJIOetieS7t+ebruaghyAo5rWL6K+VICsg5LiN5Y+Y6YePKQoKY2xlYW46ICMjIOa4heeQhuaehOW7uuS6p+eJqeS4jue8k+WtmAoJcm0gLXJmIGJ1aWxkIGRpc3QgKi5lZ2ctaW5mbyAucHl0ZXN0X2NhY2hlIC5ydWZmX2NhY2hlCglmaW5kIC4gLXR5cGUgZCAtbmFtZSBfX3B5Y2FjaGVfXyAtcHJ1bmUgLWV4ZWMgcm0gLXJmIHt9ICsKCWZpbmQgLiAtdHlwZSBmIC1uYW1lICIqLnB5YyIgLWRlbGV0ZQo=
+# FlagshipAI —— Makefile
+# 一键复现全链路: 环境 → 验证 → 测试 → 基准 → 训练 → 文档
+# 作者: 晨星 (MorningStar)
+
+PY      ?= python
+VENV    ?= .venv
+PYPY    := $(VENV)/Scripts/python.exe
+PYPY_LN := $(VENV)/bin/python
+P       := $(shell if [ -f "$(PYPY)" ]; then echo "$(PYPY)"; else echo "$(PYPY_LN)"; fi)
+OUT     ?= results
+
+.DEFAULT_GOAL := help
+.PHONY: help venv install dev test verify bench train example clean all ci
+
+help: ## 显示所有可用目标
+	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) \
+		| awk 'BEGIN {FS = ":.*?## "}; {printf "  \033[36m%-12s\033[0m %s\n", $$1, $$2}'
+
+venv: ## 创建隔离虚拟环境
+	$(PY) -m venv $(VENV)
+	@echo "已创建 $(VENV)"
+
+install: ## 安装核心依赖 (numpy)
+	$(P) -m pip install -U pip
+	$(P) -m pip install -e .
+
+dev: ## 安装全量开发依赖 (含 torch 交叉验证 / pytest / scipy / sklearn)
+	$(P) -m pip install -U pip
+	$(P) -m pip install -e ".[dev]"
+
+test: ## 运行单元测试
+	$(P) -m pytest tests -q
+
+verify: ## 运行全部硬不变量并落盘 results/verification.json
+	$(P) -m morningstar.verify.report --out $(OUT)
+
+bench: ## 运行基准评测并落盘 results/benchmark.json
+	$(P) -m morningstar.verify.benchmark --out $(OUT)
+
+train: ## 训练旗舰 GPT (600 步, CPU 可跑)
+	$(P) examples/train_tiny.py --steps 600 --out $(OUT)
+
+example: ## 逐个运行 examples/ 下的示例
+	@for f in examples/*.py; do \
+		echo "=== $$f ==="; \
+		$(P) $$f || exit 1; \
+	done
+
+all: install test verify bench train ## 完整复现链路
+
+ci: test verify ## CI 等价目标 (测试 + 不变量)
+
+clean: ## 清理构建产物与缓存
+	rm -rf build dist *.egg-info .pytest_cache .ruff_cache
+	find . -type d -name __pycache__ -prune -exec rm -rf {} +
+	find . -type f -name "*.pyc" -delete

@@ -1,1 +1,49 @@
-IiIi5rWL6K+V5aS55YW35LiO5YWo5bGA6YWN572u44CCCgrmiYDmnInmtYvor5Xlv4XpobsqKuehruWumuaAp+WPr+WkjeeOsCoqOiDnu5/kuIDlnKjmraTorr7lrprlhajlsYDpmo/mnLrnp43lrZAsIOW5tuemgeeUqOWPr+iDveWcqArmtYvor5XkuK3op6blj5EgUnVudGltZVdhcm5pbmcg55qE6Lev5b6EIChweXRlc3Qg6YWN572u6YeM5bey5oqKIFJ1bnRpbWVXYXJuaW5nIOaPkOWNh+S4uumUmeivrynjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBsb2dnaW5nCmltcG9ydCBvcwppbXBvcnQgcmFuZG9tCgppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IHB5dGVzdAoKIyDmtYvor5XmnJ/pl7TlsY/olL3lupPnmoQgSU5GTyDml6Xlv5csIOS/neaMgei+k+WHuuW5suWHgApsb2dnaW5nLmdldExvZ2dlcigibW9ybmluZ3N0YXIiKS5zZXRMZXZlbChsb2dnaW5nLkVSUk9SKQoKU0VFRCA9IDIwMjYxMDI0CgoKZGVmIHB5dGVzdF9jb25maWd1cmUoY29uZmlnOiBweXRlc3QuQ29uZmlnKSAtPiBOb25lOgogICAgIiIicHl0ZXN0IOWFqOWxgOmFjee9rumSqeWtkOOAgiIiIgogICAgcmFuZG9tLnNlZWQoU0VFRCkKICAgIG5wLnJhbmRvbS5zZWVkKFNFRUQpCiAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIlBZVEhPTkhBU0hTRUVEIiwgc3RyKFNFRUQpKQoKCkBweXRlc3QuZml4dHVyZShzY29wZT0ic2Vzc2lvbiIpCmRlZiBybmcoKSAtPiBucC5yYW5kb20uR2VuZXJhdG9yOgogICAgIiIi5Lya6K+d57qn56Gu5a6a5oCn6ZqP5py65rqQ44CCIiIiCiAgICByZXR1cm4gbnAucmFuZG9tLmRlZmF1bHRfcm5nKFNFRUQpCgoKQHB5dGVzdC5maXh0dXJlKHNjb3BlPSJzZXNzaW9uIikKZGVmIHRpbnlfY2ZnKCk6CiAgICAiIiLkuIDkuKrmnoHlsI/nmoQgR1BUIOmFjee9riwg5L6b5Y2V5YWD5rWL6K+V5L2/55SoICjnp5LnuqflrozmiJAp44CCIiIiCiAgICBmcm9tIG1vcm5pbmdzdGFyLmZsYXNoIGltcG9ydCBHUFRDb25maWcKCiAgICByZXR1cm4gR1BUQ29uZmlnKAogICAgICAgIHZvY2FiX3NpemU9NDgsIGRfbW9kZWw9MzIsIG5fbGF5ZXI9Miwgbl9oZWFkPTQsIG5fa3ZfaGVhZD0yLCBtYXhfbGVuPTY0CiAgICApCgoKQHB5dGVzdC5maXh0dXJlKHNjb3BlPSJzZXNzaW9uIikKZGVmIHRpbnlfbW9kZWwodGlueV9jZmcpOgogICAgIiIi56Gu5a6a5oCn5Yid5aeL5YyW55qE5p6B5bCP5qih5Z6L44CCIiIiCiAgICBmcm9tIG1vcm5pbmdzdGFyLmZsYXNoIGltcG9ydCBHUFQKCiAgICByZXR1cm4gR1BUKHRpbnlfY2ZnLCBzZWVkPVNFRUQpCg==
+"""测试夹具与全局配置。
+
+所有测试必须**确定性可复现**: 统一在此设定全局随机种子, 并禁用可能在
+测试中触发 RuntimeWarning 的路径 (pytest 配置里已把 RuntimeWarning 提升为错误)。
+"""
+from __future__ import annotations
+
+import logging
+import os
+import random
+
+import numpy as np
+import pytest
+
+# 测试期间屏蔽库的 INFO 日志, 保持输出干净
+logging.getLogger("morningstar").setLevel(logging.ERROR)
+
+SEED = 20261024
+
+
+def pytest_configure(config: pytest.Config) -> None:
+    """pytest 全局配置钩子。"""
+    random.seed(SEED)
+    np.random.seed(SEED)
+    os.environ.setdefault("PYTHONHASHSEED", str(SEED))
+
+
+@pytest.fixture(scope="session")
+def rng() -> np.random.Generator:
+    """会话级确定性随机源。"""
+    return np.random.default_rng(SEED)
+
+
+@pytest.fixture(scope="session")
+def tiny_cfg():
+    """一个极小的 GPT 配置, 供单元测试使用 (秒级完成)。"""
+    from morningstar.flash import GPTConfig
+
+    return GPTConfig(
+        vocab_size=48, d_model=32, n_layer=2, n_head=4, n_kv_head=2, max_len=64
+    )
+
+
+@pytest.fixture(scope="session")
+def tiny_model(tiny_cfg):
+    """确定性初始化的极小模型。"""
+    from morningstar.flash import GPT
+
+    return GPT(tiny_cfg, seed=SEED)

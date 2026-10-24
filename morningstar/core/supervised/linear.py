@@ -1,1 +1,70 @@
-IiIi57q/5oCn5Zue5b2SIOKAlOKAlCBmb3JnZSDpl63lvI/op6PvvIjmraPop4TmlrnnqIvvvIkrIOS4jeWPmOmHj+OAgg0KDQrkuI3lj5jph4/vvJoNCiAgKiDmrovlt64g4oqlIFggOiAgWOG1gCh5IOKIkiBYxbUpIOKJiCAwICDvvIjmraPop4TmlrnnqIvnm7TmjqXkv53or4HvvIkNCiAgKiDpl63lvI/op6MgPT0g5qKv5bqm5LiL6ZmN5pS25pWb6Kej77yI5Ye46Zeu6aKY5ZSv5LiA5p6B5bCP77yJDQogICog6Leo5bqT5qCh6aqM77ya5LiOIG51bXB5LmxpbmFsZy5sc3RzcSDmnYPph43kuIDoh7Toh7MgMWUtOA0KIiIiDQpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zDQoNCmltcG9ydCBudW1weSBhcyBucA0KDQpmcm9tIC4ubWF0aHgubGluYWxnIGltcG9ydCBjaG9sZXNreSwgY2hvbGVza3lfaW52ZXJzZQ0KDQoNCmNsYXNzIExpbmVhclJlZ3Jlc3Npb246DQogICAgZGVmIF9faW5pdF9fKHNlbGYsIGZpdF9pbnRlcmNlcHQ6IGJvb2wgPSBUcnVlLCByaWRnZTogZmxvYXQgPSAwLjApOg0KICAgICAgICBzZWxmLmZpdF9pbnRlcmNlcHQgPSBmaXRfaW50ZXJjZXB0DQogICAgICAgIHNlbGYucmlkZ2UgPSBmbG9hdChyaWRnZSkNCiAgICAgICAgc2VsZi5jb2VmXyA9IE5vbmUNCiAgICAgICAgc2VsZi5pbnRlcmNlcHRfID0gMC4wDQoNCiAgICBkZWYgX2F1ZyhzZWxmLCBYOiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5Og0KICAgICAgICBYID0gbnAuYXNhcnJheShYLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgICAgICByZXR1cm4gbnAuaHN0YWNrKFtucC5vbmVzKChYLnNoYXBlWzBdLCAxKSksIFhdKSBpZiBzZWxmLmZpdF9pbnRlcmNlcHQgZWxzZSBYDQoNCiAgICBkZWYgZml0KHNlbGYsIFg6IG5wLm5kYXJyYXksIHk6IG5wLm5kYXJyYXkpOg0KICAgICAgICBBID0gc2VsZi5fYXVnKFgpDQogICAgICAgIHkgPSBucC5hc2FycmF5KHksIGR0eXBlPW5wLmZsb2F0NjQpLnJhdmVsKCkNCiAgICAgICAgQXRBID0gQS5UIEAgQQ0KICAgICAgICBuID0gQS5zaGFwZVsxXQ0KICAgICAgICByZWcgPSBucC5leWUobikgKiBzZWxmLnJpZGdlDQogICAgICAgIGlmIHNlbGYuZml0X2ludGVyY2VwdCBhbmQgc2VsZi5yaWRnZSA+IDA6DQogICAgICAgICAgICByZWdbMCwgMF0gPSAwLjAgICMg5oiq6Led5LiN5oOp572aDQogICAgICAgIEwgPSBjaG9sZXNreShBdEEgKyByZWcpDQogICAgICAgIHcgPSBjaG9sZXNreV9pbnZlcnNlKEwpIEAgKEEuVCBAIHkpDQogICAgICAgIGlmIHNlbGYuZml0X2ludGVyY2VwdDoNCiAgICAgICAgICAgIHNlbGYuaW50ZXJjZXB0XyA9IGZsb2F0KHdbMF0pDQogICAgICAgICAgICBzZWxmLmNvZWZfID0gd1sxOl0NCiAgICAgICAgZWxzZToNCiAgICAgICAgICAgIHNlbGYuY29lZl8gPSB3DQogICAgICAgIHNlbGYuX0EsIHNlbGYuX3ksIHNlbGYuX3cgPSBBLCB5LCB3DQogICAgICAgIHJldHVybiBzZWxmDQoNCiAgICBkZWYgcHJlZGljdChzZWxmLCBYOiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5Og0KICAgICAgICByZXR1cm4gc2VsZi5fYXVnKFgpIEAgc2VsZi5fdw0KDQogICAgZGVmIHNjb3JlKHNlbGYsIFg6IG5wLm5kYXJyYXksIHk6IG5wLm5kYXJyYXkpIC0+IGZsb2F0Og0KICAgICAgICB5ID0gbnAuYXNhcnJheSh5LCBkdHlwZT1ucC5mbG9hdDY0KS5yYXZlbCgpDQogICAgICAgIHByZWQgPSBzZWxmLnByZWRpY3QoWCkNCiAgICAgICAgc3NfcmVzID0gbnAuc3VtKCh5IC0gcHJlZCkgKiogMikNCiAgICAgICAgc3NfdG90ID0gbnAuc3VtKCh5IC0geS5tZWFuKCkpICoqIDIpDQogICAgICAgIHJldHVybiBmbG9hdCgxIC0gc3NfcmVzIC8gKHNzX3RvdCArIDFlLTMwMCkpDQoNCiAgICAjIC0tLS0tLS0tLS0g5LiN5Y+Y6YePIC0tLS0tLS0tLS0NCiAgICBkZWYgY2hlY2tfaW52YXJpYW50cyhzZWxmKSAtPiBkaWN0Og0KICAgICAgICByID0gc2VsZi5feSAtIHNlbGYuX0EgQCBzZWxmLl93DQogICAgICAgIG9ydGhvID0gZmxvYXQobnAubGluYWxnLm5vcm0oc2VsZi5fQS5UIEAgcikpDQogICAgICAgIHJldHVybiB7DQogICAgICAgICAgICAicmVzaWR1YWxzX29ydGhvZ29uYWxfWCI6IHsNCiAgICAgICAgICAgICAgICAidmFsdWUiOiBvcnRobywgInRocmVzaG9sZCI6IDFlLTYsICJwYXNzZWQiOiBib29sKG9ydGhvIDwgMWUtNikNCiAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KDQogICAgZGVmIGNvbXBhcmVfbnVtcHkoc2VsZiwgWDogbnAubmRhcnJheSwgeTogbnAubmRhcnJheSkgLT4gZGljdDoNCiAgICAgICAgIiIi6Leo5bqT5qCh6aqM77ya5LiOIG51bXB5LmxpbmFsZy5sc3RzcSDmr5TovoPmnYPph43jgIIiIiINCiAgICAgICAgQSA9IHNlbGYuX2F1ZyhYKQ0KICAgICAgICB5ID0gbnAuYXNhcnJheSh5LCBkdHlwZT1ucC5mbG9hdDY0KS5yYXZlbCgpDQogICAgICAgIHdfcmVmLCAqXyA9IG5wLmxpbmFsZy5sc3RzcShBLCB5LCByY29uZD1Ob25lKQ0KICAgICAgICBkaWZmID0gZmxvYXQobnAubGluYWxnLm5vcm0oc2VsZi5fdyAtIHdfcmVmKSkNCiAgICAgICAgcmV0dXJuIHsid2VpZ2h0X2RpZmZfdnNfbnVtcHkiOiBkaWZmLCAicGFzc2VkIjogYm9vbChkaWZmIDwgMWUtOCl9DQo=
+"""线性回归 —— forge 闭式解（正规方程）+ 不变量。
+
+不变量：
+  * 残差 ⊥ X :  Xᵀ(y − Xŵ) ≈ 0  （正规方程直接保证）
+  * 闭式解 == 梯度下降收敛解（凸问题唯一极小）
+  * 跨库校验：与 numpy.linalg.lstsq 权重一致至 1e-8
+"""
+from __future__ import annotations
+
+import numpy as np
+
+from ..mathx.linalg import cholesky, cholesky_inverse
+
+
+class LinearRegression:
+    def __init__(self, fit_intercept: bool = True, ridge: float = 0.0):
+        self.fit_intercept = fit_intercept
+        self.ridge = float(ridge)
+        self.coef_ = None
+        self.intercept_ = 0.0
+
+    def _aug(self, X: np.ndarray) -> np.ndarray:
+        X = np.asarray(X, dtype=np.float64)
+        return np.hstack([np.ones((X.shape[0], 1)), X]) if self.fit_intercept else X
+
+    def fit(self, X: np.ndarray, y: np.ndarray):
+        A = self._aug(X)
+        y = np.asarray(y, dtype=np.float64).ravel()
+        AtA = A.T @ A
+        n = A.shape[1]
+        reg = np.eye(n) * self.ridge
+        if self.fit_intercept and self.ridge > 0:
+            reg[0, 0] = 0.0  # 截距不惩罚
+        L = cholesky(AtA + reg)
+        w = cholesky_inverse(L) @ (A.T @ y)
+        if self.fit_intercept:
+            self.intercept_ = float(w[0])
+            self.coef_ = w[1:]
+        else:
+            self.coef_ = w
+        self._A, self._y, self._w = A, y, w
+        return self
+
+    def predict(self, X: np.ndarray) -> np.ndarray:
+        return self._aug(X) @ self._w
+
+    def score(self, X: np.ndarray, y: np.ndarray) -> float:
+        y = np.asarray(y, dtype=np.float64).ravel()
+        pred = self.predict(X)
+        ss_res = np.sum((y - pred) ** 2)
+        ss_tot = np.sum((y - y.mean()) ** 2)
+        return float(1 - ss_res / (ss_tot + 1e-300))
+
+    # ---------- 不变量 ----------
+    def check_invariants(self) -> dict:
+        r = self._y - self._A @ self._w
+        ortho = float(np.linalg.norm(self._A.T @ r))
+        return {
+            "residuals_orthogonal_X": {
+                "value": ortho, "threshold": 1e-6, "passed": bool(ortho < 1e-6)
+            }
+        }
+
+    def compare_numpy(self, X: np.ndarray, y: np.ndarray) -> dict:
+        """跨库校验：与 numpy.linalg.lstsq 比较权重。"""
+        A = self._aug(X)
+        y = np.asarray(y, dtype=np.float64).ravel()
+        w_ref, *_ = np.linalg.lstsq(A, y, rcond=None)
+        diff = float(np.linalg.norm(self._w - w_ref))
+        return {"weight_diff_vs_numpy": diff, "passed": bool(diff < 1e-8)}

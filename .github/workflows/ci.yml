@@ -1,1 +1,104 @@
-bmFtZTogQ0kKCm9uOgogIHB1c2g6CiAgICBicmFuY2hlczogW21haW4sIG1hc3Rlcl0KICBwdWxsX3JlcXVlc3Q6CiAgICBicmFuY2hlczogW21haW4sIG1hc3Rlcl0KICB3b3JrZmxvd19kaXNwYXRjaDoKCmNvbmN1cnJlbmN5OgogIGdyb3VwOiAke3sgZ2l0aHViLndvcmtmbG93IH19LSR7eyBnaXRodWIucmVmIH19CiAgY2FuY2VsLWluLXByb2dyZXNzOiB0cnVlCgpqb2JzOgogIHRlc3Q6CiAgICBuYW1lOiDmtYvor5UgKyDkuI3lj5jph48gKFB5dGhvbiAke3sgbWF0cml4LnB5dGhvbi12ZXJzaW9uIH19KQogICAgcnVucy1vbjogdWJ1bnR1LWxhdGVzdAogICAgc3RyYXRlZ3k6CiAgICAgIGZhaWwtZmFzdDogZmFsc2UKICAgICAgbWF0cml4OgogICAgICAgIHB5dGhvbi12ZXJzaW9uOiBbIjMuMTAiLCAiMy4xMSIsICIzLjEyIiwgIjMuMTMiXQogICAgc3RlcHM6CiAgICAgIC0gdXNlczogYWN0aW9ucy9jaGVja291dEB2NAoKICAgICAgLSBuYW1lOiDlronoo4UgUHl0aG9uICR7eyBtYXRyaXgucHl0aG9uLXZlcnNpb24gfX0KICAgICAgICB1c2VzOiBhY3Rpb25zL3NldHVwLXB5dGhvbkB2NQogICAgICAgIHdpdGg6CiAgICAgICAgICBweXRob24tdmVyc2lvbjogJHt7IG1hdHJpeC5weXRob24tdmVyc2lvbiB9fQogICAgICAgICAgY2FjaGU6IHBpcAoKICAgICAgLSBuYW1lOiDlronoo4Xkvp3otZYKICAgICAgICBydW46IHwKICAgICAgICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtVSBwaXAKICAgICAgICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtZSAiLltkZXZdIgoKICAgICAgLSBuYW1lOiDljZXlhYPmtYvor5UKICAgICAgICBydW46IHB5dGhvbiAtbSBweXRlc3QgdGVzdHMgLXEKCiAgICAgIC0gbmFtZTog5pWw5a2m5LiN5Y+Y6YePICsg6Leo5bqT5Lqk5Y+J6aqM6K+BCiAgICAgICAgcnVuOiBweXRob24gLW0gbW9ybmluZ3N0YXIudmVyaWZ5LnJlcG9ydCAtLW91dCByZXN1bHRzIC0tbm8tYmVuY2gKCiAgICAgIC0gbmFtZTog5LiK5Lyg6aqM6K+B5oql5ZGKCiAgICAgICAgaWY6IGFsd2F5cygpCiAgICAgICAgdXNlczogYWN0aW9ucy91cGxvYWQtYXJ0aWZhY3RAdjQKICAgICAgICB3aXRoOgogICAgICAgICAgbmFtZTogdmVyaWZpY2F0aW9uLXB5JHt7IG1hdHJpeC5weXRob24tdmVyc2lvbiB9fQogICAgICAgICAgcGF0aDogcmVzdWx0cy9WRVJJRklDQVRJT04ubWQKICAgICAgICAgIGlmLW5vLWZpbGVzLWZvdW5kOiBpZ25vcmUKCiAgYmVuY2g6CiAgICBuYW1lOiDln7rlh4bor4TmtYsKICAgIHJ1bnMtb246IHVidW50dS1sYXRlc3QKICAgIHN0ZXBzOgogICAgICAtIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRAdjQKCiAgICAgIC0gdXNlczogYWN0aW9ucy9zZXR1cC1weXRob25AdjUKICAgICAgICB3aXRoOgogICAgICAgICAgcHl0aG9uLXZlcnNpb246ICIzLjEyIgogICAgICAgICAgY2FjaGU6IHBpcAoKICAgICAgLSBuYW1lOiDlronoo4Xkvp3otZYKICAgICAgICBydW46IHwKICAgICAgICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtVSBwaXAKICAgICAgICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtZSAuCgogICAgICAtIG5hbWU6IOazqOaEj+WKm+WfuuWHhgogICAgICAgIHJ1bjogcHl0aG9uIC1tIG1vcm5pbmdzdGFyLnZlcmlmeS5iZW5jaG1hcmsgLS1vdXQgcmVzdWx0cyAtLWxlbmd0aHMgMjU2IDUxMiAxMDI0IDIwNDgKCiAgICAgIC0gbmFtZTog6K6t57uD6Zet546v5YaS54OfICg2MCDmraUpCiAgICAgICAgcnVuOiBweXRob24gZXhhbXBsZXMvdHJhaW5fdGlueS5weSAtLXN0ZXBzIDYwIC0tb3V0IHJlc3VsdHMvc21va2UKCiAgICAgIC0gbmFtZTog5LiK5Lyg5Z+65YeG57uT5p6cCiAgICAgICAgaWY6IGFsd2F5cygpCiAgICAgICAgdXNlczogYWN0aW9ucy91cGxvYWQtYXJ0aWZhY3RAdjQKICAgICAgICB3aXRoOgogICAgICAgICAgbmFtZTogYmVuY2htYXJrCiAgICAgICAgICBwYXRoOiB8CiAgICAgICAgICAgIHJlc3VsdHMvQkVOQ0hNQVJLLm1kCiAgICAgICAgICAgIHJlc3VsdHMvYmVuY2htYXJrLmpzb24KICAgICAgICAgICAgcmVzdWx0cy9zbW9rZS90cmFpbl9zdW1tYXJ5Lmpzb24KICAgICAgICAgIGlmLW5vLWZpbGVzLWZvdW5kOiBpZ25vcmUKCiAgbGludDoKICAgIG5hbWU6IOmdmeaAgeajgOafpQogICAgcnVucy1vbjogdWJ1bnR1LWxhdGVzdAogICAgc3RlcHM6CiAgICAgIC0gdXNlczogYWN0aW9ucy9jaGVja291dEB2NAoKICAgICAgLSB1c2VzOiBhY3Rpb25zL3NldHVwLXB5dGhvbkB2NQogICAgICAgIHdpdGg6CiAgICAgICAgICBweXRob24tdmVyc2lvbjogIjMuMTIiCiAgICAgICAgICBjYWNoZTogcGlwCgogICAgICAtIG5hbWU6IOWuieijheajgOafpeW3peWFtwogICAgICAgIHJ1bjogfAogICAgICAgICAgcHl0aG9uIC1tIHBpcCBpbnN0YWxsIC1VIHBpcAogICAgICAgICAgcHl0aG9uIC1tIHBpcCBpbnN0YWxsIHJ1ZmYgbXlweQoKICAgICAgLSBuYW1lOiBydWZmCiAgICAgICAgcnVuOiBydWZmIGNoZWNrIG1vcm5pbmdzdGFyIHRlc3RzIGV4YW1wbGVzCgogICAgICAtIG5hbWU6IG15cHkgKOWuveadvuaooeW8jywg5LuF5oql5ZGKKQogICAgICAgIGNvbnRpbnVlLW9uLWVycm9yOiB0cnVlCiAgICAgICAgcnVuOiBteXB5IG1vcm5pbmdzdGFyIC0taWdub3JlLW1pc3NpbmctaW1wb3J0cwo=
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: 测试 + 不变量 (Python ${{ matrix.python-version }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.10", "3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 安装 Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+
+      - name: 安装依赖
+        run: |
+          python -m pip install -U pip
+          python -m pip install -e ".[dev]"
+
+      - name: 单元测试
+        run: python -m pytest tests -q
+
+      - name: 数学不变量 + 跨库交叉验证
+        run: python -m morningstar.verify.report --out results --no-bench
+
+      - name: 上传验证报告
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: verification-py${{ matrix.python-version }}
+          path: results/VERIFICATION.md
+          if-no-files-found: ignore
+
+  bench:
+    name: 基准评测
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 安装依赖
+        run: |
+          python -m pip install -U pip
+          python -m pip install -e .
+
+      - name: 注意力基准
+        run: python -m morningstar.verify.benchmark --out results --lengths 256 512 1024 2048
+
+      - name: 训练闭环冒烟 (60 步)
+        run: python examples/train_tiny.py --steps 60 --out results/smoke
+
+      - name: 上传基准结果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: benchmark
+          path: |
+            results/BENCHMARK.md
+            results/benchmark.json
+            results/smoke/train_summary.json
+          if-no-files-found: ignore
+
+  lint:
+    name: 静态检查
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 安装检查工具
+        run: |
+          python -m pip install -U pip
+          python -m pip install ruff mypy
+
+      - name: ruff
+        run: ruff check morningstar tests examples
+
+      - name: mypy (宽松模式, 仅报告)
+        continue-on-error: true
+        run: mypy morningstar --ignore-missing-imports

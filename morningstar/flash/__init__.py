@@ -1,1 +1,58 @@
-IiIiTDExIOWkp+aooeWei+WGheaguCDigJTigJQg5LiW55WM57qn566X5rOV55qE5omL5YaZ5Y+v6aqM6K+B5a6e546w77yIZm9yZ2Ug5bGC77yJ44CCCgrmnKzlsYLmr4/kuIDooYzpg73lr7nlupTkuIDnr4flhazlvIDlj5HooajnmoTkuJbnlYznuqfmiJDmnpzvvIzlh7rlpITop4EgZG9jcy9SRUZFUkVOQ0VTLm1kOgoKICBhdHRlbnRpb24uZmxhc2hfYXR0ZW50aW9uX2ZvcndhcmQgOiBGbGFzaEF0dGVudGlvbi0yIOWIhuWdl+WcqOe6vyBzb2Z0bWF4CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKERhbyAyMDIzOyBNaWxha292ICYgR2ltZWxzaGVpbiAyMDE4IOWcqOe6vyBzb2Z0bWF4KQogIGF0dGVudGlvbi5uYWl2ZV9hdHRlbnRpb25fZm9yd2FyZCA6IFZhc3dhbmkgZXQgYWwuIDIwMTcg5Y6f5aeL57yp5pS+54K556ev5rOo5oSP5Yqb77yI6buE6YeR5Y+C54Wn77yJCiAgbW9kdWxlcy5Sb3RhcnlFbWJlZGRpbmcgICAgICAgICAgIDogUm9QRSAoU3UgZXQgYWwuIDIwMjEpCiAgbW9kdWxlcy5STVNOb3JtICAgICAgICAgICAgICAgICAgIDogUk1TTm9ybSAoWmhhbmcgJiBTZW5ucmljaCAyMDE5KQogIG1vZHVsZXMuU3dpR0xVRmVlZEZvcndhcmQgICAgICAgICA6IFN3aUdMVSBGRk4gKFNoYXplZXIgMjAyMCkKICBvcHRpbS5BZGFtVyAgICAgICAgICAgICAgICAgICAgICAgOiBBZGFtVyAoTG9zaGNoaWxvdiAmIEh1dHRlciAyMDE5KQogIHRva2VuaXplci5CUEVUb2tlbml6ZXIgICAgICAgICAgICA6IEJQRSAoU2VubnJpY2ggZXQgYWwuIDIwMTYpCiAgbmFycmF0b3IuR1BUICAgICAgICAgICAgICAgICAgICAgIDogRGVjb2Rlci1vbmx5IFRyYW5zZm9ybWVyIChSYWRmb3JkIGV0IGFsLiAyMDE4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOeOsOS7oyBwcmUtbm9ybSAvIFN3aUdMVSDlj5jkvZMgVG91dnJvbiBldCBhbC4gMjAyMyBMbGFtYSkKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gLiBpbXBvcnQgYXR0ZW50aW9uLCBtb2R1bGVzLCBvcHRpbSwgdG9rZW5pemVyLCB0cmFpbmVyCmZyb20gLmF0dGVudGlvbiBpbXBvcnQgKAogICAgQXR0ZW50aW9uT3V0cHV0LAogICAgS1ZDYWNoZSwKICAgIGZsYXNoX2F0dGVudGlvbl9mb3J3YXJkLAogICAgbmFpdmVfYXR0ZW50aW9uX2ZvcndhcmQsCikKZnJvbSAubW9kZWwgaW1wb3J0IEdQVCwgR1BUQ29uZmlnCmZyb20gLm1vZHVsZXMgaW1wb3J0IFJvdGFyeUVtYmVkZGluZywgUk1TTm9ybSwgU3dpR0xVRmVlZEZvcndhcmQKZnJvbSAub3B0aW0gaW1wb3J0IEFkYW1XLCBjbGlwX2dyYWRfbm9ybSwgY29zaW5lX3NjaGVkdWxlCmZyb20gLnJhbmRvbSBpbXBvcnQgcm5nX2Zvciwgc2V0X3NlZWQKZnJvbSAudG9rZW5pemVyIGltcG9ydCBCUEVUb2tlbml6ZXIKZnJvbSAudHJhaW5lciBpbXBvcnQgVHJhaW5Db25maWcsIFRyYWluTG9nLCBldmFsdWF0ZSwgcGVycGxleGl0eSwgdHJhaW4KCl9fYWxsX18gPSBbCiAgICAiR1BUIiwKICAgICJHUFRDb25maWciLAogICAgIkFkYW1XIiwKICAgICJBdHRlbnRpb25PdXRwdXQiLAogICAgIkJQRVRva2VuaXplciIsCiAgICAiS1ZDYWNoZSIsCiAgICAiUm90YXJ5RW1iZWRkaW5nIiwKICAgICJSTVNOb3JtIiwKICAgICJTd2lHTFVGZWVkRm9yd2FyZCIsCiAgICAiVHJhaW5Db25maWciLAogICAgIlRyYWluTG9nIiwKICAgICJhdHRlbnRpb24iLAogICAgImNsaXBfZ3JhZF9ub3JtIiwKICAgICJjb3NpbmVfc2NoZWR1bGUiLAogICAgImV2YWx1YXRlIiwKICAgICJmbGFzaF9hdHRlbnRpb25fZm9yd2FyZCIsCiAgICAibW9kdWxlcyIsCiAgICAibmFpdmVfYXR0ZW50aW9uX2ZvcndhcmQiLAogICAgIm9wdGltIiwKICAgICJwZXJwbGV4aXR5IiwKICAgICJybmdfZm9yIiwKICAgICJzZXRfc2VlZCIsCiAgICAidG9rZW5pemVyIiwKICAgICJ0cmFpbiIsCiAgICAidHJhaW5lciIsCl0K
+"""L11 大模型内核 —— 世界级算法的手写可验证实现（forge 层）。
+
+本层每一行都对应一篇公开发表的世界级成果，出处见 docs/REFERENCES.md:
+
+  attention.flash_attention_forward : FlashAttention-2 分块在线 softmax
+                                      (Dao 2023; Milakov & Gimelshein 2018 在线 softmax)
+  attention.naive_attention_forward : Vaswani et al. 2017 原始缩放点积注意力（黄金参照）
+  modules.RotaryEmbedding           : RoPE (Su et al. 2021)
+  modules.RMSNorm                   : RMSNorm (Zhang & Sennrich 2019)
+  modules.SwiGLUFeedForward         : SwiGLU FFN (Shazeer 2020)
+  optim.AdamW                       : AdamW (Loshchilov & Hutter 2019)
+  tokenizer.BPETokenizer            : BPE (Sennrich et al. 2016)
+  narrator.GPT                      : Decoder-only Transformer (Radford et al. 2018;
+                                      现代 pre-norm / SwiGLU 变体 Touvron et al. 2023 Llama)
+"""
+from __future__ import annotations
+
+from . import attention, modules, optim, tokenizer, trainer
+from .attention import (
+    AttentionOutput,
+    KVCache,
+    flash_attention_forward,
+    naive_attention_forward,
+)
+from .model import GPT, GPTConfig
+from .modules import RotaryEmbedding, RMSNorm, SwiGLUFeedForward
+from .optim import AdamW, clip_grad_norm, cosine_schedule
+from .random import rng_for, set_seed
+from .tokenizer import BPETokenizer
+from .trainer import TrainConfig, TrainLog, evaluate, perplexity, train
+
+__all__ = [
+    "GPT",
+    "GPTConfig",
+    "AdamW",
+    "AttentionOutput",
+    "BPETokenizer",
+    "KVCache",
+    "RotaryEmbedding",
+    "RMSNorm",
+    "SwiGLUFeedForward",
+    "TrainConfig",
+    "TrainLog",
+    "attention",
+    "clip_grad_norm",
+    "cosine_schedule",
+    "evaluate",
+    "flash_attention_forward",
+    "modules",
+    "naive_attention_forward",
+    "optim",
+    "perplexity",
+    "rng_for",
+    "set_seed",
+    "tokenizer",
+    "train",
+    "trainer",
+]

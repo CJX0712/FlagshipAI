@@ -1,1 +1,138 @@
-IiIi5oql5ZGK55Sf5oiQIOKAlOKAlCDmiorpqozor4Ev5Z+65YeG57uT5p6c5riy5p+T5oiQIE1hcmtkb3duIOihqOW5tuiQveebmCBKU09OL01E44CCDQoNCuS4uuS7gOS5iOWNleeLrOS4gOWxgjog5Z+65YeG5pWw5o2u5aaC5p6c5Y+q6Lq65Zyo57uI56uv6YeM77yM5bCx5peg5rOV6L+b5YWl5paH5qGj44CB5peg5rOV6KKrIENJIOa2iOi0ueOAgQ0K5peg5rOV6KKr5a6h56i/6ICF5aSN546w44CCKirmiorjgIzlrp7pqoznu5Pmnpwg4oaSIOaWh+aho+ihqOagvOOAjeiHquWKqOWMlioq5piv5Y+v5L+h5Lqk5LuY55qE5YWz6ZSu5LiA546v44CCDQoiIiINCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMNCg0KaW1wb3J0IGpzb24NCmltcG9ydCBsb2dnaW5nDQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgNCmZyb20gdHlwaW5nIGltcG9ydCBTZXF1ZW5jZQ0KDQpfTE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pDQoNCl9TVEFUVVMgPSB7VHJ1ZTogIuKchSBQQVNTIiwgRmFsc2U6ICLinYwgRkFJTCJ9DQoNCg0KZGVmIGZvcm1hdF9tYXJrZG93bl90YWJsZShyb3dzOiBTZXF1ZW5jZVtkaWN0XSwgY29sdW1uczogU2VxdWVuY2Vbc3RyXSB8IE5vbmUgPSBOb25lKSAtPiBzdHI6DQogICAgIiIi5oqKIGRpY3Qg5YiX6KGo5riy5p+T5oiQIE1hcmtkb3duIOihqOagvOOAgiIiIg0KICAgIGlmIG5vdCByb3dzOg0KICAgICAgICByZXR1cm4gIl/vvIjml6DmlbDmja7vvIlfIg0KICAgIGNvbHMgPSBsaXN0KGNvbHVtbnMpIGlmIGNvbHVtbnMgZWxzZSBsaXN0KHJvd3NbMF0ua2V5cygpKQ0KICAgIGhlYWRlciA9ICJ8ICIgKyAiIHwgIi5qb2luKHN0cihjKSBmb3IgYyBpbiBjb2xzKSArICIgfCINCiAgICBzZXAgPSAifCAiICsgIiB8ICIuam9pbigiLS0tIiBmb3IgXyBpbiBjb2xzKSArICIgfCINCiAgICBsaW5lcyA9IFtoZWFkZXIsIHNlcF0NCiAgICBmb3IgciBpbiByb3dzOg0KICAgICAgICBjZWxscyA9IFtdDQogICAgICAgIGZvciBjIGluIGNvbHM6DQogICAgICAgICAgICB2ID0gci5nZXQoYykNCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UodiwgYm9vbCk6DQogICAgICAgICAgICAgICAgY2VsbHMuYXBwZW5kKF9TVEFUVVNbdl0pDQogICAgICAgICAgICBlbGlmIGlzaW5zdGFuY2UodiwgZmxvYXQpOg0KICAgICAgICAgICAgICAgIGNlbGxzLmFwcGVuZChmInt2Oi4zZX0iIGlmIChhYnModikgPCAxZS0zIGFuZCB2ICE9IDApIGVsc2UgZiJ7djouNGZ9IikNCiAgICAgICAgICAgIGVsaWYgdiBpcyBOb25lOg0KICAgICAgICAgICAgICAgIGNlbGxzLmFwcGVuZCgi4oCUIikNCiAgICAgICAgICAgIGVsc2U6DQogICAgICAgICAgICAgICAgY2VsbHMuYXBwZW5kKHN0cih2KSkNCiAgICAgICAgbGluZXMuYXBwZW5kKCJ8ICIgKyAiIHwgIi5qb2luKGNlbGxzKSArICIgfCIpDQogICAgcmV0dXJuICJcbiIuam9pbihsaW5lcykNCg0KDQpkZWYgcmVuZGVyX3ZlcmlmaWNhdGlvbl9tZChyZXBvcnQ6IGRpY3QpIC0+IHN0cjoNCiAgICAiIiLmioogdmVyaWZ5X3N1aXRlIOe7k+aenOa4suafk+aIkOWujOaVtCBNYXJrZG93biDmiqXlkYrjgIIiIiINCiAgICBzID0gcmVwb3J0WyJzdW1tYXJ5Il0NCiAgICBsaW5lczogbGlzdFtzdHJdID0gWw0KICAgICAgICAiIyBNb3JuaW5nU3RhciBGbGFnc2hpcEFJIMK3IOmqjOivgeaKpeWRiiIsDQogICAgICAgICIiLA0KICAgICAgICBmIi0g55Sf5oiQ5pe26Ze0OiB7cmVwb3J0Wyd0aW1lc3RhbXAnXX0gKFVUQykiLA0KICAgICAgICBmIi0g546v5aKDOiBQeXRob24ge3JlcG9ydFsnZW52J11bJ3B5dGhvbiddfSDCtyBudW1weSB7cmVwb3J0WydlbnYnXVsnbnVtcHknXX0iLA0KICAgICAgICBmIi0g5bmz5Y+wOiB7cmVwb3J0WydlbnYnXVsncGxhdGZvcm0nXX0iLA0KICAgICAgICAiIiwNCiAgICAgICAgIiMjIOaAu+iniCIsDQogICAgICAgICIiLA0KICAgICAgICAifCDpobnnm64gfCDnu5PmnpwgfCIsDQogICAgICAgICJ8IC0tLSB8IC0tLSB8IiwNCiAgICAgICAgZiJ8IOaVsOWtpuS4jeWPmOmHjyB8IHtzWydpbnZhcmlhbnRzX3Bhc3NlZCddfS97c1snaW52YXJpYW50c190b3RhbCddfSBQQVNTIHwiLA0KICAgICAgICBmInwg6Leo5bqT5Lqk5Y+J6aqM6K+BIChQeVRvcmNoKSB8IHtzWydjcm9zc2NoZWNrc19wYXNzZWQnXX0ve3NbJ2Nyb3NzY2hlY2tzX3RvdGFsJ119IFBBU1MgIg0KICAgICAgICBmIu+8iOWPr+eUqCB7c1snY3Jvc3NjaGVja3NfYXZhaWxhYmxlJ11977yJIHwiLA0KICAgICAgICBmInwg5YWo57u/IHwgeyfinIUg5pivJyBpZiBzWydhbGxfZ3JlZW4nXSBlbHNlICfinYwg5ZCmJ30gfCIsDQogICAgICAgIGYifCDogJfml7YgfCB7c1snd2FsbF9zJ119IHMgfCIsDQogICAgICAgICIiLA0KICAgICAgICAiIyMg5pWw5a2m5LiN5Y+Y6YeP5piO57uGIiwNCiAgICAgICAgIiIsDQogICAgICAgIGZvcm1hdF9tYXJrZG93bl90YWJsZSgNCiAgICAgICAgICAgIHJlcG9ydFsiaW52YXJpYW50cyJdLCBbIm5hbWUiLCAidmFsdWUiLCAidGhyZXNob2xkIiwgInBhc3NlZCIsICJkZXRhaWwiXQ0KICAgICAgICApLA0KICAgICAgICAiIiwNCiAgICAgICAgIiMjIOi3qOW6k+S6pOWPiemqjOivgeaYjue7hiAodnMgUHlUb3JjaCkiLA0KICAgICAgICAiIiwNCiAgICAgICAgZm9ybWF0X21hcmtkb3duX3RhYmxlKA0KICAgICAgICAgICAgcmVwb3J0WyJjcm9zc2NoZWNrcyJdLCBbIm5hbWUiLCAidmFsdWUiLCAidGhyZXNob2xkIiwgInBhc3NlZCIsICJkZXRhaWwiXQ0KICAgICAgICApLA0KICAgICAgICAiIiwNCiAgICBdDQogICAgYmVuY2hlcyA9IHJlcG9ydC5nZXQoImJlbmNobWFya3MiKQ0KICAgIGlmIGJlbmNoZXM6DQogICAgICAgIGlmICJhdHRlbnRpb24iIGluIGJlbmNoZXM6DQogICAgICAgICAgICBsaW5lcyArPSBbIiMjIOazqOaEj+WKm+WutuaXj+WfuuWHhiIsICIiLA0KICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdF9tYXJrZG93bl90YWJsZShiZW5jaGVzWyJhdHRlbnRpb24iXSksICIiXQ0KICAgICAgICBpZiAibWVtb3J5IiBpbiBiZW5jaGVzOg0KICAgICAgICAgICAgbGluZXMgKz0gWyIjIyDlhoXlrZjkvLjnvKnlr7nmr5QgKG5haXZlIE8oVMKyKSB2cyBmbGFzaCBPKFQpKSIsICIiLA0KICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdF9tYXJrZG93bl90YWJsZShiZW5jaGVzWyJtZW1vcnkiXSksICIiXQ0KICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpDQoNCg0KZGVmIHdyaXRlX3JlcG9ydHMocmVwb3J0OiBkaWN0LCBvdXRkaXI6IHN0ciA9ICJyZXN1bHRzIikgLT4gbGlzdFtzdHJdOg0KICAgICIiIuiQveebmCBgYHZlcmlmaWNhdGlvbi5qc29uYGAg5LiOIGBgVkVSSUZJQ0FUSU9OLm1kYGDjgIINCg0KICAgIEFyZ3M6DQogICAgICAgIHJlcG9ydDogYGB2ZXJpZnlfc3VpdGUoKWBgIC8gYGBydW5fZnVsbF92ZXJpZmljYXRpb24oKWBgIOeahOi/lOWbnuWAvOOAgg0KICAgICAgICBvdXRkaXI6IOi+k+WHuuebruW9le+8iOS4jeWtmOWcqOWImeWIm+W7uu+8ieOAgg0KDQogICAgUmV0dXJuczoNCiAgICAgICAg5YaZ5YWl55qE5paH5Lu26Lev5b6E5YiX6KGo44CCDQogICAgIiIiDQogICAgb3V0ID0gUGF0aChvdXRkaXIpDQogICAgb3V0Lm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkNCiAgICBqcGF0aCA9IG91dCAvICJ2ZXJpZmljYXRpb24uanNvbiINCiAgICBtcGF0aCA9IG91dCAvICJWRVJJRklDQVRJT04ubWQiDQogICAganBhdGgud3JpdGVfdGV4dChqc29uLmR1bXBzKHJlcG9ydCwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MiksIGVuY29kaW5nPSJ1dGYtOCIpDQogICAgbXBhdGgud3JpdGVfdGV4dChyZW5kZXJfdmVyaWZpY2F0aW9uX21kKHJlcG9ydCksIGVuY29kaW5nPSJ1dGYtOCIpDQogICAgX0xPR0dFUi5pbmZvKCLmiqXlkYrlt7LlhpnlhaUgJXMg5LiOICVzIiwganBhdGgsIG1wYXRoKQ0KICAgIHJldHVybiBbc3RyKGpwYXRoKSwgc3RyKG1wYXRoKV0NCg0KDQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBDTEkNCmRlZiBtYWluKGFyZ3Y6IFNlcXVlbmNlW3N0cl0gfCBOb25lID0gTm9uZSkgLT4gaW50Og0KICAgICIiIuWRveS7pOihjOWFpeWPozog6LeR5a6M5pW06aqM6K+B5aWX5Lu25bm26JC955uY5oql5ZGK44CCDQoNCiAgICDnlKjms5U6Og0KDQogICAgICAgIHB5dGhvbiAtbSBtb3JuaW5nc3Rhci52ZXJpZnkucmVwb3J0IC0tb3V0IHJlc3VsdHMNCiAgICAiIiINCiAgICBpbXBvcnQgYXJncGFyc2UNCiAgICBpbXBvcnQgbG9nZ2luZw0KDQogICAgZnJvbSAuIGltcG9ydCBydW5fZnVsbF92ZXJpZmljYXRpb24NCg0KICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249IkZsYWdzaGlwQUkg6aqM6K+B5aWX5Lu2IikNCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tb3V0IiwgZGVmYXVsdD0icmVzdWx0cyIsIGhlbHA9Iui+k+WHuuebruW9lSIpDQogICAgYXAuYWRkX2FyZ3VtZW50KCItLW5vLWJlbmNoIiwgYWN0aW9uPSJzdG9yZV90cnVlIiwgaGVscD0i6Lez6L+H5Z+65YeG6K+E5rWLIikNCiAgICBhcmdzID0gYXAucGFyc2VfYXJncyhhcmd2KQ0KDQogICAgbG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLklORk8sIGZvcm1hdD0iJShtZXNzYWdlKXMiKQ0KICAgIHJlcG9ydCA9IHJ1bl9mdWxsX3ZlcmlmaWNhdGlvbihpbmNsdWRlX2JlbmNobWFya3M9bm90IGFyZ3Mubm9fYmVuY2gpDQogICAgcGF0aHMgPSB3cml0ZV9yZXBvcnRzKHJlcG9ydCwgYXJncy5vdXQpDQogICAgcyA9IHJlcG9ydFsic3VtbWFyeSJdDQogICAgX0xPR0dFUi5pbmZvKCLkuI3lj5jph48gJWQvJWQgwrcg6Leo5bqTICVkLyVkIMK3IOWFqOe7vz0lcyIsDQogICAgICAgICAgICAgICAgIHNbImludmFyaWFudHNfcGFzc2VkIl0sIHNbImludmFyaWFudHNfdG90YWwiXSwNCiAgICAgICAgICAgICAgICAgc1siY3Jvc3NjaGVja3NfcGFzc2VkIl0sIHNbImNyb3NzY2hlY2tzX3RvdGFsIl0sDQogICAgICAgICAgICAgICAgIHNbImFsbF9ncmVlbiJdKQ0KICAgIGZvciBwdGggaW4gcGF0aHM6DQogICAgICAgIF9MT0dHRVIuaW5mbygiICDihpIgJXMiLCBwdGgpDQogICAgcmV0dXJuIDAgaWYgc1siYWxsX2dyZWVuIl0gZWxzZSAxDQoNCg0KaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoNCiAgICByYWlzZSBTeXN0ZW1FeGl0KG1haW4oKSkNCg==
+"""报告生成 —— 把验证/基准结果渲染成 Markdown 表并落盘 JSON/MD。
+
+为什么单独一层: 基准数据如果只躺在终端里，就无法进入文档、无法被 CI 消费、
+无法被审稿者复现。**把「实验结果 → 文档表格」自动化**是可信交付的关键一环。
+"""
+from __future__ import annotations
+
+import json
+import logging
+from pathlib import Path
+from typing import Sequence
+
+_LOGGER = logging.getLogger(__name__)
+
+_STATUS = {True: "✅ PASS", False: "❌ FAIL"}
+
+
+def format_markdown_table(rows: Sequence[dict], columns: Sequence[str] | None = None) -> str:
+    """把 dict 列表渲染成 Markdown 表格。"""
+    if not rows:
+        return "_（无数据）_"
+    cols = list(columns) if columns else list(rows[0].keys())
+    header = "| " + " | ".join(str(c) for c in cols) + " |"
+    sep = "| " + " | ".join("---" for _ in cols) + " |"
+    lines = [header, sep]
+    for r in rows:
+        cells = []
+        for c in cols:
+            v = r.get(c)
+            if isinstance(v, bool):
+                cells.append(_STATUS[v])
+            elif isinstance(v, float):
+                cells.append(f"{v:.3e}" if (abs(v) < 1e-3 and v != 0) else f"{v:.4f}")
+            elif v is None:
+                cells.append("—")
+            else:
+                cells.append(str(v))
+        lines.append("| " + " | ".join(cells) + " |")
+    return "\n".join(lines)
+
+
+def render_verification_md(report: dict) -> str:
+    """把 verify_suite 结果渲染成完整 Markdown 报告。"""
+    s = report["summary"]
+    lines: list[str] = [
+        "# MorningStar FlagshipAI · 验证报告",
+        "",
+        f"- 生成时间: {report['timestamp']} (UTC)",
+        f"- 环境: Python {report['env']['python']} · numpy {report['env']['numpy']}",
+        f"- 平台: {report['env']['platform']}",
+        "",
+        "## 总览",
+        "",
+        "| 项目 | 结果 |",
+        "| --- | --- |",
+        f"| 数学不变量 | {s['invariants_passed']}/{s['invariants_total']} PASS |",
+        f"| 跨库交叉验证 (PyTorch) | {s['crosschecks_passed']}/{s['crosschecks_total']} PASS "
+        f"（可用 {s['crosschecks_available']}） |",
+        f"| 全绿 | {'✅ 是' if s['all_green'] else '❌ 否'} |",
+        f"| 耗时 | {s['wall_s']} s |",
+        "",
+        "## 数学不变量明细",
+        "",
+        format_markdown_table(
+            report["invariants"], ["name", "value", "threshold", "passed", "detail"]
+        ),
+        "",
+        "## 跨库交叉验证明细 (vs PyTorch)",
+        "",
+        format_markdown_table(
+            report["crosschecks"], ["name", "value", "threshold", "passed", "detail"]
+        ),
+        "",
+    ]
+    benches = report.get("benchmarks")
+    if benches:
+        if "attention" in benches:
+            lines += ["## 注意力家族基准", "",
+                      format_markdown_table(benches["attention"]), ""]
+        if "memory" in benches:
+            lines += ["## 内存伸缩对比 (naive O(T²) vs flash O(T))", "",
+                      format_markdown_table(benches["memory"]), ""]
+    return "\n".join(lines)
+
+
+def write_reports(report: dict, outdir: str = "results") -> list[str]:
+    """落盘 ``verification.json`` 与 ``VERIFICATION.md``。
+
+    Args:
+        report: ``verify_suite()`` / ``run_full_verification()`` 的返回值。
+        outdir: 输出目录（不存在则创建）。
+
+    Returns:
+        写入的文件路径列表。
+    """
+    out = Path(outdir)
+    out.mkdir(parents=True, exist_ok=True)
+    jpath = out / "verification.json"
+    mpath = out / "VERIFICATION.md"
+    jpath.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
+    mpath.write_text(render_verification_md(report), encoding="utf-8")
+    _LOGGER.info("报告已写入 %s 与 %s", jpath, mpath)
+    return [str(jpath), str(mpath)]
+
+
+# --------------------------------------------------------------------- CLI
+def main(argv: Sequence[str] | None = None) -> int:
+    """命令行入口: 跑完整验证套件并落盘报告。
+
+    用法::
+
+        python -m morningstar.verify.report --out results
+    """
+    import argparse
+    import logging
+
+    from . import run_full_verification
+
+    ap = argparse.ArgumentParser(description="FlagshipAI 验证套件")
+    ap.add_argument("--out", default="results", help="输出目录")
+    ap.add_argument("--no-bench", action="store_true", help="跳过基准评测")
+    args = ap.parse_args(argv)
+
+    logging.basicConfig(level=logging.INFO, format="%(message)s")
+    report = run_full_verification(include_benchmarks=not args.no_bench)
+    paths = write_reports(report, args.out)
+    s = report["summary"]
+    _LOGGER.info("不变量 %d/%d · 跨库 %d/%d · 全绿=%s",
+                 s["invariants_passed"], s["invariants_total"],
+                 s["crosschecks_passed"], s["crosschecks_total"],
+                 s["all_green"])
+    for pth in paths:
+        _LOGGER.info("  → %s", pth)
+    return 0 if s["all_green"] else 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

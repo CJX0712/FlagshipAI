@@ -1,1 +1,196 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCiIiIuaXl+iIsCBHUFQg6K6t57uD56S65L6LIOKAlOKAlCDlnKjlj6/lpI3njrDor63mlpnkuIrlrozmiJDkuIDmrKHnnJ/lrp7mlLbmlZvjgIIKCueUqOazlTo6CgogICAgcHl0aG9uIGV4YW1wbGVzL3RyYWluX3RpbnkucHkgICAgICAgICAgICAgICAgICAjIOm7mOiupOmFjee9riAoQ1BVIOWPr+i3kSkKICAgIHB5dGhvbiBleGFtcGxlcy90cmFpbl90aW55LnB5IC0tc3RlcHMgMjAwMCAgICAgIyDmm7Tplb/orq3nu4MKICAgIHB5dGhvbiBleGFtcGxlcy90cmFpbl90aW55LnB5IC0tb3V0IHJlc3VsdHMvICAjIOaMh+Wumui+k+WHuuebruW9lQoK6K6+6K6h6K+05piOCi0tLS0tLS0tCuivreaWmemHh+eUqCoq5LiA6Zi26ams5bCU5Y+v5aSr6ZO+KirogIzpnZ7pmo/mnLrluo/liJfvvJrpmo/mnLrluo/liJfnmoTkv6Hmga/orrrkuIvnlYzlsLHmmK8KYGBsbihWKWBg77yM5qih5Z6L5peg5LuO5a2m5Lmg77yM5peg5rOV6K+B5piO6K6t57uD6Zet546v5pyJ5pWI44CC6ams5bCU5Y+v5aSr6ZO+55qE5LiL5LiA54q25oCBCuWPr+eUseW9k+WJjeeKtuaAgemihOa1i++8jOeQhuiuuuaNn+WkseS4i+eVjOS4uiBgYEgoZ3JvdXApYGDvvIzlm6DmraTmjZ/lpLHmm7Lnur/lhbfmnIkK5piO56Gu55qE44CM5Y+v6K+B5Lyq44CN55uu5qCH44CCCgrlpI3njrDmgKc6IOaJgOaciemaj+acuua6kO+8iOWIneWni+WMliAvIOaVsOaNrumHh+agtyAvIOmHh+agt+eUn+aIkO+8ieWdh+eUseaYvuW8jyBzZWVkIOmpseWKqOOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmltcG9ydCBsb2dnaW5nCmltcG9ydCBtYXRoCmltcG9ydCBwYXRobGliCmltcG9ydCBzeXMKaW1wb3J0IHRpbWUKCmltcG9ydCBudW1weSBhcyBucAoKc3lzLnBhdGguaW5zZXJ0KDAsIHN0cihwYXRobGliLlBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnRzWzFdKSkKCmZyb20gbW9ybmluZ3N0YXIuZmxhc2ggaW1wb3J0IEdQVCwgR1BUQ29uZmlnICAjIG5vcWE6IEU0MDIKZnJvbSBtb3JuaW5nc3Rhci5mbGFzaC50b2tlbml6ZXIgaW1wb3J0IEJQRVRva2VuaXplciAgIyBub3FhOiBFNDAyCmZyb20gbW9ybmluZ3N0YXIuZmxhc2gudHJhaW5lciBpbXBvcnQgVHJhaW5Db25maWcsIHBlcnBsZXhpdHksIHNhdmVfbG9nLCB0cmFpbiAgIyBub3FhOiBFNDAyCgpfTE9HID0gbG9nZ2luZy5nZXRMb2dnZXIoInRyYWluX3RpbnkiKQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOivreaWmQpkZWYgbWFrZV9tYXJrb3ZfY29ycHVzKAogICAgbl90b2tlbnM6IGludCwgbl9zdGF0ZXM6IGludCA9IDgsIGdyb3VwOiBpbnQgPSA4LCBzZWVkOiBpbnQgPSA3CikgLT4gdHVwbGVbbnAubmRhcnJheSwgaW50XToKICAgICIiIuaehOmAoOS4gOmYtumprOWwlOWPr+Wkq+mTvuivreaWmeOAggoKICAgIHRva2VuID0gc3RhdGUgKiBncm91cCArIG5vaXNlX2luZGV4LCDlm6DmraTjgIzkuIvkuIDnirbmgIHjgI3lj6/nlLHjgIzlvZPliY0gdG9rZW7jgI0KICAgIOaOqOWHuu+8jOiAjOOAjOWZquWjsOS4i+agh+OAjeS4jeWPr+mihOa1iyDih5Ig55CG6K665o2f5aSx5LiL55WMID0gbG4oZ3JvdXAp44CCCgogICAgUmV0dXJuczoKICAgICAgICAodG9rZW4g5rWBLCDor43ooajlpKflsI8pCiAgICAiIiIKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgdHJhbnMgPSBucC5mdWxsKChuX3N0YXRlcywgbl9zdGF0ZXMpLCAwLjA1KQogICAgZm9yIGkgaW4gcmFuZ2Uobl9zdGF0ZXMpOgogICAgICAgIHRyYW5zW2ksIChpICsgMSkgJSBuX3N0YXRlc10gPSAwLjQ1CiAgICAgICAgdHJhbnNbaSwgaV0gPSAwLjMwCiAgICB0cmFucyAvPSB0cmFucy5zdW0oYXhpcz0xLCBrZWVwZGltcz1UcnVlKQoKICAgIHN0YXRlcyA9IG5wLmVtcHR5KG5fdG9rZW5zLCBkdHlwZT1ucC5pbnQ2NCkKICAgIHN0YXRlc1swXSA9IHJuZy5pbnRlZ2VycygwLCBuX3N0YXRlcykKICAgIGZvciB0IGluIHJhbmdlKDEsIG5fdG9rZW5zKToKICAgICAgICBzdGF0ZXNbdF0gPSBybmcuY2hvaWNlKG5fc3RhdGVzLCBwPXRyYW5zW3N0YXRlc1t0IC0gMV1dKQogICAgdG9rZW5zID0gKHN0YXRlcyAqIGdyb3VwICsgcm5nLmludGVnZXJzKDAsIGdyb3VwLCBzaXplPW5fdG9rZW5zKSkuYXN0eXBlKG5wLmludDY0KQogICAgcmV0dXJuIHRva2Vucywgbl9zdGF0ZXMgKiBncm91cAoKCmRlZiBtYWtlX3RleHRfY29ycHVzKHRleHRzOiBsaXN0W3N0cl0sIHRva2VuaXplcjogQlBFVG9rZW5pemVyKSAtPiBucC5uZGFycmF5OgogICAgIiIi5oqK5paH5pys6K+t5paZ57yW56CB5Li6IHRva2VuIOa1geOAgiIiIgogICAgaWRzOiBsaXN0W2ludF0gPSBbXQogICAgZm9yIHQgaW4gdGV4dHM6CiAgICAgICAgaWRzLmV4dGVuZCh0b2tlbml6ZXIuZW5jb2RlKHQpKQogICAgcmV0dXJuIG5wLmFzYXJyYXkoaWRzLCBkdHlwZT1ucC5pbnQ2NCkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSDkuLvmtYHnqIsKZGVmIG1haW4oYXJndjogbGlzdFtzdHJdIHwgTm9uZSA9IE5vbmUpIC0+IGludDoKICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249IuaXl+iIsCBHUFQg6K6t57uD56S65L6LIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1zdGVwcyIsIHR5cGU9aW50LCBkZWZhdWx0PTYwMCwgaGVscD0i6K6t57uD5q2l5pWwIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1kLW1vZGVsIiwgdHlwZT1pbnQsIGRlZmF1bHQ9OTYpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tbi1sYXllciIsIHR5cGU9aW50LCBkZWZhdWx0PTMpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tbi1oZWFkIiwgdHlwZT1pbnQsIGRlZmF1bHQ9NCkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1uLWt2LWhlYWQiLCB0eXBlPWludCwgZGVmYXVsdD0yLCBoZWxwPSJHUUE6IEtWIOWktOaVsCIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tYmxvY2siLCB0eXBlPWludCwgZGVmYXVsdD0zMiwgaGVscD0i5LiK5LiL5paH6ZW/5bqmIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1iYXRjaCIsIHR5cGU9aW50LCBkZWZhdWx0PTE2KQogICAgYXAuYWRkX2FyZ3VtZW50KCItLWxyIiwgdHlwZT1mbG9hdCwgZGVmYXVsdD0zZS0zKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXNlZWQiLCB0eXBlPWludCwgZGVmYXVsdD00MikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1vdXQiLCB0eXBlPXN0ciwgZGVmYXVsdD0icmVzdWx0cyIsIGhlbHA9Iui+k+WHuuebruW9lSIpCiAgICBhcmdzID0gYXAucGFyc2VfYXJncyhhcmd2KQoKICAgIGxvZ2dpbmcuYmFzaWNDb25maWcobGV2ZWw9bG9nZ2luZy5JTkZPLCBmb3JtYXQ9IiUobWVzc2FnZSlzIikKICAgIG91dF9kaXIgPSBwYXRobGliLlBhdGgoYXJncy5vdXQpCiAgICBvdXRfZGlyLm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKCiAgICAjIC0tLS0g6K+t5paZOiA4MCUg6ams5bCU5Y+v5aSr6ZO+ICjlj6/lrabkuaApICsgMjAlIOecn+WunuaWh+acrCAodG9rZW5pemVyIOmXreeOrykKICAgIG1hcmtvdiwgbWFya292X3ZvY2FiID0gbWFrZV9tYXJrb3ZfY29ycHVzKG5fdG9rZW5zPTEyMF8wMDAsIHNlZWQ9YXJncy5zZWVkKQogICAgdG9rZW5pemVyID0gQlBFVG9rZW5pemVyKCkudHJhaW4oCiAgICAgICAgWwogICAgICAgICAgICAi5pmo5pif6ZS76YCg5LiW55WM6aG257qn5Lq65bel5pm66IO957O757uf44CCIiwKICAgICAgICAgICAgIumbtumHjeWGme+8jOmbhuWkp+aIkO+8jOWPr+mqjOivge+8jOmXreeOr+S6pOS7mOOAgiIsCiAgICAgICAgICAgICJhdHRlbnRpb24gaXMgYWxsIHlvdSBuZWVkOyBmbGFzaCBhdHRlbnRpb24gbWFrZXMgaXQgZml0LiIsCiAgICAgICAgXSwKICAgICAgICB2b2NhYl9zaXplPTMwMCwKICAgICkKICAgIHRleHRfdG9rZW5zID0gbWFrZV90ZXh0X2NvcnB1cygKICAgICAgICBbIuaZqOaYnyBGbGFnc2hpcEFJ77ya6Zu26YeN5YaZIMK3IOmbhuWkp+aIkCDCtyDlj6/pqozor4HjgIJcbiJdICogMjAwLCB0b2tlbml6ZXIKICAgICkKICAgICMg5YWz6ZSuOiAqKuS4jeWPr+WFqOWxgCBzaHVmZmxlKiog4oCU4oCUIOmCo+S8muegtOWdj+mprOWwlOWPr+Wkq+mTvueahOebuOmCu+i9rOenu+e7k+aehO+8jAogICAgIyDkvb/jgIzkuIvkuIDnirbmgIHlj6/pooTmtYvjgI3ov5nkuIDlj6/lrabkuaDkv6Hlj7fmtojlpLHvvIzmqKHlnovlsIbmsLjov5zlrabkuI3liLDnkIborrrkuIvnlYzjgIIKICAgIHRyYWluX3Rva2VucyA9IG5wLmNvbmNhdGVuYXRlKFttYXJrb3YsIHRleHRfdG9rZW5zLmFzdHlwZShucC5pbnQ2NCldKQoKICAgICMg6aqM6K+B6ZuGOiAqKueLrOeri+eUn+aIkCoq55qE5ZCM5YiG5biD5bqP5YiXICjogIzpnZ7ku47orq3nu4PmtYHlsL7pg6jliIfliIYg4oCU4oCUCiAgICAjIOWwvumDqOWIh+WIhuS8muWvvOiHtOWIhuW4g+S4jeS4gOiHtCwg6aqM6K+B5Zuw5oOR5bqm6Jma6auYKeOAggogICAgdmFsX21hcmtvdiwgXyA9IG1ha2VfbWFya292X2NvcnB1cyhuX3Rva2Vucz02XzAwMCwgc2VlZD1hcmdzLnNlZWQgKyAxKQogICAgdmFsX3RleHQgPSBtYWtlX3RleHRfY29ycHVzKAogICAgICAgIFsi5pmo5pifIEZsYWdzaGlwQUnvvJrpm7bph43lhpkgwrcg6ZuG5aSn5oiQIMK3IOWPr+mqjOivgeOAglxuIl0gKiAxMiwgdG9rZW5pemVyCiAgICApCiAgICB2YWxfdG9rZW5zID0gbnAuY29uY2F0ZW5hdGUoW3ZhbF9tYXJrb3YsIHZhbF90ZXh0LmFzdHlwZShucC5pbnQ2NCldKQoKICAgICMg5qih5Z6L6K+N6KGo5b+F6aG76KaG55uW5Lik6Lev6K+t5paZ55qEIHRva2VuIGlkIOS4iueVjAogICAgbWF4X2lkID0gaW50KG1heCh0cmFpbl90b2tlbnMubWF4KCksIHZhbF90b2tlbnMubWF4KCkpKQogICAgdm9jYWIgPSBpbnQobWF4KG1hcmtvdl92b2NhYiwgdG9rZW5pemVyLnZvY2FiX3NpemUsIG1heF9pZCArIDEpKQogICAgX0xPRy5pbmZvKCLor63mlpk6IHRyYWluPSVkIHRvaywgdmFsPSVkIHRvaywgdm9jYWI9JWQiLAogICAgICAgICAgICAgIHRyYWluX3Rva2Vucy5zaXplLCB2YWxfdG9rZW5zLnNpemUsIHZvY2FiKQogICAgX0xPRy5pbmZvKCLnkIborrrkuIvnlYw6IGxuKHZvY2FiKT0lLjRmIiwgbWF0aC5sb2codm9jYWIpKQoKICAgICMgLS0tLSDmqKHlnosKICAgIGNmZyA9IEdQVENvbmZpZygKICAgICAgICB2b2NhYl9zaXplPXZvY2FiLAogICAgICAgIGRfbW9kZWw9YXJncy5kX21vZGVsLAogICAgICAgIG5fbGF5ZXI9YXJncy5uX2xheWVyLAogICAgICAgIG5faGVhZD1hcmdzLm5faGVhZCwKICAgICAgICBuX2t2X2hlYWQ9YXJncy5uX2t2X2hlYWQsCiAgICAgICAgbWF4X2xlbj1tYXgoYXJncy5ibG9jaywgMjU2KSwgICMg6aKE55WZ5YWF6Laz5LiK5LiL5paH5L6b5aKe6YeP55Sf5oiQIChLVi1DYWNoZSDot6/lvoQpCiAgICApCiAgICBtb2RlbCA9IEdQVChjZmcsIHNlZWQ9YXJncy5zZWVkKQogICAgX0xPRy5pbmZvKCLmqKHlnovlj4LmlbDph486ICVzIiwgZiJ7bW9kZWwubl9wYXJhbXM6LH0iKQoKICAgICMgLS0tLSDorq3nu4MKICAgIHRjZmcgPSBUcmFpbkNvbmZpZygKICAgICAgICBuX3N0ZXBzPWFyZ3Muc3RlcHMsCiAgICAgICAgYmF0Y2hfc2l6ZT1hcmdzLmJhdGNoLAogICAgICAgIGJsb2NrX3NpemU9YXJncy5ibG9jaywKICAgICAgICBscj1hcmdzLmxyLAogICAgICAgIHdhcm11cD1tYXgoMTAsIGFyZ3Muc3RlcHMgLy8gMTApLAogICAgICAgIGV2YWxfZXZlcnk9bWF4KDI1LCBhcmdzLnN0ZXBzIC8vIDYpLAogICAgICAgIGV2YWxfaXRlcnM9NSwKICAgICAgICBsb2dfZXZlcnk9bWF4KDEwLCBhcmdzLnN0ZXBzIC8vIDEyKSwKICAgICAgICBzZWVkPWFyZ3Muc2VlZCwKICAgICkKICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgbG9nID0gdHJhaW4obW9kZWwsIHRyYWluX3Rva2VucywgdGNmZywgdmFsX3Rva2Vucz12YWxfdG9rZW5zKQogICAgd2FsbCA9IHRpbWUucGVyZl9jb3VudGVyKCkgLSB0MAoKICAgIHRyYWluX2xvc3NlcyA9IFt4IGZvciB4IGluIGxvZy50cmFpbl9sb3NzIGlmIG5vdCBtYXRoLmlzbmFuKHgpXQogICAgdmFsX2xvc3NlcyA9IFt4IGZvciB4IGluIGxvZy52YWxfbG9zcyBpZiBub3QgbWF0aC5pc25hbih4KV0KICAgIGZpbmFsX3RyYWluID0gdHJhaW5fbG9zc2VzWy0xXQogICAgZmluYWxfdmFsID0gdmFsX2xvc3Nlc1stMV0KICAgIF9MT0cuaW5mbygi6K6t57uD5a6M5oiQOiB0cmFpbiAlLjRmIOKGkiAlLjRmIHwgdmFsICUuNGYg4oaSICUuNGYgfCAlLjFmcyIsCiAgICAgICAgICAgICAgdHJhaW5fbG9zc2VzWzBdLCBmaW5hbF90cmFpbiwgdmFsX2xvc3Nlc1swXSwgZmluYWxfdmFsLCB3YWxsKQogICAgX0xPRy5pbmZvKCLmnIDnu4jlm7Dmg5HluqY6IHRyYWluICUuMmYgIHZhbCAlLjJmIiwgcGVycGxleGl0eShmaW5hbF90cmFpbiksIHBlcnBsZXhpdHkoZmluYWxfdmFsKSkKCiAgICAjIC0tLS0g6YeH5qC355Sf5oiQ77yI6aqM6K+B5o6o55CG6Zet546vICsgS1Yg57yT5a2Y6Lev5b6E77yJCiAgICBwcm9tcHQgPSB0b2tlbml6ZXIuZW5jb2RlKCLmmajmmJ8gRmxhZ3NoaXBBSSIpWzo4XQogICAgaWRzID0gbW9kZWwuZ2VuZXJhdGUocHJvbXB0LCBtYXhfbmV3X3Rva2Vucz0zMiwgdGVtcGVyYXR1cmU9MC44LCBzZWVkPWFyZ3Muc2VlZCkKICAgIF9MT0cuaW5mbygi6YeH5qC36L6T5Ye6OiAlciIsIHRva2VuaXplci5kZWNvZGUoaWRzKSkKCiAgICAjIC0tLS0g6JC955uYCiAgICBzYXZlX2xvZyhsb2csIHN0cihvdXRfZGlyIC8gInRyYWluX2xvZy5qc29uIikpCiAgICBtb2RlbC5zYXZlKHN0cihvdXRfZGlyIC8gIm1vZGVsLm5weiIpKQogICAgc3VtbWFyeSA9IHsKICAgICAgICAiY29uZmlnIjogewogICAgICAgICAgICAibl9zdGVwcyI6IGFyZ3Muc3RlcHMsICJkX21vZGVsIjogYXJncy5kX21vZGVsLCAibl9sYXllciI6IGFyZ3Mubl9sYXllciwKICAgICAgICAgICAgIm5faGVhZCI6IGFyZ3Mubl9oZWFkLCAibl9rdl9oZWFkIjogYXJncy5uX2t2X2hlYWQsCiAgICAgICAgICAgICJibG9ja19zaXplIjogYXJncy5ibG9jaywgImJhdGNoX3NpemUiOiBhcmdzLmJhdGNoLCAibHIiOiBhcmdzLmxyLAogICAgICAgICAgICAic2VlZCI6IGFyZ3Muc2VlZCwKICAgICAgICB9LAogICAgICAgICJuX3BhcmFtcyI6IG1vZGVsLm5fcGFyYW1zLAogICAgICAgICJ0cmFpbl9sb3NzX2ZpcnN0IjogdHJhaW5fbG9zc2VzWzBdLAogICAgICAgICJ0cmFpbl9sb3NzX2ZpbmFsIjogZmluYWxfdHJhaW4sCiAgICAgICAgInZhbF9sb3NzX2ZpcnN0IjogdmFsX2xvc3Nlc1swXSwKICAgICAgICAidmFsX2xvc3NfZmluYWwiOiBmaW5hbF92YWwsCiAgICAgICAgInZhbF9wZXJwbGV4aXR5X2ZpbmFsIjogcGVycGxleGl0eShmaW5hbF92YWwpLAogICAgICAgICJlbnRyb3B5X2Zsb29yX2xuX3ZvY2FiIjogbWF0aC5sb2codm9jYWIpLAogICAgICAgICJ3YWxsX3NlY29uZHMiOiB3YWxsLAogICAgICAgICJ0b2tlbnNfcGVyX3NlY29uZCI6IHRyYWluX3Rva2Vucy5zaXplICogYXJncy5zdGVwcyAvIG1heCh3YWxsLCAxZS05KSwKICAgICAgICAic2FtcGxlX3RleHQiOiB0b2tlbml6ZXIuZGVjb2RlKGlkcyksCiAgICB9CiAgICAob3V0X2RpciAvICJ0cmFpbl9zdW1tYXJ5Lmpzb24iKS53cml0ZV90ZXh0KAogICAgICAgIGpzb24uZHVtcHMoc3VtbWFyeSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MiksIGVuY29kaW5nPSJ1dGYtOCIKICAgICkKICAgIF9MT0cuaW5mbygi57uT5p6c5bey5YaZ5YWlICVzIiwgb3V0X2Rpci5yZXNvbHZlKCkpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICByYWlzZSBTeXN0ZW1FeGl0KG1haW4oKSkK
+#!/usr/bin/env python
+"""旗舰 GPT 训练示例 —— 在可复现语料上完成一次真实收敛。
+
+用法::
+
+    python examples/train_tiny.py                  # 默认配置 (CPU 可跑)
+    python examples/train_tiny.py --steps 2000     # 更长训练
+    python examples/train_tiny.py --out results/  # 指定输出目录
+
+设计说明
+--------
+语料采用**一阶马尔可夫链**而非随机序列：随机序列的信息论下界就是
+``ln(V)``，模型无从学习，无法证明训练闭环有效。马尔可夫链的下一状态
+可由当前状态预测，理论损失下界为 ``H(group)``，因此损失曲线具有
+明确的「可证伪」目标。
+
+复现性: 所有随机源（初始化 / 数据采样 / 采样生成）均由显式 seed 驱动。
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import logging
+import math
+import pathlib
+import sys
+import time
+
+import numpy as np
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+
+from morningstar.flash import GPT, GPTConfig  # noqa: E402
+from morningstar.flash.tokenizer import BPETokenizer  # noqa: E402
+from morningstar.flash.trainer import TrainConfig, perplexity, save_log, train  # noqa: E402
+
+_LOG = logging.getLogger("train_tiny")
+
+
+# --------------------------------------------------------------------- 语料
+def make_markov_corpus(
+    n_tokens: int, n_states: int = 8, group: int = 8, seed: int = 7
+) -> tuple[np.ndarray, int]:
+    """构造一阶马尔可夫链语料。
+
+    token = state * group + noise_index, 因此「下一状态」可由「当前 token」
+    推出，而「噪声下标」不可预测 ⇒ 理论损失下界 = ln(group)。
+
+    Returns:
+        (token 流, 词表大小)
+    """
+    rng = np.random.default_rng(seed)
+    trans = np.full((n_states, n_states), 0.05)
+    for i in range(n_states):
+        trans[i, (i + 1) % n_states] = 0.45
+        trans[i, i] = 0.30
+    trans /= trans.sum(axis=1, keepdims=True)
+
+    states = np.empty(n_tokens, dtype=np.int64)
+    states[0] = rng.integers(0, n_states)
+    for t in range(1, n_tokens):
+        states[t] = rng.choice(n_states, p=trans[states[t - 1]])
+    tokens = (states * group + rng.integers(0, group, size=n_tokens)).astype(np.int64)
+    return tokens, n_states * group
+
+
+def make_text_corpus(texts: list[str], tokenizer: BPETokenizer) -> np.ndarray:
+    """把文本语料编码为 token 流。"""
+    ids: list[int] = []
+    for t in texts:
+        ids.extend(tokenizer.encode(t))
+    return np.asarray(ids, dtype=np.int64)
+
+
+# --------------------------------------------------------------------- 主流程
+def main(argv: list[str] | None = None) -> int:
+    ap = argparse.ArgumentParser(description="旗舰 GPT 训练示例")
+    ap.add_argument("--steps", type=int, default=600, help="训练步数")
+    ap.add_argument("--d-model", type=int, default=96)
+    ap.add_argument("--n-layer", type=int, default=3)
+    ap.add_argument("--n-head", type=int, default=4)
+    ap.add_argument("--n-kv-head", type=int, default=2, help="GQA: KV 头数")
+    ap.add_argument("--block", type=int, default=32, help="上下文长度")
+    ap.add_argument("--batch", type=int, default=16)
+    ap.add_argument("--lr", type=float, default=3e-3)
+    ap.add_argument("--seed", type=int, default=42)
+    ap.add_argument("--out", type=str, default="results", help="输出目录")
+    args = ap.parse_args(argv)
+
+    logging.basicConfig(level=logging.INFO, format="%(message)s")
+    out_dir = pathlib.Path(args.out)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # ---- 语料: 80% 马尔可夫链 (可学习) + 20% 真实文本 (tokenizer 闭环)
+    markov, markov_vocab = make_markov_corpus(n_tokens=120_000, seed=args.seed)
+    tokenizer = BPETokenizer().train(
+        [
+            "晨星锻造世界顶级人工智能系统。",
+            "零重写，集大成，可验证，闭环交付。",
+            "attention is all you need; flash attention makes it fit.",
+        ],
+        vocab_size=300,
+    )
+    text_tokens = make_text_corpus(
+        ["晨星 FlagshipAI：零重写 · 集大成 · 可验证。\n"] * 200, tokenizer
+    )
+    # 关键: **不可全局 shuffle** —— 那会破坏马尔可夫链的相邻转移结构，
+    # 使「下一状态可预测」这一可学习信号消失，模型将永远学不到理论下界。
+    train_tokens = np.concatenate([markov, text_tokens.astype(np.int64)])
+
+    # 验证集: **独立生成**的同分布序列 (而非从训练流尾部切分 ——
+    # 尾部切分会导致分布不一致, 验证困惑度虚高)。
+    val_markov, _ = make_markov_corpus(n_tokens=6_000, seed=args.seed + 1)
+    val_text = make_text_corpus(
+        ["晨星 FlagshipAI：零重写 · 集大成 · 可验证。\n"] * 12, tokenizer
+    )
+    val_tokens = np.concatenate([val_markov, val_text.astype(np.int64)])
+
+    # 模型词表必须覆盖两路语料的 token id 上界
+    max_id = int(max(train_tokens.max(), val_tokens.max()))
+    vocab = int(max(markov_vocab, tokenizer.vocab_size, max_id + 1))
+    _LOG.info("语料: train=%d tok, val=%d tok, vocab=%d",
+              train_tokens.size, val_tokens.size, vocab)
+    _LOG.info("理论下界: ln(vocab)=%.4f", math.log(vocab))
+
+    # ---- 模型
+    cfg = GPTConfig(
+        vocab_size=vocab,
+        d_model=args.d_model,
+        n_layer=args.n_layer,
+        n_head=args.n_head,
+        n_kv_head=args.n_kv_head,
+        max_len=max(args.block, 256),  # 预留充足上下文供增量生成 (KV-Cache 路径)
+    )
+    model = GPT(cfg, seed=args.seed)
+    _LOG.info("模型参数量: %s", f"{model.n_params:,}")
+
+    # ---- 训练
+    tcfg = TrainConfig(
+        n_steps=args.steps,
+        batch_size=args.batch,
+        block_size=args.block,
+        lr=args.lr,
+        warmup=max(10, args.steps // 10),
+        eval_every=max(25, args.steps // 6),
+        eval_iters=5,
+        log_every=max(10, args.steps // 12),
+        seed=args.seed,
+    )
+    t0 = time.perf_counter()
+    log = train(model, train_tokens, tcfg, val_tokens=val_tokens)
+    wall = time.perf_counter() - t0
+
+    train_losses = [x for x in log.train_loss if not math.isnan(x)]
+    val_losses = [x for x in log.val_loss if not math.isnan(x)]
+    final_train = train_losses[-1]
+    final_val = val_losses[-1]
+    _LOG.info("训练完成: train %.4f → %.4f | val %.4f → %.4f | %.1fs",
+              train_losses[0], final_train, val_losses[0], final_val, wall)
+    _LOG.info("最终困惑度: train %.2f  val %.2f", perplexity(final_train), perplexity(final_val))
+
+    # ---- 采样生成（验证推理闭环 + KV 缓存路径）
+    prompt = tokenizer.encode("晨星 FlagshipAI")[:8]
+    ids = model.generate(prompt, max_new_tokens=32, temperature=0.8, seed=args.seed)
+    _LOG.info("采样输出: %r", tokenizer.decode(ids))
+
+    # ---- 落盘
+    save_log(log, str(out_dir / "train_log.json"))
+    model.save(str(out_dir / "model.npz"))
+    summary = {
+        "config": {
+            "n_steps": args.steps, "d_model": args.d_model, "n_layer": args.n_layer,
+            "n_head": args.n_head, "n_kv_head": args.n_kv_head,
+            "block_size": args.block, "batch_size": args.batch, "lr": args.lr,
+            "seed": args.seed,
+        },
+        "n_params": model.n_params,
+        "train_loss_first": train_losses[0],
+        "train_loss_final": final_train,
+        "val_loss_first": val_losses[0],
+        "val_loss_final": final_val,
+        "val_perplexity_final": perplexity(final_val),
+        "entropy_floor_ln_vocab": math.log(vocab),
+        "wall_seconds": wall,
+        "tokens_per_second": train_tokens.size * args.steps / max(wall, 1e-9),
+        "sample_text": tokenizer.decode(ids),
+    }
+    (out_dir / "train_summary.json").write_text(
+        json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    _LOG.info("结果已写入 %s", out_dir.resolve())
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

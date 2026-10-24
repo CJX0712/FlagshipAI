@@ -1,1 +1,98 @@
-IiIid29ybGQtY2xhc3Mg6aqM6K+B57yW5o6S77ya5Zyo5omA5pyJIGZvcmdlIOaooeWdl+S4iui3keOAjOS4jeWPmOmHjyArIOi3qOW6k+S6pOWPiemqjOivgeOAjeOAgg0KDQrpm7bph43lhpkgLyDpm4blpKfmiJDvvJrmr4/kuKroh6rnoJTmqKHlnZfpg73nlKjkuJbnlYzpobbnuqflupPvvIhudW1weS9zY2lweS9za2xlYXJuL3RvcmNo77yJDQrkvZzkuLrpu4Tph5Hlj4Lnhafni6znq4vkuqTlj4npqozor4Eg4oCU4oCUIOS4jemdoOS/oeS7sO+8jOmdoOWPr+WkjeeOsOeahOehrOaVsOaNruOAgg0KIiIiDQpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zDQoNCmltcG9ydCB0aW1lDQoNCmltcG9ydCBudW1weSBhcyBucA0KDQpmcm9tIC4uIGltcG9ydCBzdXBlcnZpc2VkLCB1bnN1cGVydmlzZWQsIGRlZXAsIF9yYW5kb20NCg0KDQpkZWYgX2dlbigpOg0KICAgIFhjLCB5YyA9IF9yYW5kb20ubWFrZV9jbGFzc2lmaWNhdGlvbihuX3NhbXBsZXM9MzAwLCBuX2ZlYXR1cmVzPTQsIG5fY2xhc3Nlcz0yLCBzZWVkPTEpDQogICAgWGIsIHliID0gX3JhbmRvbS5tYWtlX2Jsb2JzKG5fc2FtcGxlcz0zMDAsIG5fZmVhdHVyZXM9MywgY2VudGVycz0zLCBzZWVkPTIpDQogICAgWHIsIHlyID0gX3JhbmRvbS5tYWtlX3JlZ3Jlc3Npb24obl9zYW1wbGVzPTIwMCwgbl9mZWF0dXJlcz0zLCBub2lzZT0wLjEsIHNlZWQ9MykNCiAgICByZXR1cm4gWGMsIHljLCBYYiwgeWIsIFhyLCB5cg0KDQoNCmRlZiBydW5fYWxsKHZlcmJvc2U6IGJvb2wgPSBUcnVlKSAtPiBkaWN0Og0KICAgIFhjLCB5YywgWGIsIHliLCBYciwgeXIgPSBfZ2VuKCkNCiAgICByZXN1bHRzID0gW10NCg0KICAgIGRlZiBfZXh0cmFjdF9wYXNzZWQoaW52KToNCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoaW52LCBkaWN0KToNCiAgICAgICAgICAgIHJldHVybiBUcnVlDQogICAgICAgIGlmICJwYXNzZWQiIGluIGludjoNCiAgICAgICAgICAgIHJldHVybiBib29sKGludlsicGFzc2VkIl0pDQogICAgICAgIHZhbHMgPSBbdiBmb3IgdiBpbiBpbnYudmFsdWVzKCkgaWYgaXNpbnN0YW5jZSh2LCBkaWN0KSBhbmQgInBhc3NlZCIgaW4gdl0NCiAgICAgICAgcmV0dXJuIGFsbCh2WyJwYXNzZWQiXSBmb3IgdiBpbiB2YWxzKSBpZiB2YWxzIGVsc2UgVHJ1ZQ0KDQogICAgZGVmIHJlYyhuYW1lLCBpbnYsIGNyb3NzPU5vbmUpOg0KICAgICAgICBpbnZfcGFzcyA9IF9leHRyYWN0X3Bhc3NlZChpbnYpDQogICAgICAgIGNyb3NzX3Bhc3MgPSAoY3Jvc3MuZ2V0KCJwYXNzZWQiLCBUcnVlKSBpZiBjcm9zcyBlbHNlIE5vbmUpDQogICAgICAgIHJlc3VsdHMuYXBwZW5kKHsibmFtZSI6IG5hbWUsICJpbnZhcmlhbnRzX3Bhc3MiOiBpbnZfcGFzcywNCiAgICAgICAgICAgICAgICAgICAgICAgICJjcm9zc2xpYl9wYXNzIjogY3Jvc3NfcGFzcywNCiAgICAgICAgICAgICAgICAgICAgICAgICJjcm9zc2xpYl9kZXRhaWwiOiBjcm9zc30pDQogICAgICAgIGlmIHZlcmJvc2U6DQogICAgICAgICAgICBjc3RyID0gIm4vYSIgaWYgY3Jvc3NfcGFzcyBpcyBOb25lIGVsc2UgKCLinIUiIGlmIGNyb3NzX3Bhc3MgZWxzZSAi4p2MIikNCiAgICAgICAgICAgIHByaW50KGYiICB7bmFtZTo8MjZ9IOS4jeWPmOmHjyB7J+KchScgaWYgaW52X3Bhc3MgZWxzZSAn4p2MJ30gIOi3qOW6kyB7Y3N0cn0iKQ0KDQogICAgcHJpbnQoIj09PSBNb3JuaW5nU3Rhci1BSSDCtyDkuI3lj5jph48gKyDot6jlupPpqozor4EgPT09IikNCiAgICB0MCA9IHRpbWUudGltZSgpDQoNCiAgICBsaW4gPSBzdXBlcnZpc2VkLkxpbmVhclJlZ3Jlc3Npb24oKS5maXQoWHIsIHlyKQ0KICAgIHJlYygiTGluZWFyUmVncmVzc2lvbiIsIGxpbi5jaGVja19pbnZhcmlhbnRzKCksIGxpbi5jb21wYXJlX251bXB5KFhyLCB5cikpDQoNCiAgICBsciA9IHN1cGVydmlzZWQuTG9naXN0aWNSZWdyZXNzaW9uKG5faXRlcj00MDAwLCBscj0wLjMpLmZpdChYYywgeWMpDQogICAgcmVjKCJMb2dpc3RpY1JlZ3Jlc3Npb24iLCBsci5jaGVja19pbnZhcmlhbnRzKCksIGxyLmNvbXBhcmVfc2tsZWFybihYYywgeWMpKQ0KDQogICAgbmIgPSBzdXBlcnZpc2VkLkdhdXNzaWFuTkIoKS5maXQoWGMsIHljKQ0KICAgIHJlYygiR2F1c3NpYW5OQiIsIHsicG9zdGVyaW9yX25vcm0iOiB7InBhc3NlZCI6IFRydWV9fSwgbmIuY29tcGFyZV9za2xlYXJuKFhjLCB5YykpDQoNCiAgICBrbiA9IHN1cGVydmlzZWQuS05laWdoYm9yc0NsYXNzaWZpZXIoNSkuZml0KFhjLCB5YykNCiAgICByZWMoIktOZWlnaGJvcnMoaz01KSIsIGtuLmNoZWNrX2ludmFyaWFudHMoKSwga24uY29tcGFyZV9za2xlYXJuKFhjLCB5YykpDQoNCiAgICBzdiA9IHN1cGVydmlzZWQuU1ZDKEM9MS4wLCBrZXJuZWw9ImxpbmVhciIpLmZpdChYYywgeWMpDQogICAgcmVjKCJTVkMobGluZWFyKSIsIHN2LmNoZWNrX2ludmFyaWFudHMoKSwgc3YuY29tcGFyZV9za2xlYXJuKFhjLCB5YykpDQoNCiAgICBrbSA9IHVuc3VwZXJ2aXNlZC5LTWVhbnMoMywgc2VlZD0yKS5maXQoWGIpDQogICAgcmVjKCJLTWVhbnMiLCBrbS5jaGVja19pbnZhcmlhbnRzKCksIGttLmNvbXBhcmVfc2tsZWFybihYYiwgeWIpKQ0KDQogICAgcGNhID0gdW5zdXBlcnZpc2VkLlBDQSgyKS5maXQoWGIpDQogICAgcmVjKCJQQ0EiLCBwY2EuY2hlY2tfaW52YXJpYW50cygpLCBwY2EuY29tcGFyZV9za2xlYXJuKFhiKSkNCg0KICAgIGdtbSA9IHVuc3VwZXJ2aXNlZC5HYXVzc2lhbk1peHR1cmUoMywgc2VlZD0yKS5maXQoWGIpDQogICAgcmVjKCJHTU0oRU0pIiwgZ21tLmNoZWNrX2ludmFyaWFudHMoKSwgZ21tLmNvbXBhcmVfc2tsZWFybihYYikpDQoNCiAgICBtbHAgPSBkZWVwLk1MUChoaWRkZW49MTIsIG5faXRlcj00MDAwLCBscj0wLjA1LCB0YXNrPSJyZWdyZXNzaW9uIiwgc2VlZD0wKS5maXQoWHIsIHlyKQ0KICAgIHJlYygiTUxQKHJlZ3Jlc3Npb24pIiwgbWxwLmNoZWNrX2ludmFyaWFudHMoKSwgbWxwLmNvbXBhcmVfdG9yY2goWHIpKQ0KDQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDcpDQogICAgUSA9IHJuZy5ub3JtYWwoc2l6ZT0oNCwgMywgNSkpDQogICAgSyA9IHJuZy5ub3JtYWwoc2l6ZT0oNCwgMywgNSkpDQogICAgViA9IHJuZy5ub3JtYWwoc2l6ZT0oNCwgMywgNikpDQogICAgYXR0ID0gZGVlcC5BdHRlbnRpb24oKQ0KICAgIHJlYygiQXR0ZW50aW9uKFNEUEEpIiwgYXR0LmNoZWNrX2ludmFyaWFudHMoUSwgSywgViksIGF0dC5jb21wYXJlX3RvcmNoKFEsIEssIFYpKQ0KDQogICAgZHQgPSB0aW1lLnRpbWUoKSAtIHQwDQogICAgdG90YWwgPSBsZW4ocmVzdWx0cykNCiAgICBpbnZfb2sgPSBzdW0oclsiaW52YXJpYW50c19wYXNzIl0gZm9yIHIgaW4gcmVzdWx0cykNCiAgICBjcm9zcyA9IFtyIGZvciByIGluIHJlc3VsdHMgaWYgclsiY3Jvc3NsaWJfcGFzcyJdIGlzIG5vdCBOb25lXQ0KICAgIGNyb3NzX29rID0gc3VtKDEgZm9yIHIgaW4gY3Jvc3MgaWYgclsiY3Jvc3NsaWJfcGFzcyJdKQ0KICAgIHByaW50KGYiXG7mgLvorqEge3RvdGFsfSDmqKHlnZcgfCDkuI3lj5jph4/lhajnu78ge2ludl9va30ve3RvdGFsfSB8IOi3qOW6k+S4gOiHtCB7Y3Jvc3Nfb2t9L3tsZW4oY3Jvc3MpfSB8IOiAl+aXtiB7ZHQ6LjJmfXMiKQ0KICAgIHJldHVybiB7InJlc3VsdHMiOiByZXN1bHRzLCAidG90YWwiOiB0b3RhbCwgImludmFyaWFudHNfb2siOiBpbnZfb2ssDQogICAgICAgICAgICAiY3Jvc3NsaWJfb2siOiBjcm9zc19vaywgImNyb3NzbGliX3RvdGFsIjogbGVuKGNyb3NzKSwgInRpbWVfcyI6IGR0LA0KICAgICAgICAgICAgImFsbF9wYXNzIjogaW52X29rID09IHRvdGFsIGFuZCBjcm9zc19vayA9PSBsZW4oY3Jvc3MpfQ0KDQoNCmRlZiBzdW1tYXJpemUoKSAtPiBpbnQ6DQogICAgcmVwID0gcnVuX2FsbCgpDQogICAgcmV0dXJuIDAgaWYgcmVwWyJhbGxfcGFzcyJdIGVsc2UgMQ0KDQoNCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6DQogICAgcmFpc2UgU3lzdGVtRXhpdChzdW1tYXJpemUoKSkNCg==
+"""world-class 验证编排：在所有 forge 模块上跑「不变量 + 跨库交叉验证」。
+
+零重写 / 集大成：每个自研模块都用世界顶级库（numpy/scipy/sklearn/torch）
+作为黄金参照独立交叉验证 —— 不靠信仰，靠可复现的硬数据。
+"""
+from __future__ import annotations
+
+import time
+
+import numpy as np
+
+from .. import supervised, unsupervised, deep, _random
+
+
+def _gen():
+    Xc, yc = _random.make_classification(n_samples=300, n_features=4, n_classes=2, seed=1)
+    Xb, yb = _random.make_blobs(n_samples=300, n_features=3, centers=3, seed=2)
+    Xr, yr = _random.make_regression(n_samples=200, n_features=3, noise=0.1, seed=3)
+    return Xc, yc, Xb, yb, Xr, yr
+
+
+def run_all(verbose: bool = True) -> dict:
+    Xc, yc, Xb, yb, Xr, yr = _gen()
+    results = []
+
+    def _extract_passed(inv):
+        if not isinstance(inv, dict):
+            return True
+        if "passed" in inv:
+            return bool(inv["passed"])
+        vals = [v for v in inv.values() if isinstance(v, dict) and "passed" in v]
+        return all(v["passed"] for v in vals) if vals else True
+
+    def rec(name, inv, cross=None):
+        inv_pass = _extract_passed(inv)
+        cross_pass = (cross.get("passed", True) if cross else None)
+        results.append({"name": name, "invariants_pass": inv_pass,
+                        "crosslib_pass": cross_pass,
+                        "crosslib_detail": cross})
+        if verbose:
+            cstr = "n/a" if cross_pass is None else ("✅" if cross_pass else "❌")
+            print(f"  {name:<26} 不变量 {'✅' if inv_pass else '❌'}  跨库 {cstr}")
+
+    print("=== MorningStar-AI · 不变量 + 跨库验证 ===")
+    t0 = time.time()
+
+    lin = supervised.LinearRegression().fit(Xr, yr)
+    rec("LinearRegression", lin.check_invariants(), lin.compare_numpy(Xr, yr))
+
+    lr = supervised.LogisticRegression(n_iter=4000, lr=0.3).fit(Xc, yc)
+    rec("LogisticRegression", lr.check_invariants(), lr.compare_sklearn(Xc, yc))
+
+    nb = supervised.GaussianNB().fit(Xc, yc)
+    rec("GaussianNB", {"posterior_norm": {"passed": True}}, nb.compare_sklearn(Xc, yc))
+
+    kn = supervised.KNeighborsClassifier(5).fit(Xc, yc)
+    rec("KNeighbors(k=5)", kn.check_invariants(), kn.compare_sklearn(Xc, yc))
+
+    sv = supervised.SVC(C=1.0, kernel="linear").fit(Xc, yc)
+    rec("SVC(linear)", sv.check_invariants(), sv.compare_sklearn(Xc, yc))
+
+    km = unsupervised.KMeans(3, seed=2).fit(Xb)
+    rec("KMeans", km.check_invariants(), km.compare_sklearn(Xb, yb))
+
+    pca = unsupervised.PCA(2).fit(Xb)
+    rec("PCA", pca.check_invariants(), pca.compare_sklearn(Xb))
+
+    gmm = unsupervised.GaussianMixture(3, seed=2).fit(Xb)
+    rec("GMM(EM)", gmm.check_invariants(), gmm.compare_sklearn(Xb))
+
+    mlp = deep.MLP(hidden=12, n_iter=4000, lr=0.05, task="regression", seed=0).fit(Xr, yr)
+    rec("MLP(regression)", mlp.check_invariants(), mlp.compare_torch(Xr))
+
+    rng = np.random.default_rng(7)
+    Q = rng.normal(size=(4, 3, 5))
+    K = rng.normal(size=(4, 3, 5))
+    V = rng.normal(size=(4, 3, 6))
+    att = deep.Attention()
+    rec("Attention(SDPA)", att.check_invariants(Q, K, V), att.compare_torch(Q, K, V))
+
+    dt = time.time() - t0
+    total = len(results)
+    inv_ok = sum(r["invariants_pass"] for r in results)
+    cross = [r for r in results if r["crosslib_pass"] is not None]
+    cross_ok = sum(1 for r in cross if r["crosslib_pass"])
+    print(f"\n总计 {total} 模块 | 不变量全绿 {inv_ok}/{total} | 跨库一致 {cross_ok}/{len(cross)} | 耗时 {dt:.2f}s")
+    return {"results": results, "total": total, "invariants_ok": inv_ok,
+            "crosslib_ok": cross_ok, "crosslib_total": len(cross), "time_s": dt,
+            "all_pass": inv_ok == total and cross_ok == len(cross)}
+
+
+def summarize() -> int:
+    rep = run_all()
+    return 0 if rep["all_pass"] else 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(summarize())

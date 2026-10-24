@@ -1,1 +1,93 @@
-IiIiTDMg5b6u56ev5YiG5LyY5YyWIOKAlOKAlCBmb3JnZSDnuq/lrp7njrAgKyDmlbDlrabkuI3lj5jph4/jgIINCg0K5qC45b+D5LiN5Y+Y6YeP77yI5LiW55WM57qn5q2j56Gu5oCn56Gs5qCH5YeG77yJ77yaDQogICog5qKv5bqm5qOA6aqMIG1heFJlbEVyciA9IG1heF9pIHxnX251beG1oiDiiJIgZ19hbmHhtaJ8IC8gKHxnX251beG1onwgKyB8Z19hbmHhtaJ8ICsgzrUpIOKJiCAxZS03DQogICAg6Kej5p6Q5qKv5bqmIHZzIOS4reW/g+W3ruWIhuaVsOWAvOair+W6pu+8iOmTvuW8j+azleWImeS5i+avje+8jOWPjeWQkeS8oOaSremAmueUqOWIpOWumO+8ieOAgg0KIiIiDQpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zDQoNCmltcG9ydCBudW1weSBhcyBucA0KDQpFUFMgPSBucC5maW5mbyhucC5mbG9hdDY0KS5lcHMNCg0KDQpkZWYgbnVtZXJpY2FsX2dyYWRpZW50KGYsIHg6IG5wLm5kYXJyYXksIGVwczogZmxvYXQgPSAxZS02KSAtPiBucC5uZGFycmF5Og0KICAgICIiIuS4reW/g+W3ruWIhuaVsOWAvOair+W6pu+8muKIgmYv4oiCeOG1oiDiiYggKGYoeCvOtWXhtaIpIOKIkiBmKHjiiJLOtWXhtaIpKSAvIDLOteOAgiIiIg0KICAgIHggPSBucC5hc2FycmF5KHgsIGR0eXBlPW5wLmZsb2F0NjQpDQogICAgZyA9IG5wLnplcm9zX2xpa2UoeCwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICBpdCA9IG5wLm5kaXRlcih4LCBmbGFncz1bIm11bHRpX2luZGV4Il0sIG9wX2ZsYWdzPVsicmVhZHdyaXRlIl0pDQogICAgd2hpbGUgbm90IGl0LmZpbmlzaGVkOg0KICAgICAgICBpZHggPSBpdC5tdWx0aV9pbmRleA0KICAgICAgICBvcmlnID0geFtpZHhdDQogICAgICAgIHhbaWR4XSA9IG9yaWcgKyBlcHMNCiAgICAgICAgZnAgPSBmKHgpDQogICAgICAgIHhbaWR4XSA9IG9yaWcgLSBlcHMNCiAgICAgICAgZm0gPSBmKHgpDQogICAgICAgIHhbaWR4XSA9IG9yaWcNCiAgICAgICAgZ1tpZHhdID0gKGZwIC0gZm0pIC8gKDIuMCAqIGVwcykNCiAgICAgICAgaXQuaXRlcm5leHQoKQ0KICAgIHJldHVybiBnDQoNCg0KZGVmIGdyYWRpZW50X2NoZWNrKGYsIGdyYWRfZiwgeDogbnAubmRhcnJheSwgZXBzOiBmbG9hdCA9IDFlLTYpIC0+IGRpY3Q6DQogICAgIiIi5qKv5bqm5qOA6aqM77ya6L+U5ZueIHttYXhfcmVsX2VycijmmL7okZfliIbph48pLCBtZWFuX3JlbF9lcnIsIG1heF9hYnNfZXJyLCBwYXNzZWR944CCDQoNCiAgICDliKTlrpjmoIflh4bvvJrlr7nmmL7okZfmoq/luqbliIbph48gbWF4X3JlbF9lcnIgPCAxZS01IOWNs+WPr+S/oe+8m+S4lueVjOe6pyBmb3JnZSDpgJrluLgg4omIIDFlLTfjgIINCiAgICDov5Hpm7bmoq/luqbliIbph4/nm7jlr7nor6/lt67ml6DmhI/kuYnvvIzmlYXnlKjnu53lr7nor6/lt67lhZzlupXvvIhtYXhfYWJzX2VyciA8IDFlLTfvvInjgIINCiAgICAiIiINCiAgICB4ID0gbnAuYXNhcnJheSh4LCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgIGdfbnVtID0gbnVtZXJpY2FsX2dyYWRpZW50KGYsIHgsIGVwcykNCiAgICBnX2FuYSA9IG5wLmFzYXJyYXkoZ3JhZF9mKHgpLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgIGFic19lcnIgPSBucC5hYnMoZ19udW0gLSBnX2FuYSkNCiAgICBkZW5vbSA9IG5wLmFicyhnX251bSkgKyBucC5hYnMoZ19hbmEpICsgRVBTDQogICAgcmVsID0gYWJzX2VyciAvIGRlbm9tDQogICAgbWFzayA9IChucC5hYnMoZ19udW0pICsgbnAuYWJzKGdfYW5hKSkgPiAxZS02DQogICAgbWF4X3JlbCA9IGZsb2F0KG5wLm1heChyZWxbbWFza10pKSBpZiBtYXNrLmFueSgpIGVsc2UgMC4wDQogICAgbWVhbl9yZWwgPSBmbG9hdChucC5tZWFuKHJlbFttYXNrXSkpIGlmIG1hc2suYW55KCkgZWxzZSAwLjANCiAgICBtYXhfYWJzID0gZmxvYXQobnAubWF4KGFic19lcnIpKQ0KICAgIHJldHVybiB7DQogICAgICAgICJtYXhfcmVsX2VyciI6IG1heF9yZWwsDQogICAgICAgICJtZWFuX3JlbF9lcnIiOiBtZWFuX3JlbCwNCiAgICAgICAgIm1heF9hYnNfZXJyIjogbWF4X2FicywNCiAgICAgICAgInBhc3NlZCI6IGJvb2wobWF4X3JlbCA8IDFlLTUgb3IgbWF4X2FicyA8IDFlLTcpLA0KICAgIH0NCg0KDQpkZWYgZ3JhZGllbnRfZGVzY2VudCgNCiAgICBmLA0KICAgIGdyYWRfZiwNCiAgICB4MDogbnAubmRhcnJheSwNCiAgICBscjogZmxvYXQgPSAwLjEsDQogICAgbl9pdGVyOiBpbnQgPSAxMDAwLA0KICAgIHRvbDogZmxvYXQgPSAxZS04LA0KICAgIGxyX2RlY2F5OiBmbG9hdCA9IDEuMCwNCikgLT4gZGljdDoNCiAgICAiIiLmnLTntKDmoq/luqbkuIvpmY3vvJvov5Tlm54ge3gsIGZfaGlzdCwgZ3JhZF9ub3JtX2hpc3QsIG5faXRlcn3jgIINCg0KICAgIOWHuOWHveaVsOS4gOmYtuadoeS7tuS4jeWPmOmHj++8mmYoeSkg4omlIGYoeCkgKyDiiIdmKHgp4bWAKHniiJJ4Ke+8iOS4i+mZjeWNleiwg++8ieOAgg0KICAgICIiIg0KICAgIHggPSBucC5hc2FycmF5KHgwLCBkdHlwZT1ucC5mbG9hdDY0KS5jb3B5KCkNCiAgICBmX2hpc3QgPSBbXQ0KICAgIGdub3JtX2hpc3QgPSBbXQ0KICAgIGxyX2N1ciA9IGxyDQogICAgZm9yIGl0IGluIHJhbmdlKG5faXRlcik6DQogICAgICAgIGcgPSBucC5hc2FycmF5KGdyYWRfZih4KSwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICAgICAgZl92YWwgPSBmbG9hdChmKHgpKQ0KICAgICAgICBmX2hpc3QuYXBwZW5kKGZfdmFsKQ0KICAgICAgICBnbm9ybV9oaXN0LmFwcGVuZChmbG9hdChucC5saW5hbGcubm9ybShnKSkpDQogICAgICAgIHggPSB4IC0gbHJfY3VyICogZw0KICAgICAgICBscl9jdXIgKj0gbHJfZGVjYXkNCiAgICAgICAgaWYgZ25vcm1faGlzdFstMV0gPCB0b2w6DQogICAgICAgICAgICBicmVhaw0KICAgIHJldHVybiB7DQogICAgICAgICJ4IjogeCwNCiAgICAgICAgImZfaGlzdCI6IG5wLmFycmF5KGZfaGlzdCksDQogICAgICAgICJncmFkX25vcm1faGlzdCI6IG5wLmFycmF5KGdub3JtX2hpc3QpLA0KICAgICAgICAibl9pdGVyIjogbGVuKGZfaGlzdCksDQogICAgfQ0KDQoNCmRlZiBjaGVja19tb25vdG9uZV9kZWNyZWFzZShmX2hpc3Q6IG5wLm5kYXJyYXksIHRvbDogZmxvYXQgPSAxZS05KSAtPiBib29sOg0KICAgICIiIumqjOivgeebruagh+WHveaVsOWAvOWNleiwg+mdnuWinu+8iOWHuOS8mOWMluS4jeWPmOmHj++8ieOAgiIiIg0KICAgIGZfaGlzdCA9IG5wLmFzYXJyYXkoZl9oaXN0LCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgIHJldHVybiBib29sKG5wLmFsbChucC5kaWZmKGZfaGlzdCkgPD0gdG9sKSkNCg==
+"""L3 微积分优化 —— forge 纯实现 + 数学不变量。
+
+核心不变量（世界级正确性硬标准）：
+  * 梯度检验 maxRelErr = max_i |g_numᵢ − g_anaᵢ| / (|g_numᵢ| + |g_anaᵢ| + ε) ≈ 1e-7
+    解析梯度 vs 中心差分数值梯度（链式法则之母，反向传播通用判官）。
+"""
+from __future__ import annotations
+
+import numpy as np
+
+EPS = np.finfo(np.float64).eps
+
+
+def numerical_gradient(f, x: np.ndarray, eps: float = 1e-6) -> np.ndarray:
+    """中心差分数值梯度：∂f/∂xᵢ ≈ (f(x+εeᵢ) − f(x−εeᵢ)) / 2ε。"""
+    x = np.asarray(x, dtype=np.float64)
+    g = np.zeros_like(x, dtype=np.float64)
+    it = np.nditer(x, flags=["multi_index"], op_flags=["readwrite"])
+    while not it.finished:
+        idx = it.multi_index
+        orig = x[idx]
+        x[idx] = orig + eps
+        fp = f(x)
+        x[idx] = orig - eps
+        fm = f(x)
+        x[idx] = orig
+        g[idx] = (fp - fm) / (2.0 * eps)
+        it.iternext()
+    return g
+
+
+def gradient_check(f, grad_f, x: np.ndarray, eps: float = 1e-6) -> dict:
+    """梯度检验：返回 {max_rel_err(显著分量), mean_rel_err, max_abs_err, passed}。
+
+    判官标准：对显著梯度分量 max_rel_err < 1e-5 即可信；世界级 forge 通常 ≈ 1e-7。
+    近零梯度分量相对误差无意义，故用绝对误差兜底（max_abs_err < 1e-7）。
+    """
+    x = np.asarray(x, dtype=np.float64)
+    g_num = numerical_gradient(f, x, eps)
+    g_ana = np.asarray(grad_f(x), dtype=np.float64)
+    abs_err = np.abs(g_num - g_ana)
+    denom = np.abs(g_num) + np.abs(g_ana) + EPS
+    rel = abs_err / denom
+    mask = (np.abs(g_num) + np.abs(g_ana)) > 1e-6
+    max_rel = float(np.max(rel[mask])) if mask.any() else 0.0
+    mean_rel = float(np.mean(rel[mask])) if mask.any() else 0.0
+    max_abs = float(np.max(abs_err))
+    return {
+        "max_rel_err": max_rel,
+        "mean_rel_err": mean_rel,
+        "max_abs_err": max_abs,
+        "passed": bool(max_rel < 1e-5 or max_abs < 1e-7),
+    }
+
+
+def gradient_descent(
+    f,
+    grad_f,
+    x0: np.ndarray,
+    lr: float = 0.1,
+    n_iter: int = 1000,
+    tol: float = 1e-8,
+    lr_decay: float = 1.0,
+) -> dict:
+    """朴素梯度下降；返回 {x, f_hist, grad_norm_hist, n_iter}。
+
+    凸函数一阶条件不变量：f(y) ≥ f(x) + ∇f(x)ᵀ(y−x)（下降单调）。
+    """
+    x = np.asarray(x0, dtype=np.float64).copy()
+    f_hist = []
+    gnorm_hist = []
+    lr_cur = lr
+    for it in range(n_iter):
+        g = np.asarray(grad_f(x), dtype=np.float64)
+        f_val = float(f(x))
+        f_hist.append(f_val)
+        gnorm_hist.append(float(np.linalg.norm(g)))
+        x = x - lr_cur * g
+        lr_cur *= lr_decay
+        if gnorm_hist[-1] < tol:
+            break
+    return {
+        "x": x,
+        "f_hist": np.array(f_hist),
+        "grad_norm_hist": np.array(gnorm_hist),
+        "n_iter": len(f_hist),
+    }
+
+
+def check_monotone_decrease(f_hist: np.ndarray, tol: float = 1e-9) -> bool:
+    """验证目标函数值单调非增（凸优化不变量）。"""
+    f_hist = np.asarray(f_hist, dtype=np.float64)
+    return bool(np.all(np.diff(f_hist) <= tol))

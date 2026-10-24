@@ -1,1 +1,77 @@
-IiIi5Y+v5aSN546w6ZqP5py65rqQ44CCDQoNCumbtumHjeWGme+8muebtOaOpeWfuuS6jiBudW1weSDnmoQgUENHNjQgKGRlZmF1bHRfcm5nKeOAguaJgOaciSBmb3JnZSDmqKHlnZfpu5jorqTku47ov5nph4zlj5bnp43lrZDvvIwNCuS/neivgeOAjOWPr+WkjeeOsOOAjeaYr+S6pOS7mOmXreeOr+eahOehrOimgeaxguOAgg0KIiIiDQpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zDQoNCmltcG9ydCBudW1weSBhcyBucA0KDQoNCmRlZiBybmcoc2VlZDogaW50ID0gMCkgLT4gbnAucmFuZG9tLkdlbmVyYXRvcjoNCiAgICAiIiLov5Tlm57noa7lrprmgKfnmoQgbnVtcHkgR2VuZXJhdG9y44CCIiIiDQogICAgcmV0dXJuIG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQ0KDQoNCmRlZiBtYWtlX2NsYXNzaWZpY2F0aW9uKA0KICAgIG5fc2FtcGxlczogaW50ID0gMzAwLA0KICAgIG5fZmVhdHVyZXM6IGludCA9IDQsDQogICAgbl9jbGFzc2VzOiBpbnQgPSAzLA0KICAgIG5fY2x1c3RlcnNfcGVyX2NsYXNzOiBpbnQgPSAxLA0KICAgIHNlZWQ6IGludCA9IDAsDQogICAgbm9pc2U6IGZsb2F0ID0gMC4xLA0KKToNCiAgICAiIiLnlJ/miJDluKbmoIfnrb7nmoTliIbnsbvmlbDmja7vvIjlsIHoo4Ugc2tsZWFybu+8jOmbtumHjeWGme+8ieOAgiIiIg0KICAgIGZyb20gc2tsZWFybi5kYXRhc2V0cyBpbXBvcnQgbWFrZV9jbGFzc2lmaWNhdGlvbg0KDQogICAgWCwgeSA9IG1ha2VfY2xhc3NpZmljYXRpb24oDQogICAgICAgIG5fc2FtcGxlcz1uX3NhbXBsZXMsDQogICAgICAgIG5fZmVhdHVyZXM9bl9mZWF0dXJlcywNCiAgICAgICAgbl9pbmZvcm1hdGl2ZT1tYXgoMiwgbl9mZWF0dXJlcyAtIDEpLA0KICAgICAgICBuX3JlZHVuZGFudD0wLA0KICAgICAgICBuX2NsYXNzZXM9bl9jbGFzc2VzLA0KICAgICAgICBuX2NsdXN0ZXJzX3Blcl9jbGFzcz1uX2NsdXN0ZXJzX3Blcl9jbGFzcywNCiAgICAgICAgcmFuZG9tX3N0YXRlPXNlZWQsDQogICAgKQ0KICAgIGlmIG5vaXNlID4gMDoNCiAgICAgICAgWCA9IFggKyBybmcoc2VlZCArIDEpLm5vcm1hbCgwLjAsIG5vaXNlLCBYLnNoYXBlKQ0KICAgIHJldHVybiBYLCB5DQoNCg0KZGVmIG1ha2VfYmxvYnMoDQogICAgbl9zYW1wbGVzOiBpbnQgPSAzMDAsDQogICAgbl9mZWF0dXJlczogaW50ID0gMiwNCiAgICBjZW50ZXJzOiBpbnQgPSAzLA0KICAgIHNlZWQ6IGludCA9IDAsDQogICAgc3ByZWFkOiBmbG9hdCA9IDEuMCwNCik6DQogICAgIiIi55Sf5oiQ6IGa57G7IGJsb2LvvIjlsIHoo4Ugc2tsZWFybu+8jOmbtumHjeWGme+8ieOAgiIiIg0KICAgIGZyb20gc2tsZWFybi5kYXRhc2V0cyBpbXBvcnQgbWFrZV9ibG9icw0KDQogICAgWCwgeSA9IG1ha2VfYmxvYnMoDQogICAgICAgIG5fc2FtcGxlcz1uX3NhbXBsZXMsDQogICAgICAgIG5fZmVhdHVyZXM9bl9mZWF0dXJlcywNCiAgICAgICAgY2VudGVycz1jZW50ZXJzLA0KICAgICAgICBjbHVzdGVyX3N0ZD1zcHJlYWQsDQogICAgICAgIHJhbmRvbV9zdGF0ZT1zZWVkLA0KICAgICkNCiAgICByZXR1cm4gWCwgeQ0KDQoNCmRlZiBtYWtlX3JlZ3Jlc3Npb24oDQogICAgbl9zYW1wbGVzOiBpbnQgPSAyMDAsDQogICAgbl9mZWF0dXJlczogaW50ID0gMywNCiAgICBub2lzZTogZmxvYXQgPSAwLjEsDQogICAgc2VlZDogaW50ID0gMCwNCiAgICBjb2VmOiBib29sID0gRmFsc2UsDQopOg0KICAgICIiIueUn+aIkOWbnuW9kuaVsOaNru+8iOWwgeijhSBza2xlYXJu77yM6Zu26YeN5YaZ77yJ44CCIiIiDQogICAgZnJvbSBza2xlYXJuLmRhdGFzZXRzIGltcG9ydCBtYWtlX3JlZ3Jlc3Npb24NCg0KICAgIHJldHVybiBtYWtlX3JlZ3Jlc3Npb24oDQogICAgICAgIG5fc2FtcGxlcz1uX3NhbXBsZXMsDQogICAgICAgIG5fZmVhdHVyZXM9bl9mZWF0dXJlcywNCiAgICAgICAgbm9pc2U9bm9pc2UsDQogICAgICAgIHJhbmRvbV9zdGF0ZT1zZWVkLA0KICAgICAgICBjb2VmPWNvZWYsDQogICAgKQ0K
+"""可复现随机源。
+
+零重写：直接基于 numpy 的 PCG64 (default_rng)。所有 forge 模块默认从这里取种子，
+保证「可复现」是交付闭环的硬要求。
+"""
+from __future__ import annotations
+
+import numpy as np
+
+
+def rng(seed: int = 0) -> np.random.Generator:
+    """返回确定性的 numpy Generator。"""
+    return np.random.default_rng(seed)
+
+
+def make_classification(
+    n_samples: int = 300,
+    n_features: int = 4,
+    n_classes: int = 3,
+    n_clusters_per_class: int = 1,
+    seed: int = 0,
+    noise: float = 0.1,
+):
+    """生成带标签的分类数据（封装 sklearn，零重写）。"""
+    from sklearn.datasets import make_classification
+
+    X, y = make_classification(
+        n_samples=n_samples,
+        n_features=n_features,
+        n_informative=max(2, n_features - 1),
+        n_redundant=0,
+        n_classes=n_classes,
+        n_clusters_per_class=n_clusters_per_class,
+        random_state=seed,
+    )
+    if noise > 0:
+        X = X + rng(seed + 1).normal(0.0, noise, X.shape)
+    return X, y
+
+
+def make_blobs(
+    n_samples: int = 300,
+    n_features: int = 2,
+    centers: int = 3,
+    seed: int = 0,
+    spread: float = 1.0,
+):
+    """生成聚类 blob（封装 sklearn，零重写）。"""
+    from sklearn.datasets import make_blobs
+
+    X, y = make_blobs(
+        n_samples=n_samples,
+        n_features=n_features,
+        centers=centers,
+        cluster_std=spread,
+        random_state=seed,
+    )
+    return X, y
+
+
+def make_regression(
+    n_samples: int = 200,
+    n_features: int = 3,
+    noise: float = 0.1,
+    seed: int = 0,
+    coef: bool = False,
+):
+    """生成回归数据（封装 sklearn，零重写）。"""
+    from sklearn.datasets import make_regression
+
+    return make_regression(
+        n_samples=n_samples,
+        n_features=n_features,
+        noise=noise,
+        random_state=seed,
+        coef=coef,
+    )

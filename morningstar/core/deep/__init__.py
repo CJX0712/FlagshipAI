@@ -1,1 +1,5 @@
-IiIiTDkg5rex5bqm5a2m5LmgIGZvcmdlIOaooeWdl++8iOe6ryBudW1weSDlrp7njrAgKyDkuI3lj5jph4/vvInjgIIiIiINCmZyb20gLm5ldXJhbF9uZXQgaW1wb3J0IE1MUA0KZnJvbSAuYXR0ZW50aW9uIGltcG9ydCBBdHRlbnRpb24sIHNjYWxlZF9kb3RfcHJvZHVjdF9hdHRlbnRpb24NCg0KX19hbGxfXyA9IFsiTUxQIiwgIkF0dGVudGlvbiIsICJzY2FsZWRfZG90X3Byb2R1Y3RfYXR0ZW50aW9uIl0NCg==
+"""L9 深度学习 forge 模块（纯 numpy 实现 + 不变量）。"""
+from .neural_net import MLP
+from .attention import Attention, scaled_dot_product_attention
+
+__all__ = ["MLP", "Attention", "scaled_dot_product_attention"]

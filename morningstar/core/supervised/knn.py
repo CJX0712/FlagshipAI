@@ -1,1 +1,63 @@
-IiIiayDov5Hpgrsg4oCU4oCUIGZvcmdlIOaatOWKm+WunueOsCArIOS4jeWPmOmHj+OAgg0KDQrmg7DmgKflrabkuaDvvJvot53nprvmrKfmsI/vvJtrIOaOp+WItuW5s+a7keW6pu+8m+WkmuaVsOaKleelqOOAgg0KDQrkuI3lj5jph4/vvJoNCiAgKiBrPTEg4oaSIOiuree7g+mbhiAwIOivr+W3ru+8iOiusOW/hui+ueeVjO+8iQ0KICAqIGvihpLiiJ4g4oaSIOaUtuaVm+iHs+i0neWPtuaWr+ivr+W3ru+8iOeQhuiuuuS4iueVjO+8iQ0KICAqIOi3qOW6k+agoemqjO+8muS4jiBza2xlYXJuLktOZWlnaGJvcnNDbGFzc2lmaWVyIOS4gOiHtA0KIiIiDQpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zDQoNCmltcG9ydCBudW1weSBhcyBucA0KDQoNCmNsYXNzIEtOZWlnaGJvcnNDbGFzc2lmaWVyOg0KICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuX25laWdoYm9yczogaW50ID0gNSwgbWV0cmljOiBzdHIgPSAiZXVjbGlkZWFuIik6DQogICAgICAgIHNlbGYubl9uZWlnaGJvcnMgPSBpbnQobl9uZWlnaGJvcnMpDQogICAgICAgIHNlbGYubWV0cmljID0gbWV0cmljDQoNCiAgICBkZWYgZml0KHNlbGYsIFgsIHkpOg0KICAgICAgICBzZWxmLl9YID0gbnAuYXNhcnJheShYLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgICAgICBzZWxmLl95ID0gbnAuYXNhcnJheSh5KS5yYXZlbCgpDQogICAgICAgIHNlbGYuY2xhc3Nlc18gPSBucC51bmlxdWUoc2VsZi5feSkNCiAgICAgICAgcmV0dXJuIHNlbGYNCg0KICAgIGRlZiBfZGlzdChzZWxmLCBhLCBiKToNCiAgICAgICAgaWYgc2VsZi5tZXRyaWMgPT0gImV1Y2xpZGVhbiI6DQogICAgICAgICAgICByZXR1cm4gbnAuc3FydChucC5zdW0oKGEgLSBiKSAqKiAyKSkNCiAgICAgICAgaWYgc2VsZi5tZXRyaWMgPT0gIm1hbmhhdHRhbiI6DQogICAgICAgICAgICByZXR1cm4gbnAuc3VtKG5wLmFicyhhIC0gYikpDQogICAgICAgIHJhaXNlIFZhbHVlRXJyb3Ioc2VsZi5tZXRyaWMpDQoNCiAgICBkZWYgcHJlZGljdChzZWxmLCBYKToNCiAgICAgICAgWCA9IG5wLmFzYXJyYXkoWCwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICAgICAgb3V0ID0gbnAuZW1wdHkoWC5zaGFwZVswXSwgZHR5cGU9c2VsZi5feS5kdHlwZSkNCiAgICAgICAgZm9yIGksIHggaW4gZW51bWVyYXRlKFgpOg0KICAgICAgICAgICAgZCA9IG5wLmFycmF5KFtzZWxmLl9kaXN0KHgsIHhpKSBmb3IgeGkgaW4gc2VsZi5fWF0pDQogICAgICAgICAgICBpZHggPSBucC5hcmdzb3J0KGQpWzogc2VsZi5uX25laWdoYm9yc10NCiAgICAgICAgICAgIHZvdGVzID0gc2VsZi5feVtpZHhdDQogICAgICAgICAgICAjIOW5s+WxgOWPluacgOWwj+exu+agh+etvu+8iOehruWumuaAp++8iQ0KICAgICAgICAgICAgY291bnRzID0gbnAuYmluY291bnQodm90ZXMsIG1pbmxlbmd0aD1sZW4oc2VsZi5jbGFzc2VzXykpDQogICAgICAgICAgICBvdXRbaV0gPSBzZWxmLmNsYXNzZXNfW25wLmFyZ21heChjb3VudHMpXQ0KICAgICAgICByZXR1cm4gb3V0DQoNCiAgICBkZWYgY2hlY2tfaW52YXJpYW50cyhzZWxmKSAtPiBkaWN0Og0KICAgICAgICAjIGs9MSDorq3nu4Por6/lt67lupTkuLogMA0KICAgICAgICBwcmVkMSA9IEtOZWlnaGJvcnNDbGFzc2lmaWVyKDEpLmZpdChzZWxmLl9YLCBzZWxmLl95KS5wcmVkaWN0KHNlbGYuX1gpDQogICAgICAgIGVycjEgPSBmbG9hdChucC5tZWFuKHByZWQxICE9IHNlbGYuX3kpKQ0KICAgICAgICByZXR1cm4geyJrMV90cmFpbl9lcnJvciI6IGVycjEsICJwYXNzZWQiOiBib29sKGVycjEgPT0gMC4wKX0NCg0KICAgIGRlZiBjb21wYXJlX3NrbGVhcm4oc2VsZiwgWCwgeSkgLT4gZGljdDoNCiAgICAgICAgZnJvbSBza2xlYXJuLm5laWdoYm9ycyBpbXBvcnQgS05laWdoYm9yc0NsYXNzaWZpZXIgYXMgU0tLTk4NCiAgICAgICAgWCA9IG5wLmFzYXJyYXkoWCwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICAgICAgeSA9IG5wLmFzYXJyYXkoeSkucmF2ZWwoKQ0KICAgICAgICBzayA9IFNLS05OKG5fbmVpZ2hib3JzPXNlbGYubl9uZWlnaGJvcnMpLmZpdChYLCB5KQ0KICAgICAgICBvdXJzID0gc2VsZi5wcmVkaWN0KFgpDQogICAgICAgIHNrcCA9IHNrLnByZWRpY3QoWCkNCiAgICAgICAgcmV0dXJuIHsNCiAgICAgICAgICAgICJ0cmFpbl9hZ3JlZW1lbnRfdnNfc2tsZWFybiI6IGZsb2F0KG5wLm1lYW4ob3VycyA9PSBza3ApKSwNCiAgICAgICAgICAgICJvdXJfYWNjdXJhY3kiOiBmbG9hdChucC5tZWFuKG91cnMgPT0geSkpLA0KICAgICAgICAgICAgInNrbGVhcm5fYWNjdXJhY3kiOiBmbG9hdChucC5tZWFuKHNrcCA9PSB5KSksDQogICAgICAgICAgICAicGFzc2VkIjogYm9vbChucC5tZWFuKG91cnMgPT0gc2twKSA+PSAwLjk4KSwNCiAgICAgICAgfQ0K
+"""k 近邻 —— forge 暴力实现 + 不变量。
+
+惰性学习；距离欧氏；k 控制平滑度；多数投票。
+
+不变量：
+  * k=1 → 训练集 0 误差（记忆边界）
+  * k→∞ → 收敛至贝叶斯误差（理论上界）
+  * 跨库校验：与 sklearn.KNeighborsClassifier 一致
+"""
+from __future__ import annotations
+
+import numpy as np
+
+
+class KNeighborsClassifier:
+    def __init__(self, n_neighbors: int = 5, metric: str = "euclidean"):
+        self.n_neighbors = int(n_neighbors)
+        self.metric = metric
+
+    def fit(self, X, y):
+        self._X = np.asarray(X, dtype=np.float64)
+        self._y = np.asarray(y).ravel()
+        self.classes_ = np.unique(self._y)
+        return self
+
+    def _dist(self, a, b):
+        if self.metric == "euclidean":
+            return np.sqrt(np.sum((a - b) ** 2))
+        if self.metric == "manhattan":
+            return np.sum(np.abs(a - b))
+        raise ValueError(self.metric)
+
+    def predict(self, X):
+        X = np.asarray(X, dtype=np.float64)
+        out = np.empty(X.shape[0], dtype=self._y.dtype)
+        for i, x in enumerate(X):
+            d = np.array([self._dist(x, xi) for xi in self._X])
+            idx = np.argsort(d)[: self.n_neighbors]
+            votes = self._y[idx]
+            # 平局取最小类标签（确定性）
+            counts = np.bincount(votes, minlength=len(self.classes_))
+            out[i] = self.classes_[np.argmax(counts)]
+        return out
+
+    def check_invariants(self) -> dict:
+        # k=1 训练误差应为 0
+        pred1 = KNeighborsClassifier(1).fit(self._X, self._y).predict(self._X)
+        err1 = float(np.mean(pred1 != self._y))
+        return {"k1_train_error": err1, "passed": bool(err1 == 0.0)}
+
+    def compare_sklearn(self, X, y) -> dict:
+        from sklearn.neighbors import KNeighborsClassifier as SKKNN
+        X = np.asarray(X, dtype=np.float64)
+        y = np.asarray(y).ravel()
+        sk = SKKNN(n_neighbors=self.n_neighbors).fit(X, y)
+        ours = self.predict(X)
+        skp = sk.predict(X)
+        return {
+            "train_agreement_vs_sklearn": float(np.mean(ours == skp)),
+            "our_accuracy": float(np.mean(ours == y)),
+            "sklearn_accuracy": float(np.mean(skp == y)),
+            "passed": bool(np.mean(ours == skp) >= 0.98),
+        }

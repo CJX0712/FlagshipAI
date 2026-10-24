@@ -1,1 +1,292 @@
-ew0KICAiYXR0ZW50aW9uIjogWw0KICAgIHsNCiAgICAgICJ2YXJpYW50IjogImJsb2NrX3NwYXJzZSIsDQogICAgICAiVCI6IDI1NiwNCiAgICAgICJkIjogMzIsDQogICAgICAibWVkaWFuX21zIjogMi43NiwNCiAgICAgICJtZW1fbWIiOiAwLjA0ODgsDQogICAgICAiZnJvX3JlbCI6IDAuODM3Nzg3LA0KICAgICAgImNvbXBsZXhpdHkiOiAiTyhUIGIgZCkgW2I9NjQsIGc9OF0iDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJlZmZhdHRuZnVzZSIsDQogICAgICAiVCI6IDI1NiwNCiAgICAgICJkIjogMzIsDQogICAgICAibWVkaWFuX21zIjogNS4zOTQ1LA0KICAgICAgIm1lbV9tYiI6IDEuMDYyNSwNCiAgICAgICJmcm9fcmVsIjogMzMwNC43OTExMjYsDQogICAgICAiY29tcGxleGl0eSI6ICJPKFQgZCBtKSBbbG9uZzogUGVyZm9ybWVyIG09MTI4XSINCiAgICB9LA0KICAgIHsNCiAgICAgICJ2YXJpYW50IjogImZsYXNoIiwNCiAgICAgICJUIjogMjU2LA0KICAgICAgImQiOiAzMiwNCiAgICAgICJtZWRpYW5fbXMiOiAxLjcxOTYsDQogICAgICAibWVtX21iIjogMC4xMjg5LA0KICAgICAgImZyb19yZWwiOiAwLjAsDQogICAgICAiY29tcGxleGl0eSI6ICJPKFReMiBkKSB0aW1lIC8gTyhUIGQpIG1lbW9yeSBbYnE9NjQsIGJrPTY0XSINCiAgICB9LA0KICAgIHsNCiAgICAgICJ2YXJpYW50IjogImZ1bGwiLA0KICAgICAgIlQiOiAyNTYsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDEuOTQyNSwNCiAgICAgICJtZW1fbWIiOiAxLjA2MjUsDQogICAgICAiZnJvX3JlbCI6IDAuMCwNCiAgICAgICJjb21wbGV4aXR5IjogIk8oVF4yIGQpIFtleGFjdF0iDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJsaW5lYXIiLA0KICAgICAgIlQiOiAyNTYsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDAuMzcwMiwNCiAgICAgICJtZW1fbWIiOiAwLjEzMjgsDQogICAgICAiZnJvX3JlbCI6IDAuODE4MywNCiAgICAgICJjb21wbGV4aXR5IjogIk8oVCBkXjIpIg0KICAgIH0sDQogICAgew0KICAgICAgInZhcmlhbnQiOiAibG9jYWxfd2luZG93IiwNCiAgICAgICJUIjogMjU2LA0KICAgICAgImQiOiAzMiwNCiAgICAgICJtZWRpYW5fbXMiOiAyLjkzMDksDQogICAgICAibWVtX21iIjogMC4wMTU5LA0KICAgICAgImZyb19yZWwiOiAxLjk1Mjk1NiwNCiAgICAgICJjb21wbGV4aXR5IjogIk8oVCB3IGQpIFt3PTMyXSINCiAgICB9LA0KICAgIHsNCiAgICAgICJ2YXJpYW50IjogInBlcmZvcm1lciIsDQogICAgICAiVCI6IDI1NiwNCiAgICAgICJkIjogMzIsDQogICAgICAibWVkaWFuX21zIjogOS42MzU2LA0KICAgICAgIm1lbV9tYiI6IDIuMTI1LA0KICAgICAgImZyb19yZWwiOiAyMjgwLjUwNTQ5MiwNCiAgICAgICJjb21wbGV4aXR5IjogIk8oVCBkIG0pIFttPTI1Nl0iDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJibG9ja19zcGFyc2UiLA0KICAgICAgIlQiOiA1MTIsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDIuODM0OSwNCiAgICAgICJtZW1fbWIiOiAwLjA0ODgsDQogICAgICAiZnJvX3JlbCI6IDEuMjcxNDYyLA0KICAgICAgImNvbXBsZXhpdHkiOiAiTyhUIGIgZCkgW2I9NjQsIGc9OF0iDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJlZmZhdHRuZnVzZSIsDQogICAgICAiVCI6IDUxMiwNCiAgICAgICJkIjogMzIsDQogICAgICAibWVkaWFuX21zIjogOS4wODczLA0KICAgICAgIm1lbV9tYiI6IDIuMDYyNSwNCiAgICAgICJmcm9fcmVsIjogMzYzLjMwNDEzMiwNCiAgICAgICJjb21wbGV4aXR5IjogIk8oVCBkIG0pIFtsb25nOiBQZXJmb3JtZXIgbT0xMjhdIg0KICAgIH0sDQogICAgew0KICAgICAgInZhcmlhbnQiOiAiZmxhc2giLA0KICAgICAgIlQiOiA1MTIsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDkuMDc0LA0KICAgICAgIm1lbV9tYiI6IDAuMTk1MywNCiAgICAgICJmcm9fcmVsIjogMC4wLA0KICAgICAgImNvbXBsZXhpdHkiOiAiTyhUXjIgZCkgdGltZSAvIE8oVCBkKSBtZW1vcnkgW2JxPTY0LCBiaz02NF0iDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJmdWxsIiwNCiAgICAgICJUIjogNTEyLA0KICAgICAgImQiOiAzMiwNCiAgICAgICJtZWRpYW5fbXMiOiA1LjA1MzksDQogICAgICAibWVtX21iIjogNC4xMjUsDQogICAgICAiZnJvX3JlbCI6IDAuMCwNCiAgICAgICJjb21wbGV4aXR5IjogIk8oVF4yIGQpIFtleGFjdF0iDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJsaW5lYXIiLA0KICAgICAgIlQiOiA1MTIsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDAuNTY4MiwNCiAgICAgICJtZW1fbWIiOiAwLjI1NzgsDQogICAgICAiZnJvX3JlbCI6IDAuNjk0NTU4LA0KICAgICAgImNvbXBsZXhpdHkiOiAiTyhUIGReMikiDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJsb2NhbF93aW5kb3ciLA0KICAgICAgIlQiOiA1MTIsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDYuNzYwNSwNCiAgICAgICJtZW1fbWIiOiAwLjAxNTksDQogICAgICAiZnJvX3JlbCI6IDIuMzMyNDU4LA0KICAgICAgImNvbXBsZXhpdHkiOiAiTyhUIHcgZCkgW3c9MzJdIg0KICAgIH0sDQogICAgew0KICAgICAgInZhcmlhbnQiOiAicGVyZm9ybWVyIiwNCiAgICAgICJUIjogNTEyLA0KICAgICAgImQiOiAzMiwNCiAgICAgICJtZWRpYW5fbXMiOiAxNS40OTI5LA0KICAgICAgIm1lbV9tYiI6IDQuMTI1LA0KICAgICAgImZyb19yZWwiOiAzMDAuODA5ODYxLA0KICAgICAgImNvbXBsZXhpdHkiOiAiTyhUIGQgbSkgW209MjU2XSINCiAgICB9LA0KICAgIHsNCiAgICAgICJ2YXJpYW50IjogImJsb2NrX3NwYXJzZSIsDQogICAgICAiVCI6IDEwMjQsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDMuNDIwNiwNCiAgICAgICJtZW1fbWIiOiAwLjA0ODgsDQogICAgICAiZnJvX3JlbCI6IDEuOTkzMjA2LA0KICAgICAgImNvbXBsZXhpdHkiOiAiTyhUIGIgZCkgW2I9NjQsIGc9OF0iDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJlZmZhdHRuZnVzZSIsDQogICAgICAiVCI6IDEwMjQsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDIwLjAzMzcsDQogICAgICAibWVtX21iIjogNC4wNjI1LA0KICAgICAgImZyb19yZWwiOiA1NTEuMjY0MjY4LA0KICAgICAgImNvbXBsZXhpdHkiOiAiTyhUIGQgbSkgW2xvbmc6IFBlcmZvcm1lciBtPTEyOF0iDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJmbGFzaCIsDQogICAgICAiVCI6IDEwMjQsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDQxLjcyODYsDQogICAgICAibWVtX21iIjogMC4zMjgxLA0KICAgICAgImZyb19yZWwiOiAwLjAsDQogICAgICAiY29tcGxleGl0eSI6ICJPKFReMiBkKSB0aW1lIC8gTyhUIGQpIG1lbW9yeSBbYnE9NjQsIGJrPTY0XSINCiAgICB9LA0KICAgIHsNCiAgICAgICJ2YXJpYW50IjogImZ1bGwiLA0KICAgICAgIlQiOiAxMDI0LA0KICAgICAgImQiOiAzMiwNCiAgICAgICJtZWRpYW5fbXMiOiAyNC40NTU3LA0KICAgICAgIm1lbV9tYiI6IDE2LjI1LA0KICAgICAgImZyb19yZWwiOiAwLjAsDQogICAgICAiY29tcGxleGl0eSI6ICJPKFReMiBkKSBbZXhhY3RdIg0KICAgIH0sDQogICAgew0KICAgICAgInZhcmlhbnQiOiAibGluZWFyIiwNCiAgICAgICJUIjogMTAyNCwNCiAgICAgICJkIjogMzIsDQogICAgICAibWVkaWFuX21zIjogMS4zOTA3LA0KICAgICAgIm1lbV9tYiI6IDAuNTA3OCwNCiAgICAgICJmcm9fcmVsIjogMC43NjAwMTMsDQogICAgICAiY29tcGxleGl0eSI6ICJPKFQgZF4yKSINCiAgICB9LA0KICAgIHsNCiAgICAgICJ2YXJpYW50IjogImxvY2FsX3dpbmRvdyIsDQogICAgICAiVCI6IDEwMjQsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDEwLjc4NDEsDQogICAgICAibWVtX21iIjogMC4wMTU5LA0KICAgICAgImZyb19yZWwiOiAzLjU1MTg0OSwNCiAgICAgICJjb21wbGV4aXR5IjogIk8oVCB3IGQpIFt3PTMyXSINCiAgICB9LA0KICAgIHsNCiAgICAgICJ2YXJpYW50IjogInBlcmZvcm1lciIsDQogICAgICAiVCI6IDEwMjQsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDMxLjY3NzYsDQogICAgICAibWVtX21iIjogOC4xMjUsDQogICAgICAiZnJvX3JlbCI6IDIxMi41NDM2MTIsDQogICAgICAiY29tcGxleGl0eSI6ICJPKFQgZCBtKSBbbT0yNTZdIg0KICAgIH0sDQogICAgew0KICAgICAgInZhcmlhbnQiOiAiYmxvY2tfc3BhcnNlIiwNCiAgICAgICJUIjogMjA0OCwNCiAgICAgICJkIjogMzIsDQogICAgICAibWVkaWFuX21zIjogMTIuMzQ4NywNCiAgICAgICJtZW1fbWIiOiAwLjA0ODgsDQogICAgICAiZnJvX3JlbCI6IDMuMTQzNjUsDQogICAgICAiY29tcGxleGl0eSI6ICJPKFQgYiBkKSBbYj02NCwgZz04XSINCiAgICB9LA0KICAgIHsNCiAgICAgICJ2YXJpYW50IjogImVmZmF0dG5mdXNlIiwNCiAgICAgICJUIjogMjA0OCwNCiAgICAgICJkIjogMzIsDQogICAgICAibWVkaWFuX21zIjogNjUuMDIwMiwNCiAgICAgICJtZW1fbWIiOiAxNi4xMjUsDQogICAgICAiZnJvX3JlbCI6IDY0MjIuODMyMTYsDQogICAgICAiY29tcGxleGl0eSI6ICJPKFQgZCBtKSBbbG9uZzogUGVyZm9ybWVyIG09MjU2XSINCiAgICB9LA0KICAgIHsNCiAgICAgICJ2YXJpYW50IjogImZsYXNoIiwNCiAgICAgICJUIjogMjA0OCwNCiAgICAgICJkIjogMzIsDQogICAgICAibWVkaWFuX21zIjogOTYuMDgxNCwNCiAgICAgICJtZW1fbWIiOiAwLjU5MzgsDQogICAgICAiZnJvX3JlbCI6IDAuMCwNCiAgICAgICJjb21wbGV4aXR5IjogIk8oVF4yIGQpIHRpbWUgLyBPKFQgZCkgbWVtb3J5IFticT02NCwgYms9NjRdIg0KICAgIH0sDQogICAgew0KICAgICAgInZhcmlhbnQiOiAiZnVsbCIsDQogICAgICAiVCI6IDIwNDgsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm1lZGlhbl9tcyI6IDEwOS4xOTY5LA0KICAgICAgIm1lbV9tYiI6IDY0LjUsDQogICAgICAiZnJvX3JlbCI6IDAuMCwNCiAgICAgICJjb21wbGV4aXR5IjogIk8oVF4yIGQpIFtleGFjdF0iDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJsaW5lYXIiLA0KICAgICAgIlQiOiAyMDQ4LA0KICAgICAgImQiOiAzMiwNCiAgICAgICJtZWRpYW5fbXMiOiAzLjUzNDcsDQogICAgICAibWVtX21iIjogMS4wMDc4LA0KICAgICAgImZyb19yZWwiOiAwLjgxNjU3LA0KICAgICAgImNvbXBsZXhpdHkiOiAiTyhUIGReMikiDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJsb2NhbF93aW5kb3ciLA0KICAgICAgIlQiOiAyMDQ4LA0KICAgICAgImQiOiAzMiwNCiAgICAgICJtZWRpYW5fbXMiOiAyMi45MjcxLA0KICAgICAgIm1lbV9tYiI6IDAuMDE1OSwNCiAgICAgICJmcm9fcmVsIjogNS41Mjc5MTcsDQogICAgICAiY29tcGxleGl0eSI6ICJPKFQgdyBkKSBbdz0zMl0iDQogICAgfSwNCiAgICB7DQogICAgICAidmFyaWFudCI6ICJwZXJmb3JtZXIiLA0KICAgICAgIlQiOiAyMDQ4LA0KICAgICAgImQiOiAzMiwNCiAgICAgICJtZWRpYW5fbXMiOiA1OS4yOTA0LA0KICAgICAgIm1lbV9tYiI6IDE2LjEyNSwNCiAgICAgICJmcm9fcmVsIjogNjQyMi44MzIxNiwNCiAgICAgICJjb21wbGV4aXR5IjogIk8oVCBkIG0pIFttPTI1Nl0iDQogICAgfQ0KICBdLA0KICAibWVtb3J5IjogWw0KICAgIHsNCiAgICAgICJUIjogMjU2LA0KICAgICAgImQiOiAzMiwNCiAgICAgICJuYWl2ZV9tYiI6IDEuMDYyNSwNCiAgICAgICJmbGFzaF9tYiI6IDAuMTI4OTA2LA0KICAgICAgIm1lbW9yeV9yYXRpbyI6IDguMjQNCiAgICB9LA0KICAgIHsNCiAgICAgICJUIjogNTEyLA0KICAgICAgImQiOiAzMiwNCiAgICAgICJuYWl2ZV9tYiI6IDQuMTI1LA0KICAgICAgImZsYXNoX21iIjogMC4xOTUzMTIsDQogICAgICAibWVtb3J5X3JhdGlvIjogMjEuMTINCiAgICB9LA0KICAgIHsNCiAgICAgICJUIjogMTAyNCwNCiAgICAgICJkIjogMzIsDQogICAgICAibmFpdmVfbWIiOiAxNi4yNSwNCiAgICAgICJmbGFzaF9tYiI6IDAuMzI4MTI1LA0KICAgICAgIm1lbW9yeV9yYXRpbyI6IDQ5LjUyDQogICAgfSwNCiAgICB7DQogICAgICAiVCI6IDIwNDgsDQogICAgICAiZCI6IDMyLA0KICAgICAgIm5haXZlX21iIjogNjQuNSwNCiAgICAgICJmbGFzaF9tYiI6IDAuNTkzNzUsDQogICAgICAibWVtb3J5X3JhdGlvIjogMTA4LjYzDQogICAgfQ0KICBdLA0KICAiZGV0ZXJtaW5pc20iOiB7DQogICAgImdhdGUiOiAiRzRfZGV0ZXJtaW5pc20iLA0KICAgICJiaXRfaWRlbnRpY2FsIjogdHJ1ZSwNCiAgICAicGFzc2VkIjogdHJ1ZSwNCiAgICAiZGV0YWlsIjogIuS4pOasoeeLrOeri+i/kOihjOeahOaVsOWAvOi+k+WHuuihqCAo5LiN5ZCr6K6h5pe2KSDpgJDlrZfoioLmr5TovoMiDQogIH0NCn0=
+{
+  "attention": [
+    {
+      "variant": "block_sparse",
+      "T": 256,
+      "d": 32,
+      "median_ms": 2.76,
+      "mem_mb": 0.0488,
+      "fro_rel": 0.837787,
+      "complexity": "O(T b d) [b=64, g=8]"
+    },
+    {
+      "variant": "effattnfuse",
+      "T": 256,
+      "d": 32,
+      "median_ms": 5.3945,
+      "mem_mb": 1.0625,
+      "fro_rel": 3304.791126,
+      "complexity": "O(T d m) [long: Performer m=128]"
+    },
+    {
+      "variant": "flash",
+      "T": 256,
+      "d": 32,
+      "median_ms": 1.7196,
+      "mem_mb": 0.1289,
+      "fro_rel": 0.0,
+      "complexity": "O(T^2 d) time / O(T d) memory [bq=64, bk=64]"
+    },
+    {
+      "variant": "full",
+      "T": 256,
+      "d": 32,
+      "median_ms": 1.9425,
+      "mem_mb": 1.0625,
+      "fro_rel": 0.0,
+      "complexity": "O(T^2 d) [exact]"
+    },
+    {
+      "variant": "linear",
+      "T": 256,
+      "d": 32,
+      "median_ms": 0.3702,
+      "mem_mb": 0.1328,
+      "fro_rel": 0.8183,
+      "complexity": "O(T d^2)"
+    },
+    {
+      "variant": "local_window",
+      "T": 256,
+      "d": 32,
+      "median_ms": 2.9309,
+      "mem_mb": 0.0159,
+      "fro_rel": 1.952956,
+      "complexity": "O(T w d) [w=32]"
+    },
+    {
+      "variant": "performer",
+      "T": 256,
+      "d": 32,
+      "median_ms": 9.6356,
+      "mem_mb": 2.125,
+      "fro_rel": 2280.505492,
+      "complexity": "O(T d m) [m=256]"
+    },
+    {
+      "variant": "block_sparse",
+      "T": 512,
+      "d": 32,
+      "median_ms": 2.8349,
+      "mem_mb": 0.0488,
+      "fro_rel": 1.271462,
+      "complexity": "O(T b d) [b=64, g=8]"
+    },
+    {
+      "variant": "effattnfuse",
+      "T": 512,
+      "d": 32,
+      "median_ms": 9.0873,
+      "mem_mb": 2.0625,
+      "fro_rel": 363.304132,
+      "complexity": "O(T d m) [long: Performer m=128]"
+    },
+    {
+      "variant": "flash",
+      "T": 512,
+      "d": 32,
+      "median_ms": 9.074,
+      "mem_mb": 0.1953,
+      "fro_rel": 0.0,
+      "complexity": "O(T^2 d) time / O(T d) memory [bq=64, bk=64]"
+    },
+    {
+      "variant": "full",
+      "T": 512,
+      "d": 32,
+      "median_ms": 5.0539,
+      "mem_mb": 4.125,
+      "fro_rel": 0.0,
+      "complexity": "O(T^2 d) [exact]"
+    },
+    {
+      "variant": "linear",
+      "T": 512,
+      "d": 32,
+      "median_ms": 0.5682,
+      "mem_mb": 0.2578,
+      "fro_rel": 0.694558,
+      "complexity": "O(T d^2)"
+    },
+    {
+      "variant": "local_window",
+      "T": 512,
+      "d": 32,
+      "median_ms": 6.7605,
+      "mem_mb": 0.0159,
+      "fro_rel": 2.332458,
+      "complexity": "O(T w d) [w=32]"
+    },
+    {
+      "variant": "performer",
+      "T": 512,
+      "d": 32,
+      "median_ms": 15.4929,
+      "mem_mb": 4.125,
+      "fro_rel": 300.809861,
+      "complexity": "O(T d m) [m=256]"
+    },
+    {
+      "variant": "block_sparse",
+      "T": 1024,
+      "d": 32,
+      "median_ms": 3.4206,
+      "mem_mb": 0.0488,
+      "fro_rel": 1.993206,
+      "complexity": "O(T b d) [b=64, g=8]"
+    },
+    {
+      "variant": "effattnfuse",
+      "T": 1024,
+      "d": 32,
+      "median_ms": 20.0337,
+      "mem_mb": 4.0625,
+      "fro_rel": 551.264268,
+      "complexity": "O(T d m) [long: Performer m=128]"
+    },
+    {
+      "variant": "flash",
+      "T": 1024,
+      "d": 32,
+      "median_ms": 41.7286,
+      "mem_mb": 0.3281,
+      "fro_rel": 0.0,
+      "complexity": "O(T^2 d) time / O(T d) memory [bq=64, bk=64]"
+    },
+    {
+      "variant": "full",
+      "T": 1024,
+      "d": 32,
+      "median_ms": 24.4557,
+      "mem_mb": 16.25,
+      "fro_rel": 0.0,
+      "complexity": "O(T^2 d) [exact]"
+    },
+    {
+      "variant": "linear",
+      "T": 1024,
+      "d": 32,
+      "median_ms": 1.3907,
+      "mem_mb": 0.5078,
+      "fro_rel": 0.760013,
+      "complexity": "O(T d^2)"
+    },
+    {
+      "variant": "local_window",
+      "T": 1024,
+      "d": 32,
+      "median_ms": 10.7841,
+      "mem_mb": 0.0159,
+      "fro_rel": 3.551849,
+      "complexity": "O(T w d) [w=32]"
+    },
+    {
+      "variant": "performer",
+      "T": 1024,
+      "d": 32,
+      "median_ms": 31.6776,
+      "mem_mb": 8.125,
+      "fro_rel": 212.543612,
+      "complexity": "O(T d m) [m=256]"
+    },
+    {
+      "variant": "block_sparse",
+      "T": 2048,
+      "d": 32,
+      "median_ms": 12.3487,
+      "mem_mb": 0.0488,
+      "fro_rel": 3.14365,
+      "complexity": "O(T b d) [b=64, g=8]"
+    },
+    {
+      "variant": "effattnfuse",
+      "T": 2048,
+      "d": 32,
+      "median_ms": 65.0202,
+      "mem_mb": 16.125,
+      "fro_rel": 6422.83216,
+      "complexity": "O(T d m) [long: Performer m=256]"
+    },
+    {
+      "variant": "flash",
+      "T": 2048,
+      "d": 32,
+      "median_ms": 96.0814,
+      "mem_mb": 0.5938,
+      "fro_rel": 0.0,
+      "complexity": "O(T^2 d) time / O(T d) memory [bq=64, bk=64]"
+    },
+    {
+      "variant": "full",
+      "T": 2048,
+      "d": 32,
+      "median_ms": 109.1969,
+      "mem_mb": 64.5,
+      "fro_rel": 0.0,
+      "complexity": "O(T^2 d) [exact]"
+    },
+    {
+      "variant": "linear",
+      "T": 2048,
+      "d": 32,
+      "median_ms": 3.5347,
+      "mem_mb": 1.0078,
+      "fro_rel": 0.81657,
+      "complexity": "O(T d^2)"
+    },
+    {
+      "variant": "local_window",
+      "T": 2048,
+      "d": 32,
+      "median_ms": 22.9271,
+      "mem_mb": 0.0159,
+      "fro_rel": 5.527917,
+      "complexity": "O(T w d) [w=32]"
+    },
+    {
+      "variant": "performer",
+      "T": 2048,
+      "d": 32,
+      "median_ms": 59.2904,
+      "mem_mb": 16.125,
+      "fro_rel": 6422.83216,
+      "complexity": "O(T d m) [m=256]"
+    }
+  ],
+  "memory": [
+    {
+      "T": 256,
+      "d": 32,
+      "naive_mb": 1.0625,
+      "flash_mb": 0.128906,
+      "memory_ratio": 8.24
+    },
+    {
+      "T": 512,
+      "d": 32,
+      "naive_mb": 4.125,
+      "flash_mb": 0.195312,
+      "memory_ratio": 21.12
+    },
+    {
+      "T": 1024,
+      "d": 32,
+      "naive_mb": 16.25,
+      "flash_mb": 0.328125,
+      "memory_ratio": 49.52
+    },
+    {
+      "T": 2048,
+      "d": 32,
+      "naive_mb": 64.5,
+      "flash_mb": 0.59375,
+      "memory_ratio": 108.63
+    }
+  ],
+  "determinism": {
+    "gate": "G4_determinism",
+    "bit_identical": true,
+    "passed": true,
+    "detail": "两次独立运行的数值输出表 (不含计时) 逐字节比较"
+  }
+}

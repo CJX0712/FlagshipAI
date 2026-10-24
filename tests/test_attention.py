@@ -1,1 +1,170 @@
-IiIi5rOo5oSP5Yqb5a625peP5rWL6K+VIOKAlOKAlCDnu5/kuIDljY/orq7kuIvnmoTmlbDlgLzkuIDoh7TmgKfjgIHlpI3mnYLluqbkuI7psoHmo5LmgKfjgIIiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBweXRlc3QKCmZyb20gbW9ybmluZ3N0YXIuYXR0ZW50aW9uIGltcG9ydCAoCiAgICBCbG9ja1NwYXJzZUF0dGVudGlvbiwKICAgIEVmZkF0dG5GdXNlLAogICAgRmxhc2hBdHRlbnRpb24sCiAgICBGdWxsQXR0ZW50aW9uLAogICAgTGluZWFyQXR0ZW50aW9uLAogICAgTG9jYWxXaW5kb3dBdHRlbnRpb24sCiAgICBQZXJmb3JtZXJBdHRlbnRpb24sCiAgICBidWlsZF92YXJpYW50LAogICAgbGlzdF92YXJpYW50cywKKQpmcm9tIG1vcm5pbmdzdGFyLmZsYXNoLmF0dGVudGlvbiBpbXBvcnQgZmxhc2hfYXR0ZW50aW9uX2ZvcndhcmQsIG5haXZlX2F0dGVudGlvbl9mb3J3YXJkCgoKQHB5dGVzdC5maXh0dXJlKHNjb3BlPSJtb2R1bGUiKQpkZWYgcWt2KCk6CiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMjAyNikKICAgIFQsIGQgPSA2NCwgMTYKICAgIHJldHVybiBybmcuc3RhbmRhcmRfbm9ybWFsKChULCBkKSksIHJuZy5zdGFuZGFyZF9ub3JtYWwoKFQsIGQpKSwgcm5nLnN0YW5kYXJkX25vcm1hbCgoVCwgZCkpCgoKZGVmIHRlc3RfcmVnaXN0cnlfY292ZXJzX2FsbF92YXJpYW50cygpOgogICAgbmFtZXMgPSBsaXN0X3ZhcmlhbnRzKCkKICAgIGZvciBleHBlY3RlZCBpbiAoCiAgICAgICAgImZ1bGwiLCAiZmxhc2giLCAibGluZWFyIiwgInBlcmZvcm1lciIsCiAgICAgICAgImxvY2FsX3dpbmRvdyIsICJibG9ja19zcGFyc2UiLCAiZWZmYXR0bmZ1c2UiLAogICAgKToKICAgICAgICBhc3NlcnQgZXhwZWN0ZWQgaW4gbmFtZXMKICAgICAgICBhc3NlcnQgYnVpbGRfdmFyaWFudChleHBlY3RlZCkgaXMgbm90IE5vbmUKCgpkZWYgdGVzdF9yZWdpc3RyeV9yZWplY3RzX3Vua25vd24oKToKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhLZXlFcnJvcik6CiAgICAgICAgYnVpbGRfdmFyaWFudCgibm9fc3VjaF9hdHRlbnRpb24iKQoKCmRlZiB0ZXN0X2ZsYXNoX21hdGNoZXNfZnVsbChxa3YpOgogICAgIiIiRmxhc2gg5LiOIEZ1bGwg5b+F6aG75pWw5YC8562J5Lu3ICjnsr7noa7ms6jmhI/lipsp44CCIiIiCiAgICBxLCBrLCB2ID0gcWt2CiAgICBhID0gRnVsbEF0dGVudGlvbigpLmF0dGVuZChxLCBrLCB2KS5vdXRwdXQKICAgIGIgPSBGbGFzaEF0dGVudGlvbigpLmF0dGVuZChxLCBrLCB2KS5vdXRwdXQKICAgIGFzc2VydCBucC5tYXgobnAuYWJzKGEgLSBiKSkgPCAxZS0xMgoKCmRlZiB0ZXN0X2F0dGVudGlvbl9vdXRwdXRfbWV0YWRhdGEocWt2KToKICAgIHEsIGssIHYgPSBxa3YKICAgIGZvciBpbnN0IGluICgKICAgICAgICBGdWxsQXR0ZW50aW9uKCksIEZsYXNoQXR0ZW50aW9uKCksIExpbmVhckF0dGVudGlvbigpLAogICAgICAgIFBlcmZvcm1lckF0dGVudGlvbihtPTY0KSwgTG9jYWxXaW5kb3dBdHRlbnRpb24od2luZG93PTgpLAogICAgICAgIEJsb2NrU3BhcnNlQXR0ZW50aW9uKGJsb2NrX3NpemU9MTYsIG5fZ2xvYmFsPTIpLAogICAgKToKICAgICAgICBvdXQgPSBpbnN0LmF0dGVuZChxLCBrLCB2KQogICAgICAgIGFzc2VydCBvdXQub3V0cHV0LnNoYXBlID09IHEuc2hhcGUKICAgICAgICBhc3NlcnQgb3V0Lm1lbV9wZWFrX21iID49IDAuMAogICAgICAgIGFzc2VydCBvdXQuY29zdF9zID49IDAuMAogICAgICAgIGFzc2VydCBpc2luc3RhbmNlKGluc3QudGhlb3JldGljYWxfY29tcGxleGl0eShxLnNoYXBlWzBdLCBxLnNoYXBlWzFdKSwgc3RyKQoKCmRlZiB0ZXN0X2xvY2FsX3dpbmRvd19yZXNwZWN0c193aW5kb3cocWt2KToKICAgICIiIua7keeql+azqOaEj+WKmzog6L6T5Ye65b+F6aG75LiO44CM5Y+q55yL56qX5Y+j5YaF44CN55qE57K+56Gu5rOo5oSP5Yqb5LiA6Ie044CCIiIiCiAgICBxLCBrLCB2ID0gcWt2CiAgICB3ID0gNAogICAgb3V0ID0gTG9jYWxXaW5kb3dBdHRlbnRpb24od2luZG93PXcpLmF0dGVuZChxLCBrLCB2KS5vdXRwdXQKICAgIFQsIGQgPSBxLnNoYXBlCiAgICBmb3IgaSBpbiByYW5nZShUKToKICAgICAgICBsbywgaGkgPSBtYXgoMCwgaSAtIHcpLCBtaW4oVCwgaSArIHcgKyAxKQogICAgICAgIHMgPSAocVtpXSBAIGtbbG86aGldLlQpIC8gbnAuc3FydChkKQogICAgICAgIHMgPSBzIC0gcy5tYXgoKQogICAgICAgIHAgPSBucC5leHAocykgLyBucC5leHAocykuc3VtKCkKICAgICAgICBhc3NlcnQgbnAuYWxsY2xvc2Uob3V0W2ldLCBwIEAgdltsbzpoaV0sIGF0b2w9MWUtMTIpCgoKZGVmIHRlc3RfYmxvY2tfc3BhcnNlX3Jlc3BlY3RzX3BhdHRlcm4ocWt2KToKICAgICIiIuWdl+eogOeWj+azqOaEj+WKmzog6L6T5Ye65b+F6aG75LiO44CM5Z2X5YaFICsg5YWo5bGAIHRva2Vu44CN55qE57K+56Gu5rOo5oSP5Yqb5LiA6Ie044CCIiIiCiAgICBxLCBrLCB2ID0gcWt2CiAgICBiLCBuZyA9IDE2LCAyCiAgICBvdXQgPSBCbG9ja1NwYXJzZUF0dGVudGlvbihibG9ja19zaXplPWIsIG5fZ2xvYmFsPW5nKS5hdHRlbmQocSwgaywgdikub3V0cHV0CiAgICBULCBkID0gcS5zaGFwZQogICAgZm9yIGJpIGluIHJhbmdlKChUICsgYiAtIDEpIC8vIGIpOgogICAgICAgIHFzLCBxZSA9IGJpICogYiwgbWluKFQsIChiaSArIDEpICogYikKICAgICAgICBpZHggPSBbbnAuYXJhbmdlKG5nKV0KICAgICAgICBmb3IgYmogaW4gKGJpIC0gMSwgYmksIGJpICsgMSk6CiAgICAgICAgICAgIGlmIDAgPD0gYmogPCAoVCArIGIgLSAxKSAvLyBiOgogICAgICAgICAgICAgICAgaWR4LmFwcGVuZChucC5hcmFuZ2UoYmogKiBiLCBtaW4oVCwgKGJqICsgMSkgKiBiKSkpCiAgICAgICAgYWxsb3dlZCA9IG5wLnVuaXF1ZShucC5jb25jYXRlbmF0ZShpZHgpKQogICAgICAgIHMgPSAocVtxczpxZV0gQCBrW2FsbG93ZWRdLlQpIC8gbnAuc3FydChkKQogICAgICAgIHMgPSBzIC0gcy5tYXgoYXhpcz0tMSwga2VlcGRpbXM9VHJ1ZSkKICAgICAgICBwID0gbnAuZXhwKHMpIC8gbnAuZXhwKHMpLnN1bShheGlzPS0xLCBrZWVwZGltcz1UcnVlKQogICAgICAgIGFzc2VydCBucC5hbGxjbG9zZShvdXRbcXM6cWVdLCBwIEAgdlthbGxvd2VkXSwgYXRvbD0xZS0xMCkKCgpkZWYgdGVzdF9wZXJmb3JtZXJfc2hhcmVzX2ZlYXR1cmVzX2JldHdlZW5fcV9hbmRfaygpOgogICAgIiIiRkFWT1IrIOWbnuW9kumUgTogUSDkuI4gSyDlv4Xpobvkvb/nlKgqKuWQjOS4gOe7hCoq6ZqP5py654m55b6BICjPiSwgYinjgIIKCiAgICDoi6XkuozogIXlkIToh6rni6znq4vph4fmoLfpmo/mnLrnibnlvoEsIOWGheenr+eahOacn+acm+iZveS7jeato+ehriwg5L2G5Y2P5pa55beu6KKr56C05Z2PLAogICAg5Lyw6K6h5pa55beu5oCl5Ymn5oG25YyWICjlrp7mtYvnm7jlr7nor6/lt67ku44gfjAuMDQg5oG25YyW5YiwIH4xOCnjgIIKICAgICIiIgogICAgcGVyZiA9IFBlcmZvcm1lckF0dGVudGlvbihtPTY0LCBzZWVkPTMpCiAgICBXMSwgYjEgPSBwZXJmLl9zYW1wbGUoOCkKICAgIFcyLCBiMiA9IHBlcmYuX3NhbXBsZSg4KQogICAgYXNzZXJ0IG5wLmFycmF5X2VxdWFsKFcxLCBXMikgYW5kIG5wLmFycmF5X2VxdWFsKGIxLCBiMikKCgpkZWYgdGVzdF9wZXJmb3JtZXJfYXN5bW1ldHJpY19ub3JtX2lzX3VuYmlhc2VkX2luX3JhdGlvKCk6CiAgICAiIiJGQVZPUisg6Z2e5a+556ew6IyD5pWw5Zug5a2Q5Zue5b2S6ZSB44CCCgogICAgUXVlcnkg55SoIGV4cCjiiJLigJZ44oCWwrIvMinjgIFLZXkg55SoIGV4cCgr4oCWeOKAlsKyLzIpIOaXtiwg5rOo5oSP5Yqb5q+U5YC85peg5YGPOwogICAg6Iul5Lik5L6n5ZCM5Y+3LCDkvLDorqHph4/kvJrlvJXlhaXpmo8g4oCWa19q4oCWwrIg5Y+Y5YyW55qE57O757uf5oCn5YGP5YCa44CCCiAgICAiIiIKICAgIGZyb20gbW9ybmluZ3N0YXIuYXR0ZW50aW9uIGltcG9ydCBQZXJmb3JtZXJBdHRlbnRpb24gYXMgUEEKCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoNSkKICAgIFQsIGQgPSA0OCwgOAogICAgcSA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoKFQsIGQpKSAqIDAuMwogICAgayA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoKFQsIGQpKSAqIDAuMwogICAgdiA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoKFQsIGQpKQoKICAgIHBlcmYgPSBQQShtPTIwNDgsIHNlZWQ9MTEpCiAgICBXLCBiID0gcGVyZi5fc2FtcGxlKGQpCiAgICBwcSA9IHBlcmYuX2ZlYXR1cmVzKHEsIFcsIGIsIG5vcm1fc2lnbj0tMS4wKQogICAgcGsgPSBwZXJmLl9mZWF0dXJlcyhrLCBXLCBiLCBub3JtX3NpZ249KzEuMCkKICAgIG91dCA9IChwcSBAIChway5UIEAgdikpIC8gKHBxIEAgcGsuc3VtKGF4aXM9MCkpWzosIE5vbmVdCgogICAgcyA9IChxIEAgay5UKSAvIG5wLnNxcnQoZCkKICAgIHMgPSBzIC0gcy5tYXgoYXhpcz0tMSwga2VlcGRpbXM9VHJ1ZSkKICAgIGUgPSBucC5leHAocykKICAgIHJlZiA9IChlIC8gZS5zdW0oYXhpcz0tMSwga2VlcGRpbXM9VHJ1ZSkpIEAgdgogICAgcmVsID0gbnAubGluYWxnLm5vcm0ob3V0IC0gcmVmKSAvIG5wLmxpbmFsZy5ub3JtKHJlZikKICAgIGFzc2VydCByZWwgPCAwLjUsIGYiRkFWT1IrIOebuOWvueivr+W3rui/h+Wkpzoge3JlbDouNGZ9IgoKCmRlZiB0ZXN0X2VmZmF0dG5mdXNlX3JvdXRlcl9zZWxlY3RzX2Z1bGxfZm9yX3Nob3J0KCk6CiAgICAiIiLot6/nlLE6IOefreW6j+WIl+i1sOeyvuehruazqOaEj+WKm+OAgiIiIgogICAgZnVzZSA9IEVmZkF0dG5GdXNlKGZ1bGxfdGhyZXNob2xkPTY0KQogICAgYXNzZXJ0IGlzaW5zdGFuY2UoZnVzZS5jaG9vc2UoMzIsIDE2KSwgRnVsbEF0dGVudGlvbikKCgpkZWYgdGVzdF9lZmZhdHRuZnVzZV9yb3V0ZXJfZmFsbHNfYmFja193aGVuX2ZpZGVsaXR5X2xvdygpOgogICAgIiIi6LSo6YeP5a6I5Y2rOiDmoIflrprkv53nnJ/luqbkuI3ovr7moIfml7blm57pgIDliLDnsr7noa7ms6jmhI/lipvjgIIiIiIKICAgIGZ1c2UgPSBFZmZBdHRuRnVzZShmdWxsX3RocmVzaG9sZD04LCBjYWxpYnJhdGlvbj17NjQ6IDAuNX0sIHJldHJpZXZhbF9mbG9vcj0wLjk4KQogICAgYXNzZXJ0IGlzaW5zdGFuY2UoZnVzZS5jaG9vc2UoNjQsIDE2KSwgRnVsbEF0dGVudGlvbikKCgpkZWYgdGVzdF9lZmZhdHRuZnVzZV9yb3V0ZXJfdXNlc19wZXJmb3JtZXJfd2hlbl9jYWxpYnJhdGVkKCk6CiAgICBmdXNlID0gRWZmQXR0bkZ1c2UoZnVsbF90aHJlc2hvbGQ9OCwgY2FsaWJyYXRpb249ezY0OiAwLjk5fSwgcmV0cmlldmFsX2Zsb29yPTAuOTgpCiAgICBhc3NlcnQgaXNpbnN0YW5jZShmdXNlLmNob29zZSg2NCwgMTYpLCBQZXJmb3JtZXJBdHRlbnRpb24pCgoKZGVmIHRlc3RfZmxhc2hfbWVtb3J5X2lzX3N1YnF1YWRyYXRpYygpOgogICAgIiIiRmxhc2gg55qE5bOw5YC85YaF5a2Y5b+F6aG75piv5qyh5LqM5qyh55qE44CCIiIiCiAgICBULCBkID0gMjA0OCwgMzIKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygxKQogICAgcSwgaywgdiA9IChybmcuc3RhbmRhcmRfbm9ybWFsKChULCBkKSkgZm9yIF8gaW4gcmFuZ2UoMykpCiAgICBfLCBfLCBuYnl0ZXMgPSBmbGFzaF9hdHRlbnRpb25fZm9yd2FyZChxLCBrLCB2LCBtYXNrPSJub25lIikKICAgIG5haXZlX2J5dGVzID0gMiAqIFQgKiBUICogOAogICAgYXNzZXJ0IG5ieXRlcyA8IG5haXZlX2J5dGVzIC8gMjAKCgpkZWYgdGVzdF9uYWl2ZV9hdHRlbnRpb25fcmV0dXJuc19zdG9jaGFzdGljX3dlaWdodHMoKToKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygyKQogICAgcSwgaywgdiA9IChybmcuc3RhbmRhcmRfbm9ybWFsKCgxMiwgOCkpIGZvciBfIGluIHJhbmdlKDMpKQogICAgXywgdyA9IG5haXZlX2F0dGVudGlvbl9mb3J3YXJkKHEsIGssIHYsIG1hc2s9Im5vbmUiLCByZXR1cm5fd2VpZ2h0cz1UcnVlKQogICAgYXNzZXJ0IHcuc2hhcGUgPT0gKDEyLCAxMikKICAgIGFzc2VydCBucC5hbGxjbG9zZSh3LnN1bShheGlzPTEpLCAxLjAsIGF0b2w9MWUtMTIpCg==
+"""注意力家族测试 —— 统一协议下的数值一致性、复杂度与鲁棒性。"""
+from __future__ import annotations
+
+import numpy as np
+import pytest
+
+from morningstar.attention import (
+    BlockSparseAttention,
+    EffAttnFuse,
+    FlashAttention,
+    FullAttention,
+    LinearAttention,
+    LocalWindowAttention,
+    PerformerAttention,
+    build_variant,
+    list_variants,
+)
+from morningstar.flash.attention import flash_attention_forward, naive_attention_forward
+
+
+@pytest.fixture(scope="module")
+def qkv():
+    rng = np.random.default_rng(2026)
+    T, d = 64, 16
+    return rng.standard_normal((T, d)), rng.standard_normal((T, d)), rng.standard_normal((T, d))
+
+
+def test_registry_covers_all_variants():
+    names = list_variants()
+    for expected in (
+        "full", "flash", "linear", "performer",
+        "local_window", "block_sparse", "effattnfuse",
+    ):
+        assert expected in names
+        assert build_variant(expected) is not None
+
+
+def test_registry_rejects_unknown():
+    with pytest.raises(KeyError):
+        build_variant("no_such_attention")
+
+
+def test_flash_matches_full(qkv):
+    """Flash 与 Full 必须数值等价 (精确注意力)。"""
+    q, k, v = qkv
+    a = FullAttention().attend(q, k, v).output
+    b = FlashAttention().attend(q, k, v).output
+    assert np.max(np.abs(a - b)) < 1e-12
+
+
+def test_attention_output_metadata(qkv):
+    q, k, v = qkv
+    for inst in (
+        FullAttention(), FlashAttention(), LinearAttention(),
+        PerformerAttention(m=64), LocalWindowAttention(window=8),
+        BlockSparseAttention(block_size=16, n_global=2),
+    ):
+        out = inst.attend(q, k, v)
+        assert out.output.shape == q.shape
+        assert out.mem_peak_mb >= 0.0
+        assert out.cost_s >= 0.0
+        assert isinstance(inst.theoretical_complexity(q.shape[0], q.shape[1]), str)
+
+
+def test_local_window_respects_window(qkv):
+    """滑窗注意力: 输出必须与「只看窗口内」的精确注意力一致。"""
+    q, k, v = qkv
+    w = 4
+    out = LocalWindowAttention(window=w).attend(q, k, v).output
+    T, d = q.shape
+    for i in range(T):
+        lo, hi = max(0, i - w), min(T, i + w + 1)
+        s = (q[i] @ k[lo:hi].T) / np.sqrt(d)
+        s = s - s.max()
+        p = np.exp(s) / np.exp(s).sum()
+        assert np.allclose(out[i], p @ v[lo:hi], atol=1e-12)
+
+
+def test_block_sparse_respects_pattern(qkv):
+    """块稀疏注意力: 输出必须与「块内 + 全局 token」的精确注意力一致。"""
+    q, k, v = qkv
+    b, ng = 16, 2
+    out = BlockSparseAttention(block_size=b, n_global=ng).attend(q, k, v).output
+    T, d = q.shape
+    for bi in range((T + b - 1) // b):
+        qs, qe = bi * b, min(T, (bi + 1) * b)
+        idx = [np.arange(ng)]
+        for bj in (bi - 1, bi, bi + 1):
+            if 0 <= bj < (T + b - 1) // b:
+                idx.append(np.arange(bj * b, min(T, (bj + 1) * b)))
+        allowed = np.unique(np.concatenate(idx))
+        s = (q[qs:qe] @ k[allowed].T) / np.sqrt(d)
+        s = s - s.max(axis=-1, keepdims=True)
+        p = np.exp(s) / np.exp(s).sum(axis=-1, keepdims=True)
+        assert np.allclose(out[qs:qe], p @ v[allowed], atol=1e-10)
+
+
+def test_performer_shares_features_between_q_and_k():
+    """FAVOR+ 回归锁: Q 与 K 必须使用**同一组**随机特征 (ω, b)。
+
+    若二者各自独立采样随机特征, 内积的期望虽仍正确, 但协方差被破坏,
+    估计方差急剧恶化 (实测相对误差从 ~0.04 恶化到 ~18)。
+    """
+    perf = PerformerAttention(m=64, seed=3)
+    W1, b1 = perf._sample(8)
+    W2, b2 = perf._sample(8)
+    assert np.array_equal(W1, W2) and np.array_equal(b1, b2)
+
+
+def test_performer_asymmetric_norm_is_unbiased_in_ratio():
+    """FAVOR+ 非对称范数因子回归锁。
+
+    Query 用 exp(−‖x‖²/2)、Key 用 exp(+‖x‖²/2) 时, 注意力比值无偏;
+    若两侧同号, 估计量会引入随 ‖k_j‖² 变化的系统性偏倚。
+    """
+    from morningstar.attention import PerformerAttention as PA
+
+    rng = np.random.default_rng(5)
+    T, d = 48, 8
+    q = rng.standard_normal((T, d)) * 0.3
+    k = rng.standard_normal((T, d)) * 0.3
+    v = rng.standard_normal((T, d))
+
+    perf = PA(m=2048, seed=11)
+    W, b = perf._sample(d)
+    pq = perf._features(q, W, b, norm_sign=-1.0)
+    pk = perf._features(k, W, b, norm_sign=+1.0)
+    out = (pq @ (pk.T @ v)) / (pq @ pk.sum(axis=0))[:, None]
+
+    s = (q @ k.T) / np.sqrt(d)
+    s = s - s.max(axis=-1, keepdims=True)
+    e = np.exp(s)
+    ref = (e / e.sum(axis=-1, keepdims=True)) @ v
+    rel = np.linalg.norm(out - ref) / np.linalg.norm(ref)
+    assert rel < 0.5, f"FAVOR+ 相对误差过大: {rel:.4f}"
+
+
+def test_effattnfuse_router_selects_full_for_short():
+    """路由: 短序列走精确注意力。"""
+    fuse = EffAttnFuse(full_threshold=64)
+    assert isinstance(fuse.choose(32, 16), FullAttention)
+
+
+def test_effattnfuse_router_falls_back_when_fidelity_low():
+    """质量守卫: 标定保真度不达标时回退到精确注意力。"""
+    fuse = EffAttnFuse(full_threshold=8, calibration={64: 0.5}, retrieval_floor=0.98)
+    assert isinstance(fuse.choose(64, 16), FullAttention)
+
+
+def test_effattnfuse_router_uses_performer_when_calibrated():
+    fuse = EffAttnFuse(full_threshold=8, calibration={64: 0.99}, retrieval_floor=0.98)
+    assert isinstance(fuse.choose(64, 16), PerformerAttention)
+
+
+def test_flash_memory_is_subquadratic():
+    """Flash 的峰值内存必须是次二次的。"""
+    T, d = 2048, 32
+    rng = np.random.default_rng(1)
+    q, k, v = (rng.standard_normal((T, d)) for _ in range(3))
+    _, _, nbytes = flash_attention_forward(q, k, v, mask="none")
+    naive_bytes = 2 * T * T * 8
+    assert nbytes < naive_bytes / 20
+
+
+def test_naive_attention_returns_stochastic_weights():
+    rng = np.random.default_rng(2)
+    q, k, v = (rng.standard_normal((12, 8)) for _ in range(3))
+    _, w = naive_attention_forward(q, k, v, mask="none", return_weights=True)
+    assert w.shape == (12, 12)
+    assert np.allclose(w.sum(axis=1), 1.0, atol=1e-12)

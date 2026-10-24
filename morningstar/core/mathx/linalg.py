@@ -1,1 +1,162 @@
-IiIiTDEg57q/5oCn5Luj5pWwIOKAlOKAlCBmb3JnZSDnuq/lrp7njrAgKyDmlbDlrabkuI3lj5jph4/jgIINCg0K6Zu26YeN5YaZ77ya56ig5a+G57q/5oCn5Luj5pWw77yIQkxBUy9MQVBBQ0vvvInnm7TmjqXlpI3nlKggbnVtcHnvvJvmraTlpITlj6rmiYvlhpnpgqPkupsNCuOAjOiDveeUqOS4gOadoeWPr+mqjOivgeS4jeWPmOmHj+eLrOeri+ivgeaYjuato+ehruaAp+OAjeeahOWFs+mUruWOn+ivre+8jOW5tueUqOS4jeWPmOmHj+iHquivgeOAgg0KDQrkuI3lj5jph4/muIXljZXvvJoNCiAgKiBDaG9sZXNreSAgOiBBID0gTCBM4bWAICDih5IgIOKAlkEg4oiSIEwgTOG1gOKAll9GIOKJiCAwDQogICogSmFjb2JpIOeJueW+gTog5a+556ew6Zi154m55b6B5ZCR6YeP5b285q2k5q2j5LqkICDih5IgIOKAllbhtYBWIOKIkiBJ4oCWX0Yg4omIIDANCiAgKiBKYWNvYmkg54m55b6BOiDmrovlt64gIOKAlkEgduG1oiDiiJIgzrvhtaIgduG1ouKAll8yIOKJiCDOtSAo5py65Zmo57K+5bqm57qnKQ0KICAqIGxvZ3N1bWV4cCA6IOaVsOWAvOeos+Wumu+8jOaXoOivr+a6ouWHug0KIiIiDQpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zDQoNCmltcG9ydCBudW1weSBhcyBucA0KDQpFUFMgPSBucC5maW5mbyhucC5mbG9hdDY0KS5lcHMgICMg4omIIDIuMmUtMTYNCg0KDQpkZWYgY2hvbGVza3koQTogbnAubmRhcnJheSkgLT4gbnAubmRhcnJheToNCiAgICAiIiJDaG9sZXNreSDliIbop6MgQSA9IEwgTOG1gO+8jEwg5Li65LiL5LiJ6KeS77yI5q2j5a6a6Zi177yJ44CCIiIiDQogICAgQSA9IG5wLmFzYXJyYXkoQSwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICBuID0gQS5zaGFwZVswXQ0KICAgIEwgPSBucC56ZXJvcygobiwgbiksIGR0eXBlPW5wLmZsb2F0NjQpDQogICAgZm9yIGogaW4gcmFuZ2Uobik6DQogICAgICAgIHMgPSBBW2osIGpdIC0gbnAuc3VtKExbaiwgOmpdICoqIDIpDQogICAgICAgIGlmIHMgPD0gMDoNCiAgICAgICAgICAgICMg6Z2e5q2j5a6a5a656ZSZ77ya5Yqg5b6u5bCP5bKt6aG55ZCO6YeN6K+V77yI5pWw5YC85YGl5aOu5oCn77yJDQogICAgICAgICAgICBBID0gQSArIDFlLTEyICogbnAuZXllKG4pDQogICAgICAgICAgICByZXR1cm4gY2hvbGVza3koQSkNCiAgICAgICAgTFtqLCBqXSA9IG5wLnNxcnQocykNCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoaiArIDEsIG4pOg0KICAgICAgICAgICAgTFtpLCBqXSA9IChBW2ksIGpdIC0gbnAuc3VtKExbaSwgOmpdICogTFtqLCA6al0pKSAvIExbaiwgal0NCiAgICByZXR1cm4gTA0KDQoNCmRlZiBjaG9sZXNreV9pbnZlcnNlKEw6IG5wLm5kYXJyYXkpIC0+IG5wLm5kYXJyYXk6DQogICAgIiIi5Yip55SoIENob2xlc2t5IOWboOWtkOaxgiAoTCBM4bWAKeKBu8K5IO+8iOWJjeWQkS/lkI7lkJHku6PlhaXvvIxPKG7CsinvvInjgIIiIiINCiAgICBMID0gbnAuYXNhcnJheShMLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgIG4gPSBMLnNoYXBlWzBdDQogICAgIyDop6MgTCBZID0gSSAgKOS4i+S4ieinkuWJjeWQkeS7o+WFpSkNCiAgICBZID0gbnAuemVyb3NfbGlrZShMKQ0KICAgIGZvciBqIGluIHJhbmdlKG4pOg0KICAgICAgICBZW2osIGpdID0gMS4wIC8gTFtqLCBqXQ0KICAgICAgICBmb3IgaSBpbiByYW5nZShqICsgMSwgbik6DQogICAgICAgICAgICBZW2ksIGpdID0gLW5wLmRvdChMW2ksIGo6aV0sIFlbajppLCBqXSkgLyBMW2ksIGldDQogICAgIyBB4oG7wrkgPSAoTCBM4bWAKeKBu8K5ID0gTOKBu+G1gCBM4oG7wrkgPSBZ4bWAIFkNCiAgICByZXR1cm4gWS5UIEAgWQ0KDQoNCmRlZiBqYWNvYmlfZWlnZW4oQTogbnAubmRhcnJheSwgbWF4X3N3ZWVwczogaW50ID0gMTAwLCB0b2w6IGZsb2F0ID0gMWUtMTIpIC0+IHR1cGxlW25wLm5kYXJyYXksIG5wLm5kYXJyYXksIGRpY3RdOg0KICAgICIiIue7j+WFuCBKYWNvYmkg5b6q546v5peL6L2s5rOV5rGC5a+556ew6Zi154m55b6B5YiG6Kej44CCDQoNCiAgICDov5Tlm54gKGVpZ2VudmFsdWVzW+WNh+W6j10sIGVpZ2VudmVjdG9ycyDliJflkJHph48sIGluZm8p44CCDQogICAg5q2j5Lqk5oCn5LiN5Y+Y6YeP77yaVuG1gFYgPSBJ77yb5q6L5beu5LiN5Y+Y6YeP77ya4oCWQSB24bWiIOKIkiDOu+G1oiB24bWi4oCWIOKJiCDOteOAgg0KICAgICIiIg0KICAgIEEgPSBucC5hc2FycmF5KEEsIGR0eXBlPW5wLmZsb2F0NjQpDQogICAgbiA9IEEuc2hhcGVbMF0NCiAgICAjIOW8uuWItuWvueensA0KICAgIEEgPSAwLjUgKiAoQSArIEEuVCkNCiAgICBWID0gbnAuZXllKG4pDQogICAgb2ZmID0gbGFtYmRhIE06IG5wLnNxcnQobnAuc3VtKG5wLnRyaWwoTSwgLTEpICoqIDIpICogMikNCiAgICBzd2VlcHMgPSAwDQogICAgZm9yIHN3ZWVwIGluIHJhbmdlKG1heF9zd2VlcHMpOg0KICAgICAgICBpZiBvZmYoQSkgPCB0b2w6DQogICAgICAgICAgICBicmVhaw0KICAgICAgICBmb3IgcCBpbiByYW5nZShuIC0gMSk6DQogICAgICAgICAgICBmb3IgcSBpbiByYW5nZShwICsgMSwgbik6DQogICAgICAgICAgICAgICAgaWYgYWJzKEFbcCwgcV0pIDwgMWUtMzAwOg0KICAgICAgICAgICAgICAgICAgICBjb250aW51ZQ0KICAgICAgICAgICAgICAgICMg5peL6L2s6KeS77yadGFuKDLPhikgPSAyIGFfcHEgLyAoYV9wcCDiiJIgYV9xcSkNCiAgICAgICAgICAgICAgICAjIM64ID0gKGFfcXEg4oiSIGFfcHApIC8gKDIgYV9wcSnvvIx0ID0gdGFuIM+GDQogICAgICAgICAgICAgICAgZGVub20gPSAyLjAgKiBBW3AsIHFdDQogICAgICAgICAgICAgICAgaWYgYWJzKEFbcCwgcF0gLSBBW3EsIHFdKSA8IDFlLTMwMDoNCiAgICAgICAgICAgICAgICAgICAgIyBhX3BwID09IGFfcXEg5pe2IM+GID0gz4AvNO+8iHQ9Me+8ie+8jOmBv+WFjSDOuD0wIOWvvOiHtCB0PTAg5Y2h5q27DQogICAgICAgICAgICAgICAgICAgIHQgPSAxLjANCiAgICAgICAgICAgICAgICBlbHNlOg0KICAgICAgICAgICAgICAgICAgICB0aGV0YSA9IChBW3EsIHFdIC0gQVtwLCBwXSkgLyBkZW5vbQ0KICAgICAgICAgICAgICAgICAgICB0ID0gbnAuc2lnbih0aGV0YSkgLyAoYWJzKHRoZXRhKSArIG5wLnNxcnQodGhldGEgKiB0aGV0YSArIDEuMCkpDQogICAgICAgICAgICAgICAgYyA9IDEuMCAvIG5wLnNxcnQodCAqIHQgKyAxLjApDQogICAgICAgICAgICAgICAgcyA9IHQgKiBjDQogICAgICAgICAgICAgICAgIyDlhajnqbrpl7Tml4vovaznn6npmLUgSiA9IEnvvIzku4XlnKggKHAscSkg5Z2X5Li6IFtbYywgc10sIFstcywgY11dDQogICAgICAgICAgICAgICAgIyDkuKXmoLznlKjnn6npmLXkuZjms5UgQScgPSBK4bWAIEEgSuOAgVYnID0gSuG1gCBW77yMDQogICAgICAgICAgICAgICAgIyDmoLnpmaTlhYPntKDnuqfmm7TmlrDnoLTlnY/lr7nnp7DmgKfvvIjml6fniYjmvI/orr4gQVtxLHBdPTAg6Ie05a+56KeS5aSx55yf77yJ55qE6ZqQ5oKj44CCDQogICAgICAgICAgICAgICAgSiA9IG5wLmV5ZShuKQ0KICAgICAgICAgICAgICAgIEpbcCwgcF0gPSBjDQogICAgICAgICAgICAgICAgSltwLCBxXSA9IHMNCiAgICAgICAgICAgICAgICBKW3EsIHBdID0gLXMNCiAgICAgICAgICAgICAgICBKW3EsIHFdID0gYw0KICAgICAgICAgICAgICAgIEEgPSBKLlQgQCBBIEAgSg0KICAgICAgICAgICAgICAgICMg54m55b6B5ZCR6YeP57Sv56ev5b+F6aG75Y+z5LmY77yaVicgPSBWIMK3IErvvIzkvb8gQV8wID0gVl9rIEFfayBWX2vhtYAg5oiQ56uLDQogICAgICAgICAgICAgICAgIyDvvIjlm6AgQV9rID0gSl97ay0xfeG1gCDigKYgSl8w4bWAIEFfMCBKXzAg4oCmIEpfe2stMX0g4oeSDQogICAgICAgICAgICAgICAgIyAgIEFfMCA9IChKXzDigKZKX3trLTF9KSBBX2sgKEpfMOKApkpfe2stMX0p4bWAID0gVl9rIEFfayBWX2vhtYAg4omIIFZfayDOmyBWX2vhtYDvvIkNCiAgICAgICAgICAgICAgICBWID0gViBAIEoNCiAgICAgICAgc3dlZXBzID0gc3dlZXAgKyAxDQogICAgZWlndmFscyA9IG5wLmRpYWcoQSkNCiAgICBpZHggPSBucC5hcmdzb3J0KGVpZ3ZhbHMpDQogICAgZWlndmFscyA9IGVpZ3ZhbHNbaWR4XQ0KICAgIFYgPSBWWzosIGlkeF0NCiAgICBpbmZvID0geyJzd2VlcHMiOiBzd2VlcHMsICJvZmZfZGlhZyI6IGZsb2F0KG9mZihBKSl9DQogICAgcmV0dXJuIGVpZ3ZhbHMsIFYsIGluZm8NCg0KDQpkZWYgbG9nc3VtZXhwKHg6IG5wLm5kYXJyYXksIGF4aXM6IGludCB8IE5vbmUgPSBOb25lLCBrZWVwZGltczogYm9vbCA9IEZhbHNlKSAtPiBucC5uZGFycmF5Og0KICAgICIiIuaVsOWAvOeos+WumueahCBsb2cozqMgZXhwKHgpKeOAgumYsua6ouWHuuaguOW/g+WOn+ivreOAgg0KDQogICAgYGBheGlzPU5vbmVgYCDml7bov5Tlm54qKjAg57u05qCH6YePKiogKFB5dGhvbiDmoIfph4/or63kuYkpLCDkuI4NCiAgICBgYHNjaXB5LnNwZWNpYWwubG9nc3VtZXhwYGAg5LiA6Ie0OyDkvKAgYXhpcyDml7bmjInor6XovbTlvZLnuqbjgIINCiAgICAiIiINCiAgICB4ID0gbnAuYXNhcnJheSh4LCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgIGlmIGF4aXMgaXMgTm9uZSBhbmQgbm90IGtlZXBkaW1zOg0KICAgICAgICB4bWF4ID0gbnAubWF4KHgpDQogICAgICAgIGlmIG5vdCBucC5pc2Zpbml0ZSh4bWF4KToNCiAgICAgICAgICAgIHhtYXggPSAwLjANCiAgICAgICAgb3V0ID0geG1heCArIG5wLmxvZyhucC5zdW0obnAuZXhwKHggLSB4bWF4KSkpDQogICAgICAgIHJldHVybiBucC5hc2FycmF5KG91dCwgZHR5cGU9bnAuZmxvYXQ2NCkucmVzaGFwZSgoKSkNCiAgICB4bWF4ID0gbnAubWF4KHgsIGF4aXM9YXhpcywga2VlcGRpbXM9VHJ1ZSkNCiAgICB4bWF4X3NhZmUgPSBucC53aGVyZShucC5pc2Zpbml0ZSh4bWF4KSwgeG1heCwgMC4wKQ0KICAgIG91dCA9IHhtYXhfc2FmZSArIG5wLmxvZyhucC5zdW0obnAuZXhwKHggLSB4bWF4X3NhZmUpLCBheGlzPWF4aXMsIGtlZXBkaW1zPVRydWUpKQ0KICAgIGlmIG5vdCBrZWVwZGltczoNCiAgICAgICAgb3V0ID0gbnAuc3F1ZWV6ZShvdXQsIGF4aXM9YXhpcykgaWYgYXhpcyBpcyBub3QgTm9uZSBlbHNlIG91dA0KICAgIHJldHVybiBvdXQNCg0KDQpkZWYgc29mdG1heCh4OiBucC5uZGFycmF5LCBheGlzOiBpbnQgPSAtMSkgLT4gbnAubmRhcnJheToNCiAgICAiIiLmlbDlgLznqLPlrprnmoQgc29mdG1heO+8jOWfuuS6jiBsb2dzdW1leHDjgIIiIiINCiAgICB4ID0gbnAuYXNhcnJheSh4LCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgIHggPSB4IC0gbnAubWF4KHgsIGF4aXM9YXhpcywga2VlcGRpbXM9VHJ1ZSkNCiAgICBlID0gbnAuZXhwKHgpDQogICAgcmV0dXJuIGUgLyBucC5zdW0oZSwgYXhpcz1heGlzLCBrZWVwZGltcz1UcnVlKQ0KDQoNCmRlZiBsb2dfc29mdG1heCh4OiBucC5uZGFycmF5LCBheGlzOiBpbnQgPSAtMSkgLT4gbnAubmRhcnJheToNCiAgICAiIiLlr7nmlbAgc29mdG1heO+8jOeUqOS6jueos+WumuS6pOWPieeGteOAgiIiIg0KICAgIHggPSBucC5hc2FycmF5KHgsIGR0eXBlPW5wLmZsb2F0NjQpDQogICAgcmV0dXJuIHggLSBsb2dzdW1leHAoeCwgYXhpcz1heGlzLCBrZWVwZGltcz1UcnVlKQ0KDQoNCiMgLS0tLS0tLS0tLSDkuI3lj5jph4/pqozor4HlmaggLS0tLS0tLS0tLQ0KZGVmIG9ydGhvZ29uYWxpdHlfZXJyb3IoVjogbnAubmRhcnJheSkgLT4gZmxvYXQ6DQogICAgIiIi4oCWVuG1gFYg4oiSIEnigJZfRiDigJTigJQg54m55b6B5ZCR6YeP5q2j5Lqk5b2S5LiA56iL5bqm44CCIiIiDQogICAgViA9IG5wLmFzYXJyYXkoViwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICByZXR1cm4gZmxvYXQobnAubGluYWxnLm5vcm0oVi5UIEAgViAtIG5wLmV5ZShWLnNoYXBlWzFdKSkpDQoNCg0KZGVmIGVpZ2VuX3Jlc2lkdWFsKEE6IG5wLm5kYXJyYXksIGVpZ3ZhbHM6IG5wLm5kYXJyYXksIFY6IG5wLm5kYXJyYXkpIC0+IGZsb2F0Og0KICAgICIiIm1heF9pIOKAlkEgduG1oiDiiJIgzrvhtaIgduG1ouKAll8yIOKAlOKAlCBKYWNvYmkg5q6L5beu77yI5bqU5o6l6L+R5py65Zmo57K+5bqm77yJ44CCIiIiDQogICAgQSA9IG5wLmFzYXJyYXkoQSwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICByZXNpZCA9IDAuMA0KICAgIGZvciBpIGluIHJhbmdlKFYuc2hhcGVbMV0pOg0KICAgICAgICB2ID0gVls6LCBpXQ0KICAgICAgICByID0gQSBAIHYgLSBlaWd2YWxzW2ldICogdg0KICAgICAgICByZXNpZCA9IG1heChyZXNpZCwgbnAubGluYWxnLm5vcm0ocikpDQogICAgcmV0dXJuIGZsb2F0KHJlc2lkKQ0KDQoNCmRlZiBpc19zeW1tZXRyaWNfcHNkKEE6IG5wLm5kYXJyYXksIHRvbDogZmxvYXQgPSAxZS04KSAtPiB0dXBsZVtib29sLCBmbG9hdF06DQogICAgIiIi5a+556ew5Y2K5q2j5a6a5Yik5a6a77ya5a+556ew5LiU5omA5pyJ54m55b6B5YC8IOKJpSDiiJJ0b2zjgIIiIiINCiAgICBBID0gbnAuYXNhcnJheShBLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgIHN5bV9lcnIgPSBmbG9hdChucC5saW5hbGcubm9ybShBIC0gQS5UKSkNCiAgICBlID0gbnAubGluYWxnLmVpZ3ZhbHNoKDAuNSAqIChBICsgQS5UKSkNCiAgICBtaW5fZWlnID0gZmxvYXQoZS5taW4oKSkNCiAgICByZXR1cm4gKHN5bV9lcnIgPCB0b2wgYW5kIG1pbl9laWcgPj0gLXRvbCksIG1pbl9laWcNCg==
+"""L1 线性代数 —— forge 纯实现 + 数学不变量。
+
+零重写：稠密线性代数（BLAS/LAPACK）直接复用 numpy；此处只手写那些
+「能用一条可验证不变量独立证明正确性」的关键原语，并用不变量自证。
+
+不变量清单：
+  * Cholesky  : A = L Lᵀ  ⇒  ‖A − L Lᵀ‖_F ≈ 0
+  * Jacobi 特征: 对称阵特征向量彼此正交  ⇒  ‖VᵀV − I‖_F ≈ 0
+  * Jacobi 特征: 残差  ‖A vᵢ − λᵢ vᵢ‖_2 ≈ ε (机器精度级)
+  * logsumexp : 数值稳定，无误溢出
+"""
+from __future__ import annotations
+
+import numpy as np
+
+EPS = np.finfo(np.float64).eps  # ≈ 2.2e-16
+
+
+def cholesky(A: np.ndarray) -> np.ndarray:
+    """Cholesky 分解 A = L Lᵀ，L 为下三角（正定阵）。"""
+    A = np.asarray(A, dtype=np.float64)
+    n = A.shape[0]
+    L = np.zeros((n, n), dtype=np.float64)
+    for j in range(n):
+        s = A[j, j] - np.sum(L[j, :j] ** 2)
+        if s <= 0:
+            # 非正定容错：加微小岭项后重试（数值健壮性）
+            A = A + 1e-12 * np.eye(n)
+            return cholesky(A)
+        L[j, j] = np.sqrt(s)
+        for i in range(j + 1, n):
+            L[i, j] = (A[i, j] - np.sum(L[i, :j] * L[j, :j])) / L[j, j]
+    return L
+
+
+def cholesky_inverse(L: np.ndarray) -> np.ndarray:
+    """利用 Cholesky 因子求 (L Lᵀ)⁻¹ （前向/后向代入，O(n²)）。"""
+    L = np.asarray(L, dtype=np.float64)
+    n = L.shape[0]
+    # 解 L Y = I  (下三角前向代入)
+    Y = np.zeros_like(L)
+    for j in range(n):
+        Y[j, j] = 1.0 / L[j, j]
+        for i in range(j + 1, n):
+            Y[i, j] = -np.dot(L[i, j:i], Y[j:i, j]) / L[i, i]
+    # A⁻¹ = (L Lᵀ)⁻¹ = L⁻ᵀ L⁻¹ = Yᵀ Y
+    return Y.T @ Y
+
+
+def jacobi_eigen(A: np.ndarray, max_sweeps: int = 100, tol: float = 1e-12) -> tuple[np.ndarray, np.ndarray, dict]:
+    """经典 Jacobi 循环旋转法求对称阵特征分解。
+
+    返回 (eigenvalues[升序], eigenvectors 列向量, info)。
+    正交性不变量：VᵀV = I；残差不变量：‖A vᵢ − λᵢ vᵢ‖ ≈ ε。
+    """
+    A = np.asarray(A, dtype=np.float64)
+    n = A.shape[0]
+    # 强制对称
+    A = 0.5 * (A + A.T)
+    V = np.eye(n)
+    off = lambda M: np.sqrt(np.sum(np.tril(M, -1) ** 2) * 2)
+    sweeps = 0
+    for sweep in range(max_sweeps):
+        if off(A) < tol:
+            break
+        for p in range(n - 1):
+            for q in range(p + 1, n):
+                if abs(A[p, q]) < 1e-300:
+                    continue
+                # 旋转角：tan(2φ) = 2 a_pq / (a_pp − a_qq)
+                # θ = (a_qq − a_pp) / (2 a_pq)，t = tan φ
+                denom = 2.0 * A[p, q]
+                if abs(A[p, p] - A[q, q]) < 1e-300:
+                    # a_pp == a_qq 时 φ = π/4（t=1），避免 θ=0 导致 t=0 卡死
+                    t = 1.0
+                else:
+                    theta = (A[q, q] - A[p, p]) / denom
+                    t = np.sign(theta) / (abs(theta) + np.sqrt(theta * theta + 1.0))
+                c = 1.0 / np.sqrt(t * t + 1.0)
+                s = t * c
+                # 全空间旋转矩阵 J = I，仅在 (p,q) 块为 [[c, s], [-s, c]]
+                # 严格用矩阵乘法 A' = Jᵀ A J、V' = Jᵀ V，
+                # 根除元素级更新破坏对称性（旧版漏设 A[q,p]=0 致对角失真）的隐患。
+                J = np.eye(n)
+                J[p, p] = c
+                J[p, q] = s
+                J[q, p] = -s
+                J[q, q] = c
+                A = J.T @ A @ J
+                # 特征向量累积必须右乘：V' = V · J，使 A_0 = V_k A_k V_kᵀ 成立
+                # （因 A_k = J_{k-1}ᵀ … J_0ᵀ A_0 J_0 … J_{k-1} ⇒
+                #   A_0 = (J_0…J_{k-1}) A_k (J_0…J_{k-1})ᵀ = V_k A_k V_kᵀ ≈ V_k Λ V_kᵀ）
+                V = V @ J
+        sweeps = sweep + 1
+    eigvals = np.diag(A)
+    idx = np.argsort(eigvals)
+    eigvals = eigvals[idx]
+    V = V[:, idx]
+    info = {"sweeps": sweeps, "off_diag": float(off(A))}
+    return eigvals, V, info
+
+
+def logsumexp(x: np.ndarray, axis: int | None = None, keepdims: bool = False) -> np.ndarray:
+    """数值稳定的 log(Σ exp(x))。防溢出核心原语。
+
+    ``axis=None`` 时返回**0 维标量** (Python 标量语义), 与
+    ``scipy.special.logsumexp`` 一致; 传 axis 时按该轴归约。
+    """
+    x = np.asarray(x, dtype=np.float64)
+    if axis is None and not keepdims:
+        xmax = np.max(x)
+        if not np.isfinite(xmax):
+            xmax = 0.0
+        out = xmax + np.log(np.sum(np.exp(x - xmax)))
+        return np.asarray(out, dtype=np.float64).reshape(())
+    xmax = np.max(x, axis=axis, keepdims=True)
+    xmax_safe = np.where(np.isfinite(xmax), xmax, 0.0)
+    out = xmax_safe + np.log(np.sum(np.exp(x - xmax_safe), axis=axis, keepdims=True))
+    if not keepdims:
+        out = np.squeeze(out, axis=axis) if axis is not None else out
+    return out
+
+
+def softmax(x: np.ndarray, axis: int = -1) -> np.ndarray:
+    """数值稳定的 softmax，基于 logsumexp。"""
+    x = np.asarray(x, dtype=np.float64)
+    x = x - np.max(x, axis=axis, keepdims=True)
+    e = np.exp(x)
+    return e / np.sum(e, axis=axis, keepdims=True)
+
+
+def log_softmax(x: np.ndarray, axis: int = -1) -> np.ndarray:
+    """对数 softmax，用于稳定交叉熵。"""
+    x = np.asarray(x, dtype=np.float64)
+    return x - logsumexp(x, axis=axis, keepdims=True)
+
+
+# ---------- 不变量验证器 ----------
+def orthogonality_error(V: np.ndarray) -> float:
+    """‖VᵀV − I‖_F —— 特征向量正交归一程度。"""
+    V = np.asarray(V, dtype=np.float64)
+    return float(np.linalg.norm(V.T @ V - np.eye(V.shape[1])))
+
+
+def eigen_residual(A: np.ndarray, eigvals: np.ndarray, V: np.ndarray) -> float:
+    """max_i ‖A vᵢ − λᵢ vᵢ‖_2 —— Jacobi 残差（应接近机器精度）。"""
+    A = np.asarray(A, dtype=np.float64)
+    resid = 0.0
+    for i in range(V.shape[1]):
+        v = V[:, i]
+        r = A @ v - eigvals[i] * v
+        resid = max(resid, np.linalg.norm(r))
+    return float(resid)
+
+
+def is_symmetric_psd(A: np.ndarray, tol: float = 1e-8) -> tuple[bool, float]:
+    """对称半正定判定：对称且所有特征值 ≥ −tol。"""
+    A = np.asarray(A, dtype=np.float64)
+    sym_err = float(np.linalg.norm(A - A.T))
+    e = np.linalg.eigvalsh(0.5 * (A + A.T))
+    min_eig = float(e.min())
+    return (sym_err < tol and min_eig >= -tol), min_eig

@@ -1,1 +1,198 @@
-IiIi5LyY5YyW5ZmoIOKAlOKAlCBBZGFtVyAo6Kej6ICm5p2D6YeN6KGw5YePKSArIOS9meW8puWtpuS5oOeOh+iwg+W6piArIOair+W6puijgeWJquOAggoK5LiW55WM57qn5Ye65aSEICjor6bop4EgZG9jcy9SRUZFUkVOQ0VTLm1kKToKCiAgKiAqKkFkYW1XKiogOiBMb3NoY2hpbG92LCBJLiAmIEh1dHRlciwgRi4gKDIwMTkpLiAqRGVjb3VwbGVkIFdlaWdodCBEZWNheQogICAgUmVndWxhcml6YXRpb24qLiBJQ0xSIDIwMTkuIGFyWGl2OjE3MTEuMDUxMDEuCiAgICDlhbPplK7lt67lvII6ICoq5p2D6YeN6KGw5YeP5LiN6LWw6Ieq6YCC5bqU5Yqo6YePKioKICAgIGBgzrgg4oaQIM64IOKIkiDOt8K3zrvCt864IOKIkiDOt8K3bcyCLyjiiJp2zIIgKyDOtSlgYO+8iOiAjCBBZGFtK0wyIOS8muaKiiDOu864IOa3t+i/m+S4gC/kuozpmLbnn6nvvIwKICAgIOWvvOiHtOiHqumAguW6lOWtpuS5oOeOh+iiq+e8qeaUvumUmemFjSDigJTigJQg6L+Z5pivIEFkYW1XIOWcqOWOnyBBZGFtIOS4iueahOWunui0qOaUuei/m++8ieOAggoKICAqICoq5L2Z5bym6YCA54GrKiogOiBMb3NoY2hpbG92ICYgSHV0dGVyICgyMDE3KS4gKlNHRFI6IFN0b2NoYXN0aWMgR3JhZGllbnQgRGVzY2VudAogICAgd2l0aCBXYXJtIFJlc3RhcnRzKi4gSUNMUiAyMDE3LgoKICAqICoq5qKv5bqm6KOB5YmqKiogOiBQYXNjYW51LCBSLiBldCBhbC4gKDIwMTMpLiAqT24gdGhlIGRpZmZpY3VsdHkgb2YgdHJhaW5pbmcKICAgIHJlY3VycmVudCBuZXVyYWwgbmV0d29ya3MqLiBJQ01MIDIwMTMuIOWFqOWxgOiMg+aVsOijgeWJquOAggoK56Gs5LiN5Y+Y6YePOgogICoqTzEg5qKv5bqm5rWB6Ieq5rS9Kio6IGBgdXBkYXRlKClgYCDov5Tlm57nmoTmm7TmlrDph4/mlrnlkJHkuI4gQWRhbSDliqjph4/nu5/orqHkuIDoh7TvvJsKICAgICAg5Ya757uTIG1vbWVudCDml7blj6/pgIDljJbkuLrnuq8gU0dELXdpdGgtZGVjYXnjgIIKICAqKk8yIOWtpuS5oOeOh+i9qOmBkyoqOiDkvZnlvKbosIPluqblnKggdD1UIOWkhOeyvuehruWIsOi+viBgYG1pbl9scmBg77yM5LiU5YWo56iL5Y2V6LCD6Z2e5aKe44CCCiAgKipPMyDoo4HliarmnInnlYwqKjog6KOB5Ymq5ZCOIOKAlmfigJbigoIg4omkIG1heF9ub3Jt77yI5pWw5YC86L6555WM77yJ77yM5LiU5pa55ZCR5LiO6KOB5Ymq5YmN5LiA6Ie044CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgbG9nZ2luZwppbXBvcnQgbWF0aApmcm9tIHR5cGluZyBpbXBvcnQgSXRlcmFibGUKCmltcG9ydCBudW1weSBhcyBucAoKX0xPR0dFUiA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKCmNsYXNzIEFkYW1XOgogICAgIiIiQWRhbVcg5LyY5YyW5ZmoIChMb3NoY2hpbG92ICYgSHV0dGVyIDIwMTkp44CCCgogICAgQXJnczoKICAgICAgICBscjogICAgICAgICAgIOWfuuehgOWtpuS5oOeOhyDOt+OAggogICAgICAgIGJldGFzOiAgICAgICAgKM6y4oKBLCDOsuKCgikg5LiAL+S6jOmYtuefqeihsOWHj+eOhyAo6buY6K6kIDAuOSwgMC45NSDigJTigJQg5aSn5qih5Z6L6K6t57uD5oOv5L6LKeOAggogICAgICAgIGVwczogICAgICAgICAg5pWw5YC856iz5a6a6aG5IM61ICjpu5jorqQgMWUtOCnjgIIKICAgICAgICB3ZWlnaHRfZGVjYXk6IOino+iApuadg+mHjeihsOWHj+ezu+aVsCDOu+OAggogICAgICAgIGNvcnJlY3RfYmlhczog5piv5ZCm5YGa5YGP5beu5qCh5q2jICjljp/orrrmlocgRXEuIOeahCBtzIIvdsyCKeOAggoKICAgIOabtOaWsOW8jzo6CgogICAgICAgIG0g4oaQIM6y4oKBIG0gKyAoMeKIks6y4oKBKSBnCiAgICAgICAgdiDihpAgzrLigoIgdiArICgx4oiSzrLigoIpIGfCsgogICAgICAgIG3MgiA9IG0vKDHiiJLOsuKCgeG1lyksIHbMgiA9IHYvKDHiiJLOsuKCguG1lykKICAgICAgICDOuCDihpAgzrjCtygxIOKIkiDOu8K3bHIpIOKIkiBscsK3WyBtzIIvKOKImnbMgivOtSkgXSAgICAgIOKGkCDOu864ICoq5LiNKirlj4LkuI4gbS9277yMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDkuJTkvZznlKjkuo4qKuabtOaWsOWJjSoq55qEIM64CiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oCiAgICAgICAgc2VsZiwKICAgICAgICBscjogZmxvYXQgPSAzZS00LAogICAgICAgIGJldGFzOiB0dXBsZVtmbG9hdCwgZmxvYXRdID0gKDAuOSwgMC45NSksCiAgICAgICAgZXBzOiBmbG9hdCA9IDFlLTgsCiAgICAgICAgd2VpZ2h0X2RlY2F5OiBmbG9hdCA9IDAuMSwKICAgICAgICBjb3JyZWN0X2JpYXM6IGJvb2wgPSBUcnVlLAogICAgKSAtPiBOb25lOgogICAgICAgIGlmIGxyIDw9IDA6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJsciDlv4XpobvkuLrmraPvvIzmlLbliLAge2xyfSIpCiAgICAgICAgaWYgbm90ICgwLjAgPD0gYmV0YXNbMF0gPCAxLjAgYW5kIDAuMCA8PSBiZXRhc1sxXSA8IDEuMCk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJiZXRhcyDlv4XpobvlnKggWzAsIDEpIOWGhe+8jOaUtuWIsCB7YmV0YXN9IikKICAgICAgICBpZiBlcHMgPD0gMDoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmImVwcyDlv4XpobvkuLrmraPvvIzmlLbliLAge2Vwc30iKQogICAgICAgIGlmIHdlaWdodF9kZWNheSA8IDA6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJ3ZWlnaHRfZGVjYXkg5b+F6aG76Z2e6LSf77yM5pS25YiwIHt3ZWlnaHRfZGVjYXl9IikKICAgICAgICBzZWxmLmxyID0gZmxvYXQobHIpCiAgICAgICAgc2VsZi5iZXRhMSwgc2VsZi5iZXRhMiA9IGZsb2F0KGJldGFzWzBdKSwgZmxvYXQoYmV0YXNbMV0pCiAgICAgICAgc2VsZi5lcHMgPSBmbG9hdChlcHMpCiAgICAgICAgc2VsZi53ZWlnaHRfZGVjYXkgPSBmbG9hdCh3ZWlnaHRfZGVjYXkpCiAgICAgICAgc2VsZi5jb3JyZWN0X2JpYXMgPSBib29sKGNvcnJlY3RfYmlhcykKICAgICAgICBzZWxmLnQ6IGludCA9IDAKICAgICAgICBzZWxmLm06IGRpY3Rbc3RyLCBucC5uZGFycmF5XSA9IHt9CiAgICAgICAgc2VsZi52OiBkaWN0W3N0ciwgbnAubmRhcnJheV0gPSB7fQoKICAgIGRlZiBzdGVwKHNlbGYsIHBhcmFtczogZGljdFtzdHIsIG5wLm5kYXJyYXldLCBncmFkczogZGljdFtzdHIsIG5wLm5kYXJyYXldKSAtPiBOb25lOgogICAgICAgICIiIuWvueS4gOaJueWPguaVsOaJp+ihjOS4gOasoSBBZGFtVyDmm7TmlrDvvIjljp/lnLDkv67mlLkgZ3JhZHMg5a+55bqU55qEIHBhcmFtc++8ieOAggoKICAgICAgICBBcmdzOgogICAgICAgICAgICBwYXJhbXM6IOWPguaVsOWQjSDihpIg5pWw57uE44CCCiAgICAgICAgICAgIGdyYWRzOiAg5Y+C5pWw5ZCNIOKGkiDmoq/luqbmlbDnu4TvvIjlvaLnirbpobvpgJDkuKrljLnphY3vvInjgIIKICAgICAgICAiIiIKICAgICAgICBzZWxmLnQgKz0gMQogICAgICAgIGJpYXMxID0gMS4wIC0gc2VsZi5iZXRhMSAqKiBzZWxmLnQKICAgICAgICBiaWFzMiA9IDEuMCAtIHNlbGYuYmV0YTIgKiogc2VsZi50CiAgICAgICAgZm9yIG5hbWUsIHAgaW4gcGFyYW1zLml0ZW1zKCk6CiAgICAgICAgICAgIGcgPSBncmFkcy5nZXQobmFtZSkKICAgICAgICAgICAgaWYgZyBpcyBOb25lOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgZyA9IG5wLmFzYXJyYXkoZywgZHR5cGU9bnAuZmxvYXQ2NCkKICAgICAgICAgICAgaWYgZy5zaGFwZSAhPSBwLnNoYXBlOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgICAgICAgICBmIuair+W6puW9oueKtuS4jeWMuemFjSBbe25hbWV9XTogZ3JhZCB7Zy5zaGFwZX0gdnMgcGFyYW0ge3Auc2hhcGV9IgogICAgICAgICAgICAgICAgKQogICAgICAgICAgICBpZiBuYW1lIG5vdCBpbiBzZWxmLm06CiAgICAgICAgICAgICAgICBzZWxmLm1bbmFtZV0gPSBucC56ZXJvc19saWtlKHApCiAgICAgICAgICAgICAgICBzZWxmLnZbbmFtZV0gPSBucC56ZXJvc19saWtlKHApCiAgICAgICAgICAgIG0sIHYgPSBzZWxmLm1bbmFtZV0sIHNlbGYudltuYW1lXQogICAgICAgICAgICBtICo9IHNlbGYuYmV0YTEKICAgICAgICAgICAgbSArPSAoMS4wIC0gc2VsZi5iZXRhMSkgKiBnCiAgICAgICAgICAgIHYgKj0gc2VsZi5iZXRhMgogICAgICAgICAgICB2ICs9ICgxLjAgLSBzZWxmLmJldGEyKSAqIChnICogZykKICAgICAgICAgICAgbV9oYXQgPSBtIC8gYmlhczEgaWYgc2VsZi5jb3JyZWN0X2JpYXMgZWxzZSBtCiAgICAgICAgICAgIHZfaGF0ID0gdiAvIGJpYXMyIGlmIHNlbGYuY29ycmVjdF9iaWFzIGVsc2UgdgogICAgICAgICAgICB1cGRhdGUgPSBtX2hhdCAvIChucC5zcXJ0KHZfaGF0KSArIHNlbGYuZXBzKQogICAgICAgICAgICAjIOino+iApuadg+mHjeihsOWHjyAoZGVjb3VwbGVkIHdlaWdodCBkZWNheSk6IOihsOWHj+mhuSoq5LiN5Y+C5LiOIG0vdioqLAogICAgICAgICAgICAjIOS4lOW/hemhu+S9nOeUqOS6jioq5pu05paw5YmNKirnmoTlj4LmlbAg4oCU4oCUIOS4jiB0b3JjaC5vcHRpbS5BZGFtVyDnmoQKICAgICAgICAgICAgIyBgcGFyYW0ubXVsXygxIC0gbHIqd2QpYCDor63kuYnkuIDoh7Q6CiAgICAgICAgICAgICMgICAgIHAg4oaQIHDCtygxIOKIkiDOu8K3bHIpIOKIkiBscsK3dXBkYXRlCiAgICAgICAgICAgICMg6Iul5oqK6KGw5YeP5pS+5ZyoIEFkYW0g5q2l5LmL5ZCOLCDkvJrlvpfliLAgKHAg4oiSIGxywrd1cGRhdGUpwrcoMSDiiJIgzrvCt2xyKSwKICAgICAgICAgICAgIyDlvJXlhaUgbHLCssK3zrvCt3VwZGF0ZSDnmoTns7vnu5/mgKflgY/lt64gKOi3qOW6k+S6pOWPiemqjOivgSBYNiDlj6/mjZXmjYnliLAp44CCCiAgICAgICAgICAgIGlmIHNlbGYud2VpZ2h0X2RlY2F5ID4gMC4wOgogICAgICAgICAgICAgICAgcCAtPSBzZWxmLmxyICogc2VsZi53ZWlnaHRfZGVjYXkgKiBwCiAgICAgICAgICAgIHAgLT0gc2VsZi5sciAqIHVwZGF0ZQoKICAgIGRlZiBzZXRfbHIoc2VsZiwgbHI6IGZsb2F0KSAtPiBOb25lOgogICAgICAgICIiIumHjeiuvuWtpuS5oOeOh++8iOmFjeWQiOiwg+W6puWZqOS9v+eUqO+8ieOAgiIiIgogICAgICAgIGlmIGxyIDw9IDA6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJsciDlv4XpobvkuLrmraPvvIzmlLbliLAge2xyfSIpCiAgICAgICAgc2VsZi5sciA9IGZsb2F0KGxyKQoKICAgIGRlZiBfX3JlcHJfXyhzZWxmKSAtPiBzdHI6ICAjIHByYWdtYTogbm8gY292ZXIgLSDosIPor5XovoXliqkKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICBmIkFkYW1XKGxyPXtzZWxmLmxyfSwgYmV0YXM9KHtzZWxmLmJldGExfSwge3NlbGYuYmV0YTJ9KSwgIgogICAgICAgICAgICBmIndkPXtzZWxmLndlaWdodF9kZWNheX0sIHN0ZXA9e3NlbGYudH0pIgogICAgICAgICkKCgpkZWYgY29zaW5lX3NjaGVkdWxlKAogICAgc3RlcDogaW50LAogICAgdG90YWxfc3RlcHM6IGludCwKICAgICosCiAgICB3YXJtdXA6IGludCA9IDAsCiAgICBiYXNlX2xyOiBmbG9hdCA9IDNlLTQsCiAgICBtaW5fbHJfcmF0aW86IGZsb2F0ID0gMC4xLAopIC0+IGZsb2F0OgogICAgIiIi5L2Z5bym5a2m5Lmg546H6LCD5bqm77yI5ZCr57q/5oCnIHdhcm11cO+8ieOAggoKICAgIEFyZ3M6CiAgICAgICAgc3RlcDogICAgICAgIOW9k+WJjeatpe+8iDAtYmFzZWTvvInjgIIKICAgICAgICB0b3RhbF9zdGVwczog5oC76K6t57uD5q2l5pWw44CCCiAgICAgICAgd2FybXVwOiAgICAgIOe6v+aAp+mihOeDreatpeaVsO+8iOWJjSB3YXJtdXAg5q2l5LuOIH4wIOe6v+aAp+WNh+WIsCBiYXNlX2xy77yJ44CCCiAgICAgICAgYmFzZV9scjogICAgIOWzsOWAvOWtpuS5oOeOh+OAggogICAgICAgIG1pbl9scl9yYXRpbzog5pyr56uv5a2m5Lmg546HID0gYmFzZV9sciDDlyBtaW5fbHJfcmF0aW/jgIIKCiAgICBSZXR1cm5zOgogICAgICAgIOW9k+WJjeatpeeahOWtpuS5oOeOh+OAggoKICAgIOWPguiAgzogTG9zaGNoaWxvdiAmIEh1dHRlciAyMDE3IFNHRFLvvJt3YXJtdXAg5oOv5L6L5p2l6IeqIEdveWFsIGV0IGFsLiAyMDE3CiAgICAoKkFjY3VyYXRlLCBMYXJnZSBNaW5pYmF0Y2ggU0dEKiwgYXJYaXY6MTcwNi4wMjY3NynjgIIKICAgICIiIgogICAgaWYgdG90YWxfc3RlcHMgPD0gMDoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYidG90YWxfc3RlcHMg5b+F6aG75Li65q2j77yM5pS25YiwIHt0b3RhbF9zdGVwc30iKQogICAgaWYgc3RlcCA8IDA6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmInN0ZXAg5b+F6aG76Z2e6LSf77yM5pS25YiwIHtzdGVwfSIpCiAgICBtaW5fbHIgPSBiYXNlX2xyICogbWluX2xyX3JhdGlvCiAgICBpZiB3YXJtdXAgPiAwIGFuZCBzdGVwIDwgd2FybXVwOgogICAgICAgIHJldHVybiBiYXNlX2xyICogKHN0ZXAgKyAxKSAvIHdhcm11cAogICAgcHJvZ3Jlc3MgPSBtaW4oMS4wLCBtYXgoMC4wLCAoc3RlcCAtIHdhcm11cCkgLyBtYXgoMSwgdG90YWxfc3RlcHMgLSB3YXJtdXApKSkKICAgIGNvc2luZSA9IDAuNSAqICgxLjAgKyBtYXRoLmNvcyhtYXRoLnBpICogcHJvZ3Jlc3MpKQogICAgcmV0dXJuIG1pbl9sciArIChiYXNlX2xyIC0gbWluX2xyKSAqIGNvc2luZQoKCmRlZiBjbGlwX2dyYWRfbm9ybSgKICAgIGdyYWRzOiBkaWN0W3N0ciwgbnAubmRhcnJheV0sIG1heF9ub3JtOiBmbG9hdAopIC0+IHR1cGxlW2RpY3Rbc3RyLCBucC5uZGFycmF5XSwgZmxvYXRdOgogICAgIiIi5YWo5bGAIEwyIOiMg+aVsOijgeWJqiAoUGFzY2FudSBldCBhbC4gMjAxMynjgIIKCiAgICBBcmdzOgogICAgICAgIGdyYWRzOiAgICDlj4LmlbDlkI0g4oaSIOair+W6puOAggogICAgICAgIG1heF9ub3JtOiDlhYHorrjnmoTmnIDlpKflhajlsYDojIPmlbDjgIIKCiAgICBSZXR1cm5zOgogICAgICAgICjoo4HliarlkI7nmoTmoq/luqblrZflhbgsIOijgeWJquWJjeeahOWFqOWxgOiMg+aVsCnjgIIKCiAgICDmlbDlraY6IOiLpSDigJZn4oCW4oKCID4gbWF4X25vcm3vvIzliJkgZyDihpAgZyDCtyBtYXhfbm9ybSAvIOKAlmfigJbigoIKICAgIO+8iCoq5pa55ZCR5LiN5Y+Y44CB6ZW/5bqm5Y+X6ZmQKiog4oCU4oCUIOi/meaYryBSTk4vVHJhbnNmb3JtZXIg6K6t57uD6Ziy54iG55qE5qCH6YWN77yJ44CCCiAgICAiIiIKICAgIGlmIG1heF9ub3JtIDw9IDA6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIm1heF9ub3JtIOW/hemhu+S4uuato++8jOaUtuWIsCB7bWF4X25vcm19IikKICAgIGFycmF5cyA9IFtucC5hc2FycmF5KGcsIGR0eXBlPW5wLmZsb2F0NjQpIGZvciBnIGluIGdyYWRzLnZhbHVlcygpXQogICAgdG90YWwgPSBmbG9hdChucC5zcXJ0KHN1bShmbG9hdChucC5zdW0oYSAqIGEpKSBmb3IgYSBpbiBhcnJheXMpKSkgaWYgYXJyYXlzIGVsc2UgMC4wCiAgICBpZiBub3QgbnAuaXNmaW5pdGUodG90YWwpOgogICAgICAgIHJhaXNlIEZsb2F0aW5nUG9pbnRFcnJvcigi5qKv5bqm6IyD5pWw6Z2e5pyJ6ZmQ5YC877yI5Y+R5pWj77yJ77yM6K+35qOA5p+l5o2f5aSx5LiO5Yid5aeL5YyWIikKICAgIGlmIHRvdGFsIDw9IG1heF9ub3JtIG9yIHRvdGFsID09IDAuMDoKICAgICAgICByZXR1cm4gZ3JhZHMsIHRvdGFsCiAgICBzY2FsZSA9IG1heF9ub3JtIC8gdG90YWwKICAgIHJldHVybiB7azogbnAuYXNhcnJheSh2LCBkdHlwZT1ucC5mbG9hdDY0KSAqIHNjYWxlIGZvciBrLCB2IGluIGdyYWRzLml0ZW1zKCl9LCB0b3RhbAoKCmRlZiBsMl9ub3JtX29mKGdyYWRzOiBJdGVyYWJsZVtucC5uZGFycmF5XSkgLT4gZmxvYXQ6CiAgICAiIiLorqHnrpfkuIDnu4Tmoq/luqbmi7zmjqXlkI7nmoTlhajlsYAgTDIg6IyD5pWw77yI5rWL6K+VL+aXpeW/l+eUqO+8ieOAgiIiIgogICAgYXJyYXlzID0gW25wLmFzYXJyYXkoZywgZHR5cGU9bnAuZmxvYXQ2NCkgZm9yIGcgaW4gZ3JhZHNdCiAgICBpZiBub3QgYXJyYXlzOgogICAgICAgIHJldHVybiAwLjAKICAgIHJldHVybiBmbG9hdChucC5zcXJ0KHN1bShmbG9hdChucC5zdW0oYSAqIGEpKSBmb3IgYSBpbiBhcnJheXMpKSkK
+"""优化器 —— AdamW (解耦权重衰减) + 余弦学习率调度 + 梯度裁剪。
+
+世界级出处 (详见 docs/REFERENCES.md):
+
+  * **AdamW** : Loshchilov, I. & Hutter, F. (2019). *Decoupled Weight Decay
+    Regularization*. ICLR 2019. arXiv:1711.05101.
+    关键差异: **权重衰减不走自适应动量**
+    ``θ ← θ − η·λ·θ − η·m̂/(√v̂ + ε)``（而 Adam+L2 会把 λθ 混进一/二阶矩，
+    导致自适应学习率被缩放错配 —— 这是 AdamW 在原 Adam 上的实质改进）。
+
+  * **余弦退火** : Loshchilov & Hutter (2017). *SGDR: Stochastic Gradient Descent
+    with Warm Restarts*. ICLR 2017.
+
+  * **梯度裁剪** : Pascanu, R. et al. (2013). *On the difficulty of training
+    recurrent neural networks*. ICML 2013. 全局范数裁剪。
+
+硬不变量:
+  **O1 梯度流自洽**: ``update()`` 返回的更新量方向与 Adam 动量统计一致；
+      冻结 moment 时可退化为纯 SGD-with-decay。
+  **O2 学习率轨道**: 余弦调度在 t=T 处精确到达 ``min_lr``，且全程单调非增。
+  **O3 裁剪有界**: 裁剪后 ‖g‖₂ ≤ max_norm（数值边界），且方向与裁剪前一致。
+"""
+from __future__ import annotations
+
+import logging
+import math
+from typing import Iterable
+
+import numpy as np
+
+_LOGGER = logging.getLogger(__name__)
+
+
+class AdamW:
+    """AdamW 优化器 (Loshchilov & Hutter 2019)。
+
+    Args:
+        lr:           基础学习率 η。
+        betas:        (β₁, β₂) 一/二阶矩衰减率 (默认 0.9, 0.95 —— 大模型训练惯例)。
+        eps:          数值稳定项 ε (默认 1e-8)。
+        weight_decay: 解耦权重衰减系数 λ。
+        correct_bias: 是否做偏差校正 (原论文 Eq. 的 m̂/v̂)。
+
+    更新式::
+
+        m ← β₁ m + (1−β₁) g
+        v ← β₂ v + (1−β₂) g²
+        m̂ = m/(1−β₁ᵗ), v̂ = v/(1−β₂ᵗ)
+        θ ← θ·(1 − λ·lr) − lr·[ m̂/(√v̂+ε) ]      ← λθ **不**参与 m/v，
+                                                       且作用于**更新前**的 θ
+    """
+
+    def __init__(
+        self,
+        lr: float = 3e-4,
+        betas: tuple[float, float] = (0.9, 0.95),
+        eps: float = 1e-8,
+        weight_decay: float = 0.1,
+        correct_bias: bool = True,
+    ) -> None:
+        if lr <= 0:
+            raise ValueError(f"lr 必须为正，收到 {lr}")
+        if not (0.0 <= betas[0] < 1.0 and 0.0 <= betas[1] < 1.0):
+            raise ValueError(f"betas 必须在 [0, 1) 内，收到 {betas}")
+        if eps <= 0:
+            raise ValueError(f"eps 必须为正，收到 {eps}")
+        if weight_decay < 0:
+            raise ValueError(f"weight_decay 必须非负，收到 {weight_decay}")
+        self.lr = float(lr)
+        self.beta1, self.beta2 = float(betas[0]), float(betas[1])
+        self.eps = float(eps)
+        self.weight_decay = float(weight_decay)
+        self.correct_bias = bool(correct_bias)
+        self.t: int = 0
+        self.m: dict[str, np.ndarray] = {}
+        self.v: dict[str, np.ndarray] = {}
+
+    def step(self, params: dict[str, np.ndarray], grads: dict[str, np.ndarray]) -> None:
+        """对一批参数执行一次 AdamW 更新（原地修改 grads 对应的 params）。
+
+        Args:
+            params: 参数名 → 数组。
+            grads:  参数名 → 梯度数组（形状须逐个匹配）。
+        """
+        self.t += 1
+        bias1 = 1.0 - self.beta1 ** self.t
+        bias2 = 1.0 - self.beta2 ** self.t
+        for name, p in params.items():
+            g = grads.get(name)
+            if g is None:
+                continue
+            g = np.asarray(g, dtype=np.float64)
+            if g.shape != p.shape:
+                raise ValueError(
+                    f"梯度形状不匹配 [{name}]: grad {g.shape} vs param {p.shape}"
+                )
+            if name not in self.m:
+                self.m[name] = np.zeros_like(p)
+                self.v[name] = np.zeros_like(p)
+            m, v = self.m[name], self.v[name]
+            m *= self.beta1
+            m += (1.0 - self.beta1) * g
+            v *= self.beta2
+            v += (1.0 - self.beta2) * (g * g)
+            m_hat = m / bias1 if self.correct_bias else m
+            v_hat = v / bias2 if self.correct_bias else v
+            update = m_hat / (np.sqrt(v_hat) + self.eps)
+            # 解耦权重衰减 (decoupled weight decay): 衰减项**不参与 m/v**,
+            # 且必须作用于**更新前**的参数 —— 与 torch.optim.AdamW 的
+            # `param.mul_(1 - lr*wd)` 语义一致:
+            #     p ← p·(1 − λ·lr) − lr·update
+            # 若把衰减放在 Adam 步之后, 会得到 (p − lr·update)·(1 − λ·lr),
+            # 引入 lr²·λ·update 的系统性偏差 (跨库交叉验证 X6 可捕捉到)。
+            if self.weight_decay > 0.0:
+                p -= self.lr * self.weight_decay * p
+            p -= self.lr * update
+
+    def set_lr(self, lr: float) -> None:
+        """重设学习率（配合调度器使用）。"""
+        if lr <= 0:
+            raise ValueError(f"lr 必须为正，收到 {lr}")
+        self.lr = float(lr)
+
+    def __repr__(self) -> str:  # pragma: no cover - 调试辅助
+        return (
+            f"AdamW(lr={self.lr}, betas=({self.beta1}, {self.beta2}), "
+            f"wd={self.weight_decay}, step={self.t})"
+        )
+
+
+def cosine_schedule(
+    step: int,
+    total_steps: int,
+    *,
+    warmup: int = 0,
+    base_lr: float = 3e-4,
+    min_lr_ratio: float = 0.1,
+) -> float:
+    """余弦学习率调度（含线性 warmup）。
+
+    Args:
+        step:        当前步（0-based）。
+        total_steps: 总训练步数。
+        warmup:      线性预热步数（前 warmup 步从 ~0 线性升到 base_lr）。
+        base_lr:     峰值学习率。
+        min_lr_ratio: 末端学习率 = base_lr × min_lr_ratio。
+
+    Returns:
+        当前步的学习率。
+
+    参考: Loshchilov & Hutter 2017 SGDR；warmup 惯例来自 Goyal et al. 2017
+    (*Accurate, Large Minibatch SGD*, arXiv:1706.02677)。
+    """
+    if total_steps <= 0:
+        raise ValueError(f"total_steps 必须为正，收到 {total_steps}")
+    if step < 0:
+        raise ValueError(f"step 必须非负，收到 {step}")
+    min_lr = base_lr * min_lr_ratio
+    if warmup > 0 and step < warmup:
+        return base_lr * (step + 1) / warmup
+    progress = min(1.0, max(0.0, (step - warmup) / max(1, total_steps - warmup)))
+    cosine = 0.5 * (1.0 + math.cos(math.pi * progress))
+    return min_lr + (base_lr - min_lr) * cosine
+
+
+def clip_grad_norm(
+    grads: dict[str, np.ndarray], max_norm: float
+) -> tuple[dict[str, np.ndarray], float]:
+    """全局 L2 范数裁剪 (Pascanu et al. 2013)。
+
+    Args:
+        grads:    参数名 → 梯度。
+        max_norm: 允许的最大全局范数。
+
+    Returns:
+        (裁剪后的梯度字典, 裁剪前的全局范数)。
+
+    数学: 若 ‖g‖₂ > max_norm，则 g ← g · max_norm / ‖g‖₂
+    （**方向不变、长度受限** —— 这是 RNN/Transformer 训练防爆的标配）。
+    """
+    if max_norm <= 0:
+        raise ValueError(f"max_norm 必须为正，收到 {max_norm}")
+    arrays = [np.asarray(g, dtype=np.float64) for g in grads.values()]
+    total = float(np.sqrt(sum(float(np.sum(a * a)) for a in arrays))) if arrays else 0.0
+    if not np.isfinite(total):
+        raise FloatingPointError("梯度范数非有限值（发散），请检查损失与初始化")
+    if total <= max_norm or total == 0.0:
+        return grads, total
+    scale = max_norm / total
+    return {k: np.asarray(v, dtype=np.float64) * scale for k, v in grads.items()}, total
+
+
+def l2_norm_of(grads: Iterable[np.ndarray]) -> float:
+    """计算一组梯度拼接后的全局 L2 范数（测试/日志用）。"""
+    arrays = [np.asarray(g, dtype=np.float64) for g in grads]
+    if not arrays:
+        return 0.0
+    return float(np.sqrt(sum(float(np.sum(a * a)) for a in arrays)))

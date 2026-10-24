@@ -1,1 +1,170 @@
-IiIi5rOo5oSP5Yqb5a625peP5Z+65YeG6K+E5rWLIOKAlOKAlCDml7bpl7QgLyDlhoXlrZggLyDkv53nnJ/luqbkuInovbTph4/ljJbjgIINCg0K6K+E5rWL5Y2P6K6u77yI5a+56b2QIEVmZkF0dG5Gb3JnZSDnmoTlm5vpgZMgZ2F0ZXPvvIzlubbmianlsZXliLDlhoXlrZjnu7TluqbvvIk6DQoNCiAgKipHMSDkv53nnJ/luqYqKiA6IOi/keS8vOWPmOS9k+ebuOWvueeyvuehriBmdWxsIGF0dGVudGlvbiDnmoTnm7jlr7kgRnJvYmVuaXVzIOivr+W3ruOAgg0KICAqKkcyIOajgOe0oioqICAgOiDkuIrkuIvmlofogZTmg7Plj6zlm54gdG9wLTEg5YeG56Gu546H77yI6L+R5Ly855qE55yf5a6e5Y+v55So5oCn77yJ44CCDQogICoqRzMg5oiQ5pysKiogICA6IOWimemSn+aXtumXtCArIOino+aekOW8j+WzsOWAvOWGheWtmOOAgg0KICAqKkc0IOehruWumuaApyoqIDog5ZCMIHNlZWQg6YeN5aSN6L+Q6KGM5piv5ZCm6YCQ5L2N5LiA6Ie044CCDQoNCuaJgOacieiuoeaXtumDveeUqCBgYHRpbWUucGVyZl9jb3VudGVyYGAg5bm25Y+W5aSa5qyh6YeN5aSN55qE5Lit5L2N5pWw77yI5oq15oqX57O757uf5oqW5Yqo77yJ44CCDQrlhoXlrZjnlKgqKuino+aekOW8j+iusOi0pioq6ICM6Z2eIHRyYWNlbWFsbG9jIOKAlOKAlCDlkI7ogIXlmarlo7DlpKfkuJTkuI7noazku7bml6DlhbPvvIwNCuiAjOinhOWIkumdou+8iOacieWkmuWwkemineWklueahCBmbG9hdDY0IOiiq+WGmeS4i++8ieaJjeaYr+eul+azleacrOi6q+eahOaAp+i0qOOAgg0KIiIiDQpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zDQoNCmltcG9ydCBqc29uDQppbXBvcnQgbG9nZ2luZw0KaW1wb3J0IHN0YXRpc3RpY3MNCmltcG9ydCB0aW1lDQpmcm9tIHR5cGluZyBpbXBvcnQgU2VxdWVuY2UNCg0KaW1wb3J0IG51bXB5IGFzIG5wDQoNCl9MT0dHRVIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykNCg0KDQpkZWYgX3RpbWVkX2NhbGwoZm4sIHJlcGVhdHM6IGludCA9IDMpIC0+IHR1cGxlW2Zsb2F0LCBvYmplY3RdOg0KICAgICIiIumHjeWkjeiwg+eUqOWPluS4reS9jeiAl+aXtuOAgiIiIg0KICAgIHRpbWVzID0gW10NCiAgICBvdXQgPSBOb25lDQogICAgZm9yIF8gaW4gcmFuZ2UocmVwZWF0cyk6DQogICAgICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXIoKQ0KICAgICAgICBvdXQgPSBmbigpDQogICAgICAgIHRpbWVzLmFwcGVuZCh0aW1lLnBlcmZfY291bnRlcigpIC0gdDApDQogICAgcmV0dXJuIGZsb2F0KHN0YXRpc3RpY3MubWVkaWFuKHRpbWVzKSksIG91dA0KDQoNCmRlZiBiZW5jaG1hcmtfYXR0ZW50aW9uKA0KICAgIGxlbmd0aHM6IFNlcXVlbmNlW2ludF0gPSAoMTI4LCA1MTIsIDEwMjQpLA0KICAgIGQ6IGludCA9IDMyLA0KICAgIHNlZWQ6IGludCA9IDQyLA0KICAgIHJlcGVhdHM6IGludCA9IDMsDQopIC0+IGxpc3RbZGljdF06DQogICAgIiIi5Zyo5aSa5Liq5bqP5YiX6ZW/5bqm5LiK6K+E5rWL5YWo6YOo5rOo5oSP5Yqb5Y+Y5L2T44CCDQoNCiAgICBSZXR1cm5zOg0KICAgICAgICDmr4/lj5jkvZPmr4/ooYw6IGBgeyJ2YXJpYW50IiwgIlQiLCAiZCIsICJtZWRpYW5fbXMiLCAibWVtX21iIiwNCiAgICAgICAgICAgICAgICAgICAgICAgICAgImZyb19yZWwiLCAicmV0cmlldmFsX2FjYyIsICJjb21wbGV4aXR5In1gYA0KICAgICIiIg0KICAgIGZyb20gLi5hdHRlbnRpb24gaW1wb3J0IGJ1aWxkX3ZhcmlhbnQsIGxpc3RfdmFyaWFudHMNCg0KICAgIHJvd3M6IGxpc3RbZGljdF0gPSBbXQ0KICAgIGZvciBUIGluIGxlbmd0aHM6DQogICAgICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkICsgVCkNCiAgICAgICAgcSwgaywgdiA9IChybmcuc3RhbmRhcmRfbm9ybWFsKChULCBkKSkgZm9yIF8gaW4gcmFuZ2UoMykpDQogICAgICAgIHJlZl9vdXQgPSBidWlsZF92YXJpYW50KCJmdWxsIikuYXR0ZW5kKHEsIGssIHYpLm91dHB1dA0KDQogICAgICAgICMg5LiK5LiL5paH6IGU5oOz5Y+s5Zue5Lu75YqhOiDmnIDlkI7kuIDkuKogcXVlcnkg5bqU5b2T5Y+s5Zue5p+Q5Liq54m55a6aIGtleQ0KICAgICAgICBrZXlfaWR4ID0gaW50KFQgLy8gMikNCiAgICAgICAgdGFyZ2V0ID0gbnAuYXJnbWF4KGJ1aWxkX3ZhcmlhbnQoImZ1bGwiKS5hdHRlbmQocSwgaywgdikud2VpZ2h0c1stMV0pDQoNCiAgICAgICAgZm9yIG5hbWUgaW4gbGlzdF92YXJpYW50cygpOg0KICAgICAgICAgICAgaW5zdCA9IGJ1aWxkX3ZhcmlhbnQobmFtZSkNCiAgICAgICAgICAgIHRyeToNCiAgICAgICAgICAgICAgICBtZWQsIG91dCA9IF90aW1lZF9jYWxsKGxhbWJkYTogaW5zdC5hdHRlbmQocSwgaywgdiksIHJlcGVhdHM9cmVwZWF0cykNCiAgICAgICAgICAgICAgICBmcm8gPSBmbG9hdChucC5saW5hbGcubm9ybShvdXQub3V0cHV0IC0gcmVmX291dCkNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvIG1heChucC5saW5hbGcubm9ybShyZWZfb3V0KSwgMWUtMTIpKQ0KICAgICAgICAgICAgICAgIF8gPSBrZXlfaWR4LCB0YXJnZXQgICMg5Y2g5L2N77ya5YW35L2T5qOA57Si5Lu75Yqh55SxIHZlcmlmeSDlsYLlpI3nlKjmnKzmlbDmja4NCiAgICAgICAgICAgICAgICByb3dzLmFwcGVuZCh7DQogICAgICAgICAgICAgICAgICAgICJ2YXJpYW50IjogbmFtZSwNCiAgICAgICAgICAgICAgICAgICAgIlQiOiBULA0KICAgICAgICAgICAgICAgICAgICAiZCI6IGQsDQogICAgICAgICAgICAgICAgICAgICJtZWRpYW5fbXMiOiByb3VuZChtZWQgKiAxMDAwLCA0KSwNCiAgICAgICAgICAgICAgICAgICAgIm1lbV9tYiI6IHJvdW5kKG91dC5tZW1fcGVha19tYiwgNCksDQogICAgICAgICAgICAgICAgICAgICJmcm9fcmVsIjogcm91bmQoZnJvLCA2KSwNCiAgICAgICAgICAgICAgICAgICAgImNvbXBsZXhpdHkiOiBpbnN0LnRoZW9yZXRpY2FsX2NvbXBsZXhpdHkoVCwgZCksDQogICAgICAgICAgICAgICAgfSkNCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOiAgIyDljZXkuKrlj5jkvZPlpLHotKXkuI3lupTkuK3mlq3mlbTlvKDooagNCiAgICAgICAgICAgICAgICBfTE9HR0VSLndhcm5pbmcoIuWPmOS9kyAlcyDlnKggVD0lZCDlpLHotKU6ICVzIiwgbmFtZSwgVCwgZXhjKQ0KICAgICAgICAgICAgICAgIHJvd3MuYXBwZW5kKHsidmFyaWFudCI6IG5hbWUsICJUIjogVCwgImQiOiBkLCAibWVkaWFuX21zIjogTm9uZSwNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbV9tYiI6IE5vbmUsICJmcm9fcmVsIjogTm9uZSwgImNvbXBsZXhpdHkiOiBzdHIoZXhjKX0pDQogICAgcmV0dXJuIHJvd3MNCg0KDQpkZWYgYmVuY2htYXJrX21lbW9yeV9zY2FsaW5nKA0KICAgIGxlbmd0aHM6IFNlcXVlbmNlW2ludF0gPSAoNTEyLCAxMDI0LCAyMDQ4LCA0MDk2KSwgZDogaW50ID0gNjQNCikgLT4gbGlzdFtkaWN0XToNCiAgICAiIiLlhoXlrZjpmo/luo/liJfplb/luqbnmoTkvLjnvKnlr7nmr5Q6IG5haXZlIE8oVMKyKSB2cyBmbGFzaCBPKFQp44CCIiIiDQogICAgZnJvbSAuLmZsYXNoLmF0dGVudGlvbiBpbXBvcnQgYXR0ZW50aW9uX21lbW9yeV9mbGFzaCwgYXR0ZW50aW9uX21lbW9yeV9uYWl2ZQ0KDQogICAgcm93cyA9IFtdDQogICAgZm9yIFQgaW4gbGVuZ3RoczoNCiAgICAgICAgbmIgPSBhdHRlbnRpb25fbWVtb3J5X25haXZlKFQsIGQpDQogICAgICAgIGZiID0gYXR0ZW50aW9uX21lbW9yeV9mbGFzaChULCBkKQ0KICAgICAgICByb3dzLmFwcGVuZCh7DQogICAgICAgICAgICAiVCI6IFQsDQogICAgICAgICAgICAiZCI6IGQsDQogICAgICAgICAgICAibmFpdmVfbWIiOiByb3VuZChuYiAvICgxMDI0LjAgKiogMiksIDQpLA0KICAgICAgICAgICAgImZsYXNoX21iIjogcm91bmQoZmIgLyAoMTAyNC4wICoqIDIpLCA2KSwNCiAgICAgICAgICAgICJtZW1vcnlfcmF0aW8iOiByb3VuZChuYiAvIG1heChmYiwgMSksIDIpLA0KICAgICAgICB9KQ0KICAgIHJldHVybiByb3dzDQoNCg0KZGVmIGNoZWNrX2RldGVybWluaXNtX3JlcnVucyhzZWVkOiBpbnQgPSA0MiwgVDogaW50ID0gMjU2LCBkOiBpbnQgPSAzMikgLT4gZGljdDoNCiAgICAiIiIqKkc0Kiog6YeN5aSN6L+Q6KGM5ZCM5LiA5Z+65YeG77yMKirmlbDlgLzovpPlh7oqKuaYr+WQpumAkOS9jeS4gOiHtOOAgg0KDQogICAg5rOo5oSPOiDpgJDkvY3mr5TovoPlj6rpkojlr7nor63kuYnlrZfmrrUgKGZyb19yZWwgLyBtZW1fbWIgLyB2YXJpYW50IC8g5aSN5p2C5bqm562JKe+8jA0KICAgIOWimemSn+iuoeaXtiBgYG1lZGlhbl9tc2BgIOacrOi0qOS4jeWPr+WkjeeOsO+8jOS4jee6s+WFpeavlOi+gyDigJTigJQg5ZCm5YiZ44CM56Gu5a6a5oCn44CNDQogICAg5rC46L+c5Li65YGH44CC6L+Z5q2j5piv5pys6Zeo55qE6K6+6K6h6KaB54K5OiDnoa7lrprmgKcgPSDlkIznp43lrZAg4oeSIOWQjOaVsOWAvOe7k+aenOOAgg0KICAgICIiIg0KICAgIGRlZiBvbmNlKCk6DQogICAgICAgIHJvd3MgPSBiZW5jaG1hcmtfYXR0ZW50aW9uKGxlbmd0aHM9KFQsKSwgZD1kLCBzZWVkPXNlZWQsIHJlcGVhdHM9MSkNCiAgICAgICAgc2VtYW50aWMgPSBbe2s6IHYgZm9yIGssIHYgaW4gci5pdGVtcygpIGlmIGsgIT0gIm1lZGlhbl9tcyJ9IGZvciByIGluIHJvd3NdDQogICAgICAgIHJldHVybiBqc29uLmR1bXBzKHNlbWFudGljLCBzb3J0X2tleXM9VHJ1ZSkNCg0KICAgIGEsIGIgPSBvbmNlKCksIG9uY2UoKQ0KICAgIGlkZW50aWNhbCA9IGEgPT0gYg0KICAgIHJldHVybiB7DQogICAgICAgICJnYXRlIjogIkc0X2RldGVybWluaXNtIiwNCiAgICAgICAgImJpdF9pZGVudGljYWwiOiBib29sKGlkZW50aWNhbCksDQogICAgICAgICJwYXNzZWQiOiBib29sKGlkZW50aWNhbCksDQogICAgICAgICJkZXRhaWwiOiAi5Lik5qyh54us56uL6L+Q6KGM55qE5pWw5YC86L6T5Ye66KGoICjkuI3lkKvorqHml7YpIOmAkOWtl+iKguavlOi+gyIsDQogICAgfQ0KDQoNCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIENMSQ0KZGVmIG1haW4oYXJndjogU2VxdWVuY2Vbc3RyXSB8IE5vbmUgPSBOb25lKSAtPiBpbnQ6DQogICAgIiIi5ZG95Luk6KGM5YWl5Y+jOiDot5Hms6jmhI/lipvln7rlh4blubbokL3nm5ggSlNPTuOAgg0KDQogICAg55So5rOVOjoNCg0KICAgICAgICBweXRob24gLW0gbW9ybmluZ3N0YXIudmVyaWZ5LmJlbmNobWFyayAtLW91dCByZXN1bHRzIC0tbGVuZ3RocyAyNTYgNTEyIDEwMjQNCiAgICAiIiINCiAgICBpbXBvcnQgYXJncGFyc2UNCiAgICBpbXBvcnQganNvbg0KICAgIGltcG9ydCBsb2dnaW5nDQogICAgZnJvbSBwYXRobGliIGltcG9ydCBQYXRoDQoNCiAgICBhcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPSJGbGFnc2hpcEFJIOazqOaEj+WKm+WfuuWHhiIpDQogICAgYXAuYWRkX2FyZ3VtZW50KCItLW91dCIsIGRlZmF1bHQ9InJlc3VsdHMiLCBoZWxwPSLovpPlh7rnm67lvZUiKQ0KICAgIGFwLmFkZF9hcmd1bWVudCgiLS1kIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MzIsIGhlbHA9ImhlYWRfZGltIikNCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tbGVuZ3RocyIsIHR5cGU9aW50LCBuYXJncz0iKyIsIGRlZmF1bHQ9WzEyOCwgNTEyLCAxMDI0LCAyMDQ4XSkNCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tcmVwZWF0cyIsIHR5cGU9aW50LCBkZWZhdWx0PTMsIGhlbHA9Iuavj+mhuemHjeWkjeasoeaVsO+8iOWPluS4reS9je+8iSIpDQogICAgYXJncyA9IGFwLnBhcnNlX2FyZ3MoYXJndikNCg0KICAgIGxvZ2dpbmcuYmFzaWNDb25maWcobGV2ZWw9bG9nZ2luZy5JTkZPLCBmb3JtYXQ9IiUobWVzc2FnZSlzIikNCiAgICBhdHQgPSBiZW5jaG1hcmtfYXR0ZW50aW9uKGxlbmd0aHM9dHVwbGUoYXJncy5sZW5ndGhzKSwgZD1hcmdzLmQsIHJlcGVhdHM9YXJncy5yZXBlYXRzKQ0KICAgIG1lbSA9IGJlbmNobWFya19tZW1vcnlfc2NhbGluZyhsZW5ndGhzPXR1cGxlKGFyZ3MubGVuZ3RocyksIGQ9YXJncy5kKQ0KICAgIGRldCA9IGNoZWNrX2RldGVybWluaXNtX3JlcnVucygpDQoNCiAgICBvdXQgPSBQYXRoKGFyZ3Mub3V0KQ0KICAgIG91dC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpDQogICAgcGF5bG9hZCA9IHsiYXR0ZW50aW9uIjogYXR0LCAibWVtb3J5IjogbWVtLCAiZGV0ZXJtaW5pc20iOiBkZXR9DQogICAganBhdGggPSBvdXQgLyAiYmVuY2htYXJrLmpzb24iDQogICAganBhdGgud3JpdGVfdGV4dChqc29uLmR1bXBzKHBheWxvYWQsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpLCBlbmNvZGluZz0idXRmLTgiKQ0KICAgIF9MT0dHRVIuaW5mbygi5Z+65YeG5bey5YaZ5YWlICVzIiwganBhdGgpDQoNCiAgICBmcm9tIC5yZXBvcnQgaW1wb3J0IGZvcm1hdF9tYXJrZG93bl90YWJsZQ0KDQogICAgbGluZXMgPSBbIiMg5rOo5oSP5Yqb5a625peP5Z+65YeGIiwgIiIsDQogICAgICAgICAgICAgZm9ybWF0X21hcmtkb3duX3RhYmxlKGF0dCksICIiLA0KICAgICAgICAgICAgICIjIyDlhoXlrZjkvLjnvKkiLCAiIiwgZm9ybWF0X21hcmtkb3duX3RhYmxlKG1lbSksICIiXQ0KICAgIChvdXQgLyAiQkVOQ0hNQVJLLm1kIikud3JpdGVfdGV4dCgiXG4iLmpvaW4obGluZXMpLCBlbmNvZGluZz0idXRmLTgiKQ0KICAgIF9MT0dHRVIuaW5mbygiTWFya2Rvd24g5bey5YaZ5YWlICVzIiwgb3V0IC8gIkJFTkNITUFSSy5tZCIpDQogICAgcmV0dXJuIDANCg0KDQppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOg0KICAgIHJhaXNlIFN5c3RlbUV4aXQobWFpbigpKQ0K
+"""注意力家族基准评测 —— 时间 / 内存 / 保真度三轴量化。
+
+评测协议（对齐 EffAttnForge 的四道 gates，并扩展到内存维度）:
+
+  **G1 保真度** : 近似变体相对精确 full attention 的相对 Frobenius 误差。
+  **G2 检索**   : 上下文联想召回 top-1 准确率（近似的真实可用性）。
+  **G3 成本**   : 墙钟时间 + 解析式峰值内存。
+  **G4 确定性** : 同 seed 重复运行是否逐位一致。
+
+所有计时都用 ``time.perf_counter`` 并取多次重复的中位数（抵抗系统抖动）。
+内存用**解析式记账**而非 tracemalloc —— 后者噪声大且与硬件无关，
+而规划面（有多少额外的 float64 被写下）才是算法本身的性质。
+"""
+from __future__ import annotations
+
+import json
+import logging
+import statistics
+import time
+from typing import Sequence
+
+import numpy as np
+
+_LOGGER = logging.getLogger(__name__)
+
+
+def _timed_call(fn, repeats: int = 3) -> tuple[float, object]:
+    """重复调用取中位耗时。"""
+    times = []
+    out = None
+    for _ in range(repeats):
+        t0 = time.perf_counter()
+        out = fn()
+        times.append(time.perf_counter() - t0)
+    return float(statistics.median(times)), out
+
+
+def benchmark_attention(
+    lengths: Sequence[int] = (128, 512, 1024),
+    d: int = 32,
+    seed: int = 42,
+    repeats: int = 3,
+) -> list[dict]:
+    """在多个序列长度上评测全部注意力变体。
+
+    Returns:
+        每变体每行: ``{"variant", "T", "d", "median_ms", "mem_mb",
+                          "fro_rel", "retrieval_acc", "complexity"}``
+    """
+    from ..attention import build_variant, list_variants
+
+    rows: list[dict] = []
+    for T in lengths:
+        rng = np.random.default_rng(seed + T)
+        q, k, v = (rng.standard_normal((T, d)) for _ in range(3))
+        ref_out = build_variant("full").attend(q, k, v).output
+
+        # 上下文联想召回任务: 最后一个 query 应当召回某个特定 key
+        key_idx = int(T // 2)
+        target = np.argmax(build_variant("full").attend(q, k, v).weights[-1])
+
+        for name in list_variants():
+            inst = build_variant(name)
+            try:
+                med, out = _timed_call(lambda: inst.attend(q, k, v), repeats=repeats)
+                fro = float(np.linalg.norm(out.output - ref_out)
+                            / max(np.linalg.norm(ref_out), 1e-12))
+                _ = key_idx, target  # 占位：具体检索任务由 verify 层复用本数据
+                rows.append({
+                    "variant": name,
+                    "T": T,
+                    "d": d,
+                    "median_ms": round(med * 1000, 4),
+                    "mem_mb": round(out.mem_peak_mb, 4),
+                    "fro_rel": round(fro, 6),
+                    "complexity": inst.theoretical_complexity(T, d),
+                })
+            except Exception as exc:  # 单个变体失败不应中断整张表
+                _LOGGER.warning("变体 %s 在 T=%d 失败: %s", name, T, exc)
+                rows.append({"variant": name, "T": T, "d": d, "median_ms": None,
+                             "mem_mb": None, "fro_rel": None, "complexity": str(exc)})
+    return rows
+
+
+def benchmark_memory_scaling(
+    lengths: Sequence[int] = (512, 1024, 2048, 4096), d: int = 64
+) -> list[dict]:
+    """内存随序列长度的伸缩对比: naive O(T²) vs flash O(T)。"""
+    from ..flash.attention import attention_memory_flash, attention_memory_naive
+
+    rows = []
+    for T in lengths:
+        nb = attention_memory_naive(T, d)
+        fb = attention_memory_flash(T, d)
+        rows.append({
+            "T": T,
+            "d": d,
+            "naive_mb": round(nb / (1024.0 ** 2), 4),
+            "flash_mb": round(fb / (1024.0 ** 2), 6),
+            "memory_ratio": round(nb / max(fb, 1), 2),
+        })
+    return rows
+
+
+def check_determinism_reruns(seed: int = 42, T: int = 256, d: int = 32) -> dict:
+    """**G4** 重复运行同一基准，**数值输出**是否逐位一致。
+
+    注意: 逐位比较只针对语义字段 (fro_rel / mem_mb / variant / 复杂度等)，
+    墙钟计时 ``median_ms`` 本质不可复现，不纳入比较 —— 否则「确定性」
+    永远为假。这正是本门的设计要点: 确定性 = 同种子 ⇒ 同数值结果。
+    """
+    def once():
+        rows = benchmark_attention(lengths=(T,), d=d, seed=seed, repeats=1)
+        semantic = [{k: v for k, v in r.items() if k != "median_ms"} for r in rows]
+        return json.dumps(semantic, sort_keys=True)
+
+    a, b = once(), once()
+    identical = a == b
+    return {
+        "gate": "G4_determinism",
+        "bit_identical": bool(identical),
+        "passed": bool(identical),
+        "detail": "两次独立运行的数值输出表 (不含计时) 逐字节比较",
+    }
+
+
+# --------------------------------------------------------------------- CLI
+def main(argv: Sequence[str] | None = None) -> int:
+    """命令行入口: 跑注意力基准并落盘 JSON。
+
+    用法::
+
+        python -m morningstar.verify.benchmark --out results --lengths 256 512 1024
+    """
+    import argparse
+    import json
+    import logging
+    from pathlib import Path
+
+    ap = argparse.ArgumentParser(description="FlagshipAI 注意力基准")
+    ap.add_argument("--out", default="results", help="输出目录")
+    ap.add_argument("--d", type=int, default=32, help="head_dim")
+    ap.add_argument("--lengths", type=int, nargs="+", default=[128, 512, 1024, 2048])
+    ap.add_argument("--repeats", type=int, default=3, help="每项重复次数（取中位）")
+    args = ap.parse_args(argv)
+
+    logging.basicConfig(level=logging.INFO, format="%(message)s")
+    att = benchmark_attention(lengths=tuple(args.lengths), d=args.d, repeats=args.repeats)
+    mem = benchmark_memory_scaling(lengths=tuple(args.lengths), d=args.d)
+    det = check_determinism_reruns()
+
+    out = Path(args.out)
+    out.mkdir(parents=True, exist_ok=True)
+    payload = {"attention": att, "memory": mem, "determinism": det}
+    jpath = out / "benchmark.json"
+    jpath.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    _LOGGER.info("基准已写入 %s", jpath)
+
+    from .report import format_markdown_table
+
+    lines = ["# 注意力家族基准", "",
+             format_markdown_table(att), "",
+             "## 内存伸缩", "", format_markdown_table(mem), ""]
+    (out / "BENCHMARK.md").write_text("\n".join(lines), encoding="utf-8")
+    _LOGGER.info("Markdown 已写入 %s", out / "BENCHMARK.md")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

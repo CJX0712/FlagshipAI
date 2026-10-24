@@ -1,1 +1,247 @@
-IiIi546w5LujIFRyYW5zZm9ybWVyIOe7hOS7tiDigJTigJQgUm9QRSAvIFJNU05vcm0gLyBTd2lHTFXjgIIKCuavj+S4gOe7hOS7tumDveWvueW6lOS4gOevh+S4lueVjOe6p+iuuuaWhyAo6K+m6KeBIGRvY3MvUkVGRVJFTkNFUy5tZCk6CgogICogKipSb1BFIOaXi+i9rOS9jee9rue8lueggSoqIDogU3UsIEouIGV0IGFsLiAoMjAyMSkuICpSb0Zvcm1lcjogRW5oYW5jZWQgVHJhbnNmb3JtZXIKICAgIHdpdGggUm90YXJ5IFBvc2l0aW9uIEVtYmVkZGluZyouIGFyWGl2OjIxMDQuMDk4NjQuCiAgICDnlKjlpI3mlbDml4vovazmiornu53lr7nkvY3nva7ms6jlhaUgUS9LOiAg4p+oUl9tIHEsIFJfbiBr4p+pIOWPquS+nei1luebuOWvueS9jeenuyBt4oiSbu+8jAogICAg5Zug5q2kKirlpKnnhLblpJbmjqjliLDmm7Tplb/kuIrkuIvmlocqKuKAlOKAlOi/meaYryBMbGFtYSAvIE1pc3RyYWwgLyBRd2VuIOeahOm7mOiupOmAieaLqeOAggoKICAqICoqUk1TTm9ybSoqIDogWmhhbmcsIEIuICYgU2VubnJpY2gsIFIuICgyMDE5KS4gKlJvb3QgTWVhbiBTcXVhcmUgTGF5ZXIKICAgIE5vcm1hbGl6YXRpb24qLiBhclhpdjoxOTEwLjA3NDY3LgogICAg5Y+q5YGa6YeN57yp5pS+44CB5LiN5YGa6YeN5bGF5LitOiBgYHkgPSB4IC8gUk1TKHgpIMK3IGdgYO+8jOavlCBMYXllck5vcm0g5bCR5LiA5qyhCiAgICDlnYflgLznu5/orqHvvIzorq3nu4Pmm7TnqLPkuJTmm7Tlv6vjgIIKCiAgKiAqKlN3aUdMVSBGRk4qKiA6IFNoYXplZXIsIE4uICgyMDIwKS4gKkdMVSBWYXJpYW50cyBJbXByb3ZlIFRyYW5zZm9ybWVyKi4KICAgIGFyWGl2OjIwMDIuMDUyMDIuICBgYEZGTih4KSA9IChTd2lzaCh4V19nYXRlKSDiipkgeFdfdXApIFdfZG93bmBgCiAgICDigJTigJQgTGxhbWEgLyBQYUxNIOeahOagh+mFje+8jOWQjOWPguaVsOmHj+S4i+S8mOS6jiBSZUxVL0dFTFUgRkZO44CCCgrnoazkuI3lj5jph486CiAgKipSMSBSb1BFIOebuOWvueaApyoqOiAg4p+oUm90KHEsIG0pLCBSb3Qoaywgbinin6kg5Y+q5L6d6LWWIChtIOKIkiBuKQogICAgICAgICAgICAgICAgICAgICAgIOKHkiDmlbTkvZPlubPnp7vkvY3nva4gKG0rzpQsIG4rzpQpIOWQjuWGheenr+S4jeWPmOOAggogICoqUjIgUm9QRSDkv53ojIMqKjogICAgIOKAllJvdCh4LCBtKeKAluKCgiA9IOKAlnjigJbigoLvvIjml4vovazmmK/mraPkuqTlj5jmjaLvvInjgIIKICAqKlIzIFJNU05vcm0g5Y2V5L2NIFJNUyoqOiDlvZLkuIDljJblkI7oi6UgZyA9IDHvvIzliJkgUk1TKHkpID0gMSAo6YCQ6KGMKeOAggogICoqUjQgU3dpR0xVIOWJjeWQkeaciemZkCoqOiDmnoHnq6/ovpPlhaXkuI3kuqfnlJ8gTmFOL0luZuOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGxvZ2dpbmcKZnJvbSB0eXBpbmcgaW1wb3J0IFR1cGxlCgppbXBvcnQgbnVtcHkgYXMgbnAKCl9MT0dHRVIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCgpjbGFzcyBSb3RhcnlFbWJlZGRpbmc6CiAgICAiIiJSb1BFIOaXi+i9rOS9jee9rue8lueggSAoU3UgZXQgYWwuIDIwMjEp44CCCgogICAg5a6e546w6YCJ5oup77yI6Zu26YeN5YaZ77yJOiDnm7TmjqXph4fnlKggTGxhbWEvVG9yY2gg55Sf5oCB6YCa6KGM55qEICoq5Y2K5peL6L2s6YWN5a+5Kiog5b2i5byPOgogICAg5oqKIGhlYWRfZGltIOe7tOWQkemHj+inhuS9nCBkLzIg5Liq5aSN5pWw77yM56ysIGog5Liq5aSN5pWw55qE5peL6L2s6KeS5Li6IGBgbSDCtyDOuF9qYGDvvIwKICAgIOWFtuS4rSBgYM64X2ogPSAxIC8gYmFzZV57MmovZH1gYO+8iGJhc2UgPSAxMDAwMO+8ieOAggoKICAgIOaVsOWtpuW8jzog5a+55L2N572uIG3vvIwKICAgICAgICBgYFJvdCh4LCBtKV97Mmp9ICAgPSB4X3syan0gY29zKG3OuF9qKSDiiJIgeF97MmorMX0gc2luKG3OuF9qKWBgCiAgICAgICAgYGBSb3QoeCwgbSlfezJqKzF9ID0geF97Mmp9IHNpbihtzrhfaikgKyB4X3syaisxfSBjb3Mobc64X2opYGAKCiAgICDkuLrku4DkuYjlroPkv53nlZnnm7jlr7nkvY3nva7kv6Hmga86IOaXi+i9rOefqemYtea7oei2swogICAgYGDin6hSX20gcSwgUl9uIGvin6kgPSDin6hxLCBSX3tu4oiSbX0ga+KfqWBg77yM5YaF56ev5LuF5L6d6LWW55u45a+55L2N56e744CCCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgaGVhZF9kaW06IGludCwgYmFzZTogZmxvYXQgPSAxMDAwMC4wLCBtYXhfbGVuOiBpbnQgPSA4MTkyKSAtPiBOb25lOgogICAgICAgIGlmIGhlYWRfZGltIDw9IDAgb3IgaGVhZF9kaW0gJSAyICE9IDA6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJoZWFkX2RpbSDlv4XpobvkuLrmraPlgbbmlbDvvIzmlLbliLAge2hlYWRfZGltfSIpCiAgICAgICAgc2VsZi5oZWFkX2RpbSA9IGludChoZWFkX2RpbSkKICAgICAgICBzZWxmLmJhc2UgPSBmbG9hdChiYXNlKQogICAgICAgIHNlbGYubWF4X2xlbiA9IGludChtYXhfbGVuKQogICAgICAgIGludl9mcmVxID0gMS4wIC8gKHNlbGYuYmFzZSAqKiAobnAuYXJhbmdlKDAsIHNlbGYuaGVhZF9kaW0sIDIsIGR0eXBlPW5wLmZsb2F0NjQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvIHNlbGYuaGVhZF9kaW0pKQogICAgICAgIHNlbGYuaW52X2ZyZXEgPSBpbnZfZnJlcSAgIyAoZC8yLCkKICAgICAgICBzZWxmLl9jYWNoZV9sZW4gPSAwCiAgICAgICAgc2VsZi5fY29zOiBucC5uZGFycmF5ID0gbnAuemVyb3MoKDAsIHNlbGYuaGVhZF9kaW0gLy8gMikpCiAgICAgICAgc2VsZi5fc2luOiBucC5uZGFycmF5ID0gbnAuemVyb3MoKDAsIHNlbGYuaGVhZF9kaW0gLy8gMikpCgogICAgZGVmIF9leHRlbmRfY2FjaGUoc2VsZiwgbmVlZDogaW50KSAtPiBOb25lOgogICAgICAgICIiIuaMiemcgOaJqeWxlSBjb3Mvc2luIOihqO+8iOmBv+WFjeS4gOasoeaAp+WIhumFjSBtYXhfbGVuIOeahOa1qui0ue+8ieOAgiIiIgogICAgICAgIGlmIG5lZWQgPD0gc2VsZi5fY2FjaGVfbGVuOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBwb3NpdGlvbnMgPSBucC5hcmFuZ2UoMCwgbmVlZCwgZHR5cGU9bnAuZmxvYXQ2NCkKICAgICAgICBpZiBuZWVkID4gc2VsZi5tYXhfbGVuOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYi6ZyA6KaBIHtuZWVkfSDkuKrkvY3nva7vvIzotoXov4cgbWF4X2xlbj17c2VsZi5tYXhfbGVufSIpCiAgICAgICAgYW5nbGVzID0gcG9zaXRpb25zWzosIE5vbmVdICogc2VsZi5pbnZfZnJlcVtOb25lLCA6XSAgIyAobmVlZCwgZC8yKQogICAgICAgIHNlbGYuX2NvcyA9IG5wLmNvcyhhbmdsZXMpCiAgICAgICAgc2VsZi5fc2luID0gbnAuc2luKGFuZ2xlcykKICAgICAgICBzZWxmLl9jYWNoZV9sZW4gPSBuZWVkCgogICAgZGVmIHJvdGF0ZV9xaygKICAgICAgICBzZWxmLCB4OiBucC5uZGFycmF5LCBwb3NpdGlvbnM6IG5wLm5kYXJyYXkKICAgICkgLT4gbnAubmRhcnJheToKICAgICAgICAiIiLlr7nlvaLnirYgKC4uLiwgaGVhZF9kaW0pIOeahOW8oOmHj+aWveWKoOaXi+i9rOOAggoKICAgICAgICBBcmdzOgogICAgICAgICAgICB4OiAgICAgICAgIOS7u+aEj+WJjee8gOW9oueKtiArIOacgOWQjuS4gOe7tOS4uiBoZWFkX2RpbeOAggogICAgICAgICAgICBwb3NpdGlvbnM6IOS4jiB4IOWJjeWvvOe7tOW6puW5v+aSreWFvOWuueeahOS9jee9rue0ouW8leOAggoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICDml4vovazlkI7nmoTlvKDph4/vvIzlvaLnirblkIwgeOOAggogICAgICAgICIiIgogICAgICAgIHggPSBucC5hc2FycmF5KHgsIGR0eXBlPW5wLmZsb2F0NjQpCiAgICAgICAgaWYgeC5zaGFwZVstMV0gIT0gc2VsZi5oZWFkX2RpbToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIuacgOWQjuS4gOe7tOW/hemhu+S4uiBoZWFkX2RpbT17c2VsZi5oZWFkX2RpbX3vvIzmlLbliLAge3guc2hhcGVbLTFdfSIpCiAgICAgICAgcG9zaXRpb25zID0gbnAuYXNhcnJheShwb3NpdGlvbnMsIGR0eXBlPW5wLmludDY0KQogICAgICAgIG5lZWQgPSBpbnQocG9zaXRpb25zLm1heCgpKSArIDEgaWYgcG9zaXRpb25zLnNpemUgZWxzZSAwCiAgICAgICAgc2VsZi5fZXh0ZW5kX2NhY2hlKG1heChuZWVkLCAxKSkKCiAgICAgICAgeCA9IG5wLmFzYXJyYXkoeCwgZHR5cGU9bnAuZmxvYXQ2NCkKICAgICAgICBpZiB4Lm5kaW0gPT0gMToKICAgICAgICAgICAgIyDljZXlkJHph486IOS9jee9ruWPluagh+mHj++8jGNvcy9zaW4g5Li6IChkLzIsKQogICAgICAgICAgICBwID0gaW50KHBvc2l0aW9ucy5yZXNoYXBlKC0xKVswXSkKICAgICAgICAgICAgY29zLCBzaW4gPSBzZWxmLl9jb3NbcF0sIHNlbGYuX3NpbltwXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMg6IulIHBvc2l0aW9ucyDnu7TluqblsJHkuo7liY3lr7znu7TvvIzlhYjlnKjlsL7pg6jooaXovbTlho3lub/mkq3vvIwKICAgICAgICAgICAgIyDkvb8gKFQsKSDog73lr7npvZAgKFQsIEgpIOi/meexu+OAjOW6j+WIlyArIOWkmuWktOOAjeW4g+WxgOOAggogICAgICAgICAgICBwb3MgPSBucC5hc2FycmF5KHBvc2l0aW9ucywgZHR5cGU9bnAuaW50NjQpCiAgICAgICAgICAgIG5kaW1fbGVhZCA9IGxlbih4LnNoYXBlWzotMV0pCiAgICAgICAgICAgIGlmIHBvcy5uZGltIDwgbmRpbV9sZWFkOgogICAgICAgICAgICAgICAgcG9zID0gcG9zLnJlc2hhcGUocG9zLnNoYXBlICsgKDEsKSAqIChuZGltX2xlYWQgLSBwb3MubmRpbSkpCiAgICAgICAgICAgIHBvcyA9IG5wLmJyb2FkY2FzdF90byhwb3MsIHguc2hhcGVbOi0xXSkKICAgICAgICAgICAgY29zLCBzaW4gPSBzZWxmLl9jb3NbcG9zXSwgc2VsZi5fc2luW3Bvc10KICAgICAgICB4MSA9IHhbLi4uLCAwOjoyXSAgIyDlgbbmlbDkvY0gKOWunumDqCkKICAgICAgICB4MiA9IHhbLi4uLCAxOjoyXSAgIyDlpYfmlbDkvY0gKOiZmumDqCkKICAgICAgICBvdXQgPSBucC5lbXB0eV9saWtlKHgpCiAgICAgICAgb3V0Wy4uLiwgMDo6Ml0gPSB4MSAqIGNvcyAtIHgyICogc2luCiAgICAgICAgb3V0Wy4uLiwgMTo6Ml0gPSB4MSAqIHNpbiArIHgyICogY29zCiAgICAgICAgcmV0dXJuIG91dAoKICAgIGRlZiByb3RhdGVfcWtfaW52ZXJzZSgKICAgICAgICBzZWxmLCB4OiBucC5uZGFycmF5LCBwb3NpdGlvbnM6IG5wLm5kYXJyYXkKICAgICkgLT4gbnAubmRhcnJheToKICAgICAgICAiIiLpgIblkJHml4vovazvvIjlj43lkJHkvKDmkq3nlKjvvInjgIIKCiAgICAgICAg5pWw5a2m5L6d5o2uOiBSb1BFIOaYryoq5q2j5Lqk5Y+Y5o2iKiogYGBSKG0pYGDvvIzlhbbpgIYgYGBSKG0pXnstMX0gPSBSKC1tKSA9IFIobSleVGBg44CCCiAgICAgICAg5peL6L2s55+p6Zi1IGBgUihtKSA9IFtbY29zLCAtc2luXSwgW3NpbiwgY29zXV1gYO+8jOaVheWFtui9rOe9ruS4ugogICAgICAgIGBgUigtbSkgPSBbW2NvcywgK3Npbl0sIFstc2luLCBjb3NdXWBgIOKAlOKAlCDljbMqKuWkjeeUqOato+S9jee9rioq55qEIGNvcy9zaW7vvIwKICAgICAgICDkvYbmioogc2luIOeahOespuWPt+e/u+i9rOWNs+WPr++8jOaXoOmcgOWvueS9jee9ruWPlui0n++8iOi0n+e0ouW8leWcqCBudW1weSDkvJrlvqrnjq/lm57nu5XvvIzplJnor6/vvInjgIIKCiAgICAgICAg6aqM6K+BOiBgYHJvdGF0ZV9xa19pbnZlcnNlKHJvdGF0ZV9xayh4LCBtKSwgbSkgPT0geGBgICjpgJDkvY0p44CCCiAgICAgICAgIiIiCiAgICAgICAgeCA9IG5wLmFzYXJyYXkoeCwgZHR5cGU9bnAuZmxvYXQ2NCkKICAgICAgICBpZiB4LnNoYXBlWy0xXSAhPSBzZWxmLmhlYWRfZGltOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYi5pyA5ZCO5LiA57u05b+F6aG75Li6IGhlYWRfZGltPXtzZWxmLmhlYWRfZGltfe+8jOaUtuWIsCB7eC5zaGFwZVstMV19IikKICAgICAgICBwb3NpdGlvbnMgPSBucC5hc2FycmF5KHBvc2l0aW9ucywgZHR5cGU9bnAuaW50NjQpCiAgICAgICAgbmVlZCA9IGludChwb3NpdGlvbnMubWF4KCkpICsgMSBpZiBwb3NpdGlvbnMuc2l6ZSBlbHNlIDAKICAgICAgICBzZWxmLl9leHRlbmRfY2FjaGUobWF4KG5lZWQsIDEpKQoKICAgICAgICBpZiB4Lm5kaW0gPT0gMToKICAgICAgICAgICAgcCA9IGludChwb3NpdGlvbnMucmVzaGFwZSgtMSlbMF0pCiAgICAgICAgICAgIGNvcywgc2luID0gc2VsZi5fY29zW3BdLCBzZWxmLl9zaW5bcF0KICAgICAgICBlbHNlOgogICAgICAgICAgICBwb3MgPSBucC5hc2FycmF5KHBvc2l0aW9ucywgZHR5cGU9bnAuaW50NjQpCiAgICAgICAgICAgIG5kaW1fbGVhZCA9IGxlbih4LnNoYXBlWzotMV0pCiAgICAgICAgICAgIGlmIHBvcy5uZGltIDwgbmRpbV9sZWFkOgogICAgICAgICAgICAgICAgcG9zID0gcG9zLnJlc2hhcGUocG9zLnNoYXBlICsgKDEsKSAqIChuZGltX2xlYWQgLSBwb3MubmRpbSkpCiAgICAgICAgICAgIHBvcyA9IG5wLmJyb2FkY2FzdF90byhwb3MsIHguc2hhcGVbOi0xXSkKICAgICAgICAgICAgY29zLCBzaW4gPSBzZWxmLl9jb3NbcG9zXSwgc2VsZi5fc2luW3Bvc10KCiAgICAgICAgeDEgPSB4Wy4uLiwgMDo6Ml0gICMg5YG25pWw5L2NICjlrp7pg6gpCiAgICAgICAgeDIgPSB4Wy4uLiwgMTo6Ml0gICMg5aWH5pWw5L2NICjomZrpg6gpCiAgICAgICAgb3V0ID0gbnAuZW1wdHlfbGlrZSh4KQogICAgICAgICMgUigtbSkg5bqU55SoOiDnv7vovawgc2luIOespuWPtwogICAgICAgIG91dFsuLi4sIDA6OjJdID0geDEgKiBjb3MgKyB4MiAqIHNpbgogICAgICAgIG91dFsuLi4sIDE6OjJdID0gLXgxICogc2luICsgeDIgKiBjb3MKICAgICAgICByZXR1cm4gb3V0CgogICAgZGVmIHJvdGF0ZSgKICAgICAgICBzZWxmLCBxOiBucC5uZGFycmF5LCBrOiBucC5uZGFycmF5LCBwb3NpdGlvbnM6IG5wLm5kYXJyYXkKICAgICkgLT4gVHVwbGVbbnAubmRhcnJheSwgbnAubmRhcnJheV06CiAgICAgICAgIiIi5ZCM5pe25peL6L2sIHEgKFQsIEgsIGRoKSDkuI4gayAoVCwgSF9rdiwgZGgp44CC5L6bIG11bHRpaGVhZF9mb3J3YXJkIOiwg+eUqOOAgiIiIgogICAgICAgIHFfcG9zID0gcG9zaXRpb25zCiAgICAgICAga19wb3MgPSBwb3NpdGlvbnMKICAgICAgICByZXR1cm4gc2VsZi5yb3RhdGVfcWsocSwgcV9wb3MpLCBzZWxmLnJvdGF0ZV9xayhrLCBrX3BvcykKCgpkZWYgcm90YXRlX2hhbGZfbnVtcHkoeDogbnAubmRhcnJheSwgcG9zaXRpb25zOiBucC5uZGFycmF5LCBoZWFkX2RpbTogaW50LAogICAgICAgICAgICAgICAgICAgICAgYmFzZTogZmxvYXQgPSAxMDAwMC4wKSAtPiBucC5uZGFycmF5OgogICAgIiIi5Ye95pWw5byPIFJvUEXvvIjkvr/kuo7mtYvor5XkuI7ni6znq4vkuqTlj4npqozor4EgUm90YXJ5RW1iZWRkaW5nIOexu++8ieOAggoKICAgIOi/meaYryAqKuS4jeS+nei1luWvueixoeeKtuaAgSoqIOeahOesrOS6jOWunueOsO+8jOeUqOS6juS6pOWPiemqjOivgSBSb1BFIOeahOato+ehruaApwogICAg77yI5Lik5p2h54us56uL6Lev5b6E5bqU57uZ5Ye66YCQ5L2N5LiA6Ie055qE57uT5p6c77yJ44CCCiAgICAiIiIKICAgIGludl9mcmVxID0gMS4wIC8gKGJhc2UgKiogKG5wLmFyYW5nZSgwLCBoZWFkX2RpbSwgMiwgZHR5cGU9bnAuZmxvYXQ2NCkgLyBoZWFkX2RpbSkpCiAgICBhbmdsZXMgPSBucC5hc2FycmF5KHBvc2l0aW9ucywgZHR5cGU9bnAuZmxvYXQ2NClbOiwgTm9uZV0gKiBpbnZfZnJlcVtOb25lLCA6XQogICAgY29zLCBzaW4gPSBucC5jb3MoYW5nbGVzKSwgbnAuc2luKGFuZ2xlcykKICAgIHgxLCB4MiA9IHhbLi4uLCAwOjoyXSwgeFsuLi4sIDE6OjJdCiAgICBvdXQgPSBucC5lbXB0eV9saWtlKG5wLmFzYXJyYXkoeCwgZHR5cGU9bnAuZmxvYXQ2NCkpCiAgICBvdXRbLi4uLCAwOjoyXSA9IHgxICogY29zIC0geDIgKiBzaW4KICAgIG91dFsuLi4sIDE6OjJdID0geDEgKiBzaW4gKyB4MiAqIGNvcwogICAgcmV0dXJuIG91dAoKCmNsYXNzIFJNU05vcm06CiAgICAiIiJSTVNOb3JtIChaaGFuZyAmIFNlbm5yaWNoIDIwMTkpOiBgYHkgPSB4IC8gc3FydChtZWFuKHjCsikgKyBlcHMpIMK3IGdgYOOAggoKICAgIOS4jiBMYXllck5vcm0g55qE5Yy65YirOiDkuI3lh4/ljrvlnYflgLzjgIHkuI3lrabkuaDlgY/nva7vvIzlj6rlgZoqKumHjee8qeaUvioq44CCCiAgICDlnKggVHJhbnNmb3JtZXIg5Lit5pu056iz5a6a5LiU6K6h566X5pu055yB77yI5bCR5LiA5qyh5Z2H5YC85b2S57qm77yJ44CCCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgZGltOiBpbnQsIGVwczogZmxvYXQgPSAxZS04KSAtPiBOb25lOgogICAgICAgIGlmIGRpbSA8PSAwOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiZGltIOW/hemhu+S4uuato++8jOaUtuWIsCB7ZGltfSIpCiAgICAgICAgc2VsZi5kaW0gPSBpbnQoZGltKQogICAgICAgIHNlbGYuZXBzID0gZmxvYXQoZXBzKQogICAgICAgIHNlbGYud2VpZ2h0ID0gbnAub25lcyhzZWxmLmRpbSwgZHR5cGU9bnAuZmxvYXQ2NCkgICMg5Y+v5a2m5Lmg5aKe55uKIGcKCiAgICBkZWYgZm9yd2FyZChzZWxmLCB4OiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5OgogICAgICAgICIiIuWJjeWQkTog6YCQ6KGM77yI5pyA5ZCO5LiA57u077yJ5b2S5LiA5YyW5ZCO5LmY5aKe55uK44CCIiIiCiAgICAgICAgeCA9IG5wLmFzYXJyYXkoeCwgZHR5cGU9bnAuZmxvYXQ2NCkKICAgICAgICBybXMgPSBucC5zcXJ0KG5wLm1lYW4oeCAqIHgsIGF4aXM9LTEsIGtlZXBkaW1zPVRydWUpICsgc2VsZi5lcHMpCiAgICAgICAgcmV0dXJuICh4IC8gcm1zKSAqIHNlbGYud2VpZ2h0CgogICAgZGVmIF9fY2FsbF9fKHNlbGYsIHg6IG5wLm5kYXJyYXkpIC0+IG5wLm5kYXJyYXk6CiAgICAgICAgcmV0dXJuIHNlbGYuZm9yd2FyZCh4KQoKCmNsYXNzIFN3aUdMVUZlZWRGb3J3YXJkOgogICAgIiIiU3dpR0xVIOWJjemmiOe9kee7nCAoU2hhemVlciAyMDIwKTogYGAoU3dpc2goeFdfZ2F0ZSkg4oqZIHhXX3VwKSBXX2Rvd25gYOOAggoKICAgIOWFtuS4rSBTd2lzaCh6KSA9IHogwrcgz4MoeinvvIjkuqbnp7AgU2lMVe+8ieOAgkxsYW1hL1BhTE0vUXdlbiDlnYfph4fnlKjjgIIKICAgIOazqOaEj+aYvuW8j+eahCB+Mi8zIGhpZGRlbl9kaW0g5oOv5L6L77yIaGV1cmlzdGlj77yJ77yM5L+d6K+B5LiOIFJlTFUgRkZOICoq5Y+C5pWw6YeP5a+56b2QKirjgIIKICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBkaW06IGludCwgaGlkZGVuX2RpbTogaW50IHwgTm9uZSA9IE5vbmUsICosIG11bHRpcGxlOiBpbnQgPSAyNTYpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5kaW0gPSBpbnQoZGltKQogICAgICAgIHNlbGYuaGlkZGVuX2RpbSA9IGludChoaWRkZW5fZGltKSBpZiBoaWRkZW5fZGltIGVsc2UgX2Zmbl9oaWRkZW4oZGltLCBtdWx0aXBsZSkKCiAgICBkZWYgZm9yd2FyZCgKICAgICAgICBzZWxmLAogICAgICAgIHg6IG5wLm5kYXJyYXksCiAgICAgICAgd19nYXRlOiBucC5uZGFycmF5LAogICAgICAgIHdfdXA6IG5wLm5kYXJyYXksCiAgICAgICAgd19kb3duOiBucC5uZGFycmF5LAogICAgKSAtPiBucC5uZGFycmF5OgogICAgICAgICIiIuWJjeWQkeOAguadg+mHjeW9oueKtjogd19nYXRlL3dfdXAgKGRpbSwgaGlkZGVuKSwgd19kb3duIChoaWRkZW4sIGRpbSnjgIIiIiIKICAgICAgICB4ID0gbnAuYXNhcnJheSh4LCBkdHlwZT1ucC5mbG9hdDY0KQogICAgICAgIGdhdGUgPSB4IEAgbnAuYXNhcnJheSh3X2dhdGUsIGR0eXBlPW5wLmZsb2F0NjQpCiAgICAgICAgdXAgPSB4IEAgbnAuYXNhcnJheSh3X3VwLCBkdHlwZT1ucC5mbG9hdDY0KQogICAgICAgIGFjdCA9IGdhdGUgKiBfc2lnbW9pZChnYXRlKSAgIyBTd2lzaCAvIFNpTFUKICAgICAgICByZXR1cm4gKGFjdCAqIHVwKSBAIG5wLmFzYXJyYXkod19kb3duLCBkdHlwZT1ucC5mbG9hdDY0KQoKICAgIGRlZiBfX2NhbGxfXyhzZWxmLCB4LCB3X2dhdGUsIHdfdXAsIHdfZG93bik6CiAgICAgICAgcmV0dXJuIHNlbGYuZm9yd2FyZCh4LCB3X2dhdGUsIHdfdXAsIHdfZG93bikKCgpkZWYgX2Zmbl9oaWRkZW4oZGltOiBpbnQsIG11bHRpcGxlOiBpbnQgPSAyNTYpIC0+IGludDoKICAgICIiIkxsYW1hIOaDr+S+izogaGlkZGVuID0g4oyIKDIvMyDCtyA0wrdkaW0pIC8gbXVsdGlwbGXijIkgwrcgbXVsdGlwbGXjgIIiIiIKICAgIHJhdyA9IGludCgoMi4wIC8gMy4wKSAqICg0ICogZGltKSkKICAgIHJldHVybiAoKHJhdyArIG11bHRpcGxlIC0gMSkgLy8gbXVsdGlwbGUpICogbXVsdGlwbGUKCgpkZWYgX3NpZ21vaWQoejogbnAubmRhcnJheSkgLT4gbnAubmRhcnJheToKICAgICIiIuaVsOWAvOeos+WumueahCBzaWdtb2lk77yI5q2j6LSf5YiG5pSv5YiG56a777yM6YG/5YWN5aSn5q2j5pWw5rqi5Ye677yJ44CCIiIiCiAgICB6ID0gbnAuYXNhcnJheSh6LCBkdHlwZT1ucC5mbG9hdDY0KQogICAgb3V0ID0gbnAuZW1wdHlfbGlrZSh6KQogICAgcG9zID0geiA+PSAwCiAgICBvdXRbcG9zXSA9IDEuMCAvICgxLjAgKyBucC5leHAoLXpbcG9zXSkpCiAgICBleiA9IG5wLmV4cCh6W35wb3NdKQogICAgb3V0W35wb3NdID0gZXogLyAoMS4wICsgZXopCiAgICByZXR1cm4gb3V0Cg==
+"""现代 Transformer 组件 —— RoPE / RMSNorm / SwiGLU。
+
+每一组件都对应一篇世界级论文 (详见 docs/REFERENCES.md):
+
+  * **RoPE 旋转位置编码** : Su, J. et al. (2021). *RoFormer: Enhanced Transformer
+    with Rotary Position Embedding*. arXiv:2104.09864.
+    用复数旋转把绝对位置注入 Q/K:  ⟨R_m q, R_n k⟩ 只依赖相对位移 m−n，
+    因此**天然外推到更长上下文**——这是 Llama / Mistral / Qwen 的默认选择。
+
+  * **RMSNorm** : Zhang, B. & Sennrich, R. (2019). *Root Mean Square Layer
+    Normalization*. arXiv:1910.07467.
+    只做重缩放、不做重居中: ``y = x / RMS(x) · g``，比 LayerNorm 少一次
+    均值统计，训练更稳且更快。
+
+  * **SwiGLU FFN** : Shazeer, N. (2020). *GLU Variants Improve Transformer*.
+    arXiv:2002.05202.  ``FFN(x) = (Swish(xW_gate) ⊙ xW_up) W_down``
+    —— Llama / PaLM 的标配，同参数量下优于 ReLU/GELU FFN。
+
+硬不变量:
+  **R1 RoPE 相对性**:  ⟨Rot(q, m), Rot(k, n)⟩ 只依赖 (m − n)
+                       ⇒ 整体平移位置 (m+Δ, n+Δ) 后内积不变。
+  **R2 RoPE 保范**:     ‖Rot(x, m)‖₂ = ‖x‖₂（旋转是正交变换）。
+  **R3 RMSNorm 单位 RMS**: 归一化后若 g = 1，则 RMS(y) = 1 (逐行)。
+  **R4 SwiGLU 前向有限**: 极端输入不产生 NaN/Inf。
+"""
+from __future__ import annotations
+
+import logging
+from typing import Tuple
+
+import numpy as np
+
+_LOGGER = logging.getLogger(__name__)
+
+
+class RotaryEmbedding:
+    """RoPE 旋转位置编码 (Su et al. 2021)。
+
+    实现选择（零重写）: 直接采用 Llama/Torch 生态通行的 **半旋转配对** 形式:
+    把 head_dim 维向量视作 d/2 个复数，第 j 个复数的旋转角为 ``m · θ_j``，
+    其中 ``θ_j = 1 / base^{2j/d}``（base = 10000）。
+
+    数学式: 对位置 m，
+        ``Rot(x, m)_{2j}   = x_{2j} cos(mθ_j) − x_{2j+1} sin(mθ_j)``
+        ``Rot(x, m)_{2j+1} = x_{2j} sin(mθ_j) + x_{2j+1} cos(mθ_j)``
+
+    为什么它保留相对位置信息: 旋转矩阵满足
+    ``⟨R_m q, R_n k⟩ = ⟨q, R_{n−m} k⟩``，内积仅依赖相对位移。
+    """
+
+    def __init__(self, head_dim: int, base: float = 10000.0, max_len: int = 8192) -> None:
+        if head_dim <= 0 or head_dim % 2 != 0:
+            raise ValueError(f"head_dim 必须为正偶数，收到 {head_dim}")
+        self.head_dim = int(head_dim)
+        self.base = float(base)
+        self.max_len = int(max_len)
+        inv_freq = 1.0 / (self.base ** (np.arange(0, self.head_dim, 2, dtype=np.float64)
+                                        / self.head_dim))
+        self.inv_freq = inv_freq  # (d/2,)
+        self._cache_len = 0
+        self._cos: np.ndarray = np.zeros((0, self.head_dim // 2))
+        self._sin: np.ndarray = np.zeros((0, self.head_dim // 2))
+
+    def _extend_cache(self, need: int) -> None:
+        """按需扩展 cos/sin 表（避免一次性分配 max_len 的浪费）。"""
+        if need <= self._cache_len:
+            return
+        positions = np.arange(0, need, dtype=np.float64)
+        if need > self.max_len:
+            raise ValueError(f"需要 {need} 个位置，超过 max_len={self.max_len}")
+        angles = positions[:, None] * self.inv_freq[None, :]  # (need, d/2)
+        self._cos = np.cos(angles)
+        self._sin = np.sin(angles)
+        self._cache_len = need
+
+    def rotate_qk(
+        self, x: np.ndarray, positions: np.ndarray
+    ) -> np.ndarray:
+        """对形状 (..., head_dim) 的张量施加旋转。
+
+        Args:
+            x:         任意前缀形状 + 最后一维为 head_dim。
+            positions: 与 x 前导维度广播兼容的位置索引。
+
+        Returns:
+            旋转后的张量，形状同 x。
+        """
+        x = np.asarray(x, dtype=np.float64)
+        if x.shape[-1] != self.head_dim:
+            raise ValueError(f"最后一维必须为 head_dim={self.head_dim}，收到 {x.shape[-1]}")
+        positions = np.asarray(positions, dtype=np.int64)
+        need = int(positions.max()) + 1 if positions.size else 0
+        self._extend_cache(max(need, 1))
+
+        x = np.asarray(x, dtype=np.float64)
+        if x.ndim == 1:
+            # 单向量: 位置取标量，cos/sin 为 (d/2,)
+            p = int(positions.reshape(-1)[0])
+            cos, sin = self._cos[p], self._sin[p]
+        else:
+            # 若 positions 维度少于前导维，先在尾部补轴再广播，
+            # 使 (T,) 能对齐 (T, H) 这类「序列 + 多头」布局。
+            pos = np.asarray(positions, dtype=np.int64)
+            ndim_lead = len(x.shape[:-1])
+            if pos.ndim < ndim_lead:
+                pos = pos.reshape(pos.shape + (1,) * (ndim_lead - pos.ndim))
+            pos = np.broadcast_to(pos, x.shape[:-1])
+            cos, sin = self._cos[pos], self._sin[pos]
+        x1 = x[..., 0::2]  # 偶数位 (实部)
+        x2 = x[..., 1::2]  # 奇数位 (虚部)
+        out = np.empty_like(x)
+        out[..., 0::2] = x1 * cos - x2 * sin
+        out[..., 1::2] = x1 * sin + x2 * cos
+        return out
+
+    def rotate_qk_inverse(
+        self, x: np.ndarray, positions: np.ndarray
+    ) -> np.ndarray:
+        """逆向旋转（反向传播用）。
+
+        数学依据: RoPE 是**正交变换** ``R(m)``，其逆 ``R(m)^{-1} = R(-m) = R(m)^T``。
+        旋转矩阵 ``R(m) = [[cos, -sin], [sin, cos]]``，故其转置为
+        ``R(-m) = [[cos, +sin], [-sin, cos]]`` —— 即**复用正位置**的 cos/sin，
+        但把 sin 的符号翻转即可，无需对位置取负（负索引在 numpy 会循环回绕，错误）。
+
+        验证: ``rotate_qk_inverse(rotate_qk(x, m), m) == x`` (逐位)。
+        """
+        x = np.asarray(x, dtype=np.float64)
+        if x.shape[-1] != self.head_dim:
+            raise ValueError(f"最后一维必须为 head_dim={self.head_dim}，收到 {x.shape[-1]}")
+        positions = np.asarray(positions, dtype=np.int64)
+        need = int(positions.max()) + 1 if positions.size else 0
+        self._extend_cache(max(need, 1))
+
+        if x.ndim == 1:
+            p = int(positions.reshape(-1)[0])
+            cos, sin = self._cos[p], self._sin[p]
+        else:
+            pos = np.asarray(positions, dtype=np.int64)
+            ndim_lead = len(x.shape[:-1])
+            if pos.ndim < ndim_lead:
+                pos = pos.reshape(pos.shape + (1,) * (ndim_lead - pos.ndim))
+            pos = np.broadcast_to(pos, x.shape[:-1])
+            cos, sin = self._cos[pos], self._sin[pos]
+
+        x1 = x[..., 0::2]  # 偶数位 (实部)
+        x2 = x[..., 1::2]  # 奇数位 (虚部)
+        out = np.empty_like(x)
+        # R(-m) 应用: 翻转 sin 符号
+        out[..., 0::2] = x1 * cos + x2 * sin
+        out[..., 1::2] = -x1 * sin + x2 * cos
+        return out
+
+    def rotate(
+        self, q: np.ndarray, k: np.ndarray, positions: np.ndarray
+    ) -> Tuple[np.ndarray, np.ndarray]:
+        """同时旋转 q (T, H, dh) 与 k (T, H_kv, dh)。供 multihead_forward 调用。"""
+        q_pos = positions
+        k_pos = positions
+        return self.rotate_qk(q, q_pos), self.rotate_qk(k, k_pos)
+
+
+def rotate_half_numpy(x: np.ndarray, positions: np.ndarray, head_dim: int,
+                      base: float = 10000.0) -> np.ndarray:
+    """函数式 RoPE（便于测试与独立交叉验证 RotaryEmbedding 类）。
+
+    这是 **不依赖对象状态** 的第二实现，用于交叉验证 RoPE 的正确性
+    （两条独立路径应给出逐位一致的结果）。
+    """
+    inv_freq = 1.0 / (base ** (np.arange(0, head_dim, 2, dtype=np.float64) / head_dim))
+    angles = np.asarray(positions, dtype=np.float64)[:, None] * inv_freq[None, :]
+    cos, sin = np.cos(angles), np.sin(angles)
+    x1, x2 = x[..., 0::2], x[..., 1::2]
+    out = np.empty_like(np.asarray(x, dtype=np.float64))
+    out[..., 0::2] = x1 * cos - x2 * sin
+    out[..., 1::2] = x1 * sin + x2 * cos
+    return out
+
+
+class RMSNorm:
+    """RMSNorm (Zhang & Sennrich 2019): ``y = x / sqrt(mean(x²) + eps) · g``。
+
+    与 LayerNorm 的区别: 不减去均值、不学习偏置，只做**重缩放**。
+    在 Transformer 中更稳定且计算更省（少一次均值归约）。
+    """
+
+    def __init__(self, dim: int, eps: float = 1e-8) -> None:
+        if dim <= 0:
+            raise ValueError(f"dim 必须为正，收到 {dim}")
+        self.dim = int(dim)
+        self.eps = float(eps)
+        self.weight = np.ones(self.dim, dtype=np.float64)  # 可学习增益 g
+
+    def forward(self, x: np.ndarray) -> np.ndarray:
+        """前向: 逐行（最后一维）归一化后乘增益。"""
+        x = np.asarray(x, dtype=np.float64)
+        rms = np.sqrt(np.mean(x * x, axis=-1, keepdims=True) + self.eps)
+        return (x / rms) * self.weight
+
+    def __call__(self, x: np.ndarray) -> np.ndarray:
+        return self.forward(x)
+
+
+class SwiGLUFeedForward:
+    """SwiGLU 前馈网络 (Shazeer 2020): ``(Swish(xW_gate) ⊙ xW_up) W_down``。
+
+    其中 Swish(z) = z · σ(z)（亦称 SiLU）。Llama/PaLM/Qwen 均采用。
+    注意显式的 ~2/3 hidden_dim 惯例（heuristic），保证与 ReLU FFN **参数量对齐**。
+    """
+
+    def __init__(self, dim: int, hidden_dim: int | None = None, *, multiple: int = 256) -> None:
+        self.dim = int(dim)
+        self.hidden_dim = int(hidden_dim) if hidden_dim else _ffn_hidden(dim, multiple)
+
+    def forward(
+        self,
+        x: np.ndarray,
+        w_gate: np.ndarray,
+        w_up: np.ndarray,
+        w_down: np.ndarray,
+    ) -> np.ndarray:
+        """前向。权重形状: w_gate/w_up (dim, hidden), w_down (hidden, dim)。"""
+        x = np.asarray(x, dtype=np.float64)
+        gate = x @ np.asarray(w_gate, dtype=np.float64)
+        up = x @ np.asarray(w_up, dtype=np.float64)
+        act = gate * _sigmoid(gate)  # Swish / SiLU
+        return (act * up) @ np.asarray(w_down, dtype=np.float64)
+
+    def __call__(self, x, w_gate, w_up, w_down):
+        return self.forward(x, w_gate, w_up, w_down)
+
+
+def _ffn_hidden(dim: int, multiple: int = 256) -> int:
+    """Llama 惯例: hidden = ⌈(2/3 · 4·dim) / multiple⌉ · multiple。"""
+    raw = int((2.0 / 3.0) * (4 * dim))
+    return ((raw + multiple - 1) // multiple) * multiple
+
+
+def _sigmoid(z: np.ndarray) -> np.ndarray:
+    """数值稳定的 sigmoid（正负分支分离，避免大正数溢出）。"""
+    z = np.asarray(z, dtype=np.float64)
+    out = np.empty_like(z)
+    pos = z >= 0
+    out[pos] = 1.0 / (1.0 + np.exp(-z[pos]))
+    ez = np.exp(z[~pos])
+    out[~pos] = ez / (1.0 + ez)
+    return out

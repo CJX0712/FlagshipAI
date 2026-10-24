@@ -1,1 +1,309 @@
-IyBBUEkg5L2/55So6K+05piOIMK3IE1vcm5pbmdTdGFyIEZsYWdzaGlwQUkKCj4g5L2c6ICF77ya5pmo5pifIChNb3JuaW5nU3RhcikgwrcgdjEuMC4wCgrlhajpg6jlhazlvIDmjqXlj6PpgJ/mn6XjgILnuqblrprvvJpgbnBgID0gbnVtcHnvvIxgdG9yY2hgID0gUHlUb3JjaO+8iOS7hei3qOW6k+mqjOivgemcgOijhe+8ieOAggoKYGBgcHl0aG9uCmltcG9ydCBudW1weSBhcyBucApmcm9tIG1vcm5pbmdzdGFyLmZsYXNoIGltcG9ydCBHUFQsIEdQVENvbmZpZwpmcm9tIG1vcm5pbmdzdGFyLmF0dGVudGlvbiBpbXBvcnQgYnVpbGRfdmFyaWFudCwgbGlzdF92YXJpYW50cwpmcm9tIG1vcm5pbmdzdGFyLnZlcmlmeSBpbXBvcnQgdmVyaWZ5X3N1aXRlLCBydW5fZnVsbF92ZXJpZmljYXRpb24KYGBgCgotLS0KCiMjIOS4gOOAgWBtb3JuaW5nc3Rhci5mbGFzaGAg4oCUIOaXl+iIsOWkp+aooeWei+WGheaguAoKIyMjIDEuMSBgR1BUQ29uZmlnYAoKYGBgcHl0aG9uCkBkYXRhY2xhc3MKY2xhc3MgR1BUQ29uZmlnOgogICAgdm9jYWJfc2l6ZTogaW50ID0gNTEyCiAgICBkX21vZGVsOiBpbnQgPSAxMjgKICAgIG5fbGF5ZXI6IGludCA9IDQKICAgIG5faGVhZDogaW50ID0gNAogICAgbl9rdl9oZWFkOiBpbnQgPSAyICAgICAgICAjIEdRQe+8mktWIOWktOaVsO+8jOW/hemhu+aVtOmZpCBuX2hlYWQKICAgIG1heF9sZW46IGludCA9IDI1NgogICAgZF9mZjogaW50IHwgTm9uZSA9IE5vbmUgICAjIE5vbmUg4oeSIOaMiSBMbGFtYSDmg6/kvovoh6rliqjmjqjlr7wgKOKJiCA4LzPCt2RfbW9kZWwpCiAgICByb3BlX2Jhc2U6IGZsb2F0ID0gMTAwMDAuMAogICAgZHJvcG91dDogZmxvYXQgPSAwLjAKICAgIGVwczogZmxvYXQgPSAxZS04CmBgYAoKKirnuqbmnZ8qKu+8iOi/neWPjeaXtuaKmyBgVmFsdWVFcnJvcmDvvInvvJoKCi0gYGRfbW9kZWwgJSBuX2hlYWQgPT0gMGAKLSBgbl9oZWFkICUgbl9rdl9oZWFkID09IDBgCi0gYGRfZmZgIOS4uiBgTm9uZWAg5pe26Ieq5Yqo5Y+WIGDijIgoMi8zKcK3NMK3ZF9tb2RlbOKMiWDvvIhMbGFtYSDmg6/kvovvvIkKCioq5rS+55Sf5bGe5oCnKirvvJoKCnwg5bGe5oCnIHwg5ZCr5LmJIHwKfCAtLS0gfCAtLS0gfAp8IGBoZWFkX2RpbWAgfCBgZF9tb2RlbCAvLyBuX2hlYWRgIHwKfCBgdG9fZGljdCgpYCB8IOW6j+WIl+WMluS4uiBkaWN077yI5ZCrIGBoZWFkX2RpbWDvvIkgfAoKIyMjIDEuMiBgR1BUYAoKYGBgcHl0aG9uCm1vZGVsID0gR1BUKGNmZzogR1BUQ29uZmlnLCBzZWVkOiBpbnQgfCBOb25lID0gTm9uZSkKYGBgCgp8IOaIkOWRmCB8IOivtOaYjiB8CnwgLS0tIHwgLS0tIHwKfCBgcGFyYW1zOiBkaWN0W3N0ciwgbnAubmRhcnJheV1gIHwg5Y+C5pWw5ZCNIOKGkiDmlbDnu4TjgILnm7TmjqXlloIgYEFkYW1XLnN0ZXBg44CB5LiOIFB5VG9yY2ggYHN0YXRlX2RpY3RgIOWvuem9kCB8CnwgYG5fcGFyYW1zOiBpbnRgIHwg5Y+C5pWw6YePIHwKfCBgcm90YXJ5OiBSb3RhcnlFbWJlZGRpbmdgIHwgUm9QRSDmqKHlnZcgfAp8IGBzYXZlKHBhdGgpYCAvIGBHUFQubG9hZChwYXRoKWAgfCDlrZjkuLogYC5ucHpg77yI5ZCr6YWN572u77yJ77yM5b6A6L+U6YCQ5L2N5LiA6Ie0IHwKfCBgZm9yd2FyZChpZHgsIHRhcmdldHM9Tm9uZSwgKiwgZW5naW5lPSJuYWl2ZSIsIGt2X2NhY2hlX3Blcl9sYXllcj1Ob25lLCBzdGFydF9wb3M9MClgIHwg6L+U5ZueIGAobG9naXRzLCBjYWNoZSlgIHwKfCBgYmFja3dhcmQoaWR4LCBjYWNoZSlgIHwg6L+U5ZueIGB75Y+C5pWw5ZCNOiDmoq/luqZ9YCB8CnwgYGxvc3NfYW5kX2dyYWQoaWR4LCB0YXJnZXRzKWAgfCAqKuaOqOiNkOWFpeWPoyoq77ya6L+U5ZueIGAobG9zcywgZ3JhZHMpYCB8CnwgYGdlbmVyYXRlKHByb21wdF9pZHMsIG1heF9uZXdfdG9rZW5zLCAqLCB0ZW1wZXJhdHVyZT0xLjAsIHRvcF9rPU5vbmUsIHNlZWQ9Tm9uZSwgZW5naW5lPSJmbGFzaCIsIHN0cmVhbT1GYWxzZSlgIHwg6Ieq5Zue5b2S55Sf5oiQIHwKCiMjIyMgYGZvcndhcmRgIOe7huiKggoKYGBgcHl0aG9uCmxvZ2l0cywgY2FjaGUgPSBtb2RlbC5mb3J3YXJkKGlkeCkgICAgICAgICAgICAgICAgIyBpZHg6IChULCkgaW50NjQKbG9naXRzLCBjYWNoZSA9IG1vZGVsLmZvcndhcmQoaWR4LCB0YXJnZXRzKSAgICAgICAjIOWQjOaXtui/lOWbnuS6pOWPieeGtSBsb3NzCmxvZ2l0cywgY2FjaGUgPSBtb2RlbC5mb3J3YXJkKGlkeCwgZW5naW5lPSJmbGFzaCIpIyDnnIHlhoXlrZjot6/lvoQKYGBgCgotIGBlbmdpbmU9Im5haXZlImDvvIjpu5jorqTvvIzorq3nu4PnlKjvvInvvJrnianljJbms6jmhI/lipvnn6npmLXvvIzlj43lkJHpnIDopoEgUCDnmoTpm4Xlj6/mr5TjgIIKLSBgZW5naW5lPSJmbGFzaCJg77yI5o6o55CG55So77yJ77ya5YiG5Z2X5Zyo57q/IHNvZnRtYXjvvIzlhoXlrZggTyhUwrdkKeOAgioq5LiOIG5haXZlIOWJjeWQkeaVsOWAvOetieS7tyoq77yI5LiN5Y+Y6YePIEkx77yJ44CCCi0gYGNhY2hlYCDlhoXlrrnvvJpgeyJUIiwgImxheWVycyIsICJzdGFydF9wb3MiLCAibG9naXRzIiwgInRhcmdldHMiLCAibG9zcyIsICJ4X2ZpbmFsIiwgInhfZmluYWxfcmF3IiwgImludl9mIn1g77ybCiAgYGNhY2hlWyJsYXllcnMiXVtpXWAg5ZCrIGB7ImgxIiwiaW52MSIsInhfaW4iLCJhdHRuIiwiaDIiLCJpbnYyIiwiZmZuIiwieF9wcmUifWDjgIIKCioq5byC5bi4KirvvJoKCnwg5oOF5b2iIHwg5byC5bi4IHwKfCAtLS0gfCAtLS0gfAp8IGBpZHhgIOmdnuS4gOe7tCB8IGBWYWx1ZUVycm9yKCJpZHgg5b+F6aG75piv5LiA57u05bqP5YiX4oCmIilgIHwKfCBgVCA+IG1heF9sZW5gIHwgYFZhbHVlRXJyb3IoIuW6j+WIl+mVv+W6piBUIOi2hei/hyBtYXhfbGVuPeKApiIpYCB8CnwgYHRhcmdldHNgIOW9oueKtuS4jeespiB8IGBWYWx1ZUVycm9yKCJ0YXJnZXRzIOW9oueKtiDigKYg5LiOIGlkeCDigKYg5LiN5LiA6Ie0IilgIHwKCiMjIyMgYGdlbmVyYXRlYCDnu4boioIKCmBgYHB5dGhvbgppZHMgPSBtb2RlbC5nZW5lcmF0ZShbMSwgMiwgM10sIG1heF9uZXdfdG9rZW5zPTY0LCB0ZW1wZXJhdHVyZT0wLjgsIHNlZWQ9NDIpCnN0cmVhbSA9IG1vZGVsLmdlbmVyYXRlKFsxLCAyLCAzXSwgbWF4X25ld190b2tlbnM9NjQsIHN0cmVhbT1UcnVlKSAgIyDpgJAgdG9rZW4g55Sf5oiQ5ZmoCmBgYAoKLSAqKui/lOWbnueahOaYr+aWsOeUn+aIkOeahCB0b2tlbioq77yI5LiN5ZCrIHByb21wdO+8ieOAggotIGB0ZW1wZXJhdHVyZT0wLjBgIOKHkiDotKrlv4PvvIhhcmdtYXjvvInjgIIKLSBgdG9wX2tgIOKHkiB0b3AtayDmiKrmlq3ph4fmoLfvvIhGYW4gZXQgYWwuIDIwMTjvvInjgIIKLSBgc2VlZGAg4oeSIOWPr+WkjeeOsOmHh+agt++8iOWQjCBzZWVkIOi+k+WHuumAkOS9jeS4gOiHtO+8ieOAggotIOWGhemDqOS9v+eUqCAqKktWLUNhY2hlKirvvIzmgLvku6Pku7fku44gTyhUwrIpIOmZjeWIsCBPKFQp44CCCi0gYGxlbihwcm9tcHQpICsgbWF4X25ld190b2tlbnMgPiBtYXhfbGVuYCDih5IgYFZhbHVlRXJyb3Jg44CCCgojIyMgMS4zIGBSb3RhcnlFbWJlZGRpbmdgCgpgYGBweXRob24Kcm90ID0gUm90YXJ5RW1iZWRkaW5nKGhlYWRfZGltLCBiYXNlPTEwMDAwLjAsIG1heF9sZW49ODE5MikKcm90LnJvdGF0ZV9xayh4LCBwb3NpdGlvbnMpICAgICAgICAgICMgKC4uLiwgaGVhZF9kaW0p77yMcG9zaXRpb25zIOmcgOS4juWJjeWvvOe7tOW5v+aSreWFvOWuuQpyb3Qucm90YXRlX3FrX2ludmVyc2UoeCwgcG9zaXRpb25zKSAgIyDkuKXmoLzpgIblj5jmjaLvvJpyb3RhdGVfcWtfaW52ZXJzZShyb3RhdGVfcWsoeCkpID09IHgKcm90LnJvdGF0ZShxLCBrLCBwb3NpdGlvbnMpICAgICAgICAgICMg5ZCM5pe25aSE55CGIFEg5LiOIEsKYGBgCgo+IOKaoO+4jyBgcm90YXRlX3FrX2ludmVyc2VgICoq5LiN5Y+vKirnlKjjgIzkvY3nva7lj5botJ/jgI3lrp7njrDigJTigJRudW1weSDotJ/ntKLlvJXkvJrlm57nu5XjgIIKPiDmraPnoa7lgZrms5Xop4EgW0RFU0lHTi5tZCDCpzMuMV0oREVTSUdOLm1kIzMxLXJvcGUt6YCG5peL6L2s6LSf57Si5byV5Zue57uV5qKv5bqm5qOA6aqMLWcxKeOAggoKIyMjIDEuNCBgQWRhbVdgCgpgYGBweXRob24Kb3B0ID0gQWRhbVcobHI9M2UtMywgYmV0YXM9KDAuOSwgMC45NSksIGVwcz0xZS04LCB3ZWlnaHRfZGVjYXk9MC4wMSkKb3B0LnNldF9scihscikgICAgICAgICAgICAgICAgICAgICAgICMg6YWN5ZCI6LCD5bqm5ZmoCm9wdC5zdGVwKG1vZGVsLnBhcmFtcywgZ3JhZHMpICAgICAgICAjIOWOn+WcsOabtOaWsApgYGAKCuabtOaWsOW8j++8iOS4jiBgdG9yY2gub3B0aW0uQWRhbVdgIOmAkOi9qOi/ueS4gOiHtO+8jFg2IOWunua1iyAyLjIyZS0xNu+8ie+8mgoKYGBgCm0g4oaQIM6y4oKBbSArICgx4oiSzrLigoEpZyA7ICB2IOKGkCDOsuKCgnYgKyAoMeKIks6y4oKCKWfCsgptzIIgPSBtLygx4oiSzrLigoHhtZcpIDsgIHbMgiA9IHYvKDHiiJLOsuKCguG1lykKzrgg4oaQIM64wrcoMSDiiJIgzrvCt2xyKSDiiJIgbHLCt1sgbcyCLyjiiJp2zIIrzrUpIF0KYGBgCgoqKue6puadnyoq77yaYGxyID4gMGDjgIFgZXBzID4gMGDjgIFgMCDiiaQgzrIgPCAxYOOAgWB3ZWlnaHRfZGVjYXkg4omlIDBg77yI6L+d5Y+N5oqbIGBWYWx1ZUVycm9yYO+8ieOAggoKIyMjIDEuNSBgQlBFVG9rZW5pemVyYAoKYGBgcHl0aG9uCnRvayA9IEJQRVRva2VuaXplcigpLnRyYWluKHRleHRzLCB2b2NhYl9zaXplPTMwMCkKaWRzID0gdG9rLmVuY29kZSgi5pmo5pifIEZsYWdzaGlwQUkiKQp0ZXh0ID0gdG9rLmRlY29kZShpZHMpICAgICAgICAgICAgICAgIyDml6DmjZ/lvoDov5QKdG9rLnNhdmUoInRvay5qc29uIik7IHRvayA9IEJQRVRva2VuaXplci5sb2FkKCJ0b2suanNvbiIpCnRvay5lbmNvZGVfYmF0Y2goWyJhIiwgImIiXSkKdG9rLnZvY2FiX3NpemUKYGBgCgotIGB2b2NhYl9zaXplYCDlv4Xpobsg4omlIDI1OO+8iDI1NiDlrZfoioIgKyDoh7PlsJEgMiDmrKHlkIjlubbvvInjgIIKLSDmnKrop4HlrZfnrKblm57pgIDliLAqKuWtl+iKgue6pyoq77yM5L+d6K+B5Lit5paHIC8gZW1vamkg5peg5o2f44CCCi0g5ZCM6K+t5paZ6K6t57uD57uT5p6c6YCQ5L2N5LiA6Ie077yI5LiN5Y+Y6YePIFQz77yJ44CCCgrovoXliqnlh73mlbDvvJpgY29tcHJlc3Npb25fcmF0aW8odG9rZW5pemVyLCB0ZXh0cylg77yIVVRGLTgg5a2X6IqCL3Rva2Vu77yJ44CBCmB0b2tlbl9mcmVxdWVuY2llcyh0ZXh0cywgdG9rZW5pemVyKWDjgIIKCiMjIyAxLjYg6K6t57uD5ZmoCgpgYGBweXRob24KZnJvbSBtb3JuaW5nc3Rhci5mbGFzaC50cmFpbmVyIGltcG9ydCBUcmFpbkNvbmZpZywgdHJhaW4sIGV2YWx1YXRlLCBtYWtlX2JhdGNoZXMKCmNmZyA9IFRyYWluQ29uZmlnKG5fc3RlcHM9ODAwLCBiYXRjaF9zaXplPTE2LCBibG9ja19zaXplPTMyLCBscj0zZS0zLAogICAgICAgICAgICAgICAgICB3YXJtdXA9ODAsIGV2YWxfZXZlcnk9MTMzLCBldmFsX2l0ZXJzPTUsIGxvZ19ldmVyeT02Niwgc2VlZD00MikKbG9nID0gdHJhaW4obW9kZWwsIHRyYWluX3Rva2VucywgY2ZnLCB2YWxfdG9rZW5zPXZhbF90b2tlbnMpCmBgYAoKYFRyYWluTG9nYCDlrZfmrrXvvJpgc3RlcHNg44CBYHRyYWluX2xvc3Ng44CBYHZhbF9sb3NzYOOAgWBscmDjgIFgZ3JhZF9ub3JtYOOAgWB3YWxsX3Ng44CCCmBzYXZlX2xvZyhsb2csIHBhdGgpYCDokL3nm5ggSlNPTu+8m2BwZXJwbGV4aXR5KGxvc3MpYCDmjaLnrpflm7Dmg5HluqbjgIIKCj4gYHZhbF9sb3NzYCDorrDlvZXnmoTmmK8qKuacgOi/keS4gOasoeivhOS8sCoq55qE5YC877yI6Zi25qKv5puy57q/77yJ77yM6K+E5Lyw6IqC5ouN55SxCj4gYGV2YWxfZXZlcnlgIOeLrOeri+aOp+WItu+8jOS4jiBgbG9nX2V2ZXJ5YCDml6DlhbPjgIIKCi0tLQoKIyMg5LqM44CBYG1vcm5pbmdzdGFyLmF0dGVudGlvbmAg4oCUIOazqOaEj+WKm+WutuaXjwoK57uf5LiA5Y2P6K6u77yaCgpgYGBweXRob24KQGRhdGFjbGFzcwpjbGFzcyBBdHRlbnRpb25PdXRwdXQ6CiAgICBvdXRwdXQ6IG5wLm5kYXJyYXkgICAgICAgICAjIChULCBkKQogICAgd2VpZ2h0czogbnAubmRhcnJheXxOb25lICAjIOeJqeWMlueahCAoVCxUKSDmnYPph43vvJvpnZ7nianljJblj5jkvZPkuLogTm9uZQogICAgY29zdF9zOiBmbG9hdCAgICAgICAgICAgICAjIOWimemSn+enkgogICAgbWVtX3BlYWtfbWI6IGZsb2F0ICAgICAgICAjIOino+aekOW8j+WzsOWAvOWGheWtmAogICAgdmFyaWFudDogc3RyCmBgYAoKYGBgcHl0aG9uCmZyb20gbW9ybmluZ3N0YXIuYXR0ZW50aW9uIGltcG9ydCBidWlsZF92YXJpYW50LCBsaXN0X3ZhcmlhbnRzCgpsaXN0X3ZhcmlhbnRzKCkKIyBbJ2Jsb2NrX3NwYXJzZScsICdlZmZhdHRuZnVzZScsICdmbGFzaCcsICdmdWxsJywgJ2xpbmVhcicsCiMgICdsb2NhbF93aW5kb3cnLCAncGVyZm9ybWVyJ10KCmF0dCA9IGJ1aWxkX3ZhcmlhbnQoInBlcmZvcm1lciIpCnJlcyA9IGF0dC5hdHRlbmQocSwgaywgdikKcmVzLm91dHB1dCwgcmVzLmNvc3RfcywgcmVzLm1lbV9wZWFrX21iLCBhdHQudGhlb3JldGljYWxfY29tcGxleGl0eShULCBkKQpgYGAKCnwg5Y+Y5L2TIHwg5p6E6YCg5Y+C5pWwIHwg5aSN5p2C5bqmIHwKfCAtLS0gfCAtLS0gfCAtLS0gfAp8IGBGdWxsQXR0ZW50aW9uKClgIHwg4oCUIHwgTyhUwrJkKSB8CnwgYEZsYXNoQXR0ZW50aW9uKClgIHwgYGJsb2NrX3E9NjQsIGJsb2NrX2s9NjRgIHwgTyhUwrJkKSDml7bpl7QgLyBPKFRkKSDlhoXlrZggfAp8IGBMaW5lYXJBdHRlbnRpb24oKWAgfCDigJQgfCBPKFRkwrIpIHwKfCBgUGVyZm9ybWVyQXR0ZW50aW9uKClgIHwgYG09MjU2LCBzYWx0PTc3NzcsIHNlZWQ9Tm9uZSwgb3J0aG9nb25hbD1GYWxzZWAgfCBPKFRkbSkgfAp8IGBMb2NhbFdpbmRvd0F0dGVudGlvbigpYCB8IGB3aW5kb3c9MzJgIHwgTyhUd2QpIHwKfCBgQmxvY2tTcGFyc2VBdHRlbnRpb24oKWAgfCBgYmxvY2tfc2l6ZT02NCwgbl9nbG9iYWw9OGAgfCBPKFRiZCkgfAp8IGBFZmZBdHRuRnVzZSgpYCB8IGBmdWxsX3RocmVzaG9sZD0xMjgsIHBlcmZvcm1lcl9tX3Nob3J0PTEyOCwgcGVyZm9ybWVyX21fbG9uZz0yNTYsIHJldHJpZXZhbF9mbG9vcj0wLjk4LCBjYWxpYnJhdGlvbj1Ob25lYCB8IOiHqumAguW6lCB8CgoqKmBFZmZBdHRuRnVzZWAg6Lev55Sx6KeE5YiZKirvvJoKCmBgYApUIOKJpCBmdWxsX3RocmVzaG9sZCAgICAgICAgICAgICAgICAgICAgICAgIOKGkiBGdWxsQXR0ZW50aW9uClQgPiBmdWxsX3RocmVzaG9sZCDkuJTmoIflrprkv53nnJ/luqYg4omlIGZsb29yICAg4oaSIFBlcmZvcm1lcu+8iOaMiemVv+W6pumAiSBt77yJCuWQpuWImSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKGkiBGdWxsQXR0ZW50aW9u77yI6LSo6YeP5a6I5Y2r5Zue6YCA77yJCmBgYAoKYGJ1aWxkX3ZhcmlhbnQoInVua25vd24iKWAg4oeSIGBLZXlFcnJvcmDvvIjmtojmga/lkKvlj6/pgInliJfooajvvInjgIIKCi0tLQoKIyMg5LiJ44CBYG1vcm5pbmdzdGFyLnZlcmlmeWAg4oCUIOmqjOivgeS4juWfuuWHhgoKYGBgcHl0aG9uCmZyb20gbW9ybmluZ3N0YXIudmVyaWZ5IGltcG9ydCB2ZXJpZnlfc3VpdGUsIHJ1bl9mdWxsX3ZlcmlmaWNhdGlvbgpmcm9tIG1vcm5pbmdzdGFyLnZlcmlmeS5pbnZhcmlhbnRzIGltcG9ydCBydW5fYWxsIGFzIHJ1bl9pbnZhcmlhbnRzCmZyb20gbW9ybmluZ3N0YXIudmVyaWZ5LmNyb3NzY2hlY2sgaW1wb3J0IHJ1bl9hbGwgYXMgcnVuX2Nyb3NzY2hlY2tzCmZyb20gbW9ybmluZ3N0YXIudmVyaWZ5LmJlbmNobWFyayBpbXBvcnQgYmVuY2htYXJrX2F0dGVudGlvbiwgYmVuY2htYXJrX21lbW9yeV9zY2FsaW5nCmZyb20gbW9ybmluZ3N0YXIudmVyaWZ5LnJlcG9ydCBpbXBvcnQgd3JpdGVfcmVwb3J0cywgZm9ybWF0X21hcmtkb3duX3RhYmxlCmBgYAoKfCDmjqXlj6MgfCDov5Tlm54gfAp8IC0tLSB8IC0tLSB8CnwgYGludmFyaWFudHMucnVuX2FsbCgpYCB8IGBsaXN0W2RpY3RdYO+8jOavj+mhuSBge25hbWUsIHZhbHVlLCB0aHJlc2hvbGQsIHBhc3NlZCwgZGV0YWlsfWAgfAp8IGBjcm9zc2NoZWNrLnJ1bl9hbGwoKWAgfCBgbGlzdFtkaWN0XWDvvIhQeVRvcmNoIOS4jeWPr+eUqOaXtuagh+iusCBgYXZhaWxhYmxlPUZhbHNlYO+8iSB8CnwgYHZlcmlmeV9zdWl0ZSgpYCB8IGB7InRpbWVzdGFtcCIsImVudiIsImludmFyaWFudHMiLCJjcm9zc2NoZWNrcyIsInN1bW1hcnkifWAgfAp8IGBydW5fZnVsbF92ZXJpZmljYXRpb24oaW5jbHVkZV9iZW5jaG1hcmtzPVRydWUsIGxlbmd0aHM9Li4uLCBkPTMyKWAgfCDov73liqAgYGJlbmNobWFya3NgIOmUriB8CnwgYGJlbmNobWFya19hdHRlbnRpb24obGVuZ3RocywgZCwgc2VlZCwgcmVwZWF0cylgIHwg5q+P5Y+Y5L2T5q+P6KGM55qE6ICX5pe2L+WGheWtmC/kv53nnJ/luqYv5qOA57Si546HIHwKfCBgYmVuY2htYXJrX21lbW9yeV9zY2FsaW5nKGxlbmd0aHMsIGQpYCB8IG5haXZlIE8oVMKyKSB2cyBmbGFzaCBPKFQpIOeahOWGheWtmOWvueavlCB8CnwgYHdyaXRlX3JlcG9ydHMocmVwb3J0LCBvdXRkaXI9InJlc3VsdHMiKWAgfCDokL3nm5ggYHZlcmlmaWNhdGlvbi5qc29uYCArIGBWRVJJRklDQVRJT04ubWRgIHwKCiMjIyDlkb3ku6TooYwKCmBgYGJhc2gKcHl0aG9uIC1tIG1vcm5pbmdzdGFyLnZlcmlmeS5yZXBvcnQgICAtLW91dCByZXN1bHRzIFstLW5vLWJlbmNoXQpweXRob24gLW0gbW9ybmluZ3N0YXIudmVyaWZ5LmJlbmNobWFyayAtLW91dCByZXN1bHRzIC0tbGVuZ3RocyAyNTYgNTEyIDEwMjQgMjA0OApgYGAKCumAgOWHuuegge+8mmByZXBvcnRgIOWFqOe7v+i/lOWbniAw77yM5ZCm5YiZ6L+U5ZueIDHvvIjlj6/nm7TmjqXnlKjkuo4gQ0kg6Ze46Zeo77yJ44CCCgotLS0KCiMjIOWbm+OAgWBtb3JuaW5nc3Rhci5jb3JlYCDigJQg5pWw5a2m5LiO57uP5YW4IE1MIOW6leW6pwoK5q+P5Liq57G76YO95o+Q5L6bIGBjaGVja19pbnZhcmlhbnRzKClgIOS4jui3qOW6k+WvueavlOaWueazleOAggoKYGBgcHl0aG9uCmZyb20gbW9ybmluZ3N0YXIuY29yZS51bnN1cGVydmlzZWQucGNhIGltcG9ydCBQQ0EKZnJvbSBtb3JuaW5nc3Rhci5jb3JlLnVuc3VwZXJ2aXNlZC5rbWVhbnMgaW1wb3J0IEtNZWFucwpmcm9tIG1vcm5pbmdzdGFyLmNvcmUudW5zdXBlcnZpc2VkLmdtbSBpbXBvcnQgR2F1c3NpYW5NaXh0dXJlCmZyb20gbW9ybmluZ3N0YXIuY29yZS5zdXBlcnZpc2VkLmxpbmVhciBpbXBvcnQgTGluZWFyUmVncmVzc2lvbgpmcm9tIG1vcm5pbmdzdGFyLmNvcmUuZGVlcC5uZXVyYWxfbmV0IGltcG9ydCBNTFAKZnJvbSBtb3JuaW5nc3Rhci5jb3JlLm1hdGh4IGltcG9ydCBsaW5hbGcsIG9wdGltaXplCgpwID0gUENBKG5fY29tcG9uZW50cz0zKS5maXQoWCkKcC5jaGVja19pbnZhcmlhbnRzKCkgICAgICAgICAgIyDihpIge25hbWU6IHt2YWx1ZSwgdGhyZXNob2xkLCBwYXNzZWR9fQpwLmNvbXBhcmVfc2tsZWFybihYKSAgICAgICAgICAjIOKGkiB7cmVjb25fZXJyb3Jfb3VycywgcmVjb25fZXJyb3Jfc2tsZWFybiwgcGFzc2VkLCDigKZ9CgprbSA9IEtNZWFucyhuX2NsdXN0ZXJzPTMsIHNlZWQ9MCkuZml0KFgpCmttLmNvbXBhcmVfc2tsZWFybihYKSAgICAgICAgICMg4oaSIOWQqyBBUklfdnNfc2tsZWFybiDkuI4gaW5lcnRpYV9yZWxfZGlmZgpgYGAKCnwg5qih5Z2XIHwg5Li76KaBIEFQSSB8CnwgLS0tIHwgLS0tIHwKfCBgY29yZS5tYXRoeC5saW5hbGdgIHwgYGNob2xlc2t5YCBgY2hvbGVza3lfaW52ZXJzZWAgYGphY29iaV9laWdlbmAgYGxvZ3N1bWV4cGAgYHNvZnRtYXhgIGBsb2dfc29mdG1heGAgYG9ydGhvZ29uYWxpdHlfZXJyb3JgIGBlaWdlbl9yZXNpZHVhbGAgYGlzX3N5bW1ldHJpY19wc2RgIHwKfCBgY29yZS5tYXRoeC5vcHRpbWl6ZWAgfCBgbnVtZXJpY2FsX2dyYWRpZW50YCBgZ3JhZGllbnRfY2hlY2tgIGBncmFkaWVudF9kZXNjZW50YCBgY2hlY2tfbW9ub3RvbmVfZGVjcmVhc2VgIHwKfCBgY29yZS5zdXBlcnZpc2VkLmxpbmVhcmAgfCBgTGluZWFyUmVncmVzc2lvbmAgfAp8IGBjb3JlLnN1cGVydmlzZWQubG9naXN0aWNgIHwgYExvZ2lzdGljUmVncmVzc2lvbmAgfAp8IGBjb3JlLnN1cGVydmlzZWQuc3ZtYCB8IGBTVk1gIHwKfCBgY29yZS5zdXBlcnZpc2VkLmtubmAgfCBgS05OYCB8CnwgYGNvcmUuc3VwZXJ2aXNlZC5uYWl2ZV9iYXllc2AgfCBgTmFpdmVCYXllc2AgfAp8IGBjb3JlLnVuc3VwZXJ2aXNlZC5wY2FgIHwgYFBDQWAgfAp8IGBjb3JlLnVuc3VwZXJ2aXNlZC5rbWVhbnNgIHwgYEtNZWFuc2AgfAp8IGBjb3JlLnVuc3VwZXJ2aXNlZC5nbW1gIHwgYEdhdXNzaWFuTWl4dHVyZWAgfAp8IGBjb3JlLmRlZXAubmV1cmFsX25ldGAgfCBgTUxQYCB8CnwgYGNvcmUuZGVlcC5hdHRlbnRpb25gIHwgYHNjYWxlZF9kb3RfcHJvZHVjdF9hdHRlbnRpb25gIGBBdHRlbnRpb25gIHwKfCBgY29yZS5iZW5jaG1hcmtzLnJ1bmAgfCDln7rlh4bnvJbmjpIgfAoKPiBgTUxQLnByZWRpY3RgIOi/lOWbnioq5LiA57u0KirmlbDnu4TvvJtgZml0YCDmjqXlj5cgYChuLClgIOaIliBgKG4sMSlg44CCCgotLS0KCiMjIOS6lOOAgeW4uOingemXrumimAoKKipR77yaYGZvcndhcmQoa3ZfY2FjaGVfcGVyX2xheWVyPVtOb25lLCBOb25lXSlgIOS4uuS7gOS5iOWSjOWFqOmHj+WJjeWQkeS4jeS4gOiHtO+8nyoqCkHvvJrlhYPntKDkuLogYE5vbmVgIOihqOekuuivpeWxgioq5LiN5L2/55So57yT5a2YKirvvIzmr4/mraXlj6rog73nnIvliLDoh6rlt7HjgILlop7ph4/op6PnoIHlv4XpobvkvKAK55yf5q2j55qEIGBLVkNhY2hlYCDlrp7kvovvvJoKCmBgYHB5dGhvbgpmcm9tIG1vcm5pbmdzdGFyLmZsYXNoLmF0dGVudGlvbiBpbXBvcnQgS1ZDYWNoZQpjYWNoZXMgPSBbS1ZDYWNoZShjZmcubWF4X2xlbiwgY2ZnLm5fa3ZfaGVhZCwgY2ZnLmhlYWRfZGltKSBmb3IgXyBpbiByYW5nZShjZmcubl9sYXllcildCmZvciB0LCB0b2sgaW4gZW51bWVyYXRlKGlkcyk6CiAgICBsb2dpdHMsIF8gPSBtb2RlbC5mb3J3YXJkKFt0b2tdLCBlbmdpbmU9ImZsYXNoIiwga3ZfY2FjaGVfcGVyX2xheWVyPWNhY2hlcywgc3RhcnRfcG9zPXQpCmBgYAoKKipR77ya5Li65LuA5LmI6K6t57uD55SoIGBlbmdpbmU9Im5haXZlImAg6ICM5LiN5pivIGZsYXNo77yfKioKQe+8muWPjeWQkeS8oOaSremcgOimgeazqOaEj+WKm+adg+mHjSBQIOeahOmbheWPr+avlOOAguWJjeWQkeS4pOiAheaVsOWAvOetieS7t++8iOS4jeWPmOmHjyBJMe+8jAror6/lt64gNC45NGUtMTbvvInvvIzkvYYgZmxhc2gg55qE5Y+N5ZCR6ZyA6KaB6YeN566XIFAg5oiW6Ieq5a6a5LmJIGtlcm5lbO+8jOWxnue6r+W3peeoi+S8mOWMluOAggoKKipR77yaRkFWT1IrIC8gUGVyZm9ybWVyIOS4uuS7gOS5iOWcqOWOn+WniyBOKDAsMSkg6L6T5YWl5LiK6K+v5beu5b6I5aSn77yfKioKQe+8muiMg+aVsOWboOWtkCBgZXhwKMKx4oCWeOKAlsKyLzIpYCDmiorkvLDorqHmlrnlt67mlL7lpKcgYGV4cCjigJZ44oCWwrIpYCDlgI3jgILov5nmmK8gUGVyZm9ybWVyIOeahArlm7rmnInmlYjnlKjliY3mj5DigJTigJTnnJ/lrp4gVHJhbnNmb3JtZXIg55qEIFEvSyDnu48gUk1TTm9ybSDlkI7ojIPmlbDlj5fmjqfjgIIK6K+m6KeBIFtERVNJR04ubWQgwqczLjJdKERFU0lHTi5tZCMzMi1mYXZvci3moLjmoIflrprojIPmlbDlm6DlrZDnrKblj7fkuI7ovpPlhaXlsLrluqbkv53nnJ/luqYtYTQp44CCCgoqKlHvvJrlpoLkvZXlpI3njrDmn5DmrKHlrp7pqozvvJ8qKgpB77ya5omA5pyJ6ZqP5py65rqQ55Sx5pi+5byPIGBzZWVkYCDpqbHliqjvvIzlkIwgc2VlZCDkuIvliJ3lp4vljJbkuI7liY3lkJHovpPlh7rpgJDkvY3kuIDoh7QK77yI5LiN5Y+Y6YePIFAx77yJ44CCCg==
+# API 使用说明 · MorningStar FlagshipAI
+
+> 作者：晨星 (MorningStar) · v1.0.0
+
+全部公开接口速查。约定：`np` = numpy，`torch` = PyTorch（仅跨库验证需装）。
+
+```python
+import numpy as np
+from morningstar.flash import GPT, GPTConfig
+from morningstar.attention import build_variant, list_variants
+from morningstar.verify import verify_suite, run_full_verification
+```
+
+---
+
+## 一、`morningstar.flash` — 旗舰大模型内核
+
+### 1.1 `GPTConfig`
+
+```python
+@dataclass
+class GPTConfig:
+    vocab_size: int = 512
+    d_model: int = 128
+    n_layer: int = 4
+    n_head: int = 4
+    n_kv_head: int = 2        # GQA：KV 头数，必须整除 n_head
+    max_len: int = 256
+    d_ff: int | None = None   # None ⇒ 按 Llama 惯例自动推导 (≈ 8/3·d_model)
+    rope_base: float = 10000.0
+    dropout: float = 0.0
+    eps: float = 1e-8
+```
+
+**约束**（违反时抛 `ValueError`）：
+
+- `d_model % n_head == 0`
+- `n_head % n_kv_head == 0`
+- `d_ff` 为 `None` 时自动取 `⌈(2/3)·4·d_model⌉`（Llama 惯例）
+
+**派生属性**：
+
+| 属性 | 含义 |
+| --- | --- |
+| `head_dim` | `d_model // n_head` |
+| `to_dict()` | 序列化为 dict（含 `head_dim`） |
+
+### 1.2 `GPT`
+
+```python
+model = GPT(cfg: GPTConfig, seed: int | None = None)
+```
+
+| 成员 | 说明 |
+| --- | --- |
+| `params: dict[str, np.ndarray]` | 参数名 → 数组。直接喂 `AdamW.step`、与 PyTorch `state_dict` 对齐 |
+| `n_params: int` | 参数量 |
+| `rotary: RotaryEmbedding` | RoPE 模块 |
+| `save(path)` / `GPT.load(path)` | 存为 `.npz`（含配置），往返逐位一致 |
+| `forward(idx, targets=None, *, engine="naive", kv_cache_per_layer=None, start_pos=0)` | 返回 `(logits, cache)` |
+| `backward(idx, cache)` | 返回 `{参数名: 梯度}` |
+| `loss_and_grad(idx, targets)` | **推荐入口**：返回 `(loss, grads)` |
+| `generate(prompt_ids, max_new_tokens, *, temperature=1.0, top_k=None, seed=None, engine="flash", stream=False)` | 自回归生成 |
+
+#### `forward` 细节
+
+```python
+logits, cache = model.forward(idx)                # idx: (T,) int64
+logits, cache = model.forward(idx, targets)       # 同时返回交叉熵 loss
+logits, cache = model.forward(idx, engine="flash")# 省内存路径
+```
+
+- `engine="naive"`（默认，训练用）：物化注意力矩阵，反向需要 P 的雅可比。
+- `engine="flash"`（推理用）：分块在线 softmax，内存 O(T·d)。**与 naive 前向数值等价**（不变量 I1）。
+- `cache` 内容：`{"T", "layers", "start_pos", "logits", "targets", "loss", "x_final", "x_final_raw", "inv_f"}`；
+  `cache["layers"][i]` 含 `{"h1","inv1","x_in","attn","h2","inv2","ffn","x_pre"}`。
+
+**异常**：
+
+| 情形 | 异常 |
+| --- | --- |
+| `idx` 非一维 | `ValueError("idx 必须是一维序列…")` |
+| `T > max_len` | `ValueError("序列长度 T 超过 max_len=…")` |
+| `targets` 形状不符 | `ValueError("targets 形状 … 与 idx … 不一致")` |
+
+#### `generate` 细节
+
+```python
+ids = model.generate([1, 2, 3], max_new_tokens=64, temperature=0.8, seed=42)
+stream = model.generate([1, 2, 3], max_new_tokens=64, stream=True)  # 逐 token 生成器
+```
+
+- **返回的是新生成的 token**（不含 prompt）。
+- `temperature=0.0` ⇒ 贪心（argmax）。
+- `top_k` ⇒ top-k 截断采样（Fan et al. 2018）。
+- `seed` ⇒ 可复现采样（同 seed 输出逐位一致）。
+- 内部使用 **KV-Cache**，总代价从 O(T²) 降到 O(T)。
+- `len(prompt) + max_new_tokens > max_len` ⇒ `ValueError`。
+
+### 1.3 `RotaryEmbedding`
+
+```python
+rot = RotaryEmbedding(head_dim, base=10000.0, max_len=8192)
+rot.rotate_qk(x, positions)          # (..., head_dim)，positions 需与前导维广播兼容
+rot.rotate_qk_inverse(x, positions)  # 严格逆变换：rotate_qk_inverse(rotate_qk(x)) == x
+rot.rotate(q, k, positions)          # 同时处理 Q 与 K
+```
+
+> ⚠️ `rotate_qk_inverse` **不可**用「位置取负」实现——numpy 负索引会回绕。
+> 正确做法见 [DESIGN.md §3.1](DESIGN.md#31-rope-逆旋转负索引回绕梯度检验-g1)。
+
+### 1.4 `AdamW`
+
+```python
+opt = AdamW(lr=3e-3, betas=(0.9, 0.95), eps=1e-8, weight_decay=0.01)
+opt.set_lr(lr)                       # 配合调度器
+opt.step(model.params, grads)        # 原地更新
+```
+
+更新式（与 `torch.optim.AdamW` 逐轨迹一致，X6 实测 2.22e-16）：
+
+```
+m ← β₁m + (1−β₁)g ;  v ← β₂v + (1−β₂)g²
+m̂ = m/(1−β₁ᵗ) ;  v̂ = v/(1−β₂ᵗ)
+θ ← θ·(1 − λ·lr) − lr·[ m̂/(√v̂+ε) ]
+```
+
+**约束**：`lr > 0`、`eps > 0`、`0 ≤ β < 1`、`weight_decay ≥ 0`（违反抛 `ValueError`）。
+
+### 1.5 `BPETokenizer`
+
+```python
+tok = BPETokenizer().train(texts, vocab_size=300)
+ids = tok.encode("晨星 FlagshipAI")
+text = tok.decode(ids)               # 无损往返
+tok.save("tok.json"); tok = BPETokenizer.load("tok.json")
+tok.encode_batch(["a", "b"])
+tok.vocab_size
+```
+
+- `vocab_size` 必须 ≥ 258（256 字节 + 至少 2 次合并）。
+- 未见字符回退到**字节级**，保证中文 / emoji 无损。
+- 同语料训练结果逐位一致（不变量 T3）。
+
+辅助函数：`compression_ratio(tokenizer, texts)`（UTF-8 字节/token）、
+`token_frequencies(texts, tokenizer)`。
+
+### 1.6 训练器
+
+```python
+from morningstar.flash.trainer import TrainConfig, train, evaluate, make_batches
+
+cfg = TrainConfig(n_steps=800, batch_size=16, block_size=32, lr=3e-3,
+                  warmup=80, eval_every=133, eval_iters=5, log_every=66, seed=42)
+log = train(model, train_tokens, cfg, val_tokens=val_tokens)
+```
+
+`TrainLog` 字段：`steps`、`train_loss`、`val_loss`、`lr`、`grad_norm`、`wall_s`。
+`save_log(log, path)` 落盘 JSON；`perplexity(loss)` 换算困惑度。
+
+> `val_loss` 记录的是**最近一次评估**的值（阶梯曲线），评估节拍由
+> `eval_every` 独立控制，与 `log_every` 无关。
+
+---
+
+## 二、`morningstar.attention` — 注意力家族
+
+统一协议：
+
+```python
+@dataclass
+class AttentionOutput:
+    output: np.ndarray         # (T, d)
+    weights: np.ndarray|None  # 物化的 (T,T) 权重；非物化变体为 None
+    cost_s: float             # 墙钟秒
+    mem_peak_mb: float        # 解析式峰值内存
+    variant: str
+```
+
+```python
+from morningstar.attention import build_variant, list_variants
+
+list_variants()
+# ['block_sparse', 'effattnfuse', 'flash', 'full', 'linear',
+#  'local_window', 'performer']
+
+att = build_variant("performer")
+res = att.attend(q, k, v)
+res.output, res.cost_s, res.mem_peak_mb, att.theoretical_complexity(T, d)
+```
+
+| 变体 | 构造参数 | 复杂度 |
+| --- | --- | --- |
+| `FullAttention()` | — | O(T²d) |
+| `FlashAttention()` | `block_q=64, block_k=64` | O(T²d) 时间 / O(Td) 内存 |
+| `LinearAttention()` | — | O(Td²) |
+| `PerformerAttention()` | `m=256, salt=7777, seed=None, orthogonal=False` | O(Tdm) |
+| `LocalWindowAttention()` | `window=32` | O(Twd) |
+| `BlockSparseAttention()` | `block_size=64, n_global=8` | O(Tbd) |
+| `EffAttnFuse()` | `full_threshold=128, performer_m_short=128, performer_m_long=256, retrieval_floor=0.98, calibration=None` | 自适应 |
+
+**`EffAttnFuse` 路由规则**：
+
+```
+T ≤ full_threshold                        → FullAttention
+T > full_threshold 且标定保真度 ≥ floor   → Performer（按长度选 m）
+否则                                       → FullAttention（质量守卫回退）
+```
+
+`build_variant("unknown")` ⇒ `KeyError`（消息含可选列表）。
+
+---
+
+## 三、`morningstar.verify` — 验证与基准
+
+```python
+from morningstar.verify import verify_suite, run_full_verification
+from morningstar.verify.invariants import run_all as run_invariants
+from morningstar.verify.crosscheck import run_all as run_crosschecks
+from morningstar.verify.benchmark import benchmark_attention, benchmark_memory_scaling
+from morningstar.verify.report import write_reports, format_markdown_table
+```
+
+| 接口 | 返回 |
+| --- | --- |
+| `invariants.run_all()` | `list[dict]`，每项 `{name, value, threshold, passed, detail}` |
+| `crosscheck.run_all()` | `list[dict]`（PyTorch 不可用时标记 `available=False`） |
+| `verify_suite()` | `{"timestamp","env","invariants","crosschecks","summary"}` |
+| `run_full_verification(include_benchmarks=True, lengths=..., d=32)` | 追加 `benchmarks` 键 |
+| `benchmark_attention(lengths, d, seed, repeats)` | 每变体每行的耗时/内存/保真度/检索率 |
+| `benchmark_memory_scaling(lengths, d)` | naive O(T²) vs flash O(T) 的内存对比 |
+| `write_reports(report, outdir="results")` | 落盘 `verification.json` + `VERIFICATION.md` |
+
+### 命令行
+
+```bash
+python -m morningstar.verify.report   --out results [--no-bench]
+python -m morningstar.verify.benchmark --out results --lengths 256 512 1024 2048
+```
+
+退出码：`report` 全绿返回 0，否则返回 1（可直接用于 CI 闸门）。
+
+---
+
+## 四、`morningstar.core` — 数学与经典 ML 底座
+
+每个类都提供 `check_invariants()` 与跨库对比方法。
+
+```python
+from morningstar.core.unsupervised.pca import PCA
+from morningstar.core.unsupervised.kmeans import KMeans
+from morningstar.core.unsupervised.gmm import GaussianMixture
+from morningstar.core.supervised.linear import LinearRegression
+from morningstar.core.deep.neural_net import MLP
+from morningstar.core.mathx import linalg, optimize
+
+p = PCA(n_components=3).fit(X)
+p.check_invariants()          # → {name: {value, threshold, passed}}
+p.compare_sklearn(X)          # → {recon_error_ours, recon_error_sklearn, passed, …}
+
+km = KMeans(n_clusters=3, seed=0).fit(X)
+km.compare_sklearn(X)         # → 含 ARI_vs_sklearn 与 inertia_rel_diff
+```
+
+| 模块 | 主要 API |
+| --- | --- |
+| `core.mathx.linalg` | `cholesky` `cholesky_inverse` `jacobi_eigen` `logsumexp` `softmax` `log_softmax` `orthogonality_error` `eigen_residual` `is_symmetric_psd` |
+| `core.mathx.optimize` | `numerical_gradient` `gradient_check` `gradient_descent` `check_monotone_decrease` |
+| `core.supervised.linear` | `LinearRegression` |
+| `core.supervised.logistic` | `LogisticRegression` |
+| `core.supervised.svm` | `SVM` |
+| `core.supervised.knn` | `KNN` |
+| `core.supervised.naive_bayes` | `NaiveBayes` |
+| `core.unsupervised.pca` | `PCA` |
+| `core.unsupervised.kmeans` | `KMeans` |
+| `core.unsupervised.gmm` | `GaussianMixture` |
+| `core.deep.neural_net` | `MLP` |
+| `core.deep.attention` | `scaled_dot_product_attention` `Attention` |
+| `core.benchmarks.run` | 基准编排 |
+
+> `MLP.predict` 返回**一维**数组；`fit` 接受 `(n,)` 或 `(n,1)`。
+
+---
+
+## 五、常见问题
+
+**Q：`forward(kv_cache_per_layer=[None, None])` 为什么和全量前向不一致？**
+A：元素为 `None` 表示该层**不使用缓存**，每步只能看到自己。增量解码必须传
+真正的 `KVCache` 实例：
+
+```python
+from morningstar.flash.attention import KVCache
+caches = [KVCache(cfg.max_len, cfg.n_kv_head, cfg.head_dim) for _ in range(cfg.n_layer)]
+for t, tok in enumerate(ids):
+    logits, _ = model.forward([tok], engine="flash", kv_cache_per_layer=caches, start_pos=t)
+```
+
+**Q：为什么训练用 `engine="naive"` 而不是 flash？**
+A：反向传播需要注意力权重 P 的雅可比。前向两者数值等价（不变量 I1，
+误差 4.94e-16），但 flash 的反向需要重算 P 或自定义 kernel，属纯工程优化。
+
+**Q：FAVOR+ / Performer 为什么在原始 N(0,1) 输入上误差很大？**
+A：范数因子 `exp(±‖x‖²/2)` 把估计方差放大 `exp(‖x‖²)` 倍。这是 Performer 的
+固有效用前提——真实 Transformer 的 Q/K 经 RMSNorm 后范数受控。
+详见 [DESIGN.md §3.2](DESIGN.md#32-favor-核标定范数因子符号与输入尺度保真度-a4)。
+
+**Q：如何复现某次实验？**
+A：所有随机源由显式 `seed` 驱动，同 seed 下初始化与前向输出逐位一致
+（不变量 P1）。

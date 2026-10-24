@@ -1,1 +1,81 @@
-IyBNb3JuaW5nU3RhciBGbGFnc2hpcEFJIMK3IOmqjOivgeaKpeWRig0KDQotIOeUn+aIkOaXtumXtDogMjAyNi0xMC0yNFQxOToyMjo1MSswMDowMCAoVVRDKQ0KLSDnjq/looM6IFB5dGhvbiAzLjEzLjE0IMK3IG51bXB5IDIuNS40DQotIOW5s+WPsDogV2luZG93cy0xMS0xMC4wLjI5NjcxLVNQMA0KDQojIyDmgLvop4gNCg0KfCDpobnnm64gfCDnu5PmnpwgfA0KfCAtLS0gfCAtLS0gfA0KfCDmlbDlrabkuI3lj5jph48gfCAxNi8xNiBQQVNTIHwNCnwg6Leo5bqT5Lqk5Y+J6aqM6K+BIChQeVRvcmNoKSB8IDcvNyBQQVNTIO+8iOWPr+eUqCA377yJIHwNCnwg5YWo57u/IHwg4pyFIOaYryB8DQp8IOiAl+aXtiB8IDkuMDE4IHMgfA0KDQojIyDmlbDlrabkuI3lj5jph4/mmI7nu4YNCg0KfCBuYW1lIHwgdmFsdWUgfCB0aHJlc2hvbGQgfCBwYXNzZWQgfCBkZXRhaWwgfA0KfCAtLS0gfCAtLS0gfCAtLS0gfCAtLS0gfCAtLS0gfA0KfCBJMV9mbGFzaF9lcXVhbHNfbmFpdmUgfCA0Ljk0M2UtMTYgfCAxLjAwMGUtMTIgfCDinIUgUEFTUyB8IFQ9MTI4LCBkPTMyOiBGbGFzaEF0dGVudGlvbi0yIHZzIOeyvuehriBzb2Z0bWF4IOazqOaEj+WKmyB8DQp8IEkyX3Jvd19zdG9jaGFzdGljIHwgMi4yMjBlLTE2IHwgMS4wMDBlLTEyIHwg4pyFIFBBU1MgfCBtYXh8UMK3MSDiiJIgMXwgfA0KfCBJM19jYXVzYWxfdXBwZXJfemVybyB8IDAuMDAwMCB8IDEuMDAwZS0xNCB8IOKchSBQQVNTIHwgbWF4fFBbaT5qXXwgfA0KfCBJNF9zaGlmdF9pbnZhcmlhbmNlIHwgMS4yMThlLTEzIHwgMS4wMDBlLTEyIHwg4pyFIFBBU1MgfCBrZXkg5Yqg5bi45pWwIDFlMyDlkI7ovpPlh7rlupTkuI3lj5jvvIhsb2dzdW1leHAg56iz5a6a5oCn77yJIHwNCnwgSTVfY29udmV4X2h1bGxfYm91bmRlZCB8IDEuNTU3NSB8IDQuMzU2MiB8IOKchSBQQVNTIHwg6L6T5Ye66KGM6IyD5pWw5LiK55WMID0gbWF4fHx2X2p8fCA9IDQuMzU2MiB8DQp8IEk2X2t2X2NhY2hlX2NvbnNpc3RlbmN5IHwgNC4yNzNlLTE2IHwgMS4wMDBlLTEwIHwg4pyFIFBBU1MgfCDpgJAgdG9rZW4g6Kej56CBIDI0IOatpSB2cyDkuIDmrKHmgKfliY3lkJEgfA0KfCBJN19tZW1vcnlfc3VicXVhZHJhdGljIHwgMTIxLjQxMTggfCAxMC4wMDAwIHwg4pyFIFBBU1MgfCBUPTQwOTY6IG5haXZlIDI3MC41IE1CIHZzIGZsYXNoIDIyMjguMiBLQiB8DQp8IFIxX3JvcGVfcmVsYXRpdmVfcG9zaXRpb25zIHwgNy41MjhlLTE1IHwgMS4wMDBlLTEyIHwg4pyFIFBBU1MgfCDin6hSX20gcSwgUl9uIGvin6kg5LuF5ZyoIG7iiJJtIOS4iuWPluWAvCB8DQp8IFIyX3JvcGVfbm9ybV9wcmVzZXJ2aW5nIHwgOC44ODJlLTE2IHwgMS4wMDBlLTEyIHwg4pyFIFBBU1MgfCDigJZSb3QoeCxtKeKAliA9IOKAlnjigJYg5LiU5Lik5p2h54us56uL5a6e546w6YCQ5L2N5LiA6Ie0IHwNCnwgUjNfcm1zbm9ybV91bml0X3JtcyB8IDEuOTM3ZS0xMCB8IDEuMDAwZS0wOSB8IOKchSBQQVNTIHwgUk1TKHkpID0gMSDiiIAgcm93cyB8DQp8IEcxX2dwdF9ncmFkaWVudF9jaGVjayB8IDAuMDAwMCB8IDEuMDAwZS0wNiB8IOKchSBQQVNTIHwg5pyA5beu54K55ZyoIDsgbG9zcz0zLjUxMjMgfA0KfCBHNF9jcm9zc2VudHJvcHlfYW5hbHl0aWMgfCAwLjAwMDAgfCAxLjAwMGUtMTIgfCDinIUgUEFTUyB8IGxuKDY0KSA9IDQuMTU4ODgzLCBnb3QgNC4xNTg4ODMgfA0KfCBQMV9iaXR3aXNlX2RldGVybWluaXNtIHwgMC4wMDAwIHwgMC41MDAwIHwg4pyFIFBBU1MgfCBpbml0X2lkZW50aWNhbD1UcnVlLCBmb3J3YXJkX2lkZW50aWNhbD1UcnVlIHwNCnwgVDFfYnBlX3JvdW5kdHJpcCB8IDAuMDAwMCB8IDAuNTAwMCB8IOKchSBQQVNTIHwgdm9jYWJfc2l6ZT0zMDAsIOivreaWmSAzMiDmnaEgfA0KfCBUM19icGVfZGV0ZXJtaW5pc20gfCAwLjAwMDAgfCAwLjUwMDAgfCDinIUgUEFTUyB8IDQwIG1lcmdlcyB8DQp8IEE0X2FwcHJveF9hdHRlbnRpb25fZmlkZWxpdHkgfCAwLjA4ODMgfCAwLjUwMDAgfCDinIUgUEFTUyB8IGxpbmVhcj0wLjA4ODMsIHBlcmZvcm1lcj0wLjA0MDUgKG09MjU2LCDigJZx4oCWwrLiiYgyLjgzKTsg5Y6f5aeL5bC65bqmIHBlcmZvcm1lcj0zMTAuNDg4IHwNCg0KIyMg6Leo5bqT5Lqk5Y+J6aqM6K+B5piO57uGICh2cyBQeVRvcmNoKQ0KDQp8IG5hbWUgfCB2YWx1ZSB8IHRocmVzaG9sZCB8IHBhc3NlZCB8IGRldGFpbCB8DQp8IC0tLSB8IC0tLSB8IC0tLSB8IC0tLSB8IC0tLSB8DQp8IFgxX2F0dGVudGlvbl92c190b3JjaF9zZHBhIHwgNS41NTFlLTE2IHwgMS4wMDBlLTEwIHwg4pyFIFBBU1MgfCB2cyBGLnNjYWxlZF9kb3RfcHJvZHVjdF9hdHRlbnRpb24gKGZsb2F0NjQpIHwNCnwgWDJfc29mdG1heF92c190b3JjaCB8IDQuMjM1ZS0yMiB8IDEuMDAwZS0xMiB8IOKchSBQQVNTIHwg6YeP57qnIMOXMzAg55qEIGxvZ2l0cyDku40gU3RyZWlmZiDmnInpmZDkuJTkuI4gdG9yY2gg5LiA6Ie0IHwNCnwgWDNfcm1zbm9ybV92c190b3JjaCB8IDguODgyZS0xNiB8IDEuMDAwZS0xMiB8IOKchSBQQVNTIHwgUk1TTm9ybSDlrprkuYnlvI/lj4LnhacgfA0KfCBYNF9zd2lnbHVfdnNfdG9yY2hfc2lsdSB8IDMuMzMxZS0xNiB8IDEuMDAwZS0xMiB8IOKchSBQQVNTIHwgU2lMVShnYXRlKeKKmXVwIEBkb3duIHwNCnwgWDVfcm9wZV92c19jb21wbGV4X211bHRpcGx5IHwgMi4yMjBlLTE2IHwgMS4wMDBlLTEyIHwg4pyFIFBBU1MgfCDlpI3mlbDkuZjms5UgKHhfezJqfStpIHhfezJqKzF9KcK3ZV57aSBtIM64X2p9IHwNCnwgWDZfYWRhbXdfdnNfdG9yY2ggfCAyLjIyMGUtMTYgfCAxLjAwMGUtMTAgfCDinIUgUEFTUyB8IDIwIOatpeabtOaWsOWQjuadg+mHjeacgOWkp+WBj+W3riB8DQp8IFg3X2Nyb3NzZW50cm9weV92c190b3JjaCB8IDEuNzc2ZS0xNSB8IDEuMDAwZS0xMiB8IOKchSBQQVNTIHwgcmVkdWN0aW9uPSdtZWFuJyB8DQoNCiMjIOazqOaEj+WKm+WutuaXj+WfuuWHhg0KDQp8IHZhcmlhbnQgfCBUIHwgZCB8IG1lZGlhbl9tcyB8IG1lbV9tYiB8IGZyb19yZWwgfCBjb21wbGV4aXR5IHwNCnwgLS0tIHwgLS0tIHwgLS0tIHwgLS0tIHwgLS0tIHwgLS0tIHwgLS0tIHwNCnwgYmxvY2tfc3BhcnNlIHwgMTI4IHwgMzIgfCAwLjUzMDYgfCAwLjA0ODggfCAwLjAwMDAgfCBPKFQgYiBkKSBbYj02NCwgZz04XSB8DQp8IGVmZmF0dG5mdXNlIHwgMTI4IHwgMzIgfCAwLjk2MzUgfCAwLjI4MTIgfCAwLjAwMDAgfCBPKFReMiBkKSBbc2hvcnQ6IGV4YWN0XSB8DQp8IGZsYXNoIHwgMTI4IHwgMzIgfCAwLjg5OTIgfCAwLjA5NTcgfCAwLjAwMDAgfCBPKFReMiBkKSB0aW1lIC8gTyhUIGQpIG1lbW9yeSBbYnE9NjQsIGJrPTY0XSB8DQp8IGZ1bGwgfCAxMjggfCAzMiB8IDAuNTc2NyB8IDAuMjgxMiB8IDAuMDAwMCB8IE8oVF4yIGQpIFtleGFjdF0gfA0KfCBsaW5lYXIgfCAxMjggfCAzMiB8IDAuMjQ3NSB8IDAuMDcwMyB8IDAuNzEyMiB8IE8oVCBkXjIpIHwNCnwgbG9jYWxfd2luZG93IHwgMTI4IHwgMzIgfCAyLjk4MTkgfCAwLjAxNTkgfCAxLjA5NDQgfCBPKFQgdyBkKSBbdz0zMl0gfA0KfCBwZXJmb3JtZXIgfCAxMjggfCAzMiB8IDUuMjcyNiB8IDEuMTI1MCB8IDM3LjIwMzkgfCBPKFQgZCBtKSBbbT0yNTZdIHwNCnwgYmxvY2tfc3BhcnNlIHwgNTEyIHwgMzIgfCAxLjk3NDIgfCAwLjA0ODggfCAxLjI3MTUgfCBPKFQgYiBkKSBbYj02NCwgZz04XSB8DQp8IGVmZmF0dG5mdXNlIHwgNTEyIHwgMzIgfCAxMC41MjgxIHwgMi4wNjI1IHwgMzYzLjMwNDEgfCBPKFQgZCBtKSBbbG9uZzogUGVyZm9ybWVyIG09MTI4XSB8DQp8IGZsYXNoIHwgNTEyIHwgMzIgfCA4Ljk4MTAgfCAwLjE5NTMgfCAwLjAwMDAgfCBPKFReMiBkKSB0aW1lIC8gTyhUIGQpIG1lbW9yeSBbYnE9NjQsIGJrPTY0XSB8DQp8IGZ1bGwgfCA1MTIgfCAzMiB8IDkuMjM0OSB8IDQuMTI1MCB8IDAuMDAwMCB8IE8oVF4yIGQpIFtleGFjdF0gfA0KfCBsaW5lYXIgfCA1MTIgfCAzMiB8IDAuNjkzNiB8IDAuMjU3OCB8IDAuNjk0NiB8IE8oVCBkXjIpIHwNCnwgbG9jYWxfd2luZG93IHwgNTEyIHwgMzIgfCA3LjIxOTQgfCAwLjAxNTkgfCAyLjMzMjUgfCBPKFQgdyBkKSBbdz0zMl0gfA0KfCBwZXJmb3JtZXIgfCA1MTIgfCAzMiB8IDE5Ljc3MjkgfCA0LjEyNTAgfCAzMDAuODA5OSB8IE8oVCBkIG0pIFttPTI1Nl0gfA0KfCBibG9ja19zcGFyc2UgfCAxMDI0IHwgMzIgfCAzLjQ5MDIgfCAwLjA0ODggfCAxLjk5MzIgfCBPKFQgYiBkKSBbYj02NCwgZz04XSB8DQp8IGVmZmF0dG5mdXNlIHwgMTAyNCB8IDMyIHwgMTcuNDE4MyB8IDQuMDYyNSB8IDU1MS4yNjQzIHwgTyhUIGQgbSkgW2xvbmc6IFBlcmZvcm1lciBtPTEyOF0gfA0KfCBmbGFzaCB8IDEwMjQgfCAzMiB8IDMxLjI3MDcgfCAwLjMyODEgfCAwLjAwMDAgfCBPKFReMiBkKSB0aW1lIC8gTyhUIGQpIG1lbW9yeSBbYnE9NjQsIGJrPTY0XSB8DQp8IGZ1bGwgfCAxMDI0IHwgMzIgfCAzNy43NzcwIHwgMTYuMjUwMCB8IDAuMDAwMCB8IE8oVF4yIGQpIFtleGFjdF0gfA0KfCBsaW5lYXIgfCAxMDI0IHwgMzIgfCAxLjg5NDMgfCAwLjUwNzggfCAwLjc2MDAgfCBPKFQgZF4yKSB8DQp8IGxvY2FsX3dpbmRvdyB8IDEwMjQgfCAzMiB8IDEyLjg1NDggfCAwLjAxNTkgfCAzLjU1MTggfCBPKFQgdyBkKSBbdz0zMl0gfA0KfCBwZXJmb3JtZXIgfCAxMDI0IHwgMzIgfCAzNS4yMjU0IHwgOC4xMjUwIHwgMjEyLjU0MzYgfCBPKFQgZCBtKSBbbT0yNTZdIHwNCg0KIyMg5YaF5a2Y5Ly457yp5a+55q+UIChuYWl2ZSBPKFTCsikgdnMgZmxhc2ggTyhUKSkNCg0KfCBUIHwgZCB8IG5haXZlX21iIHwgZmxhc2hfbWIgfCBtZW1vcnlfcmF0aW8gfA0KfCAtLS0gfCAtLS0gfCAtLS0gfCAtLS0gfCAtLS0gfA0KfCAxMjggfCAzMiB8IDAuMjgxMiB8IDAuMDk1NyB8IDIuOTQwMCB8DQp8IDUxMiB8IDMyIHwgNC4xMjUwIHwgMC4xOTUzIHwgMjEuMTIwMCB8DQp8IDEwMjQgfCAzMiB8IDE2LjI1MDAgfCAwLjMyODEgfCA0OS41MjAwIHwNCg==
+# MorningStar FlagshipAI · 验证报告
+
+- 生成时间: 2026-10-24T19:22:51+00:00 (UTC)
+- 环境: Python 3.13.14 · numpy 2.5.4
+- 平台: Windows-11-10.0.29671-SP0
+
+## 总览
+
+| 项目 | 结果 |
+| --- | --- |
+| 数学不变量 | 16/16 PASS |
+| 跨库交叉验证 (PyTorch) | 7/7 PASS （可用 7） |
+| 全绿 | ✅ 是 |
+| 耗时 | 9.018 s |
+
+## 数学不变量明细
+
+| name | value | threshold | passed | detail |
+| --- | --- | --- | --- | --- |
+| I1_flash_equals_naive | 4.943e-16 | 1.000e-12 | ✅ PASS | T=128, d=32: FlashAttention-2 vs 精确 softmax 注意力 |
+| I2_row_stochastic | 2.220e-16 | 1.000e-12 | ✅ PASS | max|P·1 − 1| |
+| I3_causal_upper_zero | 0.0000 | 1.000e-14 | ✅ PASS | max|P[i>j]| |
+| I4_shift_invariance | 1.218e-13 | 1.000e-12 | ✅ PASS | key 加常数 1e3 后输出应不变（logsumexp 稳定性） |
+| I5_convex_hull_bounded | 1.5575 | 4.3562 | ✅ PASS | 输出行范数上界 = max||v_j|| = 4.3562 |
+| I6_kv_cache_consistency | 4.273e-16 | 1.000e-10 | ✅ PASS | 逐 token 解码 24 步 vs 一次性前向 |
+| I7_memory_subquadratic | 121.4118 | 10.0000 | ✅ PASS | T=4096: naive 270.5 MB vs flash 2228.2 KB |
+| R1_rope_relative_positions | 7.528e-15 | 1.000e-12 | ✅ PASS | ⟨R_m q, R_n k⟩ 仅在 n−m 上取值 |
+| R2_rope_norm_preserving | 8.882e-16 | 1.000e-12 | ✅ PASS | ‖Rot(x,m)‖ = ‖x‖ 且两条独立实现逐位一致 |
+| R3_rmsnorm_unit_rms | 1.937e-10 | 1.000e-09 | ✅ PASS | RMS(y) = 1 ∀ rows |
+| G1_gpt_gradient_check | 0.0000 | 1.000e-06 | ✅ PASS | 最差点在 ; loss=3.5123 |
+| G4_crossentropy_analytic | 0.0000 | 1.000e-12 | ✅ PASS | ln(64) = 4.158883, got 4.158883 |
+| P1_bitwise_determinism | 0.0000 | 0.5000 | ✅ PASS | init_identical=True, forward_identical=True |
+| T1_bpe_roundtrip | 0.0000 | 0.5000 | ✅ PASS | vocab_size=300, 语料 32 条 |
+| T3_bpe_determinism | 0.0000 | 0.5000 | ✅ PASS | 40 merges |
+| A4_approx_attention_fidelity | 0.0883 | 0.5000 | ✅ PASS | linear=0.0883, performer=0.0405 (m=256, ‖q‖²≈2.83); 原始尺度 performer=310.488 |
+
+## 跨库交叉验证明细 (vs PyTorch)
+
+| name | value | threshold | passed | detail |
+| --- | --- | --- | --- | --- |
+| X1_attention_vs_torch_sdpa | 5.551e-16 | 1.000e-10 | ✅ PASS | vs F.scaled_dot_product_attention (float64) |
+| X2_softmax_vs_torch | 4.235e-22 | 1.000e-12 | ✅ PASS | 量级 ×30 的 logits 仍 Streiff 有限且与 torch 一致 |
+| X3_rmsnorm_vs_torch | 8.882e-16 | 1.000e-12 | ✅ PASS | RMSNorm 定义式参照 |
+| X4_swiglu_vs_torch_silu | 3.331e-16 | 1.000e-12 | ✅ PASS | SiLU(gate)⊙up @down |
+| X5_rope_vs_complex_multiply | 2.220e-16 | 1.000e-12 | ✅ PASS | 复数乘法 (x_{2j}+i x_{2j+1})·e^{i m θ_j} |
+| X6_adamw_vs_torch | 2.220e-16 | 1.000e-10 | ✅ PASS | 20 步更新后权重最大偏差 |
+| X7_crossentropy_vs_torch | 1.776e-15 | 1.000e-12 | ✅ PASS | reduction='mean' |
+
+## 注意力家族基准
+
+| variant | T | d | median_ms | mem_mb | fro_rel | complexity |
+| --- | --- | --- | --- | --- | --- | --- |
+| block_sparse | 128 | 32 | 0.5306 | 0.0488 | 0.0000 | O(T b d) [b=64, g=8] |
+| effattnfuse | 128 | 32 | 0.9635 | 0.2812 | 0.0000 | O(T^2 d) [short: exact] |
+| flash | 128 | 32 | 0.8992 | 0.0957 | 0.0000 | O(T^2 d) time / O(T d) memory [bq=64, bk=64] |
+| full | 128 | 32 | 0.5767 | 0.2812 | 0.0000 | O(T^2 d) [exact] |
+| linear | 128 | 32 | 0.2475 | 0.0703 | 0.7122 | O(T d^2) |
+| local_window | 128 | 32 | 2.9819 | 0.0159 | 1.0944 | O(T w d) [w=32] |
+| performer | 128 | 32 | 5.2726 | 1.1250 | 37.2039 | O(T d m) [m=256] |
+| block_sparse | 512 | 32 | 1.9742 | 0.0488 | 1.2715 | O(T b d) [b=64, g=8] |
+| effattnfuse | 512 | 32 | 10.5281 | 2.0625 | 363.3041 | O(T d m) [long: Performer m=128] |
+| flash | 512 | 32 | 8.9810 | 0.1953 | 0.0000 | O(T^2 d) time / O(T d) memory [bq=64, bk=64] |
+| full | 512 | 32 | 9.2349 | 4.1250 | 0.0000 | O(T^2 d) [exact] |
+| linear | 512 | 32 | 0.6936 | 0.2578 | 0.6946 | O(T d^2) |
+| local_window | 512 | 32 | 7.2194 | 0.0159 | 2.3325 | O(T w d) [w=32] |
+| performer | 512 | 32 | 19.7729 | 4.1250 | 300.8099 | O(T d m) [m=256] |
+| block_sparse | 1024 | 32 | 3.4902 | 0.0488 | 1.9932 | O(T b d) [b=64, g=8] |
+| effattnfuse | 1024 | 32 | 17.4183 | 4.0625 | 551.2643 | O(T d m) [long: Performer m=128] |
+| flash | 1024 | 32 | 31.2707 | 0.3281 | 0.0000 | O(T^2 d) time / O(T d) memory [bq=64, bk=64] |
+| full | 1024 | 32 | 37.7770 | 16.2500 | 0.0000 | O(T^2 d) [exact] |
+| linear | 1024 | 32 | 1.8943 | 0.5078 | 0.7600 | O(T d^2) |
+| local_window | 1024 | 32 | 12.8548 | 0.0159 | 3.5518 | O(T w d) [w=32] |
+| performer | 1024 | 32 | 35.2254 | 8.1250 | 212.5436 | O(T d m) [m=256] |
+
+## 内存伸缩对比 (naive O(T²) vs flash O(T))
+
+| T | d | naive_mb | flash_mb | memory_ratio |
+| --- | --- | --- | --- | --- |
+| 128 | 32 | 0.2812 | 0.0957 | 2.9400 |
+| 512 | 32 | 4.1250 | 0.1953 | 21.1200 |
+| 1024 | 32 | 16.2500 | 0.3281 | 49.5200 |

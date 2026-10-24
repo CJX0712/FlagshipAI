@@ -1,1 +1,130 @@
-IyDln7rlh4bor4TmtYvvvIhCRU5DSE1BUktT77yJCgo+IOWFqOmDqOaVsOaNruS4uiAqKuacrOacuuecn+Wunui/kOihjOS6p+WHuioq77yM6Z2e5Lyw566X44CC5LiA6ZSu5aSN546w77yaCj4KPiBgYGBiYXNoCj4gcHl0aG9uIC1tIG1vcm5pbmdzdGFyLnZlcmlmeS5iZW5jaG1hcmsgLS1vdXQgcmVzdWx0cyAtLWxlbmd0aHMgMjU2IDUxMiAxMDI0IDIwNDgKPiBgYGAKPgo+IOWOn+Wni+aVsOaNru+8mltgcmVzdWx0cy9iZW5jaG1hcmsuanNvbmBdKC4uL3Jlc3VsdHMvYmVuY2htYXJrLmpzb24p77yI5py65Zmo5Y+v6K+777yJCj4g6L+Q6KGM546v5aKD77yaUHl0aG9uIDMuMTMgwrcgTnVtUHnvvIjnuq8gQ1BV77yM5pegIEdQVeOAgeaXoCBCTEFTIOeJueWIpO+8iQoKLS0tCgojIyAxLiDlpLTmnaHnu5PmnpzvvJpGbGFzaEF0dGVudGlvbi0yIOeyvuehruetieS7tyArIOWGheWtmOS8mOWKvwoKYGZsYXNoYCDlvJXmk47kuI4gYGZ1bGxg77yI57K+56Gu5rOo5oSP5Yqb77yJ55qE55u45a+5IEZyb2Jlbml1cyDor6/lt67kuLogKiowLjDvvIjpgJDkvY3kuIDoh7TvvIkqKu+8jArogIzlhoXlrZjljaDnlKjpmo/luo/liJfplb/luqbmi4nlvIDmlbDph4/nuqflt67ot53vvJoKCnwgVCB8IG5haXZlIChleGFjdCkg5YaF5a2YIHwgZmxhc2gg5YaF5a2YIHwgKirlhoXlrZjmr5QqKiB8CnwtLS06fC0tLTp8LS0tOnwtLS06fAp8IDI1NiB8IDEuMDYgTUIgfCAwLjEyOSBNQiB8ICoqOC4yw5cqKiB8CnwgNTEyIHwgNC4xMyBNQiB8IDAuMTk1IE1CIHwgKioyMS4xw5cqKiB8CnwgMTAyNCB8IDE2LjI1IE1CIHwgMC4zMjggTUIgfCAqKjQ5LjXDlyoqIHwKfCAyMDQ4IHwgNjQuNTAgTUIgfCAwLjU5NCBNQiB8ICoqMTA4LjbDlyoqIHwKCuWGheWtmOavlOmajyBUIOe6v+aAp+WinumVv++8iGBPKFQpYCB2cyBgTyhUwrIpYO+8ie+8jOi/meato+aYryBGbGFzaEF0dGVudGlvbiDnmoTmoLjlv4Pku7flgLzvvJoKKirkuI3nianljJYgVMOXVCDms6jmhI/lipvnn6npmLUqKu+8jOWboOatpOWPr+S7peWkhOeQhuS7u+aEj+mVv+W6j+WIl+OAggoKIyMgMi4g5rOo5oSP5Yqb5a625peP5YWo5a+55q+U77yIZD0zMu+8jOS4reS9jeiAl+aXtu+8iQoKfCB2YXJpYW50IHwg5aSN5p2C5bqmIHwgVD0yNTYgfCBUPTUxMiB8IFQ9MTAyNCB8IFQ9MjA0OCB8IOS/neecn+W6piB2cyBleGFjdCB8CnwtLS18LS0tfC0tLTp8LS0tOnwtLS06fC0tLTp8LS0tOnwKfCBgZnVsbGAgfCBPKFTCsmQpIHwgNC40OSBtcyB8IDEzLjIwIG1zIHwgMjYuODIgbXMgfCAxNDEuMzIgbXMgfCAqKjAuMO+8iOWfuuWHhu+8iSoqIHwKfCBgZmxhc2hgIHwgTyhUwrJkKSDml7bpl7QgLyAqKk8oVGQpIOWGheWtmCoqIHwgMy43MyBtcyB8IDE4Ljc4IG1zIHwgNTkuOTMgbXMgfCAyNjIuOTEgbXMgfCAqKjAuMO+8iOmAkOS9jeS4gOiHtO+8iSoqIHwKfCBgbGluZWFyYCB8IE8oVGTCsikgfCAwLjQ4IG1zIHwgMC44OSBtcyB8IDEuNjUgbXMgfCA0LjAzIG1zIHwgMC42OeKAkzAuODIgfAp8IGBsb2NhbF93aW5kb3dgIHwgTyhUd2QpIHwgNi4wOSBtcyB8IDExLjAxIG1zIHwgMTQuNDUgbXMgfCA0OS43NiBtcyB8IDEuOTXigJM1LjUzIHwKfCBgYmxvY2tfc3BhcnNlYCB8IE8oVGJkKSB8IDIuODIgbXMgfCA0LjUzIG1zIHwgNi43OSBtcyB8IDEyLjA3IG1zIHwgMC44NOKAkzMuMTQgfAp8IGBwZXJmb3JtZXJgIHwgTyhUZG0pIHwgMjUuOTAgbXMgfCAxNi40MiBtcyB8IDMzLjA4IG1zIHwgNjcuMjkgbXMgfCDop4Egwqc0IOivtOaYjiB8CnwgYGVmZmF0dG5mdXNlYCB8IE8oVGRtKSB8IDEzLjM0IG1zIHwgNDIuODkgbXMgfCAxOS4yNCBtcyB8IDg3LjM5IG1zIHwg6KeBIMKnNCDor7TmmI4gfAoKIyMjIDIuMSDlpoLlrp7op6Por7vvvJpOdW1QeSDkuIsgZmxhc2gg5Li65L2V44CM5pu05oWi44CNCgrlnKggVOKJpTUxMiDml7YgYGZsYXNoYCDnmoTlopnkuIrml7bpl7QqKumrmOS6jioqIGBmdWxsYO+8jOi/meaYr+ivmuWunuaVsOaNruiAjOmdnue8uumZt++8mgoKLSBgZnVsbGAg5oqK5pW05LiqIFTDl1Qg55+p6Zi15Lqk57uZ5LiA5qyhIEJMQVMgR0VNTe+8jOe8k+WtmOWPi+WlveOAgeWQkemHj+WMluWFheWIhu+8mwotIGBmbGFzaGAg5oyJIDY0w5c2NCDliIblnZflvqrnjq/vvIzlnKjnuq8gTnVtUHkg5LiLIEJMQVMg6LCD55So6KKr5YiH56KO77yM6aKd5aSW5byA6ZSA5Y2g5Li75a+844CCCgpGbGFzaEF0dGVudGlvbiDnmoTorr7orqHnm67moIfmmK8gKipHUFUg5LiK55qE5YaF5a2YLU8oVGQpIOS4juiejeWQiCBrZXJuZWwqKu+8iEhCTSDor7vlhpnph4/ku44KTyhUwrIpIOmZjeWIsCBPKFTCsmQvTSnvvInvvIzlhbbmlLbnm4rpnIDopoEgQ1VEQS9Ucml0b24g546v5aKD5omN6IO95YWR546w44CC5pys5LuT5bqT55qE5Lu35YC85Zyo5LqO77yaCgoxLiAqKueul+azleato+ehruaAp+W3suiiq+ivgeaYjioq77yI5LiOIGV4YWN0IOmAkOS9jeS4gOiHtO+8jOS4jeWPmOmHjyBJNi9BMiDopobnm5bvvInvvJsKMi4gKirlhoXlrZjkvJjlir/mmK/mlbDlrabmgKfnmoQqKu+8iOS4juehrOS7tuaXoOWFs++8jMKnMSDnmoQgMTA4w5cg5Zyo5Lu75L2V546v5aKD5oiQ56uL77yJ77ybCjMuIOWIhuWdl+mqqOaetu+8iGBicWAvYGJrYCDlj6/phY3jgIHlm6DmnpzmjqnnoIHjgIFLVi1DYWNoZeOAgUdRQe+8ieWPr+ebtOaOpeenu+akjeWIsCBHUFUga2VybmVs44CCCgojIyAzLiDnur/mgKcv56iA55aP5rOo5oSP5Yqb55qE5q2j56Gu5a6a5L2NCgpgbGluZWFyYO+8iEthdGhhcm9wb3Vsb3Mg562JIDIwMjDvvIzmoLjnibnlvoHlvaLlvI/vvInlnKjmiYDmnIkgVCDkuIvpg73mmK/mnIDlv6vnmoTvvIhUPTIwNDgg5pe2CjQuMDMgbXPvvIzmr5QgZnVsbCDlv6sgMzXDl++8ie+8jOS7o+S7t+aYr+S/neecn+W6piAwLjY54oCTMC44MiDigJTigJQg5a6D5rGC6Kej55qE5pivCmDPhihrKeG1gM+GKHEpYCDov5HkvLzmoLjvvIzpgILlkIgqKuaguOWHveaVsOWPr+WuueW/jSoq55qE5Zy65pmv77yI5aaC57q/5oCn5rOo5oSP5Yqb6K+t6KiA5bu65qih77yJ44CCCgpgbG9jYWxfd2luZG93YCAvIGBibG9ja19zcGFyc2VgIOS/neecn+W6pumajyBUIOS4i+mZjeaYryoq57uT5p6E5oCnKirnmoTvvJrnqpflj6Mv5Z2X56iA55aPCuacrOWwseimgeS4ouW8g+i/nOi3neemu+i/nuaOpe+8jFQg6LaK5aSn6KKr5Lii5byD55qE5q+U5L6L6LaK6auY44CC6L+Z5piv6L+R5Ly85pa55rOV55qE6aKE5pyf6KGM5Li677yMCuS4jeWPmOmHjyBBNCDlm6DmraTlj6rnlKjkuo4gUGVyZm9ybWVyIOeahCoq5Y+X5o6n6IyD5pWwKirlnLrmma/vvIjop4Egwqc077yJ44CCCgojIyA0LiBGQVZPUisvUGVyZm9ybWVyIOeahOS/neecn+W6puWJjeaPkO+8iOmHjeimge+8iQoKYHBlcmZvcm1lcmAgLyBgZWZmYXR0bmZ1c2VgIOWcqOWOn+WniyBOKDAsMSkg6L6T5YWl5LiL5L+d55yf5bqm6K+v5beu6L6+IDEwwrLigJMxMMKz77yMCioq6L+Z5LiN5piv5a6e546w57y66Zm377yM6ICM5piv5L2/55So5YmN5o+QKirvvJoKCkZBVk9SKyDnmoTpmo/mnLrnibnlvoHkvLDorqEKYEVbz4YoeCnCt8+GKHkpXSA9IGV4cCh4wrd5L+KImmQpYCDnmoTmlrnlt67nlLHlvZLkuIDljJblm6DlrZAgYGV4cCjigJZ44oCWwrIvMilgIOS4u+WvvOOAggrlvZPovpPlhaXojIPmlbDkuI3lj5fmjqfml7bvvIjljp/lp4sgTigwLDEpIOS4iyDigJZx4oCWfjkx77yJ77yM5pa55beu54iG54K477yM5Lu75L2VIG0g6YO95peg5rOV5pS25pWb44CCCgoqKuecn+WuniBUcmFuc2Zvcm1lciDkuK0gUS9LIOe7jyBSTVNOb3JtL1JvUEUg5ZCO6IyD5pWw5piv5Y+X5o6n55qEKirvvIjph4/nuqcgTygxKe+8ieOAggrlnKjlj5fmjqfojIPmlbDovpPlhaXkuIvvvIzmnKzlrp7njrDovr7liLDvvJoKCnwg6L6T5YWl5bC65bqmIHwgbT0yNTYgfCBtPTUxMiB8IG09MTAyNCB8IG09MjA0OCB8CnwtLS18LS0tOnwtLS06fC0tLTp8LS0tOnwKfCDlj5fmjqfvvIjmqKHmi58gUk1TTm9ybSDlkI7vvIkgfCAwLjAwNjYgfCAwLjAwNTMgfCAwLjAwMzggfCAwLjAwMjUgfAoK77yI5LiN5Y+Y6YePICoqQTQqKiDljbPku6Xlj5fmjqfojIPmlbDovpPlhaXmo4DpqozvvIzlvZPliY0gKiowLjA0MDXvvIzpmIjlgLwgMC4177yMUEFTUyoq44CC77yJCgo+IOe7k+iuuu+8mlBlcmZvcm1lciDnsbvmlrnms5Xlv4XpobvphY3lkIjlvZLkuIDljJblsYLkvb/nlKjjgILmnKzku5PlupPnmoQgR1BUIOato+aYryBwcmUtbm9ybQo+IOaetuaehO+8iFJNU05vcm0g5Zyo5q+P5Liq5rOo5oSP5YqbL0ZGTiDkuYvliY3vvInvvIzlm6DmraTor6XliY3mj5DlnKjnnJ/lrp7mqKHlnovkuK3oh6rliqjmiJDnq4vjgIIKCiMjIDUuIOiuree7g+mXreeOr+WfuuWHhu+8iGBleGFtcGxlcy90cmFpbl90aW55LnB5YO+8jENQVe+8iQoKMzU3LDIxNiDlj4LmlbDnmoQgZGVjb2Rlci1vbmx5IEdQVO+8iGRfbW9kZWw9OTYsIDMg5bGCLCBHUUEgNC8y77yJ77yMCuivreaWmSA9IOS4gOmYtumprOWwlOWPr+Wkq+mTvu+8iOWPr+WtpuS5oOS/oeWPt++8jOeQhuiuuuS4i+eVjCBsbig4KT0yLjA3Oe+8iSsgQlBFIOS4reaWh+aWh+acrO+8mgoKfCDmjIfmoIcgfCDmlbDlgLwgfAp8LS0tfC0tLXwKfCB0cmFpbiBsb3NzIHwgNS42MzYg4oaSICoqMy4zNTIqKiB8CnwgdmFsIGxvc3PvvIjnnJ/lrp7or4TkvLDvvIkgfCA1LjYyOCDihpIgKiozLjQxMioqIHwKfCDmnIDnu4jlm7Dmg5HluqYgfCAqKjMwLjMqKiB8Cnwg5ZCe5ZCQIHwgNjEyLDUyOCB0b2tlbnMvc++8iOe6ryBOdW1QeSBDUFXvvIkgfAp8IOiuree7g+aXtumVvyB8IDE3MSBz77yIODAwIOatpSDDlyBiYXRjaCAxNiDDlyBibG9jayAzMu+8iSB8Cnwg6YeH5qC35aSN546wIHwgYCJhZ3NoaXBBSe+8mumbtumHjeWGmSDCtyDpm4blpKfmiJAiYO+8iOaooeWei+WtpuS8muS4reaWh+aWh+acrOaooeW8j++8iSB8Cgrmoq/luqbojIPmlbDku44gMS4yNyDnqLPlrprpmY3oh7MgMC4zNO+8jEFkYW1XICsgd2FybXVwICsg5L2Z5bym6YCA54Gr5YWo56iL5peg5Y+R5pWj44CCCgojIyA2LiDnoa7lrprmgKfpl6jvvIhHNO+8iQoK5ZCM5LiA6ZqP5py656eN5a2Q5LiL77yM5Lik5qyh54us56uL6L+Q6KGM55qEKirmlbDlgLzovpPlh7rooagqKumAkOWtl+iKguS4gOiHtO+8iGBiaXRfaWRlbnRpY2FsOiB0cnVlYO+8ieOAggrorqHml7blrZfmrrXkuI3nurPlhaXmr5TovoPvvIjlopnpkp/mnKzotKjkuI3lj6/lpI3njrDvvInigJTigJTov5nmmK/noa7lrprmgKfpl6jnmoTmraPnoa7or63kuYnvvJoKKirlkIznp43lrZAg4oeSIOWQjOaVsOWAvOe7k+aenCoq44CCCgojIyA3LiDkuI4gUHlUb3JjaCDnmoTot6jlupPkuqTlj4npqozor4HvvIhYMeKAk1g377yJCgrkuI3kvp3otZbku7vkvZXlpJbpg6jmoYbmnrbnmoToh6ror4HkuYvlpJbvvIzmnKzku5PlupPnmoTmr4/kuKrmoLjlv4PnrpflrZDpg73kuI4gUHlUb3JjaCDlj4Lnhaflrp7njrAK5a+56b2Q77yIYG1vcm5pbmdzdGFyL3ZlcmlmeS9jcm9zc2NoZWNrLnB5YO+8jDcvNyDpgJrov4fvvInvvJoKCnwg5qOA5p+lIHwg5a+55q+U5a+56LGhIHwg57uT5p6cIHwKfC0tLXwtLS18LS0tfAp8IFgxIOazqOaEj+WKm+WJjeWQkSB8IGBGLnNjYWxlZF9kb3RfcHJvZHVjdF9hdHRlbnRpb25gIHwgMi4yZS0xNiB8CnwgWDIg5rOo5oSP5Yqb5Y+N5ZCRIHwgYXV0b2dyYWQgfCDpgJrov4cgfAp8IFgzIFJNU05vcm0vU3dpR0xVIHwgYXV0b2dyYWQgfCDpgJrov4cgfAp8IFg0IHNvZnRtYXgv5Lqk5Y+J54a1IHwgYG5uLmZ1bmN0aW9uYWxgIHwg6YCa6L+HIHwKfCBYNSBSb1BFIOebuOWvueaApyB8IOino+aekOW8jyB8IOmAmui/hyB8CnwgWDYgQWRhbVcgfCBgdG9yY2gub3B0aW0uQWRhbVdgIHwgKioyLjJlLTE2KiogfAp8IFg3IOWFqOaooeWei+WJjeWQkSB8IOaJi+WGmSB0b3JjaCDlj4LnhacgfCDpgJrov4cgfAoK5YW25LitICoqWDYg5pu+5oqT5Ye655yf5a6eIGJ1Zyoq77ya5pys5LuT5bqT55qEIEFkYW1XIOivr+Wwhuino+iApuadg+mHjeihsOWHj+aWveWKoOWcqOW3suabtOaWsOeahArlj4LmlbDkuIrvvIhgKHDiiJLOlCkoMeKIks67bHIpYCDogIzpnZ4gYHAoMeKIks67bHIp4oiSzpRg77yJ77yM5beu5byC5oGw5Li6IGBscsK3zpTCt2xywrd3ZCA9IDIuNWUtNGDjgIIK5L+u5aSN5ZCO5LiOIFB5VG9yY2gg5a+56b2Q5Yiw5py65Zmo57K+5bqm44CC6K+m6KeBIFtERVNJR04ubWRdKERFU0lHTi5tZCM3Leiiq+mqjOivgeS9k+ezu+aKk+WHuueahOWbm+S4quecn+Wunue8uumZtynjgIIKCi0tLQoKKuivhOa1i+WRveS7pO+8mmBtYWtlIGJlbmNoYCAvIGBtYWtlIHZlcmlmeWAgLyBgbWFrZSB2ZXJpZnktZnVsbGDjgILmlbDmja7nlJ/miJDml7bpl7Top4EKW2ByZXN1bHRzL3ZlcmlmaWNhdGlvbi5qc29uYF0oLi4vcmVzdWx0cy92ZXJpZmljYXRpb24uanNvbikg55qEIGB0aW1lc3RhbXBgIOWtl+auteOAgioK
+# 基准评测（BENCHMARKS）
+
+> 全部数据为 **本机真实运行产出**，非估算。一键复现：
+>
+> ```bash
+> python -m morningstar.verify.benchmark --out results --lengths 256 512 1024 2048
+> ```
+>
+> 原始数据：[`results/benchmark.json`](../results/benchmark.json)（机器可读）
+> 运行环境：Python 3.13 · NumPy（纯 CPU，无 GPU、无 BLAS 特判）
+
+---
+
+## 1. 头条结果：FlashAttention-2 精确等价 + 内存优势
+
+`flash` 引擎与 `full`（精确注意力）的相对 Frobenius 误差为 **0.0（逐位一致）**，
+而内存占用随序列长度拉开数量级差距：
+
+| T | naive (exact) 内存 | flash 内存 | **内存比** |
+|---:|---:|---:|---:|
+| 256 | 1.06 MB | 0.129 MB | **8.2×** |
+| 512 | 4.13 MB | 0.195 MB | **21.1×** |
+| 1024 | 16.25 MB | 0.328 MB | **49.5×** |
+| 2048 | 64.50 MB | 0.594 MB | **108.6×** |
+
+内存比随 T 线性增长（`O(T)` vs `O(T²)`），这正是 FlashAttention 的核心价值：
+**不物化 T×T 注意力矩阵**，因此可以处理任意长序列。
+
+## 2. 注意力家族全对比（d=32，中位耗时）
+
+| variant | 复杂度 | T=256 | T=512 | T=1024 | T=2048 | 保真度 vs exact |
+|---|---|---:|---:|---:|---:|---:|
+| `full` | O(T²d) | 4.49 ms | 13.20 ms | 26.82 ms | 141.32 ms | **0.0（基准）** |
+| `flash` | O(T²d) 时间 / **O(Td) 内存** | 3.73 ms | 18.78 ms | 59.93 ms | 262.91 ms | **0.0（逐位一致）** |
+| `linear` | O(Td²) | 0.48 ms | 0.89 ms | 1.65 ms | 4.03 ms | 0.69–0.82 |
+| `local_window` | O(Twd) | 6.09 ms | 11.01 ms | 14.45 ms | 49.76 ms | 1.95–5.53 |
+| `block_sparse` | O(Tbd) | 2.82 ms | 4.53 ms | 6.79 ms | 12.07 ms | 0.84–3.14 |
+| `performer` | O(Tdm) | 25.90 ms | 16.42 ms | 33.08 ms | 67.29 ms | 见 §4 说明 |
+| `effattnfuse` | O(Tdm) | 13.34 ms | 42.89 ms | 19.24 ms | 87.39 ms | 见 §4 说明 |
+
+### 2.1 如实解读：NumPy 下 flash 为何「更慢」
+
+在 T≥512 时 `flash` 的墙上时间**高于** `full`，这是诚实数据而非缺陷：
+
+- `full` 把整个 T×T 矩阵交给一次 BLAS GEMM，缓存友好、向量化充分；
+- `flash` 按 64×64 分块循环，在纯 NumPy 下 BLAS 调用被切碎，额外开销占主导。
+
+FlashAttention 的设计目标是 **GPU 上的内存-O(Td) 与融合 kernel**（HBM 读写量从
+O(T²) 降到 O(T²d/M)），其收益需要 CUDA/Triton 环境才能兑现。本仓库的价值在于：
+
+1. **算法正确性已被证明**（与 exact 逐位一致，不变量 I6/A2 覆盖）；
+2. **内存优势是数学性的**（与硬件无关，§1 的 108× 在任何环境成立）；
+3. 分块骨架（`bq`/`bk` 可配、因果掩码、KV-Cache、GQA）可直接移植到 GPU kernel。
+
+## 3. 线性/稀疏注意力的正确定位
+
+`linear`（Katharopoulos 等 2020，核特征形式）在所有 T 下都是最快的（T=2048 时
+4.03 ms，比 full 快 35×），代价是保真度 0.69–0.82 —— 它求解的是
+`φ(k)ᵀφ(q)` 近似核，适合**核函数可容忍**的场景（如线性注意力语言建模）。
+
+`local_window` / `block_sparse` 保真度随 T 下降是**结构性**的：窗口/块稀疏
+本就要丢弃远距离连接，T 越大被丢弃的比例越高。这是近似方法的预期行为，
+不变量 A4 因此只用于 Performer 的**受控范数**场景（见 §4）。
+
+## 4. FAVOR+/Performer 的保真度前提（重要）
+
+`performer` / `effattnfuse` 在原始 N(0,1) 输入下保真度误差达 10²–10³，
+**这不是实现缺陷，而是使用前提**：
+
+FAVOR+ 的随机特征估计
+`E[φ(x)·φ(y)] = exp(x·y/√d)` 的方差由归一化因子 `exp(‖x‖²/2)` 主导。
+当输入范数不受控时（原始 N(0,1) 下 ‖q‖~91），方差爆炸，任何 m 都无法收敛。
+
+**真实 Transformer 中 Q/K 经 RMSNorm/RoPE 后范数是受控的**（量级 O(1)）。
+在受控范数输入下，本实现达到：
+
+| 输入尺度 | m=256 | m=512 | m=1024 | m=2048 |
+|---|---:|---:|---:|---:|
+| 受控（模拟 RMSNorm 后） | 0.0066 | 0.0053 | 0.0038 | 0.0025 |
+
+（不变量 **A4** 即以受控范数输入检验，当前 **0.0405，阈值 0.5，PASS**。）
+
+> 结论：Performer 类方法必须配合归一化层使用。本仓库的 GPT 正是 pre-norm
+> 架构（RMSNorm 在每个注意力/FFN 之前），因此该前提在真实模型中自动成立。
+
+## 5. 训练闭环基准（`examples/train_tiny.py`，CPU）
+
+357,216 参数的 decoder-only GPT（d_model=96, 3 层, GQA 4/2），
+语料 = 一阶马尔可夫链（可学习信号，理论下界 ln(8)=2.079）+ BPE 中文文本：
+
+| 指标 | 数值 |
+|---|---|
+| train loss | 5.636 → **3.352** |
+| val loss（真实评估） | 5.628 → **3.412** |
+| 最终困惑度 | **30.3** |
+| 吞吐 | 612,528 tokens/s（纯 NumPy CPU） |
+| 训练时长 | 171 s（800 步 × batch 16 × block 32） |
+| 采样复现 | `"agshipAI：零重写 · 集大成"`（模型学会中文文本模式） |
+
+梯度范数从 1.27 稳定降至 0.34，AdamW + warmup + 余弦退火全程无发散。
+
+## 6. 确定性门（G4）
+
+同一随机种子下，两次独立运行的**数值输出表**逐字节一致（`bit_identical: true`）。
+计时字段不纳入比较（墙钟本质不可复现）——这是确定性门的正确语义：
+**同种子 ⇒ 同数值结果**。
+
+## 7. 与 PyTorch 的跨库交叉验证（X1–X7）
+
+不依赖任何外部框架的自证之外，本仓库的每个核心算子都与 PyTorch 参照实现
+对齐（`morningstar/verify/crosscheck.py`，7/7 通过）：
+
+| 检查 | 对比对象 | 结果 |
+|---|---|---|
+| X1 注意力前向 | `F.scaled_dot_product_attention` | 2.2e-16 |
+| X2 注意力反向 | autograd | 通过 |
+| X3 RMSNorm/SwiGLU | autograd | 通过 |
+| X4 softmax/交叉熵 | `nn.functional` | 通过 |
+| X5 RoPE 相对性 | 解析式 | 通过 |
+| X6 AdamW | `torch.optim.AdamW` | **2.2e-16** |
+| X7 全模型前向 | 手写 torch 参照 | 通过 |
+
+其中 **X6 曾抓出真实 bug**：本仓库的 AdamW 误将解耦权重衰减施加在已更新的
+参数上（`(p−Δ)(1−λlr)` 而非 `p(1−λlr)−Δ`），差异恰为 `lr·Δ·lr·wd = 2.5e-4`。
+修复后与 PyTorch 对齐到机器精度。详见 [DESIGN.md](DESIGN.md#7-被验证体系抓出的四个真实缺陷)。
+
+---
+
+*评测命令：`make bench` / `make verify` / `make verify-full`。数据生成时间见
+[`results/verification.json`](../results/verification.json) 的 `timestamp` 字段。*

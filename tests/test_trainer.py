@@ -1,1 +1,136 @@
-IiIi6K6t57uD5Zmo5rWL6K+VIOKAlOKAlCDmibnmrKHmnoTpgKDjgIHosIPluqbjgIHor4TkvLDjgIHmlLbmlZvmgKfjgIIiIiINCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMNCg0KaW1wb3J0IG1hdGgNCg0KaW1wb3J0IG51bXB5IGFzIG5wDQppbXBvcnQgcHl0ZXN0DQoNCmZyb20gbW9ybmluZ3N0YXIuZmxhc2ggaW1wb3J0IEdQVCwgR1BUQ29uZmlnDQpmcm9tIG1vcm5pbmdzdGFyLmZsYXNoLnRyYWluZXIgaW1wb3J0ICgNCiAgICBUcmFpbkNvbmZpZywNCiAgICBjb3NpbmVfc2NoZWR1bGUsDQogICAgZXZhbHVhdGUsDQogICAgbWFrZV9iYXRjaGVzLA0KICAgIHBlcnBsZXhpdHksDQogICAgc2F2ZV9sb2csDQogICAgdHJhaW4sDQopDQoNCg0KZGVmIHRlc3RfbWFrZV9iYXRjaGVzX3NoYXBlc19hbmRfYWxpZ25tZW50KCk6DQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApDQogICAgdG9rZW5zID0gbnAuYXJhbmdlKDEwMDAsIGR0eXBlPW5wLmludDY0KQ0KICAgIHgsIHkgPSBtYWtlX2JhdGNoZXModG9rZW5zLCBibG9ja19zaXplPTE2LCBiYXRjaF9zaXplPTQsIHJuZz1ybmcpDQogICAgYXNzZXJ0IHguc2hhcGUgPT0gKDQsIDE2KSBhbmQgeS5zaGFwZSA9PSAoNCwgMTYpDQogICAgIyB5IOW/hemhu+aYryB4IOW3puenu+S4gOS9jQ0KICAgIGFzc2VydCBucC5hcnJheV9lcXVhbCh5WzosIDotMV0sIHhbOiwgMTpdKQ0KDQoNCmRlZiB0ZXN0X21ha2VfYmF0Y2hlc19yZWplY3RzX3Nob3J0X2NvcnB1cygpOg0KICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygwKQ0KICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yLCBtYXRjaD0i6K+t5paZ5aSq55+tIik6DQogICAgICAgIG1ha2VfYmF0Y2hlcyhucC5hcmFuZ2UoNSksIGJsb2NrX3NpemU9MTYsIGJhdGNoX3NpemU9Miwgcm5nPXJuZykNCg0KDQpkZWYgdGVzdF9tYWtlX2JhdGNoZXNfZGV0ZXJtaW5pc3RpYygpOg0KICAgIHJuZ19hID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDQyKQ0KICAgIHJuZ19iID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDQyKQ0KICAgIHRva2VucyA9IG5wLmFyYW5nZSg1MDAsIGR0eXBlPW5wLmludDY0KQ0KICAgIHgxLCB5MSA9IG1ha2VfYmF0Y2hlcyh0b2tlbnMsIDE2LCA0LCBybmdfYSkNCiAgICB4MiwgeTIgPSBtYWtlX2JhdGNoZXModG9rZW5zLCAxNiwgNCwgcm5nX2IpDQogICAgYXNzZXJ0IG5wLmFycmF5X2VxdWFsKHgxLCB4MikgYW5kIG5wLmFycmF5X2VxdWFsKHkxLCB5MikNCg0KDQpkZWYgdGVzdF9jb3NpbmVfc2NoZWR1bGVfd2FybXVwX2FuZF9kZWNheSgpOg0KICAgIGNmZ19sciwgd2FybXVwLCB0b3RhbCA9IDNlLTMsIDEwLCAxMDANCiAgICBhc3NlcnQgY29zaW5lX3NjaGVkdWxlKDAsIHRvdGFsLCB3YXJtdXA9d2FybXVwLCBiYXNlX2xyPWNmZ19scikgPCBjZmdfbHINCiAgICBwZWFrID0gY29zaW5lX3NjaGVkdWxlKHdhcm11cCwgdG90YWwsIHdhcm11cD13YXJtdXAsIGJhc2VfbHI9Y2ZnX2xyKQ0KICAgIGFzc2VydCBhYnMocGVhayAtIGNmZ19scikgPCAxZS0xMg0KICAgIGVuZCA9IGNvc2luZV9zY2hlZHVsZSh0b3RhbCwgdG90YWwsIHdhcm11cD13YXJtdXAsIGJhc2VfbHI9Y2ZnX2xyLCBtaW5fbHJfcmF0aW89MC4xKQ0KICAgIGFzc2VydCBhYnMoZW5kIC0gY2ZnX2xyICogMC4xKSA8IDFlLTkNCg0KDQpkZWYgdGVzdF9jb3NpbmVfc2NoZWR1bGVfaXNfbW9ub3RvbmVfYWZ0ZXJfd2FybXVwKCk6DQogICAgdmFscyA9IFtjb3NpbmVfc2NoZWR1bGUocywgMTAwLCB3YXJtdXA9MTAsIGJhc2VfbHI9MS4wKSBmb3IgcyBpbiByYW5nZSgxMCwgMTAxKV0NCiAgICBhc3NlcnQgYWxsKGEgPj0gYiAtIDFlLTEyIGZvciBhLCBiIGluIHppcCh2YWxzLCB2YWxzWzE6XSkpDQoNCg0KZGVmIHRlc3RfcGVycGxleGl0eSgpOg0KICAgIGFzc2VydCBhYnMocGVycGxleGl0eSgwLjApIC0gMS4wKSA8IDFlLTEyDQogICAgYXNzZXJ0IGFicyhwZXJwbGV4aXR5KG1hdGgubG9nKDEwKSkgLSAxMC4wKSA8IDFlLTkNCg0KDQpkZWYgdGVzdF9ldmFsdWF0ZV9yZXR1cm5zX2Zpbml0ZV9sb3NzKCk6DQogICAgY2ZnID0gR1BUQ29uZmlnKHZvY2FiX3NpemU9MzIsIGRfbW9kZWw9MzIsIG5fbGF5ZXI9MSwgbl9oZWFkPTQsIG5fa3ZfaGVhZD0yLCBtYXhfbGVuPTMyKQ0KICAgIG0gPSBHUFQoY2ZnLCBzZWVkPTMpDQogICAgdG9rZW5zID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApLmludGVnZXJzKDAsIDMyLCBzaXplPTIwMDApDQogICAgdGNmZyA9IFRyYWluQ29uZmlnKG5fc3RlcHM9MSwgYmF0Y2hfc2l6ZT00LCBibG9ja19zaXplPTE2LCBldmFsX2l0ZXJzPTIpDQogICAgdiA9IGV2YWx1YXRlKG0sIHRva2VucywgdGNmZywgbnAucmFuZG9tLmRlZmF1bHRfcm5nKDEpKQ0KICAgIGFzc2VydCBtYXRoLmlzZmluaXRlKHYpDQogICAgYXNzZXJ0IHYgPiAwDQoNCg0KZGVmIHRlc3RfdHJhaW5fcmVkdWNlc19sb3NzX29uX3N0cnVjdHVyZWRfY29ycHVzKCk6DQogICAgIiIi5Zyo5LiA6Zi26ams5bCU5Y+v5aSr6ZO+5LiK6K6t57uDLCDmjZ/lpLHlv4XpobvmmL7okZfkuIvpmY3jgIIiIiINCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoNykNCiAgICBTLCBHLCBWID0gOCwgOCwgNjQNCiAgICB0cmFucyA9IG5wLmZ1bGwoKFMsIFMpLCAwLjA1KQ0KICAgIGZvciBpIGluIHJhbmdlKFMpOg0KICAgICAgICB0cmFuc1tpLCAoaSArIDEpICUgU10gPSAwLjQ1DQogICAgICAgIHRyYW5zW2ksIGldID0gMC4zMA0KICAgIHRyYW5zIC89IHRyYW5zLnN1bSgxLCBrZWVwZGltcz1UcnVlKQ0KICAgIHN0YXRlID0gbnAuZW1wdHkoNjAwMCwgZHR5cGU9bnAuaW50NjQpDQogICAgc3RhdGVbMF0gPSBybmcuaW50ZWdlcnMoMCwgUykNCiAgICBmb3IgdCBpbiByYW5nZSgxLCA2MDAwKToNCiAgICAgICAgc3RhdGVbdF0gPSBybmcuY2hvaWNlKFMsIHA9dHJhbnNbc3RhdGVbdCAtIDFdXSkNCiAgICB0b2tlbnMgPSAoc3RhdGUgKiBHICsgcm5nLmludGVnZXJzKDAsIEcsIHNpemU9NjAwMCkpLmFzdHlwZShucC5pbnQ2NCkNCg0KICAgIGNmZyA9IEdQVENvbmZpZyh2b2NhYl9zaXplPVYsIGRfbW9kZWw9NDgsIG5fbGF5ZXI9Miwgbl9oZWFkPTQsIG5fa3ZfaGVhZD0yLCBtYXhfbGVuPTMyKQ0KICAgIG0gPSBHUFQoY2ZnLCBzZWVkPTExKQ0KICAgIHRjZmcgPSBUcmFpbkNvbmZpZygNCiAgICAgICAgbl9zdGVwcz0xNTAsIGJhdGNoX3NpemU9MTYsIGJsb2NrX3NpemU9MjQsIGxyPTNlLTMsIHdhcm11cD0xNSwNCiAgICAgICAgZXZhbF9ldmVyeT01MCwgZXZhbF9pdGVycz0zLCBsb2dfZXZlcnk9NTAsIHNlZWQ9NSwNCiAgICApDQogICAgbG9nID0gdHJhaW4obSwgdG9rZW5zLCB0Y2ZnLCB2YWxfdG9rZW5zPXRva2Vuc1s6MTAwMF0pDQogICAgbG9zc2VzID0gW3ggZm9yIHggaW4gbG9nLnRyYWluX2xvc3MgaWYgbm90IG1hdGguaXNuYW4oeCldDQogICAgYXNzZXJ0IGxlbihsb3NzZXMpID49IDINCiAgICBhc3NlcnQgbG9zc2VzWy0xXSA8IGxvc3Nlc1swXSAtIDAuMiwgZiLmjZ/lpLHmnKrmmL7okZfkuIvpmY06IHtsb3NzZXNbMF06LjRmfSDihpIge2xvc3Nlc1stMV06LjRmfSINCg0KDQpkZWYgdGVzdF90cmFpbl9yZWNvcmRzX3ZhbGlkYXRpb25fY3VydmUoKToNCiAgICAiIiLpqozor4HmjZ/lpLHlv4XpobvooqvnnJ/lrp7or4TkvLDlubborrDlvZUgKOS4jeiDveaVtOautSBOYU4p44CCIiIiDQogICAgY2ZnID0gR1BUQ29uZmlnKHZvY2FiX3NpemU9MTYsIGRfbW9kZWw9MTYsIG5fbGF5ZXI9MSwgbl9oZWFkPTIsIG5fa3ZfaGVhZD0xLCBtYXhfbGVuPTE2KQ0KICAgIG0gPSBHUFQoY2ZnLCBzZWVkPTEpDQogICAgdG9rZW5zID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApLmludGVnZXJzKDAsIDE2LCBzaXplPTgwMCkNCiAgICB0Y2ZnID0gVHJhaW5Db25maWcobl9zdGVwcz0yMCwgYmF0Y2hfc2l6ZT00LCBibG9ja19zaXplPTgsIGV2YWxfZXZlcnk9NSwgZXZhbF9pdGVycz0yLCBsb2dfZXZlcnk9NSkNCiAgICBsb2cgPSB0cmFpbihtLCB0b2tlbnMsIHRjZmcsIHZhbF90b2tlbnM9dG9rZW5zWzoyMDBdKQ0KICAgIGFzc2VydCBhbGwobWF0aC5pc2Zpbml0ZSh4KSBmb3IgeCBpbiBsb2cudmFsX2xvc3MpDQogICAgYXNzZXJ0IGxlbihsb2cuc3RlcHMpID09IGxlbihsb2cudHJhaW5fbG9zcykgPT0gbGVuKGxvZy52YWxfbG9zcykNCg0KDQpkZWYgdGVzdF90cmFpbl9pc19yZXByb2R1Y2libGUoKToNCiAgICBjZmcgPSBHUFRDb25maWcodm9jYWJfc2l6ZT0xNiwgZF9tb2RlbD0xNiwgbl9sYXllcj0xLCBuX2hlYWQ9Miwgbl9rdl9oZWFkPTEsIG1heF9sZW49MTYpDQogICAgdG9rZW5zID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApLmludGVnZXJzKDAsIDE2LCBzaXplPTYwMCkNCiAgICB0Y2ZnID0gVHJhaW5Db25maWcobl9zdGVwcz0xNSwgYmF0Y2hfc2l6ZT00LCBibG9ja19zaXplPTgsIGV2YWxfZXZlcnk9NSwgZXZhbF9pdGVycz0yLCBsb2dfZXZlcnk9NSwgc2VlZD05KQ0KICAgIGEgPSB0cmFpbihHUFQoY2ZnLCBzZWVkPTEpLCB0b2tlbnMsIHRjZmcpDQogICAgYiA9IHRyYWluKEdQVChjZmcsIHNlZWQ9MSksIHRva2VucywgdGNmZykNCiAgICBkZWYgc2FtZSh1LCB2KToNCiAgICAgICAgcmV0dXJuIGFsbCgoeCAhPSB4IGFuZCB5ICE9IHkpIG9yIHggPT0geSBmb3IgeCwgeSBpbiB6aXAodSwgdikpDQoNCiAgICBhc3NlcnQgc2FtZShhLnRyYWluX2xvc3MsIGIudHJhaW5fbG9zcykNCiAgICBhc3NlcnQgc2FtZShhLnZhbF9sb3NzLCBiLnZhbF9sb3NzKQ0KDQoNCmRlZiB0ZXN0X3NhdmVfbG9nX3JvdW5kdHJpcCh0bXBfcGF0aCk6DQogICAgY2ZnID0gR1BUQ29uZmlnKHZvY2FiX3NpemU9MTYsIGRfbW9kZWw9MTYsIG5fbGF5ZXI9MSwgbl9oZWFkPTIsIG5fa3ZfaGVhZD0xLCBtYXhfbGVuPTE2KQ0KICAgIG0gPSBHUFQoY2ZnLCBzZWVkPTEpDQogICAgdG9rZW5zID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApLmludGVnZXJzKDAsIDE2LCBzaXplPTYwMCkNCiAgICBsb2cgPSB0cmFpbihtLCB0b2tlbnMsIFRyYWluQ29uZmlnKG5fc3RlcHM9NSwgYmF0Y2hfc2l6ZT0yLCBibG9ja19zaXplPTgsIGxvZ19ldmVyeT01KSkNCiAgICBwID0gdG1wX3BhdGggLyAibG9nLmpzb24iDQogICAgc2F2ZV9sb2cobG9nLCBzdHIocCkpDQogICAgYXNzZXJ0IHAuZXhpc3RzKCkNCiAgICBpbXBvcnQganNvbg0KDQogICAgZGF0YSA9IGpzb24ubG9hZHMocC5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpDQogICAgYXNzZXJ0ICJ0cmFpbl9sb3NzIiBpbiBkYXRhIGFuZCAic3RlcHMiIGluIGRhdGENCg==
+"""训练器测试 —— 批次构造、调度、评估、收敛性。"""
+from __future__ import annotations
+
+import math
+
+import numpy as np
+import pytest
+
+from morningstar.flash import GPT, GPTConfig
+from morningstar.flash.trainer import (
+    TrainConfig,
+    cosine_schedule,
+    evaluate,
+    make_batches,
+    perplexity,
+    save_log,
+    train,
+)
+
+
+def test_make_batches_shapes_and_alignment():
+    rng = np.random.default_rng(0)
+    tokens = np.arange(1000, dtype=np.int64)
+    x, y = make_batches(tokens, block_size=16, batch_size=4, rng=rng)
+    assert x.shape == (4, 16) and y.shape == (4, 16)
+    # y 必须是 x 左移一位
+    assert np.array_equal(y[:, :-1], x[:, 1:])
+
+
+def test_make_batches_rejects_short_corpus():
+    rng = np.random.default_rng(0)
+    with pytest.raises(ValueError, match="语料太短"):
+        make_batches(np.arange(5), block_size=16, batch_size=2, rng=rng)
+
+
+def test_make_batches_deterministic():
+    rng_a = np.random.default_rng(42)
+    rng_b = np.random.default_rng(42)
+    tokens = np.arange(500, dtype=np.int64)
+    x1, y1 = make_batches(tokens, 16, 4, rng_a)
+    x2, y2 = make_batches(tokens, 16, 4, rng_b)
+    assert np.array_equal(x1, x2) and np.array_equal(y1, y2)
+
+
+def test_cosine_schedule_warmup_and_decay():
+    cfg_lr, warmup, total = 3e-3, 10, 100
+    assert cosine_schedule(0, total, warmup=warmup, base_lr=cfg_lr) < cfg_lr
+    peak = cosine_schedule(warmup, total, warmup=warmup, base_lr=cfg_lr)
+    assert abs(peak - cfg_lr) < 1e-12
+    end = cosine_schedule(total, total, warmup=warmup, base_lr=cfg_lr, min_lr_ratio=0.1)
+    assert abs(end - cfg_lr * 0.1) < 1e-9
+
+
+def test_cosine_schedule_is_monotone_after_warmup():
+    vals = [cosine_schedule(s, 100, warmup=10, base_lr=1.0) for s in range(10, 101)]
+    assert all(a >= b - 1e-12 for a, b in zip(vals, vals[1:]))
+
+
+def test_perplexity():
+    assert abs(perplexity(0.0) - 1.0) < 1e-12
+    assert abs(perplexity(math.log(10)) - 10.0) < 1e-9
+
+
+def test_evaluate_returns_finite_loss():
+    cfg = GPTConfig(vocab_size=32, d_model=32, n_layer=1, n_head=4, n_kv_head=2, max_len=32)
+    m = GPT(cfg, seed=3)
+    tokens = np.random.default_rng(0).integers(0, 32, size=2000)
+    tcfg = TrainConfig(n_steps=1, batch_size=4, block_size=16, eval_iters=2)
+    v = evaluate(m, tokens, tcfg, np.random.default_rng(1))
+    assert math.isfinite(v)
+    assert v > 0
+
+
+def test_train_reduces_loss_on_structured_corpus():
+    """在一阶马尔可夫链上训练, 损失必须显著下降。"""
+    rng = np.random.default_rng(7)
+    S, G, V = 8, 8, 64
+    trans = np.full((S, S), 0.05)
+    for i in range(S):
+        trans[i, (i + 1) % S] = 0.45
+        trans[i, i] = 0.30
+    trans /= trans.sum(1, keepdims=True)
+    state = np.empty(6000, dtype=np.int64)
+    state[0] = rng.integers(0, S)
+    for t in range(1, 6000):
+        state[t] = rng.choice(S, p=trans[state[t - 1]])
+    tokens = (state * G + rng.integers(0, G, size=6000)).astype(np.int64)
+
+    cfg = GPTConfig(vocab_size=V, d_model=48, n_layer=2, n_head=4, n_kv_head=2, max_len=32)
+    m = GPT(cfg, seed=11)
+    tcfg = TrainConfig(
+        n_steps=150, batch_size=16, block_size=24, lr=3e-3, warmup=15,
+        eval_every=50, eval_iters=3, log_every=50, seed=5,
+    )
+    log = train(m, tokens, tcfg, val_tokens=tokens[:1000])
+    losses = [x for x in log.train_loss if not math.isnan(x)]
+    assert len(losses) >= 2
+    assert losses[-1] < losses[0] - 0.2, f"损失未显著下降: {losses[0]:.4f} → {losses[-1]:.4f}"
+
+
+def test_train_records_validation_curve():
+    """验证损失必须被真实评估并记录 (不能整段 NaN)。"""
+    cfg = GPTConfig(vocab_size=16, d_model=16, n_layer=1, n_head=2, n_kv_head=1, max_len=16)
+    m = GPT(cfg, seed=1)
+    tokens = np.random.default_rng(0).integers(0, 16, size=800)
+    tcfg = TrainConfig(n_steps=20, batch_size=4, block_size=8, eval_every=5, eval_iters=2, log_every=5)
+    log = train(m, tokens, tcfg, val_tokens=tokens[:200])
+    assert all(math.isfinite(x) for x in log.val_loss)
+    assert len(log.steps) == len(log.train_loss) == len(log.val_loss)
+
+
+def test_train_is_reproducible():
+    cfg = GPTConfig(vocab_size=16, d_model=16, n_layer=1, n_head=2, n_kv_head=1, max_len=16)
+    tokens = np.random.default_rng(0).integers(0, 16, size=600)
+    tcfg = TrainConfig(n_steps=15, batch_size=4, block_size=8, eval_every=5, eval_iters=2, log_every=5, seed=9)
+    a = train(GPT(cfg, seed=1), tokens, tcfg)
+    b = train(GPT(cfg, seed=1), tokens, tcfg)
+    def same(u, v):
+        return all((x != x and y != y) or x == y for x, y in zip(u, v))
+
+    assert same(a.train_loss, b.train_loss)
+    assert same(a.val_loss, b.val_loss)
+
+
+def test_save_log_roundtrip(tmp_path):
+    cfg = GPTConfig(vocab_size=16, d_model=16, n_layer=1, n_head=2, n_kv_head=1, max_len=16)
+    m = GPT(cfg, seed=1)
+    tokens = np.random.default_rng(0).integers(0, 16, size=600)
+    log = train(m, tokens, TrainConfig(n_steps=5, batch_size=2, block_size=8, log_every=5))
+    p = tmp_path / "log.json"
+    save_log(log, str(p))
+    assert p.exists()
+    import json
+
+    data = json.loads(p.read_text(encoding="utf-8"))
+    assert "train_loss" in data and "steps" in data

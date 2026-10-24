@@ -1,1 +1,102 @@
-IiIi6auY5pav5re35ZCI5qih5Z6LIEdNTSDigJTigJQgZm9yZ2UgRU0g566X5rOVICsg5LiN5Y+Y6YeP44CCDQoNCkVNIOWumueQhuS/neivgeWvueaVsOS8vOeEtuWNleiwg+mdnuWHj++8m+i0o+S7u+W6pi/mnYPph43lvZLkuIDvvJvljY/mlrnlt67lr7nnp7DljYrmraPlrprjgIINCg0K5LiN5Y+Y6YeP77yaDQogICog5a+55pWw5Ly854S26ZqP6L+t5Luj5Y2V6LCD6Z2e5YeP77yIRU0g5a6a55CG77yJDQogICog6LSj5Lu75bqm5q+P6KGM5ZKM5Li6IDHvvJvmt7flkIjmnYPph43lkozkuLogMQ0KICAqIOWNj+aWueW3ruefqemYteWvueensOWNiuato+Wumg0KICAqIOi3qOW6k+agoemqjO+8muS4jiBza2xlYXJuLkdhdXNzaWFuTWl4dHVyZSDlr7nmlbDkvLznhLbmjqXov5ENCiIiIg0KZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucw0KDQppbXBvcnQgbnVtcHkgYXMgbnANCmZyb20gc2NpcHkubGluYWxnIGltcG9ydCBzb2x2ZV90cmlhbmd1bGFyDQoNCmZyb20gLi5tYXRoeC5saW5hbGcgaW1wb3J0IGxvZ3N1bWV4cCwgaXNfc3ltbWV0cmljX3BzZA0KZnJvbSAua21lYW5zIGltcG9ydCBLTWVhbnMNCg0KDQpjbGFzcyBHYXVzc2lhbk1peHR1cmU6DQogICAgZGVmIF9faW5pdF9fKHNlbGYsIG5fY29tcG9uZW50cz0zLCBuX2l0ZXI9MjAwLCBzZWVkPTAsIHJlZz0xZS02LCB0b2w9MWUtNSk6DQogICAgICAgIHNlbGYubl9jb21wb25lbnRzID0gbl9jb21wb25lbnRzDQogICAgICAgIHNlbGYubl9pdGVyID0gbl9pdGVyDQogICAgICAgIHNlbGYuc2VlZCA9IHNlZWQNCiAgICAgICAgc2VsZi5yZWcgPSByZWcNCiAgICAgICAgc2VsZi50b2wgPSB0b2wNCg0KICAgIGRlZiBfbG9nX2dhdXNzKHNlbGYsIFgsIG1lYW4sIGNvdik6DQogICAgICAgIGQgPSBYLnNoYXBlWzFdDQogICAgICAgIEMgPSBjb3YgKyBzZWxmLnJlZyAqIG5wLmV5ZShkKQ0KICAgICAgICBMID0gbnAubGluYWxnLmNob2xlc2t5KEMpDQogICAgICAgIGxvZ2RldCA9IDIuMCAqIG5wLnN1bShucC5sb2cobnAuZGlhZyhMKSkpDQogICAgICAgIGRpZmYgPSAoWCAtIG1lYW4pLlQgICMgZCB4IE4NCiAgICAgICAgc29sID0gc29sdmVfdHJpYW5ndWxhcihMLCBkaWZmLCBsb3dlcj1UcnVlKQ0KICAgICAgICBxdWFkID0gbnAuc3VtKHNvbCAqKiAyLCBheGlzPTApDQogICAgICAgIHJldHVybiAtMC41ICogKGQgKiBucC5sb2coMiAqIG5wLnBpKSArIGxvZ2RldCArIHF1YWQpDQoNCiAgICBkZWYgZml0KHNlbGYsIFgpOg0KICAgICAgICBYID0gbnAuYXNhcnJheShYLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VsZi5zZWVkKQ0KICAgICAgICBOLCBkID0gWC5zaGFwZQ0KICAgICAgICBrbSA9IEtNZWFucyhzZWxmLm5fY29tcG9uZW50cywgc2VlZD1zZWxmLnNlZWQpLmZpdChYKQ0KICAgICAgICBsYWJlbHMgPSBrbS5wcmVkaWN0KFgpDQogICAgICAgIG1lYW5zID0ga20uY2x1c3Rlcl9jZW50ZXJzXy5jb3B5KCkNCiAgICAgICAgY292cyA9IG5wLmFycmF5KFtucC5jb3YoWFtsYWJlbHMgPT0ga10uVCkgKyBzZWxmLnJlZyAqIG5wLmV5ZShkKQ0KICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBrIGluIHJhbmdlKHNlbGYubl9jb21wb25lbnRzKV0pDQogICAgICAgIHdlaWdodHMgPSBucC5mdWxsKHNlbGYubl9jb21wb25lbnRzLCAxLjAgLyBzZWxmLm5fY29tcG9uZW50cykNCiAgICAgICAgbGxfaGlzdCA9IFtdDQogICAgICAgIHJlc3AgPSBOb25lDQogICAgICAgIGZvciBfIGluIHJhbmdlKHNlbGYubl9pdGVyKToNCiAgICAgICAgICAgIGxvZ3AgPSBucC5jb2x1bW5fc3RhY2soW3NlbGYuX2xvZ19nYXVzcyhYLCBtZWFuc1trXSwgY292c1trXSkgKyBucC5sb2cod2VpZ2h0c1trXSkNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBrIGluIHJhbmdlKHNlbGYubl9jb21wb25lbnRzKV0pDQogICAgICAgICAgICBsb2dfbGlrID0gbG9nc3VtZXhwKGxvZ3AsIGF4aXM9MSkNCiAgICAgICAgICAgIGxsID0gZmxvYXQobG9nX2xpay5zdW0oKSkNCiAgICAgICAgICAgIGxsX2hpc3QuYXBwZW5kKGxsKQ0KICAgICAgICAgICAgcmVzcCA9IG5wLmV4cChsb2dwIC0gbG9nX2xpa1s6LCBOb25lXSkNCiAgICAgICAgICAgIE5rID0gcmVzcC5zdW0oYXhpcz0wKSArIDFlLTMwMA0KICAgICAgICAgICAgd2VpZ2h0cyA9IE5rIC8gTg0KICAgICAgICAgICAgbWVhbnMgPSAocmVzcC5UIEAgWCkgLyBOa1s6LCBOb25lXQ0KICAgICAgICAgICAgZm9yIGsgaW4gcmFuZ2Uoc2VsZi5uX2NvbXBvbmVudHMpOg0KICAgICAgICAgICAgICAgIGRpZmYgPSBYIC0gbWVhbnNba10NCiAgICAgICAgICAgICAgICBjb3ZzW2tdID0gKChyZXNwWzosIGtdWzosIE5vbmVdICogZGlmZikuVCBAIGRpZmYpIC8gTmtba10gKyBzZWxmLnJlZyAqIG5wLmV5ZShkKQ0KICAgICAgICAgICAgaWYgbGVuKGxsX2hpc3QpID4gMSBhbmQgYWJzKGxsIC0gbGxfaGlzdFstMl0pIDwgc2VsZi50b2w6DQogICAgICAgICAgICAgICAgYnJlYWsNCiAgICAgICAgc2VsZi5tZWFuc18sIHNlbGYuY292YXJpYW5jZXNfLCBzZWxmLndlaWdodHNfID0gbWVhbnMsIGNvdnMsIHdlaWdodHMNCiAgICAgICAgc2VsZi5yZXNwXywgc2VsZi5sb2dsaWtfaGlzdF8gPSByZXNwLCBucC5hcnJheShsbF9oaXN0KQ0KICAgICAgICBzZWxmLmNvbnZlcmdlZF8gPSBUcnVlDQogICAgICAgIHJldHVybiBzZWxmDQoNCiAgICBkZWYgc2NvcmVfc2FtcGxlcyhzZWxmLCBYKToNCiAgICAgICAgWCA9IG5wLmFzYXJyYXkoWCwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICAgICAgbG9ncCA9IG5wLmNvbHVtbl9zdGFjayhbc2VsZi5fbG9nX2dhdXNzKFgsIHNlbGYubWVhbnNfW2tdLCBzZWxmLmNvdmFyaWFuY2VzX1trXSkNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBucC5sb2coc2VsZi53ZWlnaHRzX1trXSkgZm9yIGsgaW4gcmFuZ2Uoc2VsZi5uX2NvbXBvbmVudHMpXSkNCiAgICAgICAgcmV0dXJuIGxvZ3N1bWV4cChsb2dwLCBheGlzPTEpDQoNCiAgICBkZWYgY2hlY2tfaW52YXJpYW50cyhzZWxmKSAtPiBkaWN0Og0KICAgICAgICBsbF9oaXN0ID0gc2VsZi5sb2dsaWtfaGlzdF8NCiAgICAgICAgbW9ubyA9IGJvb2wobnAuYWxsKG5wLmRpZmYobGxfaGlzdCkgPj0gLTFlLTYpKQ0KICAgICAgICByZXNwX3Jvd3N1bSA9IGZsb2F0KG5wLm1heChucC5hYnMoc2VsZi5yZXNwXy5zdW0oYXhpcz0xKSAtIDEuMCkpKQ0KICAgICAgICB3X3N1bSA9IGZsb2F0KG5wLmFicyhzZWxmLndlaWdodHNfLnN1bSgpIC0gMS4wKSkNCiAgICAgICAgY292X3BzZCA9IGFsbChpc19zeW1tZXRyaWNfcHNkKHNlbGYuY292YXJpYW5jZXNfW2tdKVswXSBmb3IgayBpbiByYW5nZShzZWxmLm5fY29tcG9uZW50cykpDQogICAgICAgIHJldHVybiB7DQogICAgICAgICAgICAibG9nbGlrX21vbm90b25lX25vbl9kZWNyZWFzaW5nIjogeyJ2YWx1ZSI6IG1vbm8sICJwYXNzZWQiOiBtb25vfSwNCiAgICAgICAgICAgICJyZXNwb25zaWJpbGl0aWVzX3Jvd3N1bV8xIjogeyJ2YWx1ZSI6IHJlc3Bfcm93c3VtLCAidGhyZXNob2xkIjogMWUtNiwgInBhc3NlZCI6IGJvb2wocmVzcF9yb3dzdW0gPCAxZS02KX0sDQogICAgICAgICAgICAid2VpZ2h0c19zdW1fMSI6IHsidmFsdWUiOiB3X3N1bSwgInRocmVzaG9sZCI6IDFlLTYsICJwYXNzZWQiOiBib29sKHdfc3VtIDwgMWUtNil9LA0KICAgICAgICAgICAgImNvdmFyaWFuY2VzX3N5bW1ldHJpY19wc2QiOiB7InZhbHVlIjogYm9vbChjb3ZfcHNkKSwgInBhc3NlZCI6IGJvb2woY292X3BzZCl9LA0KICAgICAgICB9DQoNCiAgICBkZWYgY29tcGFyZV9za2xlYXJuKHNlbGYsIFgpIC0+IGRpY3Q6DQogICAgICAgIGZyb20gc2tsZWFybi5taXh0dXJlIGltcG9ydCBHYXVzc2lhbk1peHR1cmUgYXMgU0tHTU0NCiAgICAgICAgWCA9IG5wLmFzYXJyYXkoWCwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICAgICAgc2sgPSBTS0dNTShuX2NvbXBvbmVudHM9c2VsZi5uX2NvbXBvbmVudHMsIG5faW5pdD01LCByZWdfY292YXI9c2VsZi5yZWcsDQogICAgICAgICAgICAgICAgICAgcmFuZG9tX3N0YXRlPXNlbGYuc2VlZCwgbWF4X2l0ZXI9c2VsZi5uX2l0ZXIpLmZpdChYKQ0KICAgICAgICBvdXJfbGwgPSBmbG9hdChzZWxmLnNjb3JlX3NhbXBsZXMoWCkuc3VtKCkpDQogICAgICAgIHNrX2xsID0gZmxvYXQoc2suc2NvcmVfc2FtcGxlcyhYKS5zdW0oKSkNCiAgICAgICAgcmVsID0gYWJzKG91cl9sbCAtIHNrX2xsKSAvIChhYnMoc2tfbGwpICsgMWUtMzAwKQ0KICAgICAgICByZXR1cm4gew0KICAgICAgICAgICAgIm91cl9sb2dsaWsiOiBvdXJfbGwsDQogICAgICAgICAgICAic2tsZWFybl9sb2dsaWsiOiBza19sbCwNCiAgICAgICAgICAgICJyZWxfZGlmZiI6IHJlbCwNCiAgICAgICAgICAgICJwYXNzZWQiOiBib29sKHJlbCA8IDAuMTApLA0KICAgICAgICB9DQo=
+"""高斯混合模型 GMM —— forge EM 算法 + 不变量。
+
+EM 定理保证对数似然单调非减；责任度/权重归一；协方差对称半正定。
+
+不变量：
+  * 对数似然随迭代单调非减（EM 定理）
+  * 责任度每行和为 1；混合权重和为 1
+  * 协方差矩阵对称半正定
+  * 跨库校验：与 sklearn.GaussianMixture 对数似然接近
+"""
+from __future__ import annotations
+
+import numpy as np
+from scipy.linalg import solve_triangular
+
+from ..mathx.linalg import logsumexp, is_symmetric_psd
+from .kmeans import KMeans
+
+
+class GaussianMixture:
+    def __init__(self, n_components=3, n_iter=200, seed=0, reg=1e-6, tol=1e-5):
+        self.n_components = n_components
+        self.n_iter = n_iter
+        self.seed = seed
+        self.reg = reg
+        self.tol = tol
+
+    def _log_gauss(self, X, mean, cov):
+        d = X.shape[1]
+        C = cov + self.reg * np.eye(d)
+        L = np.linalg.cholesky(C)
+        logdet = 2.0 * np.sum(np.log(np.diag(L)))
+        diff = (X - mean).T  # d x N
+        sol = solve_triangular(L, diff, lower=True)
+        quad = np.sum(sol ** 2, axis=0)
+        return -0.5 * (d * np.log(2 * np.pi) + logdet + quad)
+
+    def fit(self, X):
+        X = np.asarray(X, dtype=np.float64)
+        rng = np.random.default_rng(self.seed)
+        N, d = X.shape
+        km = KMeans(self.n_components, seed=self.seed).fit(X)
+        labels = km.predict(X)
+        means = km.cluster_centers_.copy()
+        covs = np.array([np.cov(X[labels == k].T) + self.reg * np.eye(d)
+                         for k in range(self.n_components)])
+        weights = np.full(self.n_components, 1.0 / self.n_components)
+        ll_hist = []
+        resp = None
+        for _ in range(self.n_iter):
+            logp = np.column_stack([self._log_gauss(X, means[k], covs[k]) + np.log(weights[k])
+                                    for k in range(self.n_components)])
+            log_lik = logsumexp(logp, axis=1)
+            ll = float(log_lik.sum())
+            ll_hist.append(ll)
+            resp = np.exp(logp - log_lik[:, None])
+            Nk = resp.sum(axis=0) + 1e-300
+            weights = Nk / N
+            means = (resp.T @ X) / Nk[:, None]
+            for k in range(self.n_components):
+                diff = X - means[k]
+                covs[k] = ((resp[:, k][:, None] * diff).T @ diff) / Nk[k] + self.reg * np.eye(d)
+            if len(ll_hist) > 1 and abs(ll - ll_hist[-2]) < self.tol:
+                break
+        self.means_, self.covariances_, self.weights_ = means, covs, weights
+        self.resp_, self.loglik_hist_ = resp, np.array(ll_hist)
+        self.converged_ = True
+        return self
+
+    def score_samples(self, X):
+        X = np.asarray(X, dtype=np.float64)
+        logp = np.column_stack([self._log_gauss(X, self.means_[k], self.covariances_[k])
+                                + np.log(self.weights_[k]) for k in range(self.n_components)])
+        return logsumexp(logp, axis=1)
+
+    def check_invariants(self) -> dict:
+        ll_hist = self.loglik_hist_
+        mono = bool(np.all(np.diff(ll_hist) >= -1e-6))
+        resp_rowsum = float(np.max(np.abs(self.resp_.sum(axis=1) - 1.0)))
+        w_sum = float(np.abs(self.weights_.sum() - 1.0))
+        cov_psd = all(is_symmetric_psd(self.covariances_[k])[0] for k in range(self.n_components))
+        return {
+            "loglik_monotone_non_decreasing": {"value": mono, "passed": mono},
+            "responsibilities_rowsum_1": {"value": resp_rowsum, "threshold": 1e-6, "passed": bool(resp_rowsum < 1e-6)},
+            "weights_sum_1": {"value": w_sum, "threshold": 1e-6, "passed": bool(w_sum < 1e-6)},
+            "covariances_symmetric_psd": {"value": bool(cov_psd), "passed": bool(cov_psd)},
+        }
+
+    def compare_sklearn(self, X) -> dict:
+        from sklearn.mixture import GaussianMixture as SKGMM
+        X = np.asarray(X, dtype=np.float64)
+        sk = SKGMM(n_components=self.n_components, n_init=5, reg_covar=self.reg,
+                   random_state=self.seed, max_iter=self.n_iter).fit(X)
+        our_ll = float(self.score_samples(X).sum())
+        sk_ll = float(sk.score_samples(X).sum())
+        rel = abs(our_ll - sk_ll) / (abs(sk_ll) + 1e-300)
+        return {
+            "our_loglik": our_ll,
+            "sklearn_loglik": sk_ll,
+            "rel_diff": rel,
+            "passed": bool(rel < 0.10),
+        }

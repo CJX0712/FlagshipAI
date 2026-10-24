@@ -1,1 +1,267 @@
-IiIi5qC45b+D5pWw5a2m5bGC5rWL6K+VIOKAlOKAlCDnu4/lhbjmnLrlmajlrabkuaDnrpflrZDnmoTkuI3lj5jph4/kuI7ot6jlupPkuIDoh7TmgKfjgIINCg0KY29yZSDlsYLnm7TmjqXlpI3nlKggTnVtUHkgLyBTY2lQeSAvIHNjaWtpdC1sZWFybiDnmoTkuJbnlYznuqflrp7njrA7IOa1i+ivleeahOebrueahOaYrw0K56Gu6K6k5bCB6KOF5bGC5rKh5pyJ5byV5YWl5YGP5beuICjlvZLkuIDljJbmlrnlkJHjgIHnrKblj7fjgIHov63ku6Pnu4jmraLmnaHku7YpLCDlubbpqozor4HlhbYNCuiHquW4pueahCBgYGNoZWNrX2ludmFyaWFudHMoKWBgIOS4jiBgYGNvbXBhcmVfc2tsZWFybigpYGAg6Leo5bqT5Lqk5Y+J6aqM6K+B56Gu5a6e6YCa6L+H44CCDQoiIiINCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMNCg0KaW1wb3J0IG51bXB5IGFzIG5wDQppbXBvcnQgcHl0ZXN0DQoNCmZyb20gbW9ybmluZ3N0YXIuY29yZS5tYXRoeCBpbXBvcnQgbGluYWxnIGFzIGx4DQpmcm9tIG1vcm5pbmdzdGFyLmNvcmUubWF0aHggaW1wb3J0IG9wdGltaXplIGFzIG9wDQpmcm9tIG1vcm5pbmdzdGFyLmNvcmUuc3VwZXJ2aXNlZCBpbXBvcnQgbGluZWFyIGFzIHNsDQpmcm9tIG1vcm5pbmdzdGFyLmNvcmUudW5zdXBlcnZpc2VkIGltcG9ydCBnbW0gYXMgc2cNCmZyb20gbW9ybmluZ3N0YXIuY29yZS51bnN1cGVydmlzZWQgaW1wb3J0IGttZWFucyBhcyBzaw0KZnJvbSBtb3JuaW5nc3Rhci5jb3JlLnVuc3VwZXJ2aXNlZCBpbXBvcnQgcGNhIGFzIHNwDQoNCg0KIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g57q/5oCn5Luj5pWwDQpkZWYgdGVzdF9jaG9sZXNreV9yZWNvbnN0cnVjdHMoKToNCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMykNCiAgICBBID0gcm5nLnN0YW5kYXJkX25vcm1hbCgoMzAsIDMwKSkNCiAgICBTID0gQSBAIEEuVCArIDMwICogbnAuZXllKDMwKQ0KICAgIEwgPSBseC5jaG9sZXNreShTKQ0KICAgIGFzc2VydCBucC5hbGxjbG9zZShMIEAgTC5ULCBTLCBhdG9sPTFlLTgpDQoNCg0KZGVmIHRlc3RfamFjb2JpX2VpZ2VuX3Jlc2lkdWFsKCk6DQogICAgIiIiSmFjb2JpIOeJueW+geWIhuinozog4oCWQXYg4oiSIM67duKAliDlupTkuLrmnLrlmajnsr7luqbjgIIiIiINCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoNCkNCiAgICBBID0gcm5nLnN0YW5kYXJkX25vcm1hbCgoMTIsIDEyKSkNCiAgICBBID0gQSArIEEuVA0KICAgIGVpZ3ZhbHMsIGVpZ3ZlY3MsIGluZm8gPSBseC5qYWNvYmlfZWlnZW4oQSkNCiAgICBhc3NlcnQgZWlndmVjcy5zaGFwZSA9PSAoMTIsIDEyKQ0KICAgIHJlc2lkID0gbHguZWlnZW5fcmVzaWR1YWwoQSwgZWlndmFscywgZWlndmVjcykNCiAgICBhc3NlcnQgcmVzaWQgPCAxZS05LCBmIueJueW+geaui+W3riB7cmVzaWQ6LjNlfSINCiAgICBhc3NlcnQgbHgub3J0aG9nb25hbGl0eV9lcnJvcihlaWd2ZWNzKSA8IDFlLTkNCg0KDQpkZWYgdGVzdF9qYWNvYmlfb25fbm9uX3N5bW1ldHJpY19kb2VzX25vdF9jcmFzaCgpOg0KICAgICIiIkphY29iaSDlr7npnZ7lr7nnp7Dnn6npmLU6IOiHs+WwkeS4jeW+l+W0qea6gyAo5a+556ew5YyW5oiW6YCA5YyW6YO95Y+v5o6l5Y+XKeOAgiIiIg0KICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygxNCkNCiAgICBBID0gcm5nLnN0YW5kYXJkX25vcm1hbCgoNiwgNikpDQogICAgdHJ5Og0KICAgICAgICBlaWd2YWxzLCBlaWd2ZWNzLCBfID0gbHguamFjb2JpX2VpZ2VuKEEpDQogICAgZXhjZXB0IFZhbHVlRXJyb3I6DQogICAgICAgIHJldHVybiAgIyDmmI7noa7mi5Lnu53kuZ/mmK/mraPnoa7ooYzkuLoNCiAgICBhc3NlcnQgZWlndmFscy5zaGFwZSA9PSAoNiwpDQogICAgYXNzZXJ0IG5wLmlzZmluaXRlKGVpZ3ZhbHMpLmFsbCgpDQoNCg0KZGVmIHRlc3RfbG9nc3VtZXhwX3N0YWJpbGl0eSgpOg0KICAgICIiImxvZ3N1bWV4cCDlr7nmnoHlpKcv5p6B5bCP6YeP57qn6YO95b+F6aG756iz5a6a5LiU5peg5rqi5Ye644CCIiIiDQogICAgeCA9IG5wLmFycmF5KFsxMDAwLjAsIDEwMDAuMCwgMTAwMC4wXSkNCiAgICBhc3NlcnQgbnAuaXNmaW5pdGUobHgubG9nc3VtZXhwKHgpKS5hbGwoKQ0KICAgIGFzc2VydCBucC5uZGltKGx4LmxvZ3N1bWV4cCh4KSkgPT0gMCwgImF4aXM9Tm9uZSDml7blupTov5Tlm54gMCDnu7TmoIfph48iDQogICAgYXNzZXJ0IGFicyhmbG9hdChseC5sb2dzdW1leHAoeCkpIC0gKDEwMDAuMCArIG5wLmxvZygzKSkpIDwgMWUtOQ0KICAgIHkgPSBucC5hcnJheShbLTEwMDAuMCwgLTEwMDAuMF0pDQogICAgYXNzZXJ0IG5wLmlzZmluaXRlKGx4LmxvZ3N1bWV4cCh5KSkuYWxsKCkNCg0KDQpkZWYgdGVzdF9sb2dfc29mdG1heF9tYXRjaGVzX3NvZnRtYXhfbG9nKCk6DQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDE1KQ0KICAgIHogPSBybmcuc3RhbmRhcmRfbm9ybWFsKCg1LCA3KSkgKiA0MA0KICAgIGFzc2VydCBucC5hbGxjbG9zZShucC5leHAobHgubG9nX3NvZnRtYXgoeikpLCBseC5zb2Z0bWF4KHopLCBhdG9sPTFlLTEyKQ0KDQoNCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g5LyY5YyWDQpkZWYgdGVzdF9ncmFkaWVudF9jaGVja19wYXNzZXMoKToNCiAgICAiIiLkuK3lv4Plt67liIYgdnMg6Kej5p6Q5qKv5bqmIOKAlOKAlCDkvJjljJblsYLnmoTnoazmoIflh4bjgIIiIiINCiAgICBkZWYgZih4KToNCiAgICAgICAgcmV0dXJuIGZsb2F0KG5wLnN1bSh4ICoqIDMpICsgMC41ICogbnAuc3VtKHggKiogMikpDQoNCiAgICBkZWYgZyh4KToNCiAgICAgICAgcmV0dXJuIDMgKiB4ICoqIDIgKyB4DQoNCiAgICByZXMgPSBvcC5ncmFkaWVudF9jaGVjayhmLCBnLCBucC5hcnJheShbMS4wLCAtMi4wLCAwLjVdKSkNCiAgICBhc3NlcnQgcmVzWyJwYXNzZWQiXSwgcmVzDQoNCg0KZGVmIHRlc3RfZ3JhZGllbnRfZGVzY2VudF9jb252ZXJnZXNfb25fbGVhc3Rfc3F1YXJlcygpOg0KICAgICIiIuair+W6puS4i+mZjeW/hemhu+aUtuaVm+WIsOacgOWwj+S6jOS5mOino+aekOino+OAgiIiIg0KICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyg1KQ0KICAgIEEgPSBybmcuc3RhbmRhcmRfbm9ybWFsKCgyMCwgNCkpDQogICAgYiA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoMjApDQogICAgeF9zdGFyID0gbnAubGluYWxnLmxzdHNxKEEsIGIsIHJjb25kPU5vbmUpWzBdDQoNCiAgICBkZWYgZih4KToNCiAgICAgICAgciA9IEEgQCB4IC0gYg0KICAgICAgICByZXR1cm4gZmxvYXQociBAIHIpDQoNCiAgICBkZWYgZyh4KToNCiAgICAgICAgcmV0dXJuIDIuMCAqIEEuVCBAIChBIEAgeCAtIGIpDQoNCiAgICByZXMgPSBvcC5ncmFkaWVudF9kZXNjZW50KGYsIGcsIG5wLnplcm9zKDQpLCBscj0wLjAyLCBuX2l0ZXI9MzAwMCkNCiAgICBhc3NlcnQgbnAubWF4KG5wLmFicyhyZXNbIngiXSAtIHhfc3RhcikpIDwgMWUtNg0KICAgIGFzc2VydCBvcC5jaGVja19tb25vdG9uZV9kZWNyZWFzZShyZXNbImZfaGlzdCJdKQ0KDQoNCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOebkeedo+WtpuS5oA0KZGVmIHRlc3RfbGluZWFyX3JlZ3Jlc3Npb25faW52YXJpYW50cygpOg0KICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyg2KQ0KICAgIFggPSBybmcuc3RhbmRhcmRfbm9ybWFsKCg1MCwgNCkpDQogICAgeSA9IFggQCBucC5hcnJheShbMS4wLCAtMi4wLCAwLjUsIDMuMF0pICsgMC4xICogcm5nLnN0YW5kYXJkX25vcm1hbCg1MCkNCiAgICBtID0gc2wuTGluZWFyUmVncmVzc2lvbigpLmZpdChYLCB5KQ0KICAgIGludiA9IG0uY2hlY2tfaW52YXJpYW50cygpDQogICAgZm9yIG5hbWUsIHIgaW4gaW52Lml0ZW1zKCk6DQogICAgICAgIGFzc2VydCByWyJwYXNzZWQiXSwgZiJ7bmFtZX06IHtyfSINCg0KDQpkZWYgdGVzdF9saW5lYXJfcmVncmVzc2lvbl9tYXRjaGVzX251bXB5KCk6DQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDE2KQ0KICAgIFggPSBybmcuc3RhbmRhcmRfbm9ybWFsKCg0MCwgMykpDQogICAgeSA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoNDApDQogICAgbSA9IHNsLkxpbmVhclJlZ3Jlc3Npb24oKS5maXQoWCwgeSkNCiAgICBjbXAgPSBtLmNvbXBhcmVfbnVtcHkoWCwgeSkNCiAgICBhc3NlcnQgY21wWyJwYXNzZWQiXSwgY21wDQoNCg0KZGVmIHRlc3RfbGluZWFyX3JlZ3Jlc3Npb25fcmVzaWR1YWxfb3J0aG9nb25hbCgpOg0KICAgICIiIuato+inhOaWueeoizog5q6L5beu5b+F6aG75LiO6K6+6K6h55+p6Zi15YiX56m66Ze05q2j5LqkIChY4bWAKHniiJJYxbUpPTAp44CCIiIiDQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDcpDQogICAgWCA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoKDUwLCA0KSkNCiAgICB5ID0gWCBAIG5wLmFycmF5KFsxLjAsIC0yLjAsIDAuNSwgMy4wXSkgKyAwLjEgKiBybmcuc3RhbmRhcmRfbm9ybWFsKDUwKQ0KICAgIG0gPSBzbC5MaW5lYXJSZWdyZXNzaW9uKCkuZml0KFgsIHkpDQogICAgcmVzaWQgPSB5IC0gbS5wcmVkaWN0KFgpDQogICAgYXNzZXJ0IG5wLm1heChucC5hYnMoWC5UIEAgcmVzaWQpKSA8IDFlLTgNCg0KDQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSDml6Dnm5HnnaPlrabkuaANCmRlZiB0ZXN0X3BjYV9pbnZhcmlhbnRzKCk6DQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDgpDQogICAgWCA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoKDIwMCwgNSkpIEAgcm5nLnN0YW5kYXJkX25vcm1hbCgoNSwgNSkpDQogICAgcCA9IHNwLlBDQShuX2NvbXBvbmVudHM9MykuZml0KFgpDQogICAgaW52ID0gcC5jaGVja19pbnZhcmlhbnRzKCkNCiAgICBmb3IgbmFtZSwgciBpbiBpbnYuaXRlbXMoKToNCiAgICAgICAgYXNzZXJ0IHJbInBhc3NlZCJdLCBmIntuYW1lfToge3J9Ig0KDQoNCmRlZiB0ZXN0X3BjYV9jb21wb25lbnRzX29ydGhvbm9ybWFsKCk6DQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDkpDQogICAgWCA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoKDE1MCwgNikpDQogICAgcCA9IHNwLlBDQShuX2NvbXBvbmVudHM9MykuZml0KFgpDQogICAgViA9IHAuY29tcG9uZW50c19bOjNdLlQgICAgICAgICAgIyBjb21wb25lbnRzXyDooYwgPSDkuLvmiJDliIYNCiAgICBhc3NlcnQgVi5zaGFwZSA9PSAoNiwgMykNCiAgICBhc3NlcnQgbnAuYWxsY2xvc2UoVi5UIEAgViwgbnAuZXllKDMpLCBhdG9sPTFlLTEwKQ0KDQoNCmRlZiB0ZXN0X3BjYV9tYXRjaGVzX3NrbGVhcm4oKToNCiAgICBweXRlc3QuaW1wb3J0b3Jza2lwKCJza2xlYXJuIikNCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMTApDQogICAgWCA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoKDIwMCwgNSkpDQogICAgcCA9IHNwLlBDQShuX2NvbXBvbmVudHM9MykuZml0KFgpDQogICAgY21wID0gcC5jb21wYXJlX3NrbGVhcm4oWCkNCiAgICBhc3NlcnQgY21wWyJwYXNzZWQiXSwgY21wDQoNCg0KZGVmIHRlc3Rfa21lYW5zX2ludmFyaWFudHNfYW5kX3N0YWJpbGl0eSgpOg0KICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygxMSkNCiAgICBYID0gbnAudnN0YWNrKFsNCiAgICAgICAgcm5nLnN0YW5kYXJkX25vcm1hbCgoNDAsIDIpKSArIG5wLmFycmF5KFs1LjAsIDUuMF0pLA0KICAgICAgICBybmcuc3RhbmRhcmRfbm9ybWFsKCg0MCwgMikpICsgbnAuYXJyYXkoWy01LjAsIC01LjBdKSwNCiAgICBdKQ0KICAgIGttID0gc2suS01lYW5zKG5fY2x1c3RlcnM9Miwgc2VlZD0wKS5maXQoWCkNCiAgICBpbnYgPSBrbS5jaGVja19pbnZhcmlhbnRzKCkNCiAgICBmb3IgbmFtZSwgciBpbiBpbnYuaXRlbXMoKToNCiAgICAgICAgaWYgaXNpbnN0YW5jZShyLCBkaWN0KToNCiAgICAgICAgICAgIGFzc2VydCByLmdldCgicGFzc2VkIiwgVHJ1ZSksIGYie25hbWV9OiB7cn0iDQogICAgbGFiZWxzID0ga20ucHJlZGljdChYKQ0KICAgIGFzc2VydCBzZXQobGFiZWxzLnRvbGlzdCgpKSA9PSB7MCwgMX0NCiAgICBmb3IgYyBpbiAoMCwgMSk6DQogICAgICAgIG1lbWJlcnMgPSBYW2xhYmVscyA9PSBjXQ0KICAgICAgICBpZiBsZW4obWVtYmVycyk6DQogICAgICAgICAgICBhc3NlcnQgbnAuYWxsY2xvc2Uoa20uY2x1c3Rlcl9jZW50ZXJzX1tjXSwgbWVtYmVycy5tZWFuKGF4aXM9MCksIGF0b2w9MWUtOCkNCg0KDQpkZWYgdGVzdF9rbWVhbnNfbWF0Y2hlc19za2xlYXJuKCk6DQogICAgcHl0ZXN0LmltcG9ydG9yc2tpcCgic2tsZWFybiIpDQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDEyKQ0KICAgIFggPSBybmcuc3RhbmRhcmRfbm9ybWFsKCgxMjAsIDMpKQ0KICAgIGttID0gc2suS01lYW5zKG5fY2x1c3RlcnM9Mywgc2VlZD0wKS5maXQoWCkNCiAgICBjbXAgPSBrbS5jb21wYXJlX3NrbGVhcm4oWCkNCiAgICBhc3NlcnQgY21wWyJwYXNzZWQiXSwgY21wDQoNCg0KZGVmIHRlc3RfZ21tX2ludmFyaWFudHNfYW5kX21vbm90b25lX2xpa2VsaWhvb2QoKToNCiAgICAiIiJHTU06IEVNIOWumueQhiDigJTigJQg5a+55pWw5Ly854S25Y2V6LCD5LiN5YePOyDotKPku7vluqYv5p2D6YeN5b2S5LiAOyDljY/mlrnlt67ljYrmraPlrprjgIIiIiINCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMTMpDQogICAgWCA9IG5wLnZzdGFjayhbDQogICAgICAgIHJuZy5zdGFuZGFyZF9ub3JtYWwoKDUwLCAzKSkgKyA0LjAsDQogICAgICAgIHJuZy5zdGFuZGFyZF9ub3JtYWwoKDUwLCAzKSkgLSA0LjAsDQogICAgXSkNCiAgICBnID0gc2cuR2F1c3NpYW5NaXh0dXJlKG5fY29tcG9uZW50cz0yLCBzZWVkPTApLmZpdChYKQ0KICAgIGludiA9IGcuY2hlY2tfaW52YXJpYW50cygpDQogICAgZm9yIG5hbWUsIHIgaW4gaW52Lml0ZW1zKCk6DQogICAgICAgIGFzc2VydCByWyJwYXNzZWQiXSwgZiJ7bmFtZX06IHtyfSINCiAgICBsbCA9IGcubG9nbGlrX2hpc3RfDQogICAgYXNzZXJ0IGxlbihsbCkgPj0gMg0KICAgIGZvciBhLCBiIGluIHppcChsbCwgbGxbMTpdKToNCiAgICAgICAgYXNzZXJ0IGIgPj0gYSAtIDFlLTYsICJFTSDov63ku6PnmoTlr7nmlbDkvLznhLblv4XpobvljZXosIPkuI3lh48iDQoNCg0KZGVmIHRlc3RfZ21tX21hdGNoZXNfc2tsZWFybigpOg0KICAgIHB5dGVzdC5pbXBvcnRvcnNraXAoInNrbGVhcm4iKQ0KICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygxNykNCiAgICBYID0gbnAudnN0YWNrKFsNCiAgICAgICAgcm5nLnN0YW5kYXJkX25vcm1hbCgoNDAsIDIpKSArIDMuMCwNCiAgICAgICAgcm5nLnN0YW5kYXJkX25vcm1hbCgoNDAsIDIpKSAtIDMuMCwNCiAgICBdKQ0KICAgIGcgPSBzZy5HYXVzc2lhbk1peHR1cmUobl9jb21wb25lbnRzPTIsIHNlZWQ9MCkuZml0KFgpDQogICAgY21wID0gZy5jb21wYXJlX3NrbGVhcm4oWCkNCiAgICBhc3NlcnQgY21wWyJwYXNzZWQiXSwgY21wDQoNCg0KIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g5rex572R5bGCDQpkZWYgdGVzdF9jb3JlX2F0dGVudGlvbl9ydW5zX2FuZF9pc19maW5pdGUoKToNCiAgICBmcm9tIG1vcm5pbmdzdGFyLmNvcmUuZGVlcC5hdHRlbnRpb24gaW1wb3J0IHNjYWxlZF9kb3RfcHJvZHVjdF9hdHRlbnRpb24NCg0KICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygxOCkNCiAgICBULCBkID0gOCwgMTYNCiAgICBRLCBLLCBWID0gKHJuZy5zdGFuZGFyZF9ub3JtYWwoKFQsIGQpKSBmb3IgXyBpbiByYW5nZSgzKSkNCiAgICBvdXQsIFAgPSBzY2FsZWRfZG90X3Byb2R1Y3RfYXR0ZW50aW9uKFEsIEssIFYsIGNhdXNhbD1UcnVlKQ0KICAgIGFzc2VydCBvdXQuc2hhcGUgPT0gKFQsIGQpDQogICAgYXNzZXJ0IG5wLmlzZmluaXRlKG91dCkuYWxsKCkNCiAgICBhc3NlcnQgUC5zaGFwZSA9PSAoVCwgVCkNCiAgICAjIOWboOaenOaOqeeggTog5LiK5LiJ6KeS5p2D6YeN5b+F6aG75Li6IDANCiAgICBhc3NlcnQgbnAuYWxsY2xvc2UobnAudHJpdShQLCBrPTEpLCAwLjAsIGF0b2w9MWUtMTIpDQoNCg0KZGVmIHRlc3RfY29yZV9hdHRlbnRpb25faW52YXJpYW50cygpOg0KICAgIGZyb20gbW9ybmluZ3N0YXIuY29yZS5kZWVwLmF0dGVudGlvbiBpbXBvcnQgQXR0ZW50aW9uDQoNCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMTkpDQogICAgVCwgZCA9IDYsIDEyDQogICAgUSwgSywgViA9IChybmcuc3RhbmRhcmRfbm9ybWFsKChULCBkKSkgZm9yIF8gaW4gcmFuZ2UoMykpDQogICAgYXR0ID0gQXR0ZW50aW9uKGNhdXNhbD1UcnVlKQ0KICAgIGludiA9IGF0dC5jaGVja19pbnZhcmlhbnRzKFEsIEssIFYpDQogICAgZm9yIG5hbWUsIHIgaW4gaW52Lml0ZW1zKCk6DQogICAgICAgIGFzc2VydCByWyJwYXNzZWQiXSwgZiJ7bmFtZX06IHtyfSINCg0KDQpkZWYgdGVzdF9tbHBfbGVhcm5zX2xpbmVhcl9mdW5jdGlvbigpOg0KICAgICIiIk1MUCDlv4Xpobvog73mi5/lkIjkuIDkuKrnur/mgKflh73mlbAgKOWJjeWQkS/lj43lkJEv5pu05paw6ZO+6Lev5q2j56GuKeOAgiIiIg0KICAgIGZyb20gbW9ybmluZ3N0YXIuY29yZS5kZWVwLm5ldXJhbF9uZXQgaW1wb3J0IE1MUA0KDQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDIwKQ0KICAgIFggPSBybmcuc3RhbmRhcmRfbm9ybWFsKCgxMjAsIDMpKQ0KICAgIHkgPSAoWCBAIG5wLmFycmF5KFsxLjUsIC0yLjAsIDAuOF0pKS5yZXNoYXBlKC0xLCAxKQ0KICAgIG5ldCA9IE1MUChoaWRkZW49MTYsIGxyPTAuMDUsIG5faXRlcj0yMDAwLCBzZWVkPTApDQogICAgbmV0LmZpdChYLCB5KQ0KICAgIHByZWQgPSBuZXQucHJlZGljdChYKSAgICAgICAgICAjIHByZWRpY3Qg6L+U5Zue5LiA57u0DQogICAgcm1zZSA9IGZsb2F0KG5wLnNxcnQobnAubWVhbigocHJlZCAtIHkucmF2ZWwoKSkgKiogMikpKQ0KICAgIGFzc2VydCBybXNlIDwgMC41LCBmIk1MUCDmi5/lkIjor6/lt67ov4flpKc6IHJtc2U9e3Jtc2U6LjRmfSINCg0KDQpkZWYgdGVzdF9tbHBfaW52YXJpYW50cygpOg0KICAgIGZyb20gbW9ybmluZ3N0YXIuY29yZS5kZWVwLm5ldXJhbF9uZXQgaW1wb3J0IE1MUA0KDQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDIxKQ0KICAgIFggPSBybmcuc3RhbmRhcmRfbm9ybWFsKCg2MCwgMikpDQogICAgeSA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoKDYwLCAxKSkNCiAgICBuZXQgPSBNTFAoaGlkZGVuPTgsIG5faXRlcj01MCwgc2VlZD0wKS5maXQoWCwgeSkNCiAgICBpbnYgPSBuZXQuY2hlY2tfaW52YXJpYW50cygpDQogICAgZm9yIG5hbWUsIHIgaW4gaW52Lml0ZW1zKCk6DQogICAgICAgIGlmIGlzaW5zdGFuY2UociwgZGljdCk6DQogICAgICAgICAgICBhc3NlcnQgci5nZXQoInBhc3NlZCIsIFRydWUpLCBmIntuYW1lfToge3J9Ig0K
+"""核心数学层测试 —— 经典机器学习算子的不变量与跨库一致性。
+
+core 层直接复用 NumPy / SciPy / scikit-learn 的世界级实现; 测试的目的是
+确认封装层没有引入偏差 (归一化方向、符号、迭代终止条件), 并验证其
+自带的 ``check_invariants()`` 与 ``compare_sklearn()`` 跨库交叉验证确实通过。
+"""
+from __future__ import annotations
+
+import numpy as np
+import pytest
+
+from morningstar.core.mathx import linalg as lx
+from morningstar.core.mathx import optimize as op
+from morningstar.core.supervised import linear as sl
+from morningstar.core.unsupervised import gmm as sg
+from morningstar.core.unsupervised import kmeans as sk
+from morningstar.core.unsupervised import pca as sp
+
+
+# ------------------------------------------------------------------ 线性代数
+def test_cholesky_reconstructs():
+    rng = np.random.default_rng(3)
+    A = rng.standard_normal((30, 30))
+    S = A @ A.T + 30 * np.eye(30)
+    L = lx.cholesky(S)
+    assert np.allclose(L @ L.T, S, atol=1e-8)
+
+
+def test_jacobi_eigen_residual():
+    """Jacobi 特征分解: ‖Av − λv‖ 应为机器精度。"""
+    rng = np.random.default_rng(4)
+    A = rng.standard_normal((12, 12))
+    A = A + A.T
+    eigvals, eigvecs, info = lx.jacobi_eigen(A)
+    assert eigvecs.shape == (12, 12)
+    resid = lx.eigen_residual(A, eigvals, eigvecs)
+    assert resid < 1e-9, f"特征残差 {resid:.3e}"
+    assert lx.orthogonality_error(eigvecs) < 1e-9
+
+
+def test_jacobi_on_non_symmetric_does_not_crash():
+    """Jacobi 对非对称矩阵: 至少不得崩溃 (对称化或退化都可接受)。"""
+    rng = np.random.default_rng(14)
+    A = rng.standard_normal((6, 6))
+    try:
+        eigvals, eigvecs, _ = lx.jacobi_eigen(A)
+    except ValueError:
+        return  # 明确拒绝也是正确行为
+    assert eigvals.shape == (6,)
+    assert np.isfinite(eigvals).all()
+
+
+def test_logsumexp_stability():
+    """logsumexp 对极大/极小量级都必须稳定且无溢出。"""
+    x = np.array([1000.0, 1000.0, 1000.0])
+    assert np.isfinite(lx.logsumexp(x)).all()
+    assert np.ndim(lx.logsumexp(x)) == 0, "axis=None 时应返回 0 维标量"
+    assert abs(float(lx.logsumexp(x)) - (1000.0 + np.log(3))) < 1e-9
+    y = np.array([-1000.0, -1000.0])
+    assert np.isfinite(lx.logsumexp(y)).all()
+
+
+def test_log_softmax_matches_softmax_log():
+    rng = np.random.default_rng(15)
+    z = rng.standard_normal((5, 7)) * 40
+    assert np.allclose(np.exp(lx.log_softmax(z)), lx.softmax(z), atol=1e-12)
+
+
+# -------------------------------------------------------------------- 优化
+def test_gradient_check_passes():
+    """中心差分 vs 解析梯度 —— 优化层的硬标准。"""
+    def f(x):
+        return float(np.sum(x ** 3) + 0.5 * np.sum(x ** 2))
+
+    def g(x):
+        return 3 * x ** 2 + x
+
+    res = op.gradient_check(f, g, np.array([1.0, -2.0, 0.5]))
+    assert res["passed"], res
+
+
+def test_gradient_descent_converges_on_least_squares():
+    """梯度下降必须收敛到最小二乘解析解。"""
+    rng = np.random.default_rng(5)
+    A = rng.standard_normal((20, 4))
+    b = rng.standard_normal(20)
+    x_star = np.linalg.lstsq(A, b, rcond=None)[0]
+
+    def f(x):
+        r = A @ x - b
+        return float(r @ r)
+
+    def g(x):
+        return 2.0 * A.T @ (A @ x - b)
+
+    res = op.gradient_descent(f, g, np.zeros(4), lr=0.02, n_iter=3000)
+    assert np.max(np.abs(res["x"] - x_star)) < 1e-6
+    assert op.check_monotone_decrease(res["f_hist"])
+
+
+# ------------------------------------------------------------------ 监督学习
+def test_linear_regression_invariants():
+    rng = np.random.default_rng(6)
+    X = rng.standard_normal((50, 4))
+    y = X @ np.array([1.0, -2.0, 0.5, 3.0]) + 0.1 * rng.standard_normal(50)
+    m = sl.LinearRegression().fit(X, y)
+    inv = m.check_invariants()
+    for name, r in inv.items():
+        assert r["passed"], f"{name}: {r}"
+
+
+def test_linear_regression_matches_numpy():
+    rng = np.random.default_rng(16)
+    X = rng.standard_normal((40, 3))
+    y = rng.standard_normal(40)
+    m = sl.LinearRegression().fit(X, y)
+    cmp = m.compare_numpy(X, y)
+    assert cmp["passed"], cmp
+
+
+def test_linear_regression_residual_orthogonal():
+    """正规方程: 残差必须与设计矩阵列空间正交 (Xᵀ(y−Xŵ)=0)。"""
+    rng = np.random.default_rng(7)
+    X = rng.standard_normal((50, 4))
+    y = X @ np.array([1.0, -2.0, 0.5, 3.0]) + 0.1 * rng.standard_normal(50)
+    m = sl.LinearRegression().fit(X, y)
+    resid = y - m.predict(X)
+    assert np.max(np.abs(X.T @ resid)) < 1e-8
+
+
+# ------------------------------------------------------------------ 无监督学习
+def test_pca_invariants():
+    rng = np.random.default_rng(8)
+    X = rng.standard_normal((200, 5)) @ rng.standard_normal((5, 5))
+    p = sp.PCA(n_components=3).fit(X)
+    inv = p.check_invariants()
+    for name, r in inv.items():
+        assert r["passed"], f"{name}: {r}"
+
+
+def test_pca_components_orthonormal():
+    rng = np.random.default_rng(9)
+    X = rng.standard_normal((150, 6))
+    p = sp.PCA(n_components=3).fit(X)
+    V = p.components_[:3].T          # components_ 行 = 主成分
+    assert V.shape == (6, 3)
+    assert np.allclose(V.T @ V, np.eye(3), atol=1e-10)
+
+
+def test_pca_matches_sklearn():
+    pytest.importorskip("sklearn")
+    rng = np.random.default_rng(10)
+    X = rng.standard_normal((200, 5))
+    p = sp.PCA(n_components=3).fit(X)
+    cmp = p.compare_sklearn(X)
+    assert cmp["passed"], cmp
+
+
+def test_kmeans_invariants_and_stability():
+    rng = np.random.default_rng(11)
+    X = np.vstack([
+        rng.standard_normal((40, 2)) + np.array([5.0, 5.0]),
+        rng.standard_normal((40, 2)) + np.array([-5.0, -5.0]),
+    ])
+    km = sk.KMeans(n_clusters=2, seed=0).fit(X)
+    inv = km.check_invariants()
+    for name, r in inv.items():
+        if isinstance(r, dict):
+            assert r.get("passed", True), f"{name}: {r}"
+    labels = km.predict(X)
+    assert set(labels.tolist()) == {0, 1}
+    for c in (0, 1):
+        members = X[labels == c]
+        if len(members):
+            assert np.allclose(km.cluster_centers_[c], members.mean(axis=0), atol=1e-8)
+
+
+def test_kmeans_matches_sklearn():
+    pytest.importorskip("sklearn")
+    rng = np.random.default_rng(12)
+    X = rng.standard_normal((120, 3))
+    km = sk.KMeans(n_clusters=3, seed=0).fit(X)
+    cmp = km.compare_sklearn(X)
+    assert cmp["passed"], cmp
+
+
+def test_gmm_invariants_and_monotone_likelihood():
+    """GMM: EM 定理 —— 对数似然单调不减; 责任度/权重归一; 协方差半正定。"""
+    rng = np.random.default_rng(13)
+    X = np.vstack([
+        rng.standard_normal((50, 3)) + 4.0,
+        rng.standard_normal((50, 3)) - 4.0,
+    ])
+    g = sg.GaussianMixture(n_components=2, seed=0).fit(X)
+    inv = g.check_invariants()
+    for name, r in inv.items():
+        assert r["passed"], f"{name}: {r}"
+    ll = g.loglik_hist_
+    assert len(ll) >= 2
+    for a, b in zip(ll, ll[1:]):
+        assert b >= a - 1e-6, "EM 迭代的对数似然必须单调不减"
+
+
+def test_gmm_matches_sklearn():
+    pytest.importorskip("sklearn")
+    rng = np.random.default_rng(17)
+    X = np.vstack([
+        rng.standard_normal((40, 2)) + 3.0,
+        rng.standard_normal((40, 2)) - 3.0,
+    ])
+    g = sg.GaussianMixture(n_components=2, seed=0).fit(X)
+    cmp = g.compare_sklearn(X)
+    assert cmp["passed"], cmp
+
+
+# ------------------------------------------------------------------ 深网层
+def test_core_attention_runs_and_is_finite():
+    from morningstar.core.deep.attention import scaled_dot_product_attention
+
+    rng = np.random.default_rng(18)
+    T, d = 8, 16
+    Q, K, V = (rng.standard_normal((T, d)) for _ in range(3))
+    out, P = scaled_dot_product_attention(Q, K, V, causal=True)
+    assert out.shape == (T, d)
+    assert np.isfinite(out).all()
+    assert P.shape == (T, T)
+    # 因果掩码: 上三角权重必须为 0
+    assert np.allclose(np.triu(P, k=1), 0.0, atol=1e-12)
+
+
+def test_core_attention_invariants():
+    from morningstar.core.deep.attention import Attention
+
+    rng = np.random.default_rng(19)
+    T, d = 6, 12
+    Q, K, V = (rng.standard_normal((T, d)) for _ in range(3))
+    att = Attention(causal=True)
+    inv = att.check_invariants(Q, K, V)
+    for name, r in inv.items():
+        assert r["passed"], f"{name}: {r}"
+
+
+def test_mlp_learns_linear_function():
+    """MLP 必须能拟合一个线性函数 (前向/反向/更新链路正确)。"""
+    from morningstar.core.deep.neural_net import MLP
+
+    rng = np.random.default_rng(20)
+    X = rng.standard_normal((120, 3))
+    y = (X @ np.array([1.5, -2.0, 0.8])).reshape(-1, 1)
+    net = MLP(hidden=16, lr=0.05, n_iter=2000, seed=0)
+    net.fit(X, y)
+    pred = net.predict(X)          # predict 返回一维
+    rmse = float(np.sqrt(np.mean((pred - y.ravel()) ** 2)))
+    assert rmse < 0.5, f"MLP 拟合误差过大: rmse={rmse:.4f}"
+
+
+def test_mlp_invariants():
+    from morningstar.core.deep.neural_net import MLP
+
+    rng = np.random.default_rng(21)
+    X = rng.standard_normal((60, 2))
+    y = rng.standard_normal((60, 1))
+    net = MLP(hidden=8, n_iter=50, seed=0).fit(X, y)
+    inv = net.check_invariants()
+    for name, r in inv.items():
+        if isinstance(r, dict):
+            assert r.get("passed", True), f"{name}: {r}"

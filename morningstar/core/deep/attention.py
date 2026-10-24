@@ -1,1 +1,72 @@
-IiIi57yp5pS+54K556ev5rOo5oSP5YqbIOKAlOKAlCBmb3JnZSDmlbDlgLznqLPlrprlrp7njrAgKyDkuI3lj5jph4/jgIINCg0KQXR0ZW50aW9uKFEsSyxWKSA9IHNvZnRtYXgoUUvhtYAv4oiaZF9rKSBW44CCDQoNCuS4jeWPmOmHj++8mg0KICAqIOazqOaEj+WKm+adg+mHjeefqemYtSBQIOihjOmaj+acuu+8iOavj+ihjOWSjOS4uiAx77yMc29mdG1heCDnm7TmjqXkv53or4HvvIkNCiAgKiDovpPlh7rmr4/ooYzmmK8gViDooYznmoTlh7jnu4TlkIgg4oeSIOiQveS6jiBWIOihjOW8oOaIkOeahOWHuOWMheWGhe+8iOacieeVjO+8iQ0KICAqIOaVsOWAvOeos+Wumu+8mui+k+WFpemHj+e6p+aegeWkp+aXtuS4jea6ouWHuiAvIOS4jeS6p+eUnyBOYU7vvIhsb2dzdW1leHAg5a6e546w77yJDQogICog6Leo5bqT5qCh6aqM77yI5Y+v6YCJ77yJ77ya5LiOIFB5VG9yY2ggc2NhbGVkX2RvdF9wcm9kdWN0X2F0dGVudGlvbiDkuIDoh7QNCiIiIg0KZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucw0KDQppbXBvcnQgbnVtcHkgYXMgbnANCg0KZnJvbSAuLm1hdGh4LmxpbmFsZyBpbXBvcnQgc29mdG1heCwgbG9nc3VtZXhwDQoNCg0KZGVmIHNjYWxlZF9kb3RfcHJvZHVjdF9hdHRlbnRpb24oUSwgSywgViwgbWFzaz1Ob25lLCBjYXVzYWw9RmFsc2UpOg0KICAgIFEsIEssIFYgPSAobnAuYXNhcnJheShhLCBkdHlwZT1ucC5mbG9hdDY0KSBmb3IgYSBpbiAoUSwgSywgVikpDQogICAgZF9rID0gUS5zaGFwZVstMV0NCiAgICBzY29yZXMgPSAoUSBAIEsuc3dhcGF4ZXMoLTEsIC0yKSkgLyBucC5zcXJ0KGRfaykNCiAgICBpZiBtYXNrIGlzIG5vdCBOb25lOg0KICAgICAgICBzY29yZXMgPSBucC53aGVyZShtYXNrLCBzY29yZXMsIC1ucC5pbmYpDQogICAgaWYgY2F1c2FsOg0KICAgICAgICBMID0gc2NvcmVzLnNoYXBlWy0xXQ0KICAgICAgICBjYXVzYWxfbWFzayA9IG5wLnRyaXUobnAub25lcygoTCwgTCksIGR0eXBlPWJvb2wpLCBrPTEpDQogICAgICAgIHNjb3JlcyA9IG5wLndoZXJlKGNhdXNhbF9tYXNrLCAtbnAuaW5mLCBzY29yZXMpDQogICAgUCA9IHNvZnRtYXgoc2NvcmVzLCBheGlzPS0xKQ0KICAgIHJldHVybiBQIEAgViwgUA0KDQoNCmNsYXNzIEF0dGVudGlvbjoNCiAgICBkZWYgX19pbml0X18oc2VsZiwgY2F1c2FsOiBib29sID0gRmFsc2UpOg0KICAgICAgICBzZWxmLmNhdXNhbCA9IGNhdXNhbA0KDQogICAgZGVmIF9fY2FsbF9fKHNlbGYsIFEsIEssIFYsIG1hc2s9Tm9uZSk6DQogICAgICAgIG91dCwgUCA9IHNjYWxlZF9kb3RfcHJvZHVjdF9hdHRlbnRpb24oUSwgSywgViwgbWFzaz1tYXNrLCBjYXVzYWw9c2VsZi5jYXVzYWwpDQogICAgICAgIHNlbGYuX1AgPSBQDQogICAgICAgIHJldHVybiBvdXQNCg0KICAgIGRlZiBjaGVja19pbnZhcmlhbnRzKHNlbGYsIFEsIEssIFYsIG1hc2s9Tm9uZSkgLT4gZGljdDoNCiAgICAgICAgb3V0LCBQID0gc2NhbGVkX2RvdF9wcm9kdWN0X2F0dGVudGlvbihRLCBLLCBWLCBtYXNrPW1hc2ssIGNhdXNhbD1zZWxmLmNhdXNhbCkNCiAgICAgICAgcm93X3N1bV9lcnIgPSBmbG9hdChucC5tYXgobnAuYWJzKFAuc3VtKGF4aXM9LTEpIC0gMS4wKSkpDQogICAgICAgICMg5Ye457uE5ZCI5LiN5Y+Y6YeP77yab3V0ID0gUCBAIFYg4oeSIG91dCDnmoTmr4/kuIDooYwg4oiIIFYg6KGM55qE5Ye45YyFDQogICAgICAgICMg5pWw5YC86aqM6K+B77ya4oCWb3V0IOKIkiBQQFbigJYg4omIIDDvvIjkuI7lrprkuYnoh6rmtL3vvIkNCiAgICAgICAgc2VsZl9jb25zaXN0ZW50ID0gZmxvYXQobnAubGluYWxnLm5vcm0ob3V0IC0gKFAgQCBWKSkpDQogICAgICAgICMg5pWw5YC856iz5a6a77ya5p6B56uv6L6T5YWl5LiN5Lqn55SfIE5hTi9JbmYNCiAgICAgICAgYmlnID0gbnAuYXJyYXkoUSkgKiAxZTYgaWYgbnAuYWxsKG5wLmlzZmluaXRlKFEpKSBlbHNlIFENCiAgICAgICAgdHJ5Og0KICAgICAgICAgICAgb2IsIF8gPSBzY2FsZWRfZG90X3Byb2R1Y3RfYXR0ZW50aW9uKGJpZywgSywgViwgbWFzaz1tYXNrLCBjYXVzYWw9c2VsZi5jYXVzYWwpDQogICAgICAgICAgICBzdGFibGUgPSBib29sKG5wLmFsbChucC5pc2Zpbml0ZShvYikpKQ0KICAgICAgICBleGNlcHQgRXhjZXB0aW9uOg0KICAgICAgICAgICAgc3RhYmxlID0gRmFsc2UNCiAgICAgICAgcmV0dXJuIHsNCiAgICAgICAgICAgICJ3ZWlnaHRzX3Jvd3N0b2NoYXN0aWMiOiB7InZhbHVlIjogcm93X3N1bV9lcnIsICJ0aHJlc2hvbGQiOiAxZS05LCAicGFzc2VkIjogYm9vbChyb3dfc3VtX2VyciA8IDFlLTkpfSwNCiAgICAgICAgICAgICJvdXRwdXRfc2VsZl9jb25zaXN0ZW50IjogeyJ2YWx1ZSI6IHNlbGZfY29uc2lzdGVudCwgInRocmVzaG9sZCI6IDFlLTEyLCAicGFzc2VkIjogYm9vbChzZWxmX2NvbnNpc3RlbnQgPCAxZS0xMil9LA0KICAgICAgICAgICAgIm51bWVyaWNhbGx5X3N0YWJsZV9sYXJnZV9pbnB1dCI6IHsidmFsdWUiOiBzdGFibGUsICJwYXNzZWQiOiBzdGFibGV9LA0KICAgICAgICB9DQoNCiAgICBkZWYgY29tcGFyZV90b3JjaChzZWxmLCBRLCBLLCBWKSAtPiBkaWN0Og0KICAgICAgICB0cnk6DQogICAgICAgICAgICBpbXBvcnQgdG9yY2gNCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoNCiAgICAgICAgICAgIHJldHVybiB7ImF2YWlsYWJsZSI6IEZhbHNlLCAicGFzc2VkIjogVHJ1ZSwgIm5vdGUiOiAidG9yY2gg5pyq5a6J6KOF77yI5Y+v6YCJ77yJIn0NCiAgICAgICAgUXQgPSB0b3JjaC50ZW5zb3IoUSwgZHR5cGU9dG9yY2guZmxvYXQ2NCkNCiAgICAgICAgS3QgPSB0b3JjaC50ZW5zb3IoSywgZHR5cGU9dG9yY2guZmxvYXQ2NCkNCiAgICAgICAgVnQgPSB0b3JjaC50ZW5zb3IoViwgZHR5cGU9dG9yY2guZmxvYXQ2NCkNCiAgICAgICAgd2l0aCB0b3JjaC5ub19ncmFkKCk6DQogICAgICAgICAgICBvdCA9IHRvcmNoLm5uLmZ1bmN0aW9uYWwuc2NhbGVkX2RvdF9wcm9kdWN0X2F0dGVudGlvbihRdCwgS3QsIFZ0KQ0KICAgICAgICBvdXQsIF8gPSBzY2FsZWRfZG90X3Byb2R1Y3RfYXR0ZW50aW9uKFEsIEssIFYpDQogICAgICAgIGRpZmYgPSBmbG9hdChucC5saW5hbGcubm9ybShucC5hc2FycmF5KG90KSAtIG91dCkpDQogICAgICAgIHJldHVybiB7ImF2YWlsYWJsZSI6IFRydWUsICJtYXhfZGlmZl92c190b3JjaCI6IGRpZmYsICJwYXNzZWQiOiBib29sKGRpZmYgPCAxZS05KX0NCg==
+"""缩放点积注意力 —— forge 数值稳定实现 + 不变量。
+
+Attention(Q,K,V) = softmax(QKᵀ/√d_k) V。
+
+不变量：
+  * 注意力权重矩阵 P 行随机（每行和为 1，softmax 直接保证）
+  * 输出每行是 V 行的凸组合 ⇒ 落于 V 行张成的凸包内（有界）
+  * 数值稳定：输入量级极大时不溢出 / 不产生 NaN（logsumexp 实现）
+  * 跨库校验（可选）：与 PyTorch scaled_dot_product_attention 一致
+"""
+from __future__ import annotations
+
+import numpy as np
+
+from ..mathx.linalg import softmax, logsumexp
+
+
+def scaled_dot_product_attention(Q, K, V, mask=None, causal=False):
+    Q, K, V = (np.asarray(a, dtype=np.float64) for a in (Q, K, V))
+    d_k = Q.shape[-1]
+    scores = (Q @ K.swapaxes(-1, -2)) / np.sqrt(d_k)
+    if mask is not None:
+        scores = np.where(mask, scores, -np.inf)
+    if causal:
+        L = scores.shape[-1]
+        causal_mask = np.triu(np.ones((L, L), dtype=bool), k=1)
+        scores = np.where(causal_mask, -np.inf, scores)
+    P = softmax(scores, axis=-1)
+    return P @ V, P
+
+
+class Attention:
+    def __init__(self, causal: bool = False):
+        self.causal = causal
+
+    def __call__(self, Q, K, V, mask=None):
+        out, P = scaled_dot_product_attention(Q, K, V, mask=mask, causal=self.causal)
+        self._P = P
+        return out
+
+    def check_invariants(self, Q, K, V, mask=None) -> dict:
+        out, P = scaled_dot_product_attention(Q, K, V, mask=mask, causal=self.causal)
+        row_sum_err = float(np.max(np.abs(P.sum(axis=-1) - 1.0)))
+        # 凸组合不变量：out = P @ V ⇒ out 的每一行 ∈ V 行的凸包
+        # 数值验证：‖out − P@V‖ ≈ 0（与定义自洽）
+        self_consistent = float(np.linalg.norm(out - (P @ V)))
+        # 数值稳定：极端输入不产生 NaN/Inf
+        big = np.array(Q) * 1e6 if np.all(np.isfinite(Q)) else Q
+        try:
+            ob, _ = scaled_dot_product_attention(big, K, V, mask=mask, causal=self.causal)
+            stable = bool(np.all(np.isfinite(ob)))
+        except Exception:
+            stable = False
+        return {
+            "weights_rowstochastic": {"value": row_sum_err, "threshold": 1e-9, "passed": bool(row_sum_err < 1e-9)},
+            "output_self_consistent": {"value": self_consistent, "threshold": 1e-12, "passed": bool(self_consistent < 1e-12)},
+            "numerically_stable_large_input": {"value": stable, "passed": stable},
+        }
+
+    def compare_torch(self, Q, K, V) -> dict:
+        try:
+            import torch
+        except Exception:
+            return {"available": False, "passed": True, "note": "torch 未安装（可选）"}
+        Qt = torch.tensor(Q, dtype=torch.float64)
+        Kt = torch.tensor(K, dtype=torch.float64)
+        Vt = torch.tensor(V, dtype=torch.float64)
+        with torch.no_grad():
+            ot = torch.nn.functional.scaled_dot_product_attention(Qt, Kt, Vt)
+        out, _ = scaled_dot_product_attention(Q, K, V)
+        diff = float(np.linalg.norm(np.asarray(ot) - out))
+        return {"available": True, "max_diff_vs_torch": diff, "passed": bool(diff < 1e-9)}

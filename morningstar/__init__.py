@@ -1,1 +1,69 @@
-IiIiTW9ybmluZ1N0YXIgRmxhZ3NoaXBBSSDigJTigJQg5LiW55WM6aG257qnIEFJIOezu+e7n++8iOaXl+iIsOeJiO+8ieOAggoK5L2c6ICFOiDmmajmmJ8gKE1vcm5pbmdTdGFyKQoK6K6+6K6h5L+h5p2h77yI6Zu26YeN5YaZIC8g6ZuG5aSn5oiQIC8g5Y+v6aqM6K+BIC8g6Zet546v5Lqk5LuY77yJOgoKICAqICoq6Zu26YeN5YaZKio6IOaVsOWAvOmHjea0u+S4juaIkOeGn+eul+azleebtOaOpeWkjeeUqOS4lueVjOmhtue6p+W8gOa6kOaIkOaenAogICAgKG51bXB5IC8gc2NpcHkgLyBzY2lraXQtbGVhcm4gLyB0b3JjaCkg5LiO5pys6aG555uu5bey6aqM6K+B6LWE5LqnLAogICAg57ud5LiN5LuO6Zu26YCg6L2u5a2Q44CCCiAgKiAqKumbhuWkp+aIkCoqOiDmr4/kuIDlsYLpg73nq5nlnKjlt7Llj5HluIPnmoTkuJbnlYznuqfnrpfms5XkuYvkuIoKICAgIChGbGFzaEF0dGVudGlvbi0yIC8gUm9QRSAvIFJNU05vcm0gLyBTd2lHTFUgLyBBZGFtVyAvIEJQRSAvIEphY29iaSAvIEVNKSwKICAgIOW5tuazqOaYjuWHuuWkhCAo6KeBIGRvY3MvUkVGRVJFTkNFUy5tZCnjgIIKICAqICoq5Y+v6aqM6K+BKio6IOavj+S4queul+WtkOiHs+WwkeacieS4gOadoeWPr+iiq+eLrOeri+WunueOsOS6pOWPiemqjOivgeeahCoq56Gs5LiN5Y+Y6YePKioKICAgICjmlbDlgLznrYnku7cgLyDmraPkuqTmgKcgLyDmoq/luqbmo4DpqowgLyBFTSDljZXosIMgLyDmr5Tnibnnuqfnoa7lrprmgKcp44CCCiAgKiAqKumXreeOr+S6pOS7mCoqOiDlrozmlbTlvIDmupDjgIHlj6/ov5DooYzjgIHlj6/lpI3njrDjgIHlj6/pqozor4HjgIIKCuWNgeS6jOWxguaetuaehOaYoOWwhCAo6K+m6KeBIGRvY3MvQVJDSElURUNUVVJFLm1kKToKCiAgTDEgIOe6v+aAp+S7o+aVsCAgICAgICAg4oaSIG1vcm5pbmdzdGFyLmNvcmUubWF0aHgubGluYWxnCiAgTDIgIOamgueOh+e7n+iuoSAgICAgICAg4oaSIG1vcm5pbmdzdGFyLmNvcmUubWF0aHggLyBjb3JlLnN1cGVydmlzZWQubmFpdmVfYmF5ZXMKICBMMyAg5b6u56ev5YiG5LiO5LyY5YyWICAgICDihpIgbW9ybmluZ3N0YXIuY29yZS5tYXRoeC5vcHRpbWl6ZSAgKyBmbGFzaC5vcHRpbQogIEw0ICDnur/mgKcv5bm/5LmJ5qih5Z6LICAgIOKGkiBtb3JuaW5nc3Rhci5jb3JlLnN1cGVydmlzZWQubGluZWFyIC8gbG9naXN0aWMKICBMNSAg5qC45pa55rOV5LiOIFNWTSAgICDihpIgbW9ybmluZ3N0YXIuY29yZS5zdXBlcnZpc2VkLnN2bQogIEw2ICDmpoLnjofkuI7pnZ7lj4LmqKHlnosgICDihpIgbW9ybmluZ3N0YXIuY29yZS5zdXBlcnZpc2VkLmtubiAvIG5haXZlX2JheWVzCiAgTDcgIOiBmuexuyAgICAgICAgICAgIOKGkiBtb3JuaW5nc3Rhci5jb3JlLnVuc3VwZXJ2aXNlZC5rbWVhbnMgLyBnbW0KICBMOCAg6ZmN57u0ICAgICAgICAgICAg4oaSIG1vcm5pbmdzdGFyLmNvcmUudW5zdXBlcnZpc2VkLnBjYQogIEw5ICDnpZ7nu4/nvZHnu5wgICAgICAgIOKGkiBtb3JuaW5nc3Rhci5jb3JlLmRlZXAubmV1cmFsX25ldCAvIGF0dGVudGlvbgogIEwxMCDpq5jmlYjms6jmhI/lipsgICAgICAg4oaSIG1vcm5pbmdzdGFyLmF0dGVudGlvbiAgKGZ1bGwvZmxhc2gvbGluZWFyL3BlcmZvcm1lci9zcGFyc2UvZnVzZSkKICBMMTEg5aSn5qih5Z6L5YaF5qC4ICAgICAgIOKGkiBtb3JuaW5nc3Rhci5mbGFzaCAgICAgIChHUFQgLyBSb1BFIC8gUk1TTm9ybSAvIEtWLUNhY2hlIC8gQlBFKQogIEwxMiDpm4bmiJDpqozor4HkuI7kuqTku5ggICDihpIgbW9ybmluZ3N0YXIudmVyaWZ5ICAgICAo5LiN5Y+Y6YePICsg6Leo5bqT5Lqk5Y+J6aqM6K+BICsg5Z+65YeGKQoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGltcG9ydGxpYgpmcm9tIHR5cGluZyBpbXBvcnQgVFlQRV9DSEVDS0lORwoKX192ZXJzaW9uX18gPSAiMS4wLjAiCl9fYXV0aG9yX18gPSAi5pmo5pifIChNb3JuaW5nU3RhcikiCl9fbGljZW5zZV9fID0gIkFwYWNoZS0yLjAiCgojIOaDsOaAp+WtkOaooeWdl+WvvOWFpTog5pei5L+d55WZIGBtb3JuaW5nc3Rhci5mbGFzaGAg6L+Z5qC355qE5L6/5o236K6/6ZeuLAojIOWPiOmBv+WFjSBgcHl0aG9uIC1tIG1vcm5pbmdzdGFyLnZlcmlmeS5yZXBvcnRgIOaXtueahOaooeWdl+mHjeWkjeaJp+ihjOWRiuitpuOAggpfTEFaWSA9ICgiYXR0ZW50aW9uIiwgImNvcmUiLCAiZmxhc2giLCAidmVyaWZ5IikKCmlmIFRZUEVfQ0hFQ0tJTkc6ICAjIHByYWdtYTogbm8gY292ZXIgLSDku4Xkvpvnsbvlnovmo4Dmn6XlmagKICAgIGZyb20gLiBpbXBvcnQgYXR0ZW50aW9uLCBjb3JlLCBmbGFzaCwgdmVyaWZ5CgoKZGVmIF9fZ2V0YXR0cl9fKG5hbWU6IHN0cik6CiAgICBpZiBuYW1lIGluIF9MQVpZOgogICAgICAgIG1vZCA9IGltcG9ydGxpYi5pbXBvcnRfbW9kdWxlKGYiLntuYW1lfSIsIF9fbmFtZV9fKQogICAgICAgIGdsb2JhbHMoKVtuYW1lXSA9IG1vZAogICAgICAgIHJldHVybiBtb2QKICAgIHJhaXNlIEF0dHJpYnV0ZUVycm9yKGYibW9kdWxlIHtfX25hbWVfXyFyfSBoYXMgbm8gYXR0cmlidXRlIHtuYW1lIXJ9IikKCgpkZWYgX19kaXJfXygpIC0+IGxpc3Rbc3RyXToKICAgIHJldHVybiBzb3J0ZWQoc2V0KGdsb2JhbHMoKSkgfCBzZXQoX0xBWlkpKQoKCmRlZiBpbmZvKCkgLT4gc3RyOgogICAgIiIi5LiA6KGM6Ieq5oiR5LuL57uN44CCIiIiCiAgICByZXR1cm4gKAogICAgICAgIGYiTW9ybmluZ1N0YXIgRmxhZ3NoaXBBSSB2e19fdmVyc2lvbl9ffSB8IOS9nOiAhSB7X19hdXRob3JfX30gfCB7X19saWNlbnNlX199XG4iCiAgICAgICAgIumbtumHjeWGmSDCtyDpm4blpKfmiJAgwrcg5LiN5Y+Y6YeP6aqM6K+BIMK3IOi3qOW6k+S6pOWPiemqjOivgSDCtyDpl63njq/kuqTku5giCiAgICApCgoKX19hbGxfXyA9IFsiYXR0ZW50aW9uIiwgImNvcmUiLCAiZmxhc2giLCAidmVyaWZ5IiwgImluZm8iLCAiX192ZXJzaW9uX18iLCAiX19hdXRob3JfXyJdCg==
+"""MorningStar FlagshipAI —— 世界顶级 AI 系统（旗舰版）。
+
+作者: 晨星 (MorningStar)
+
+设计信条（零重写 / 集大成 / 可验证 / 闭环交付）:
+
+  * **零重写**: 数值重活与成熟算法直接复用世界顶级开源成果
+    (numpy / scipy / scikit-learn / torch) 与本项目已验证资产,
+    绝不从零造轮子。
+  * **集大成**: 每一层都站在已发布的世界级算法之上
+    (FlashAttention-2 / RoPE / RMSNorm / SwiGLU / AdamW / BPE / Jacobi / EM),
+    并注明出处 (见 docs/REFERENCES.md)。
+  * **可验证**: 每个算子至少有一条可被独立实现交叉验证的**硬不变量**
+    (数值等价 / 正交性 / 梯度检验 / EM 单调 / 比特级确定性)。
+  * **闭环交付**: 完整开源、可运行、可复现、可验证。
+
+十二层架构映射 (详见 docs/ARCHITECTURE.md):
+
+  L1  线性代数        → morningstar.core.mathx.linalg
+  L2  概率统计        → morningstar.core.mathx / core.supervised.naive_bayes
+  L3  微积分与优化     → morningstar.core.mathx.optimize  + flash.optim
+  L4  线性/广义模型    → morningstar.core.supervised.linear / logistic
+  L5  核方法与 SVM    → morningstar.core.supervised.svm
+  L6  概率与非参模型   → morningstar.core.supervised.knn / naive_bayes
+  L7  聚类            → morningstar.core.unsupervised.kmeans / gmm
+  L8  降维            → morningstar.core.unsupervised.pca
+  L9  神经网络        → morningstar.core.deep.neural_net / attention
+  L10 高效注意力       → morningstar.attention  (full/flash/linear/performer/sparse/fuse)
+  L11 大模型内核       → morningstar.flash      (GPT / RoPE / RMSNorm / KV-Cache / BPE)
+  L12 集成验证与交付   → morningstar.verify     (不变量 + 跨库交叉验证 + 基准)
+"""
+from __future__ import annotations
+
+import importlib
+from typing import TYPE_CHECKING
+
+__version__ = "1.0.0"
+__author__ = "晨星 (MorningStar)"
+__license__ = "Apache-2.0"
+
+# 惰性子模块导入: 既保留 `morningstar.flash` 这样的便捷访问,
+# 又避免 `python -m morningstar.verify.report` 时的模块重复执行告警。
+_LAZY = ("attention", "core", "flash", "verify")
+
+if TYPE_CHECKING:  # pragma: no cover - 仅供类型检查器
+    from . import attention, core, flash, verify
+
+
+def __getattr__(name: str):
+    if name in _LAZY:
+        mod = importlib.import_module(f".{name}", __name__)
+        globals()[name] = mod
+        return mod
+    raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
+
+
+def __dir__() -> list[str]:
+    return sorted(set(globals()) | set(_LAZY))
+
+
+def info() -> str:
+    """一行自我介绍。"""
+    return (
+        f"MorningStar FlagshipAI v{__version__} | 作者 {__author__} | {__license__}\n"
+        "零重写 · 集大成 · 不变量验证 · 跨库交叉验证 · 闭环交付"
+    )
+
+
+__all__ = ["attention", "core", "flash", "verify", "info", "__version__", "__author__"]

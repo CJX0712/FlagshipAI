@@ -1,1 +1,104 @@
-IiIi6YC76L6R5Zue5b2SIOKAlOKAlCBmb3JnZSDmoq/luqbkuIvpmY0gKyBsb2dzdW1leHAg5pWw5YC856iz5a6aICsg5qKv5bqm5qOA6aqM5LiN5Y+Y6YeP44CCDQoNCuS4jeWPmOmHj++8mg0KICAqIOair+W6puajgOmqjCBtYXhSZWxFcnIg4omIIDFlLTfvvIjop6PmnpDmoq/luqYgdnMg5Lit5b+D5beu5YiG77yJDQogICog5Lqk5Y+J54a15o2f5aSx6ZqP6L+t5Luj5Y2V6LCD6Z2e5aKe77yI5Ye477yJDQogICog6Leo5bqT5qCh6aqM77ya5LiOIHNrbGVhcm4uTG9naXN0aWNSZWdyZXNzaW9uIOmihOa1i+S4gOiHtOeOh+mrmA0KIiIiDQpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zDQoNCmltcG9ydCBudW1weSBhcyBucA0KDQpmcm9tIC4ubWF0aHgubGluYWxnIGltcG9ydCBsb2dzdW1leHAgICMg5aSN55So56iz5a6a5Y6f6K+tDQpmcm9tIC4ubWF0aHgub3B0aW1pemUgaW1wb3J0IGdyYWRpZW50X2NoZWNrLCBjaGVja19tb25vdG9uZV9kZWNyZWFzZQ0KDQoNCmRlZiBfc2lnbW9pZCh6OiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5Og0KICAgIHogPSBucC5hc2FycmF5KHosIGR0eXBlPW5wLmZsb2F0NjQpDQogICAgb3V0ID0gbnAuZW1wdHlfbGlrZSh6KQ0KICAgIHBvcyA9IHogPj0gMA0KICAgIG91dFtwb3NdID0gMS4wIC8gKDEuMCArIG5wLmV4cCgteltwb3NdKSkNCiAgICBleiA9IG5wLmV4cCh6W35wb3NdKQ0KICAgIG91dFt+cG9zXSA9IGV6IC8gKDEuMCArIGV6KQ0KICAgIHJldHVybiBvdXQNCg0KDQpjbGFzcyBMb2dpc3RpY1JlZ3Jlc3Npb246DQogICAgZGVmIF9faW5pdF9fKHNlbGYsIGZpdF9pbnRlcmNlcHQ6IGJvb2wgPSBUcnVlLCBscjogZmxvYXQgPSAwLjMsIG5faXRlcjogaW50ID0gMzAwMCwNCiAgICAgICAgICAgICAgICAgcmlkZ2U6IGZsb2F0ID0gMC4wLCB0b2w6IGZsb2F0ID0gMWUtNyk6DQogICAgICAgIHNlbGYuZml0X2ludGVyY2VwdCA9IGZpdF9pbnRlcmNlcHQNCiAgICAgICAgc2VsZi5sciA9IGxyDQogICAgICAgIHNlbGYubl9pdGVyID0gbl9pdGVyDQogICAgICAgIHNlbGYucmlkZ2UgPSBmbG9hdChyaWRnZSkNCiAgICAgICAgc2VsZi50b2wgPSB0b2wNCiAgICAgICAgc2VsZi5jb2VmXyA9IE5vbmUNCiAgICAgICAgc2VsZi5pbnRlcmNlcHRfID0gMC4wDQoNCiAgICBkZWYgX2F1ZyhzZWxmLCBYKToNCiAgICAgICAgWCA9IG5wLmFzYXJyYXkoWCwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICAgICAgcmV0dXJuIG5wLmhzdGFjayhbbnAub25lcygoWC5zaGFwZVswXSwgMSkpLCBYXSkgaWYgc2VsZi5maXRfaW50ZXJjZXB0IGVsc2UgWA0KDQogICAgZGVmIF9sb3NzKHNlbGYsIHcsIEEsIHkpOg0KICAgICAgICBwID0gX3NpZ21vaWQoQSBAIHcpDQogICAgICAgICMg56iz5a6a5Lqk5Y+J54a1DQogICAgICAgIGxsID0gLXkgKiBucC5sb2cocCArIDFlLTMwMCkgLSAoMSAtIHkpICogbnAubG9nKDEgLSBwICsgMWUtMzAwKQ0KICAgICAgICBsb3NzID0gbGwubWVhbigpDQogICAgICAgIGlmIHNlbGYucmlkZ2UgPiAwOg0KICAgICAgICAgICAgbG9zcyArPSAwLjUgKiBzZWxmLnJpZGdlICogbnAuZG90KHcsIHcpDQogICAgICAgIHJldHVybiBsb3NzDQoNCiAgICBkZWYgX2dyYWQoc2VsZiwgdywgQSwgeSk6DQogICAgICAgIHAgPSBfc2lnbW9pZChBIEAgdykNCiAgICAgICAgZyA9IChBLlQgQCAocCAtIHkpKSAvIGxlbih5KQ0KICAgICAgICBpZiBzZWxmLnJpZGdlID4gMDoNCiAgICAgICAgICAgIGcgKz0gc2VsZi5yaWRnZSAqIHcNCiAgICAgICAgcmV0dXJuIGcNCg0KICAgIGRlZiBmaXQoc2VsZiwgWCwgeSk6DQogICAgICAgIEEgPSBzZWxmLl9hdWcoWCkNCiAgICAgICAgeSA9IG5wLmFzYXJyYXkoeSwgZHR5cGU9bnAuZmxvYXQ2NCkucmF2ZWwoKQ0KICAgICAgICB3ID0gbnAuemVyb3MoQS5zaGFwZVsxXSwgZHR5cGU9bnAuZmxvYXQ2NCkNCiAgICAgICAgaGlzdCA9IFtdDQogICAgICAgIGZvciBfIGluIHJhbmdlKHNlbGYubl9pdGVyKToNCiAgICAgICAgICAgIGcgPSBzZWxmLl9ncmFkKHcsIEEsIHkpDQogICAgICAgICAgICB3ID0gdyAtIHNlbGYubHIgKiBnDQogICAgICAgICAgICBoaXN0LmFwcGVuZChzZWxmLl9sb3NzKHcsIEEsIHkpKQ0KICAgICAgICAgICAgaWYgbnAubGluYWxnLm5vcm0oZykgPCBzZWxmLnRvbDoNCiAgICAgICAgICAgICAgICBicmVhaw0KICAgICAgICBpZiBzZWxmLmZpdF9pbnRlcmNlcHQ6DQogICAgICAgICAgICBzZWxmLmludGVyY2VwdF8gPSBmbG9hdCh3WzBdKQ0KICAgICAgICAgICAgc2VsZi5jb2VmXyA9IHdbMTpdDQogICAgICAgIGVsc2U6DQogICAgICAgICAgICBzZWxmLmNvZWZfID0gdw0KICAgICAgICBzZWxmLl93LCBzZWxmLl9BLCBzZWxmLl95LCBzZWxmLl9sb3NzX2hpc3QgPSB3LCBBLCB5LCBucC5hcnJheShoaXN0KQ0KICAgICAgICByZXR1cm4gc2VsZg0KDQogICAgZGVmIHByZWRpY3RfcHJvYmEoc2VsZiwgWCk6DQogICAgICAgIHJldHVybiBfc2lnbW9pZChzZWxmLl9hdWcoWCkgQCBzZWxmLl93KQ0KDQogICAgZGVmIHByZWRpY3Qoc2VsZiwgWCk6DQogICAgICAgIHJldHVybiAoc2VsZi5wcmVkaWN0X3Byb2JhKFgpID49IDAuNSkuYXN0eXBlKGludCkNCg0KICAgIGRlZiBjaGVja19pbnZhcmlhbnRzKHNlbGYpIC0+IGRpY3Q6DQogICAgICAgIGdjID0gZ3JhZGllbnRfY2hlY2sobGFtYmRhIHc6IHNlbGYuX2xvc3Modywgc2VsZi5fQSwgc2VsZi5feSksDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFtYmRhIHc6IHNlbGYuX2dyYWQodywgc2VsZi5fQSwgc2VsZi5feSksDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5fdykNCiAgICAgICAgbW9ubyA9IGNoZWNrX21vbm90b25lX2RlY3JlYXNlKHNlbGYuX2xvc3NfaGlzdCkNCiAgICAgICAgcmV0dXJuIHsNCiAgICAgICAgICAgICJncmFkaWVudF9jaGVjayI6IGdjLA0KICAgICAgICAgICAgImxvc3NfbW9ub3RvbmUiOiB7InZhbHVlIjogYm9vbChtb25vKSwgInBhc3NlZCI6IGJvb2wobW9ubyl9LA0KICAgICAgICB9DQoNCiAgICBkZWYgY29tcGFyZV9za2xlYXJuKHNlbGYsIFgsIHkpIC0+IGRpY3Q6DQogICAgICAgIGZyb20gc2tsZWFybi5saW5lYXJfbW9kZWwgaW1wb3J0IExvZ2lzdGljUmVncmVzc2lvbiBhcyBTS0xSDQogICAgICAgIHNlbGZfY2xmID0gc2VsZi5wcmVkaWN0KFgpDQogICAgICAgIHNrID0gU0tMUihtYXhfaXRlcj01MDAwLCBDPTFlNiBpZiBzZWxmLnJpZGdlID09IDAgZWxzZSAxLjAgLyBzZWxmLnJpZGdlKQ0KICAgICAgICBzay5maXQoWCwgeS5yYXZlbCgpIGlmIGhhc2F0dHIoeSwgInJhdmVsIikgZWxzZSB5KQ0KICAgICAgICBza19wcmVkID0gc2sucHJlZGljdChYKQ0KICAgICAgICBhY2MgPSBmbG9hdChucC5tZWFuKHNlbGZfY2xmID09IHNrX3ByZWQpKQ0KICAgICAgICByZXR1cm4gew0KICAgICAgICAgICAgInRyYWluX2FncmVlbWVudF92c19za2xlYXJuIjogYWNjLA0KICAgICAgICAgICAgInBhc3NlZCI6IGJvb2woYWNjID49IDAuOTUpLA0KICAgICAgICAgICAgInNrbGVhcm5fYWNjdXJhY3kiOiBmbG9hdChucC5tZWFuKHNrX3ByZWQgPT0gbnAuYXNhcnJheSh5KS5yYXZlbCgpKSksDQogICAgICAgICAgICAib3VyX2FjY3VyYWN5IjogZmxvYXQobnAubWVhbihzZWxmX2NsZiA9PSBucC5hc2FycmF5KHkpLnJhdmVsKCkpKSwNCiAgICAgICAgfQ0K
+"""逻辑回归 —— forge 梯度下降 + logsumexp 数值稳定 + 梯度检验不变量。
+
+不变量：
+  * 梯度检验 maxRelErr ≈ 1e-7（解析梯度 vs 中心差分）
+  * 交叉熵损失随迭代单调非增（凸）
+  * 跨库校验：与 sklearn.LogisticRegression 预测一致率高
+"""
+from __future__ import annotations
+
+import numpy as np
+
+from ..mathx.linalg import logsumexp  # 复用稳定原语
+from ..mathx.optimize import gradient_check, check_monotone_decrease
+
+
+def _sigmoid(z: np.ndarray) -> np.ndarray:
+    z = np.asarray(z, dtype=np.float64)
+    out = np.empty_like(z)
+    pos = z >= 0
+    out[pos] = 1.0 / (1.0 + np.exp(-z[pos]))
+    ez = np.exp(z[~pos])
+    out[~pos] = ez / (1.0 + ez)
+    return out
+
+
+class LogisticRegression:
+    def __init__(self, fit_intercept: bool = True, lr: float = 0.3, n_iter: int = 3000,
+                 ridge: float = 0.0, tol: float = 1e-7):
+        self.fit_intercept = fit_intercept
+        self.lr = lr
+        self.n_iter = n_iter
+        self.ridge = float(ridge)
+        self.tol = tol
+        self.coef_ = None
+        self.intercept_ = 0.0
+
+    def _aug(self, X):
+        X = np.asarray(X, dtype=np.float64)
+        return np.hstack([np.ones((X.shape[0], 1)), X]) if self.fit_intercept else X
+
+    def _loss(self, w, A, y):
+        p = _sigmoid(A @ w)
+        # 稳定交叉熵
+        ll = -y * np.log(p + 1e-300) - (1 - y) * np.log(1 - p + 1e-300)
+        loss = ll.mean()
+        if self.ridge > 0:
+            loss += 0.5 * self.ridge * np.dot(w, w)
+        return loss
+
+    def _grad(self, w, A, y):
+        p = _sigmoid(A @ w)
+        g = (A.T @ (p - y)) / len(y)
+        if self.ridge > 0:
+            g += self.ridge * w
+        return g
+
+    def fit(self, X, y):
+        A = self._aug(X)
+        y = np.asarray(y, dtype=np.float64).ravel()
+        w = np.zeros(A.shape[1], dtype=np.float64)
+        hist = []
+        for _ in range(self.n_iter):
+            g = self._grad(w, A, y)
+            w = w - self.lr * g
+            hist.append(self._loss(w, A, y))
+            if np.linalg.norm(g) < self.tol:
+                break
+        if self.fit_intercept:
+            self.intercept_ = float(w[0])
+            self.coef_ = w[1:]
+        else:
+            self.coef_ = w
+        self._w, self._A, self._y, self._loss_hist = w, A, y, np.array(hist)
+        return self
+
+    def predict_proba(self, X):
+        return _sigmoid(self._aug(X) @ self._w)
+
+    def predict(self, X):
+        return (self.predict_proba(X) >= 0.5).astype(int)
+
+    def check_invariants(self) -> dict:
+        gc = gradient_check(lambda w: self._loss(w, self._A, self._y),
+                            lambda w: self._grad(w, self._A, self._y),
+                            self._w)
+        mono = check_monotone_decrease(self._loss_hist)
+        return {
+            "gradient_check": gc,
+            "loss_monotone": {"value": bool(mono), "passed": bool(mono)},
+        }
+
+    def compare_sklearn(self, X, y) -> dict:
+        from sklearn.linear_model import LogisticRegression as SKLR
+        self_clf = self.predict(X)
+        sk = SKLR(max_iter=5000, C=1e6 if self.ridge == 0 else 1.0 / self.ridge)
+        sk.fit(X, y.ravel() if hasattr(y, "ravel") else y)
+        sk_pred = sk.predict(X)
+        acc = float(np.mean(self_clf == sk_pred))
+        return {
+            "train_agreement_vs_sklearn": acc,
+            "passed": bool(acc >= 0.95),
+            "sklearn_accuracy": float(np.mean(sk_pred == np.asarray(y).ravel())),
+            "our_accuracy": float(np.mean(self_clf == np.asarray(y).ravel())),
+        }

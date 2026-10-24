@@ -1,1 +1,91 @@
-IiIiSy1NZWFucyDigJTigJQgZm9yZ2UgTGxveWQg566X5rOVICsg5LiN5Y+Y6YeP44CCDQoNCuS4jeWPmOmHj++8mg0KICAqIFNTRe+8iOewh+WGheW5s+aWueWSjO+8iemaj+i/reS7o+WNleiwg+mdnuWing0KICAqIOaUtuaVm+WQjuewh+WIhumFjeeos+Wumu+8iOS4jeWPmO+8iQ0KICAqIOi3qOW6k+agoemqjO+8muS4jiBza2xlYXJuLktNZWFucyDlnKjlt7Lnn6UgYmxvYiDkuIogQVJJIOmrmOOAgWluZXJ0aWEg5o6l6L+RDQoiIiINCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMNCg0KaW1wb3J0IG51bXB5IGFzIG5wDQoNCg0KZGVmIF9rbWVhbnNfcGx1c19wbHVzKFgsIGssIHJuZyk6DQogICAgbiA9IFguc2hhcGVbMF0NCiAgICBjZW50ZXJzID0gW1hbcm5nLmludGVnZXJzKG4pXV0NCiAgICBmb3IgXyBpbiByYW5nZSgxLCBrKToNCiAgICAgICAgZDIgPSBucC5taW4oW25wLnN1bSgoWCAtIGMpICoqIDIsIGF4aXM9MSkgZm9yIGMgaW4gY2VudGVyc10sIGF4aXM9MCkNCiAgICAgICAgcHJvYnMgPSBkMiAvIGQyLnN1bSgpDQogICAgICAgIGNlbnRlcnMuYXBwZW5kKFhbcm5nLmNob2ljZShuLCBwPXByb2JzKV0pDQogICAgcmV0dXJuIG5wLmFycmF5KGNlbnRlcnMpDQoNCg0KY2xhc3MgS01lYW5zOg0KICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuX2NsdXN0ZXJzPTMsIG5faXRlcj0zMDAsIHNlZWQ9MCwgdG9sPTFlLTQpOg0KICAgICAgICBzZWxmLm5fY2x1c3RlcnMgPSBuX2NsdXN0ZXJzDQogICAgICAgIHNlbGYubl9pdGVyID0gbl9pdGVyDQogICAgICAgIHNlbGYuc2VlZCA9IHNlZWQNCiAgICAgICAgc2VsZi50b2wgPSB0b2wNCg0KICAgIGRlZiBfYXNzaWduKHNlbGYsIFgsIEMpOg0KICAgICAgICBkID0gbnAubGluYWxnLm5vcm0oWFs6LCBOb25lLCA6XSAtIENbTm9uZSwgOiwgOl0sIGF4aXM9MikNCiAgICAgICAgcmV0dXJuIG5wLmFyZ21pbihkLCBheGlzPTEpDQoNCiAgICBkZWYgZml0KHNlbGYsIFgpOg0KICAgICAgICBYID0gbnAuYXNhcnJheShYLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VsZi5zZWVkKQ0KICAgICAgICBDID0gX2ttZWFuc19wbHVzX3BsdXMoWCwgc2VsZi5uX2NsdXN0ZXJzLCBybmcpDQogICAgICAgIHNlbGYuaW5lcnRpYV9oaXN0XyA9IFtdDQogICAgICAgIGxhYmVscyA9IE5vbmUNCiAgICAgICAgZm9yIF8gaW4gcmFuZ2Uoc2VsZi5uX2l0ZXIpOg0KICAgICAgICAgICAgbGFiZWxzID0gc2VsZi5fYXNzaWduKFgsIEMpDQogICAgICAgICAgICBuZXdDID0gbnAuYXJyYXkoW1hbbGFiZWxzID09IGpdLm1lYW4oYXhpcz0wKSBpZiBucC5hbnkobGFiZWxzID09IGopDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQ1tqXSBmb3IgaiBpbiByYW5nZShzZWxmLm5fY2x1c3RlcnMpXSkNCiAgICAgICAgICAgIHNoaWZ0ID0gbnAubGluYWxnLm5vcm0obmV3QyAtIEMpDQogICAgICAgICAgICBDID0gbmV3Qw0KICAgICAgICAgICAgZCA9IG5wLmxpbmFsZy5ub3JtKFhbOiwgTm9uZSwgOl0gLSBDW05vbmUsIDosIDpdLCBheGlzPTIpDQogICAgICAgICAgICBpbmVydGlhID0gZmxvYXQobnAuc3VtKGRbbnAuYXJhbmdlKGxlbihYKSksIGxhYmVsc10gKiogMikpDQogICAgICAgICAgICBzZWxmLmluZXJ0aWFfaGlzdF8uYXBwZW5kKGluZXJ0aWEpDQogICAgICAgICAgICBpZiBzaGlmdCA8IHNlbGYudG9sOg0KICAgICAgICAgICAgICAgIGJyZWFrDQogICAgICAgIHNlbGYuY2x1c3Rlcl9jZW50ZXJzXyA9IEMNCiAgICAgICAgc2VsZi5sYWJlbHNfID0gbGFiZWxzDQogICAgICAgIHNlbGYuaW5lcnRpYV8gPSBzZWxmLmluZXJ0aWFfaGlzdF9bLTFdDQogICAgICAgIHJldHVybiBzZWxmDQoNCiAgICBkZWYgcHJlZGljdChzZWxmLCBYKToNCiAgICAgICAgcmV0dXJuIHNlbGYuX2Fzc2lnbihucC5hc2FycmF5KFgsIGR0eXBlPW5wLmZsb2F0NjQpLCBzZWxmLmNsdXN0ZXJfY2VudGVyc18pDQoNCiAgICBkZWYgY2hlY2tfaW52YXJpYW50cyhzZWxmKSAtPiBkaWN0Og0KICAgICAgICBoaXN0ID0gbnAuYXJyYXkoc2VsZi5pbmVydGlhX2hpc3RfKQ0KICAgICAgICBtb25vID0gYm9vbChucC5hbGwobnAuZGlmZihoaXN0KSA8PSAxZS04KSkNCiAgICAgICAgcmV0dXJuIHsic3NlX21vbm90b25lX25vbl9pbmNyZWFzaW5nIjogeyJ2YWx1ZSI6IG1vbm8sICJwYXNzZWQiOiBtb25vfSwNCiAgICAgICAgICAgICAgICAiZmluYWxfaW5lcnRpYSI6IHNlbGYuaW5lcnRpYV99DQoNCiAgICBkZWYgY29tcGFyZV9za2xlYXJuKHNlbGYsIFgsIHk9Tm9uZSkgLT4gZGljdDoNCiAgICAgICAgIiIi5LiOIHNjaWtpdC1sZWFybiBLTWVhbnMg5Lqk5Y+J6aqM6K+B44CCDQoNCiAgICAgICAg5Yik5o2u6K+05piOOiBLLU1lYW5zIOaYryoq6Z2e5Ye45LyY5YyWKiosIOS4jeWQjOWIneWni+WMluS8muaUtuaVm+WIsOS4jeWQjOeahOWxgOmDqOacgOS8mCwNCiAgICAgICAg5Zug5q2k44CM5oOv5oCn6YCQ5L2N55u4562J44CN5LiN5piv5q2j56Gu5Yik5o2u44CC5q2j56Gu55qE6Leo5bqT5Yik5o2u5pivDQogICAgICAgICoq57CH57uT5p6E562J5Lu35oCnKiog4oCU4oCUIOeUqOiwg+aVtOWFsOW+t+aMh+aVsCAoQVJJKSDluqbph4/kuKTmrKHliJLliIbnmoTkuIDoh7TmgKcsDQogICAgICAgIOW5tui+heS7peaDr+aAp+ebuOWvueW3ruW8guS4iueVjOOAgg0KICAgICAgICAiIiINCiAgICAgICAgZnJvbSBza2xlYXJuLmNsdXN0ZXIgaW1wb3J0IEtNZWFucyBhcyBTS0tNDQogICAgICAgIGZyb20gc2tsZWFybi5tZXRyaWNzIGltcG9ydCBhZGp1c3RlZF9yYW5kX3Njb3JlDQogICAgICAgIFggPSBucC5hc2FycmF5KFgsIGR0eXBlPW5wLmZsb2F0NjQpDQogICAgICAgIHNrID0gU0tLTShuX2NsdXN0ZXJzPXNlbGYubl9jbHVzdGVycywgbl9pbml0PTEwLCByYW5kb21fc3RhdGU9c2VsZi5zZWVkKS5maXQoWCkNCiAgICAgICAgb3VyID0gc2VsZi5wcmVkaWN0KFgpDQogICAgICAgIGFyaSA9IGZsb2F0KGFkanVzdGVkX3JhbmRfc2NvcmUoc2subGFiZWxzXywgb3VyKSkNCiAgICAgICAgaW5lcnRpYV9yZWwgPSBhYnMoc2VsZi5pbmVydGlhXyAtIHNrLmluZXJ0aWFfKSAvIG1heCgxLjAsIGFicyhzay5pbmVydGlhXykpDQogICAgICAgIHJlcyA9IHsib3VyX2luZXJ0aWEiOiBzZWxmLmluZXJ0aWFfLA0KICAgICAgICAgICAgICAgInNrbGVhcm5faW5lcnRpYSI6IGZsb2F0KHNrLmluZXJ0aWFfKSwNCiAgICAgICAgICAgICAgICJpbmVydGlhX3JlbF9kaWZmIjogaW5lcnRpYV9yZWwsDQogICAgICAgICAgICAgICAiQVJJX3ZzX3NrbGVhcm4iOiBhcml9DQogICAgICAgIGlmIHkgaXMgbm90IE5vbmU6DQogICAgICAgICAgICByZXNbIkFSSV92c190cnVlIl0gPSBmbG9hdChhZGp1c3RlZF9yYW5kX3Njb3JlKHksIG91cikpDQogICAgICAgICAgICByZXNbIkFSSV9za2xlYXJuX3ZzX3RydWUiXSA9IGZsb2F0KGFkanVzdGVkX3JhbmRfc2NvcmUoeSwgc2subGFiZWxzXykpDQogICAgICAgICMg57CH57uT5p6E562J5Lu3IChBUkkg4omlIDAuOSkg5oiWIOaUtuaVm+WIsOetieS7t+ebhuWcsCAo5oOv5oCn55u45a+55beuIDwgMWUtMykg5Y2z6KeG5Li65LiA6Ie044CCDQogICAgICAgICMg5Yik5o2u5LiN6IO955So44CM5oOv5oCn6YCQ5L2N55u4562J44CNOiBLLU1lYW5zIOmdnuWHuCwgc2tsZWFybiDnlKggbl9pbml0PTEwIOWkmumHjeWQr+WPlg0KICAgICAgICAjIOacgOS8mOiAjOacrOWunueOsOWNleasoSBrLW1lYW5zKysg5Yid5aeL5YyWLCDkuozogIXlj6/og73okL3lnKjkuI3lkIzkvYbnrYnku7fnmoTlsYDpg6jmnIDkvJjjgIINCiAgICAgICAgcmVzWyJwYXNzZWQiXSA9IGJvb2woYXJpID49IDAuOSBvciBpbmVydGlhX3JlbCA8IDFlLTMpDQogICAgICAgIHJldHVybiByZXMNCg==
+"""K-Means —— forge Lloyd 算法 + 不变量。
+
+不变量：
+  * SSE（簇内平方和）随迭代单调非增
+  * 收敛后簇分配稳定（不变）
+  * 跨库校验：与 sklearn.KMeans 在已知 blob 上 ARI 高、inertia 接近
+"""
+from __future__ import annotations
+
+import numpy as np
+
+
+def _kmeans_plus_plus(X, k, rng):
+    n = X.shape[0]
+    centers = [X[rng.integers(n)]]
+    for _ in range(1, k):
+        d2 = np.min([np.sum((X - c) ** 2, axis=1) for c in centers], axis=0)
+        probs = d2 / d2.sum()
+        centers.append(X[rng.choice(n, p=probs)])
+    return np.array(centers)
+
+
+class KMeans:
+    def __init__(self, n_clusters=3, n_iter=300, seed=0, tol=1e-4):
+        self.n_clusters = n_clusters
+        self.n_iter = n_iter
+        self.seed = seed
+        self.tol = tol
+
+    def _assign(self, X, C):
+        d = np.linalg.norm(X[:, None, :] - C[None, :, :], axis=2)
+        return np.argmin(d, axis=1)
+
+    def fit(self, X):
+        X = np.asarray(X, dtype=np.float64)
+        rng = np.random.default_rng(self.seed)
+        C = _kmeans_plus_plus(X, self.n_clusters, rng)
+        self.inertia_hist_ = []
+        labels = None
+        for _ in range(self.n_iter):
+            labels = self._assign(X, C)
+            newC = np.array([X[labels == j].mean(axis=0) if np.any(labels == j)
+                             else C[j] for j in range(self.n_clusters)])
+            shift = np.linalg.norm(newC - C)
+            C = newC
+            d = np.linalg.norm(X[:, None, :] - C[None, :, :], axis=2)
+            inertia = float(np.sum(d[np.arange(len(X)), labels] ** 2))
+            self.inertia_hist_.append(inertia)
+            if shift < self.tol:
+                break
+        self.cluster_centers_ = C
+        self.labels_ = labels
+        self.inertia_ = self.inertia_hist_[-1]
+        return self
+
+    def predict(self, X):
+        return self._assign(np.asarray(X, dtype=np.float64), self.cluster_centers_)
+
+    def check_invariants(self) -> dict:
+        hist = np.array(self.inertia_hist_)
+        mono = bool(np.all(np.diff(hist) <= 1e-8))
+        return {"sse_monotone_non_increasing": {"value": mono, "passed": mono},
+                "final_inertia": self.inertia_}
+
+    def compare_sklearn(self, X, y=None) -> dict:
+        """与 scikit-learn KMeans 交叉验证。
+
+        判据说明: K-Means 是**非凸优化**, 不同初始化会收敛到不同的局部最优,
+        因此「惯性逐位相等」不是正确判据。正确的跨库判据是
+        **簇结构等价性** —— 用调整兰德指数 (ARI) 度量两次划分的一致性,
+        并辅以惯性相对差异上界。
+        """
+        from sklearn.cluster import KMeans as SKKM
+        from sklearn.metrics import adjusted_rand_score
+        X = np.asarray(X, dtype=np.float64)
+        sk = SKKM(n_clusters=self.n_clusters, n_init=10, random_state=self.seed).fit(X)
+        our = self.predict(X)
+        ari = float(adjusted_rand_score(sk.labels_, our))
+        inertia_rel = abs(self.inertia_ - sk.inertia_) / max(1.0, abs(sk.inertia_))
+        res = {"our_inertia": self.inertia_,
+               "sklearn_inertia": float(sk.inertia_),
+               "inertia_rel_diff": inertia_rel,
+               "ARI_vs_sklearn": ari}
+        if y is not None:
+            res["ARI_vs_true"] = float(adjusted_rand_score(y, our))
+            res["ARI_sklearn_vs_true"] = float(adjusted_rand_score(y, sk.labels_))
+        # 簇结构等价 (ARI ≥ 0.9) 或 收敛到等价盆地 (惯性相对差 < 1e-3) 即视为一致。
+        # 判据不能用「惯性逐位相等」: K-Means 非凸, sklearn 用 n_init=10 多重启取
+        # 最优而本实现单次 k-means++ 初始化, 二者可能落在不同但等价的局部最优。
+        res["passed"] = bool(ari >= 0.9 or inertia_rel < 1e-3)
+        return res

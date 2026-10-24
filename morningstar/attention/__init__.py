@@ -1,1 +1,387 @@
-IiIiTDEwIOazqOaEj+WKm+WutuaXjyDigJTigJQg57uf5LiA5o6l5Y+j5LiL55qE5aSa56eN5rOo5oSP5Yqb5a6e546w77yI5ZCrIFMg57qn6Lev55SxIHJvdXRlcu+8ieOAggoK5pys5bGC55u05o6l6ZuG5oiQICoq5bey5ZyoIGVmZmF0dG5mb3JnZSDkuK3pgJrov4cgUyDnuqflm5vpgZMgZ2F0ZXMg6K+E5a6h55qE5rOo5oSP5Yqb5a6e546wKioK77yIRWZmQXR0bkZvcmdlIOWfuuWHhjogRzEg5L+d55yf5bqmIC8gRzIg5qOA57SiIC8gRzMg5oiQ5pysIC8gRzQg5q+U54m557qn56Gu5a6a5oCn77yJ77yMCuW5tuaKiuWug+S7rOS4jiBMMTEg55qEIEZsYXNoQXR0ZW50aW9uLTIg5pS25oui5Yiw5ZCM5LiA5aWX5Y2P6K6u5LiL44CCCgrnu5/kuIDor63kuYk6IGBgYXR0ZW5kKHEsIGssIHYpIC0+IEF0dGVudGlvbk91dHB1dGBg77yMc2NvcmUg6LaK5aSn5rOo5oSP5Yqb6LSo6YeP6LaK6auY77yMCuayvyBrZXkg6L20IHNvZnRtYXgg5b2S5LiA5YyWIOKAlOKAlCDkv53or4Hot6jlj5jkvZPor4TmtYvlhazlubPjgIIKCuS4lueVjOe6p+WHuuWkhCAo6K+m6KeBIGRvY3MvUkVGRVJFTkNFUy5tZCk6CgogIGZ1bGwgICAgICAgICAgOiBWYXN3YW5pIGV0IGFsLiAyMDE3ICjnsr7noa4gTyhUwrJkKSDkuIrnlYzlj4LnhacpCiAgZmxhc2ggICAgICAgICA6IERhbyAyMDIzIEZsYXNoQXR0ZW50aW9uLTIgKOeyvuehruS9hiBPKFTCt2QpIOWGheWtmCkKICBsaW5lYXIgICAgICAgIDogS2F0aGFyb3BvdWxvcyBldCBhbC4gMjAyMCAoTyhUZMKyKSDmoLjljJbnur/mgKfms6jmhI/lipspCiAgcGVyZm9ybWVyICAgICA6IENob3JvbWFuc2tpIGV0IGFsLiAyMDIwIEZBVk9SKyAoTyhUZG0pIOaXoOWBj+maj+acuueJueW+gSkKICBsb2NhbF93aW5kb3cgIDogQmVsdGFneSBldCBhbC4gMjAyMCBMb25nZm9ybWVyIOW8j+a7keeqlyAoTyhUd2QpKQogIGJsb2NrX3NwYXJzZSAgOiBDaGlsZCBldCBhbC4gMjAxOSBTcGFyc2UgVHJhbnNmb3JtZXJzIOWdl+eKtueogOeWjyAoTyhUYmQpKQogIGVmZmF0dG5mdXNlICAgOiDplb/luqboh6rpgILlupQgcm91dGVyIOKAlOKAlCBUIOKJpCDpmIjlgLzotbDnsr7noa7vvIzplb/luo/liJfotbAgUGVyZm9ybWVy77yMCiAgICAgICAgICAgICAgICAgIOW5tueUqCoq6KeC5rWL5Yiw55qEKirkv53nnJ/luqblgZrotKjph4/lrojljasgKEVmZkF0dG5Gb3JnZSDml5foiLDotKHnjK4pCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgbWF0aAppbXBvcnQgdGltZQpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBQcm90b2NvbCwgcnVudGltZV9jaGVja2FibGUKCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSAuLmZsYXNoLmF0dGVudGlvbiBpbXBvcnQgZmxhc2hfYXR0ZW50aW9uX2ZvcndhcmQsIG5haXZlX2F0dGVudGlvbl9mb3J3YXJkCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSB0eXBlcwpAZGF0YWNsYXNzCmNsYXNzIEF0dGVudGlvbk91dHB1dDoKICAgICIiIuazqOaEj+WKm+i+k+WHuuWuueWZqO+8iOa6kOiHqiBFZmZBdHRuRm9yZ2UgY29yZS90eXBlcy5wee+8ieOAgiIiIgoKICAgIG91dHB1dDogbnAubmRhcnJheSAgICAgICAgICAgICMgKFQsIGQpIOi+k+WHugogICAgd2VpZ2h0czogbnAubmRhcnJheSB8IE5vbmUgICAgIyDnianljJbnmoQgKFQsIFQpIOazqOaEj+WKm+efqemYte+8m+mdnueJqeWMluWPmOS9k+S4uiBOb25lCiAgICBjb3N0X3M6IGZsb2F0ICAgICAgICAgICAgICAgICAjIOacrOasoeWJjeWQkeWimemSn+enkuaVsAogICAgbWVtX3BlYWtfbWI6IGZsb2F0ICAgICAgICAgICAgIyDls7DlgLzpop3lpJblhoXlrZggKE1CKQogICAgdmFyaWFudDogc3RyICAgICAgICAgICAgICAgICAgIyDlrp7njrDlkI0KCiAgICBkZWYgX19wb3N0X2luaXRfXyhzZWxmKSAtPiBOb25lOgogICAgICAgIGlmIHNlbGYubWVtX3BlYWtfbWIgPCAwOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJtZW1fcGVha19tYiDkuI3og73kuLrotJ8iKQoKCkBydW50aW1lX2NoZWNrYWJsZQpjbGFzcyBBdHRlbnRpb25NZWNoYW5pc20oUHJvdG9jb2wpOgogICAgIiIi5rOo5oSP5Yqb5Y+Y5L2T5Y2P6K6u77yI5rqQ6IeqIEVmZkF0dG5Gb3JnZSBjb3JlL2ludGVyZmFjZXMucHnvvInjgIIiIiIKCiAgICBuYW1lOiBzdHIKCiAgICBkZWYgYXR0ZW5kKHNlbGYsIHE6IG5wLm5kYXJyYXksIGs6IG5wLm5kYXJyYXksIHY6IG5wLm5kYXJyYXkpIC0+IEF0dGVudGlvbk91dHB1dDogLi4uCiAgICBkZWYgdGhlb3JldGljYWxfY29tcGxleGl0eShzZWxmLCBUOiBpbnQsIGQ6IGludCkgLT4gc3RyOiAuLi4KCgpkZWYgX21iKG5ieXRlczogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIi5a2X6IqCIOKGkiBNQuOAgiIiIgogICAgcmV0dXJuIG5ieXRlcyAvICgxMDI0LjAgKiAxMDI0LjApCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gdmFyaWFudHMKY2xhc3MgRnVsbEF0dGVudGlvbjoKICAgICIiIueyvuehriBmdWxsIHNvZnRtYXgg5rOo5oSP5YqbIOKAlOKAlCDmiYDmnInov5HkvLznmoTpu4Tph5HkuIrnlYzlj4LnhafjgIIiIiIKCiAgICBuYW1lID0gImZ1bGwiCgogICAgZGVmIGF0dGVuZChzZWxmLCBxOiBucC5uZGFycmF5LCBrOiBucC5uZGFycmF5LCB2OiBucC5uZGFycmF5KSAtPiBBdHRlbnRpb25PdXRwdXQ6CiAgICAgICAgVCwgZCA9IHEuc2hhcGUKICAgICAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICBvdXQsIHcgPSBuYWl2ZV9hdHRlbnRpb25fZm9yd2FyZChxLCBrLCB2LCBtYXNrPSJub25lIiwgcmV0dXJuX3dlaWdodHM9VHJ1ZSkKICAgICAgICBjb3N0ID0gdGltZS5wZXJmX2NvdW50ZXIoKSAtIHQwCiAgICAgICAgcmV0dXJuIEF0dGVudGlvbk91dHB1dChvdXQsIHcsIGNvc3QsIF9tYigyICogVCAqIFQgKiA4ICsgVCAqIGQgKiA4KSwgc2VsZi5uYW1lKQoKICAgIGRlZiB0aGVvcmV0aWNhbF9jb21wbGV4aXR5KHNlbGYsIFQ6IGludCwgZDogaW50KSAtPiBzdHI6CiAgICAgICAgcmV0dXJuICJPKFReMiBkKSBbZXhhY3RdIgoKCmNsYXNzIEZsYXNoQXR0ZW50aW9uOgogICAgIiIiRmxhc2hBdHRlbnRpb24tMiDigJTigJQg5LiOIGZ1bGwgKirmlbDlgLznrYnku7cqKu+8jOS9huWGheWtmCBPKFTCt2QpIOiAjOmdniBPKFTCsinjgIIiIiIKCiAgICBuYW1lID0gImZsYXNoIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBibG9ja19xOiBpbnQgPSA2NCwgYmxvY2tfazogaW50ID0gNjQpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5ibG9ja19xID0gaW50KGJsb2NrX3EpCiAgICAgICAgc2VsZi5ibG9ja19rID0gaW50KGJsb2NrX2spCgogICAgZGVmIGF0dGVuZChzZWxmLCBxOiBucC5uZGFycmF5LCBrOiBucC5uZGFycmF5LCB2OiBucC5uZGFycmF5KSAtPiBBdHRlbnRpb25PdXRwdXQ6CiAgICAgICAgVCwgZCA9IHEuc2hhcGUKICAgICAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICBvdXQsIF8sIG5ieXRlcyA9IGZsYXNoX2F0dGVudGlvbl9mb3J3YXJkKAogICAgICAgICAgICBxLCBrLCB2LCBtYXNrPSJub25lIiwgYmxvY2tfcT1zZWxmLmJsb2NrX3EsIGJsb2NrX2s9c2VsZi5ibG9ja19rCiAgICAgICAgKQogICAgICAgIGNvc3QgPSB0aW1lLnBlcmZfY291bnRlcigpIC0gdDAKICAgICAgICByZXR1cm4gQXR0ZW50aW9uT3V0cHV0KG91dCwgTm9uZSwgY29zdCwgX21iKG5ieXRlcyksIHNlbGYubmFtZSkKCiAgICBkZWYgdGhlb3JldGljYWxfY29tcGxleGl0eShzZWxmLCBUOiBpbnQsIGQ6IGludCkgLT4gc3RyOgogICAgICAgIHJldHVybiBmIk8oVF4yIGQpIHRpbWUgLyBPKFQgZCkgbWVtb3J5IFticT17c2VsZi5ibG9ja19xfSwgYms9e3NlbGYuYmxvY2tfa31dIgoKCmNsYXNzIExpbmVhckF0dGVudGlvbjoKICAgICIiIuaguOWMlue6v+aAp+azqOaEj+WKmyAoS2F0aGFyb3BvdWxvcyBldCBhbC4gMjAyMCk6IGBgb3V0X3QgPSDPhihxX3Qp4bWAUyAvIM+GKHFfdCnhtYB6YGDjgIIiIiIKCiAgICBuYW1lID0gImxpbmVhciIKCiAgICBkZWYgYXR0ZW5kKHNlbGYsIHE6IG5wLm5kYXJyYXksIGs6IG5wLm5kYXJyYXksIHY6IG5wLm5kYXJyYXkpIC0+IEF0dGVudGlvbk91dHB1dDoKICAgICAgICBULCBkID0gcS5zaGFwZQogICAgICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgICAgIGtmLCBxZiA9IF9waGkoayksIF9waGkocSkKICAgICAgICBTID0ga2YuVCBAIHYgICAgICAgICAgICAgICMgKGQsIGQpCiAgICAgICAgeiA9IGtmLnN1bShheGlzPTApICAgICAgICAjIChkLCkKICAgICAgICBudW0gPSBxZiBAIFMKICAgICAgICBkZW4gPSBxZiBAIHoKICAgICAgICBzYWZlID0gbnAud2hlcmUobnAuYWJzKGRlbikgPCAxZS0xMiwgMS4wLCBkZW4pCiAgICAgICAgb3V0ID0gbnVtIC8gc2FmZVs6LCBOb25lXQogICAgICAgIGNvc3QgPSB0aW1lLnBlcmZfY291bnRlcigpIC0gdDAKICAgICAgICByZXR1cm4gQXR0ZW50aW9uT3V0cHV0KG91dCwgTm9uZSwgY29zdCwgX21iKDIgKiBUICogZCAqIDggKyBkICogZCAqIDgpLCBzZWxmLm5hbWUpCgogICAgZGVmIHRoZW9yZXRpY2FsX2NvbXBsZXhpdHkoc2VsZiwgVDogaW50LCBkOiBpbnQpIC0+IHN0cjoKICAgICAgICByZXR1cm4gIk8oVCBkXjIpIgoKCmNsYXNzIFBlcmZvcm1lckF0dGVudGlvbjoKICAgICIiIlBlcmZvcm1lciAvIEZBVk9SKyAoQ2hvcm9tYW5za2kgZXQgYWwuIDIwMjApOiBPKFQgZCBtKe+8jOS4jeeJqeWMliBUw5dU44CCCgogICAgKirlrp7njrDopoHngrnvvIjmnKzku5PlupPln7rkuo4gRkFWT1IrIOiuuuaWhyAoYXJYaXY6MjAwOS4xNDc5NCkg6YeN5qCH5a6a77yM5LiO5Y6f5aeLCiAgICBFZmZBdHRuRm9yZ2Ug5a6e546w5pyJ5pys6LSo5beu5byCIOKAlOKAlCDlkI7ogIXnmoTmoLjmoIflrprmmK/plJnnmoTvvIkqKjoKCiAgICAxLiAqKuaguOagh+WumioqOiDnm67moIfmmK8gc29mdG1heCDnmoQgYGBleHAoccK3ay/iiJpkKWBg44CC5LukIGBgeCA9IHEvZF57MS80fWBg44CBCiAgICAgICBgYHkgPSBrL2ReezEvNH1gYO+8jOWImSBgYHjCt3kgPSBxwrdrL+KImmRgYO+8jOebruagh+aguOWMluS4uiBgYGV4cCh4wrd5KWBg44CCCgogICAgMi4gKirkuInop5Lpmo/mnLrnibnlvoEqKjog55SxIGBgRV/PiVtjb3Moz4nCt3opXSA9IGV4cCjiiJLigJZ64oCWwrIvMilgYO+8iM+Jfk4oMCxJKe+8ieS4jgogICAgICAgYGBleHAoeMK3eSkgPSBleHAo4oCWeOKAlsKyLzIpZXhwKOKAlnnigJbCsi8yKWV4cCjiiJLigJZ44oiSeeKAlsKyLzIpYGDvvIzmnoTpgKAKCiAgICAgICAgICAgYGDPhih4KSA9IGV4cCjPg+KAlnjigJbCsi8yKS/iiJptIMK3IFtzaW4oz4lfasK3eCtiX2opLCBjb3Moz4lfasK3eCtiX2opXV97aj0xLi5tfWBgCgogICAgICAg5YW25LitIGBgz4MgPSDCsTFgYCDkuLrojIPmlbDlm6DlrZDnmoTnrKblj7fjgIIqKlEg5LiOIEsg5b+F6aG75YWx5Lqr5ZCM5LiA57uEICjPiSwgYikqKuOAggoKICAgIDMuICoq6Z2e5a+556ew6IyD5pWw5Zug5a2Q77yI5pys5a6e546w55qE5YWz6ZSu5L+u5q2j77yJKio6IOWPliBRdWVyeSDnlKggYGDPgz3iiJIxYGDjgIEKICAgICAgIEtleSDnlKggYGDPgz0rMWBg77yM5YiZCgogICAgICAgICAgIGBgRVvPhl9xKHFfaSnCt8+GX2soa19qKV0gPSBleHAoeF9pwrd5X2og4oiSIOKAlnhfaeKAlsKyKWBgCgogICAgICAg5YW25LitIGBgZXhwKOKIkuKAlnhfaeKAlsKyKWBgIOWvueWQjOS4gOihjOeahOaJgOaciSBqIOaYr+W4uOaVsO+8jCoq5ZyoIHNvZnRtYXgg5q+U5YC8CiAgICAgICAo5YiG5a2QL+WIhuavjSkg5Lit57K+56Gu5oq15raIKiog4oeSIOS8sOiuoemHj+WvueazqOaEj+WKm+i+k+WHuioq5peg5YGPKirjgIIKICAgICAgIOiLpeS4pOS+p+WQjOWPtygrLysg5oiWIOKIki/iiJIp77yM5YiZ5Lya5Ye6546w6ZqPIOKAlmtfauKAlsKyIOWPmOWMlueahOmdnuaBkuWumuWboOWtkO+8jAogICAgICAg5Zyo5YiG5q+N5Lit5byV5YWl57O757uf5oCn5YGP5YCaIOKAlOKAlCDov5nmraPmmK/ljp/lp4sgRWZmQXR0bkZvcmdlIOWunueOsOeahOe8uumZt+OAggoKICAgIDQuICoq6L6T5YWl6IyD5pWw5pWP5oSf5oCn77yI5bey5a6e5rWL77yJKio6IOiMg+aVsOWboOWtkCBgYGV4cCjPg+KAlnjigJbCsi8yKWBgIOS8muaKigogICAgICAg6ZqP5py654m55b6B5Lyw6K6h55qE5pa55beu5pS+5aSnIGBgZXhwKM+D4oCWeOKAlsKyKWBgIOWAjeOAguW9kyBgYOKAlnHigJbCsiB+IGRgYO+8iOWOn+WniwogICAgICAgTigwLDEpIOi+k+WFpe+8ieaXtu+8jGQ9MzIg5LiL55u45a+5IEZyb2Jlbml1cyDor6/lt67lj6/ovr4gKip+MTgqKu+8iOS4jeWPr+eUqO+8ie+8mwogICAgICAg5b2TIGBg4oCWceKAlsKyL2ReezEvMn0gfiBPKDEpYGDvvIjljbPnnJ/lrp4gVHJhbnNmb3JtZXIg5Lit57uPIFJNU05vcm0gKwogICAgICAg5oqV5b2x5ZCO6IyD5pWw5Y+X5o6n55qEIFEvS++8ieaXtu+8jOivr+W3rumZjeiHsyAqKn4wLjAwMyoq44CCCiAgICAgICDih5Ig5pys5qih5Z2X55qE5L+d55yf5bqm5LiO6L6T5YWl6IyD5pWw5by655u45YWz77yM5L2/55So5pe26aG75L+d6K+BIFEvSyDlt7LlvZLkuIDljJbjgIIKICAgICIiIgoKICAgIG5hbWUgPSAicGVyZm9ybWVyIgoKICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgIG06IGludCA9IDI1NiwKICAgICAgICBzYWx0OiBpbnQgPSA3Nzc3LAogICAgICAgIHNlZWQ6IGludCB8IE5vbmUgPSBOb25lLAogICAgICAgIG9ydGhvZ29uYWw6IGJvb2wgPSBGYWxzZSwKICAgICkgLT4gTm9uZToKICAgICAgICBzZWxmLm0gPSBpbnQobSkKICAgICAgICBzZWxmLnNhbHQgPSBpbnQoc2FsdCkKICAgICAgICBzZWxmLnNlZWQgPSBzZWVkCiAgICAgICAgIyBPUkYgKOato+S6pOmaj+acuueJueW+gSkg6K665paHIMKnMyDnmoTmlrnlt67nvKnlh4/mioDmnK/jgILmnKzku5PlupPlrp7mtYvvvJrlnKjlj5fmjqfovpPlhaXkuIsKICAgICAgICAjIOWdl+aLvOaOpeeahOato+S6pOWfuuWPjeiAjOS9v+S/neecn+W6puWPmOW3ru+8iOWdl+mXtOS4jeato+S6pCArIOavj+WIhumHj+aWueW3rumcgCDiiJpkIOmHjeagh+Wumu+8ie+8jAogICAgICAgICMg5pWF6buY6K6k5YWz6Zet77yb5L+d55WZ5byA5YWz5Lul5L6b5a+554Wn5a6e6aqM44CCCiAgICAgICAgc2VsZi5vcnRob2dvbmFsID0gYm9vbChvcnRob2dvbmFsKQoKICAgIGRlZiBfc2FtcGxlKHNlbGYsIGQ6IGludCkgLT4gdHVwbGVbbnAubmRhcnJheSwgbnAubmRhcnJheV06CiAgICAgICAgZnJvbSAuLmZsYXNoLnJhbmRvbSBpbXBvcnQgU0FMVF9CRU5DSCwgcm5nX2ZvcgoKICAgICAgICBybmcgPSBybmdfZm9yKFNBTFRfQkVOQ0ggXiBzZWxmLnNhbHQsIHNlbGYuc2VlZCkKICAgICAgICBtID0gc2VsZi5tCiAgICAgICAgaWYgc2VsZi5vcnRob2dvbmFsOgogICAgICAgICAgICAjIE9SRjog5YiG5Z2X55Sf5oiQ5q2j5Lqk5Z+65bm25LmYIOKImmQg5oGi5aSNIEZBVk9SKyDnmoQgz4l+TigwLEkpIOagh+WumuOAggogICAgICAgICAgICBuX2Jsb2NrcyA9IChtICsgZCAtIDEpIC8vIGQKICAgICAgICAgICAgYmxvY2tzID0gW10KICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2Uobl9ibG9ja3MpOgogICAgICAgICAgICAgICAgUSwgXyA9IG5wLmxpbmFsZy5xcihybmcuc3RhbmRhcmRfbm9ybWFsKChkLCBkKSkpCiAgICAgICAgICAgICAgICBibG9ja3MuYXBwZW5kKFEuVCAqIG5wLnNxcnQoZCkpCiAgICAgICAgICAgIFcgPSBucC5jb25jYXRlbmF0ZShibG9ja3MsIGF4aXM9MClbOm1dCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBpaWQg6auY5pav54m55b6BOiDmr4/kuKrliIbph4/mlrnlt67kuLogMSDih5Igz4nCt3ogfiBOKDAs4oCWeuKAlsKyKe+8jAogICAgICAgICAgICAjIOS7juiAjCBFW2NvcyjPicK3eildID0gZXhwKOKIkuKAlnrigJbCsi8yKSDnsr7noa7miJDnq4vjgIIKICAgICAgICAgICAgVyA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoKG0sIGQpKQogICAgICAgIGIgPSBybmcudW5pZm9ybSgwLjAsIDIuMCAqIG5wLnBpLCBzaXplPW0pCiAgICAgICAgcmV0dXJuIFcsIGIKCiAgICBkZWYgX2ZlYXR1cmVzKAogICAgICAgIHNlbGYsIHg6IG5wLm5kYXJyYXksIFc6IG5wLm5kYXJyYXksIGI6IG5wLm5kYXJyYXksIG5vcm1fc2lnbjogZmxvYXQgPSAtMS4wCiAgICApIC0+IG5wLm5kYXJyYXk6CiAgICAgICAgIiIiRkFWT1IrIOS4ieinkumaj+acuueJueW+geaYoOWwhOOAggoKICAgICAgICBBcmdzOgogICAgICAgICAgICB4OiAgICAgICAgICAoVCwgZCkg6L6T5YWl5ZCR6YeP44CCCiAgICAgICAgICAgIFcsIGI6ICAgICAgIOWFseS6q+eahOmaj+acuueJueW+geWPguaVsCAobSwgZCkg5LiOIChtLCnjgIIKICAgICAgICAgICAgbm9ybV9zaWduOiAg6IyD5pWw5Zug5a2Q56ym5Y+3IM+DIOKIiCB74oiSMSwgKzF977ybUXVlcnkg55SoIOKIkjHjgIFLZXkg55SoICsx44CCCgogICAgICAgIFJldHVybnM6CiAgICAgICAgICAgIChULCAybSkg54m55b6B55+p6Zi144CCCiAgICAgICAgIiIiCiAgICAgICAgZCA9IHguc2hhcGVbLTFdCiAgICAgICAgeHMgPSB4IC8gKGQgKiogMC4yNSkgICAgICAgICAgICAgICAgICAgICAgIyBkXnviiJIxLzR9OiDkvb8geMK3eSA9IHHCt2sv4oiaZAogICAgICAgIG5vcm0gPSBucC5leHAobm9ybV9zaWduICogMC41ICogbnAuc3VtKHhzICogeHMsIGF4aXM9LTEpKQogICAgICAgIHByb2ogPSB4cyBAIFcuVCArIGIKICAgICAgICBmZWF0cyA9IG5wLmNvbmNhdGVuYXRlKFtucC5zaW4ocHJvaiksIG5wLmNvcyhwcm9qKV0sIGF4aXM9LTEpCiAgICAgICAgcmV0dXJuIChub3JtIC8gbnAuc3FydChzZWxmLm0pKVs6LCBOb25lXSAqIGZlYXRzCgogICAgZGVmIGF0dGVuZChzZWxmLCBxOiBucC5uZGFycmF5LCBrOiBucC5uZGFycmF5LCB2OiBucC5uZGFycmF5KSAtPiBBdHRlbnRpb25PdXRwdXQ6CiAgICAgICAgVCwgZCA9IHEuc2hhcGUKICAgICAgICBXLCBiID0gc2VsZi5fc2FtcGxlKGQpCiAgICAgICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICAgICAgIyDpnZ7lr7nnp7DojIPmlbDlm6DlrZAg4oeSIOWIhuWtkC/liIbmr43mr5TlgLzml6DlgY/vvIjop4HnsbvmlofmoaPnrKwgMyDngrnvvIkKICAgICAgICBwaGlfcSA9IHNlbGYuX2ZlYXR1cmVzKHEsIFcsIGIsIG5vcm1fc2lnbj0tMS4wKQogICAgICAgIHBoaV9rID0gc2VsZi5fZmVhdHVyZXMoaywgVywgYiwgbm9ybV9zaWduPSsxLjApCiAgICAgICAga3YgPSBwaGlfay5UIEAgdgogICAgICAgIHogPSBwaGlfay5zdW0oYXhpcz0wKQogICAgICAgIG51bSA9IHBoaV9xIEAga3YKICAgICAgICBkZW4gPSBwaGlfcSBAIHoKICAgICAgICBzYWZlID0gbnAud2hlcmUobnAuYWJzKGRlbikgPCAxZS0xMiwgMS4wLCBkZW4pCiAgICAgICAgb3V0ID0gbnVtIC8gc2FmZVs6LCBOb25lXQogICAgICAgIGNvc3QgPSB0aW1lLnBlcmZfY291bnRlcigpIC0gdDAKICAgICAgICByZXR1cm4gQXR0ZW50aW9uT3V0cHV0KAogICAgICAgICAgICBvdXQsIE5vbmUsIGNvc3QsIF9tYigyICogVCAqIDIgKiBzZWxmLm0gKiA4ICsgMiAqIHNlbGYubSAqIGQgKiA4KSwgc2VsZi5uYW1lCiAgICAgICAgKQoKICAgIGRlZiB0aGVvcmV0aWNhbF9jb21wbGV4aXR5KHNlbGYsIFQ6IGludCwgZDogaW50KSAtPiBzdHI6CiAgICAgICAgcmV0dXJuIGYiTyhUIGQgbSkgW209e3NlbGYubX1dIgoKCmNsYXNzIExvY2FsV2luZG93QXR0ZW50aW9uOgogICAgIiIi5ruR56qX5rOo5oSP5YqbIChMb25nZm9ybWVyIOW8jywgQmVsdGFneSBldCBhbC4gMjAyMCk6IOavjyBxdWVyeSDlj6rnnIsgW2niiJJ3LCBpK3dd44CCIiIiCgogICAgbmFtZSA9ICJsb2NhbF93aW5kb3ciCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHdpbmRvdzogaW50ID0gMzIpIC0+IE5vbmU6CiAgICAgICAgc2VsZi53aW5kb3cgPSBpbnQod2luZG93KQoKICAgIGRlZiBhdHRlbmQoc2VsZiwgcTogbnAubmRhcnJheSwgazogbnAubmRhcnJheSwgdjogbnAubmRhcnJheSkgLT4gQXR0ZW50aW9uT3V0cHV0OgogICAgICAgIFQsIGQgPSBxLnNoYXBlCiAgICAgICAgdyA9IHNlbGYud2luZG93CiAgICAgICAgb3V0ID0gbnAuZW1wdHkoKFQsIGQpLCBkdHlwZT1ucC5mbG9hdDY0KQogICAgICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgICAgIHNjYWxlID0gMS4wIC8gbWF0aC5zcXJ0KGQpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoVCk6CiAgICAgICAgICAgIGxvLCBoaSA9IG1heCgwLCBpIC0gdyksIG1pbihULCBpICsgdyArIDEpCiAgICAgICAgICAgIHMgPSAocVtpXSBAIGtbbG86aGldLlQpICogc2NhbGUKICAgICAgICAgICAgcyA9IHMgLSBzLm1heCgpCiAgICAgICAgICAgIGUgPSBucC5leHAocykKICAgICAgICAgICAgb3V0W2ldID0gKGUgLyBlLnN1bSgpKSBAIHZbbG86aGldCiAgICAgICAgY29zdCA9IHRpbWUucGVyZl9jb3VudGVyKCkgLSB0MAogICAgICAgIHJldHVybiBBdHRlbnRpb25PdXRwdXQob3V0LCBOb25lLCBjb3N0LCBfbWIoKDIgKiB3ICsgMSkgKiBkICogOCksIHNlbGYubmFtZSkKCiAgICBkZWYgdGhlb3JldGljYWxfY29tcGxleGl0eShzZWxmLCBUOiBpbnQsIGQ6IGludCkgLT4gc3RyOgogICAgICAgIHJldHVybiBmIk8oVCB3IGQpIFt3PXtzZWxmLndpbmRvd31dIgoKCmNsYXNzIEJsb2NrU3BhcnNlQXR0ZW50aW9uOgogICAgIiIi5Z2X54q256iA55aPICsg5YWo5bGAIHRva2VuIChDaGlsZCBldCBhbC4gMjAxOSBTcGFyc2UgVHJhbnNmb3JtZXJzKeOAgiIiIgoKICAgIG5hbWUgPSAiYmxvY2tfc3BhcnNlIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBibG9ja19zaXplOiBpbnQgPSA2NCwgbl9nbG9iYWw6IGludCA9IDgpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5ibG9ja19zaXplID0gaW50KGJsb2NrX3NpemUpCiAgICAgICAgc2VsZi5uX2dsb2JhbCA9IGludChuX2dsb2JhbCkKCiAgICBkZWYgYXR0ZW5kKHNlbGYsIHE6IG5wLm5kYXJyYXksIGs6IG5wLm5kYXJyYXksIHY6IG5wLm5kYXJyYXkpIC0+IEF0dGVudGlvbk91dHB1dDoKICAgICAgICBULCBkID0gcS5zaGFwZQogICAgICAgIGIsIG5nID0gc2VsZi5ibG9ja19zaXplLCBtaW4oc2VsZi5uX2dsb2JhbCwgVCkKICAgICAgICBuX2Jsb2NrcyA9IG1heCgxLCAtKC1UIC8vIGIpKQogICAgICAgIG91dCA9IG5wLmVtcHR5KChULCBkKSwgZHR5cGU9bnAuZmxvYXQ2NCkKICAgICAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICBzY2FsZSA9IDEuMCAvIG1hdGguc3FydChkKQogICAgICAgIGZvciBiaSBpbiByYW5nZShuX2Jsb2Nrcyk6CiAgICAgICAgICAgIHFzLCBxZSA9IGJpICogYiwgbWluKFQsIChiaSArIDEpICogYikKICAgICAgICAgICAgaWR4ID0gW25wLmFyYW5nZShuZyldCiAgICAgICAgICAgIGZvciBiaiBpbiAoYmkgLSAxLCBiaSwgYmkgKyAxKToKICAgICAgICAgICAgICAgIGlmIDAgPD0gYmogPCBuX2Jsb2NrczoKICAgICAgICAgICAgICAgICAgICBpZHguYXBwZW5kKG5wLmFyYW5nZShiaiAqIGIsIG1pbihULCAoYmogKyAxKSAqIGIpKSkKICAgICAgICAgICAgYWxsb3dlZCA9IG5wLnVuaXF1ZShucC5jb25jYXRlbmF0ZShpZHgpKQogICAgICAgICAgICBzID0gKHFbcXM6cWVdIEAga1thbGxvd2VkXS5UKSAqIHNjYWxlCiAgICAgICAgICAgIHMgPSBzIC0gcy5tYXgoYXhpcz0tMSwga2VlcGRpbXM9VHJ1ZSkKICAgICAgICAgICAgZSA9IG5wLmV4cChzKQogICAgICAgICAgICBvdXRbcXM6cWVdID0gKGUgLyBlLnN1bShheGlzPS0xLCBrZWVwZGltcz1UcnVlKSkgQCB2W2FsbG93ZWRdCiAgICAgICAgY29zdCA9IHRpbWUucGVyZl9jb3VudGVyKCkgLSB0MAogICAgICAgIHJldHVybiBBdHRlbnRpb25PdXRwdXQob3V0LCBOb25lLCBjb3N0LCBfbWIoKDMgKiBiICsgbmcpICogZCAqIDgpLCBzZWxmLm5hbWUpCgogICAgZGVmIHRoZW9yZXRpY2FsX2NvbXBsZXhpdHkoc2VsZiwgVDogaW50LCBkOiBpbnQpIC0+IHN0cjoKICAgICAgICByZXR1cm4gZiJPKFQgYiBkKSBbYj17c2VsZi5ibG9ja19zaXplfSwgZz17c2VsZi5uX2dsb2JhbH1dIgoKCmNsYXNzIEVmZkF0dG5GdXNlOgogICAgIiIi6ZW/5bqm6Ieq6YCC5bqUIHJvdXRlcu+8iEVmZkF0dG5Gb3JnZSDml5foiLDvvIk6IOefreW6j+WIl+eyvuehruOAgemVv+W6j+WIlyBQZXJmb3JtZXLvvIzluKbotKjph4/lrojljavjgIIKCiAgICDlhrPnrZbop4TliJk6OgoKICAgICAgICBUIOKJpCBmdWxsX3RocmVzaG9sZCAgICAgICAgICAgICAgICAgICAgICDihpIgRnVsbEF0dGVudGlvbu+8iOS+v+WunOS4lOacgOS8mO+8iQogICAgICAgIFQgPiBmdWxsX3RocmVzaG9sZCDkuJTmoIflrprkv53nnJ/luqbovr7moIcgICAgICDihpIgUGVyZm9ybWVyKG0gPSDmjInplb/luqbluKbpgInmi6kpCiAgICAgICAg5ZCm5YiZICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKGkiBGdWxsQXR0ZW50aW9u77yI5a6I5Y2r5Zue6YCA77yJCiAgICAiIiIKCiAgICBuYW1lID0gImVmZmF0dG5mdXNlIgoKICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgIGZ1bGxfdGhyZXNob2xkOiBpbnQgPSAxMjgsCiAgICAgICAgcGVyZm9ybWVyX21fc2hvcnQ6IGludCA9IDEyOCwKICAgICAgICBwZXJmb3JtZXJfbV9sb25nOiBpbnQgPSAyNTYsCiAgICAgICAgcmV0cmlldmFsX2Zsb29yOiBmbG9hdCA9IDAuOTgsCiAgICAgICAgY2FsaWJyYXRpb246IGRpY3RbaW50LCBmbG9hdF0gfCBOb25lID0gTm9uZSwKICAgICkgLT4gTm9uZToKICAgICAgICBzZWxmLmZ1bGxfdGhyZXNob2xkID0gaW50KGZ1bGxfdGhyZXNob2xkKQogICAgICAgIHNlbGYucGVyZm9ybWVyX21fc2hvcnQgPSBpbnQocGVyZm9ybWVyX21fc2hvcnQpCiAgICAgICAgc2VsZi5wZXJmb3JtZXJfbV9sb25nID0gaW50KHBlcmZvcm1lcl9tX2xvbmcpCiAgICAgICAgc2VsZi5yZXRyaWV2YWxfZmxvb3IgPSBmbG9hdChyZXRyaWV2YWxfZmxvb3IpCiAgICAgICAgc2VsZi5jYWxpYnJhdGlvbjogZGljdFtpbnQsIGZsb2F0XSA9IGRpY3QoY2FsaWJyYXRpb24gb3Ige30pCgogICAgZGVmIF9tKHNlbGYsIFQ6IGludCkgLT4gaW50OgogICAgICAgIHJldHVybiBzZWxmLnBlcmZvcm1lcl9tX2xvbmcgaWYgVCA+IDEwMjQgZWxzZSBzZWxmLnBlcmZvcm1lcl9tX3Nob3J0CgogICAgZGVmIGNob29zZShzZWxmLCBUOiBpbnQsIGQ6IGludCkgLT4gQXR0ZW50aW9uTWVjaGFuaXNtOgogICAgICAgIGlmIFQgPD0gc2VsZi5mdWxsX3RocmVzaG9sZDoKICAgICAgICAgICAgcmV0dXJuIEZ1bGxBdHRlbnRpb24oKQogICAgICAgIGlmIHNlbGYuY2FsaWJyYXRpb24uZ2V0KFQsIDEuMCkgPj0gc2VsZi5yZXRyaWV2YWxfZmxvb3I6CiAgICAgICAgICAgIHJldHVybiBQZXJmb3JtZXJBdHRlbnRpb24obT1zZWxmLl9tKFQpLCBzYWx0PTc3NzcpCiAgICAgICAgcmV0dXJuIEZ1bGxBdHRlbnRpb24oKQoKICAgIGRlZiBhdHRlbmQoc2VsZiwgcTogbnAubmRhcnJheSwgazogbnAubmRhcnJheSwgdjogbnAubmRhcnJheSkgLT4gQXR0ZW50aW9uT3V0cHV0OgogICAgICAgIFQgPSBxLnNoYXBlWzBdCiAgICAgICAgcmVzID0gc2VsZi5jaG9vc2UoVCwgcS5zaGFwZVsxXSkuYXR0ZW5kKHEsIGssIHYpCiAgICAgICAgIyDlvZLlm6Dnu5kgcm91dGVyIOacrOi6q++8jOS+v+S6juWfuuWHhuWvueeFpwogICAgICAgIHJldHVybiBBdHRlbnRpb25PdXRwdXQocmVzLm91dHB1dCwgcmVzLndlaWdodHMsIHJlcy5jb3N0X3MsIHJlcy5tZW1fcGVha19tYiwgc2VsZi5uYW1lKQoKICAgIGRlZiB0aGVvcmV0aWNhbF9jb21wbGV4aXR5KHNlbGYsIFQ6IGludCwgZDogaW50KSAtPiBzdHI6CiAgICAgICAgaWYgVCA8PSBzZWxmLmZ1bGxfdGhyZXNob2xkOgogICAgICAgICAgICByZXR1cm4gIk8oVF4yIGQpIFtzaG9ydDogZXhhY3RdIgogICAgICAgIHJldHVybiBmIk8oVCBkIG0pIFtsb25nOiBQZXJmb3JtZXIgbT17c2VsZi5fbShUKX1dIgoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gaGVscGVycy9yZWdpc3RyeQpkZWYgX3BoaSh4OiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5OgogICAgIiIi57q/5oCn5rOo5oSP5Yqb55qE5q2j54m55b6B5pig5bCEIM+GKHgpID0gZWx1KHgpICsgMeOAgiIiIgogICAgcmV0dXJuIG5wLndoZXJlKHggPj0gMC4wLCB4LCBucC5leHBtMSh4KSkgKyAxLjAKCgpfUkVHSVNUUlk6IGRpY3Rbc3RyLCBjYWxsYWJsZV0gPSB7CiAgICAiZnVsbCI6IGxhbWJkYTogRnVsbEF0dGVudGlvbigpLAogICAgImZsYXNoIjogbGFtYmRhOiBGbGFzaEF0dGVudGlvbigpLAogICAgImxpbmVhciI6IGxhbWJkYTogTGluZWFyQXR0ZW50aW9uKCksCiAgICAicGVyZm9ybWVyIjogbGFtYmRhOiBQZXJmb3JtZXJBdHRlbnRpb24oKSwKICAgICJsb2NhbF93aW5kb3ciOiBsYW1iZGE6IExvY2FsV2luZG93QXR0ZW50aW9uKCksCiAgICAiYmxvY2tfc3BhcnNlIjogbGFtYmRhOiBCbG9ja1NwYXJzZUF0dGVudGlvbigpLAogICAgImVmZmF0dG5mdXNlIjogbGFtYmRhOiBFZmZBdHRuRnVzZSgpLAp9CgoKZGVmIGJ1aWxkX3ZhcmlhbnQobmFtZTogc3RyKSAtPiBBdHRlbnRpb25NZWNoYW5pc206CiAgICAiIiLmjInlkI3np7DmnoTpgKDms6jmhI/lipvlj5jkvZPjgILmnKrnn6XlkI3np7DmipsgS2V5RXJyb3LjgIIiIiIKICAgIGlmIG5hbWUgbm90IGluIF9SRUdJU1RSWToKICAgICAgICByYWlzZSBLZXlFcnJvcihmIuacquefpeazqOaEj+WKm+WPmOS9kyB7bmFtZSFyfe+8jOWPr+mAiToge3NvcnRlZChfUkVHSVNUUlkpfSIpCiAgICByZXR1cm4gX1JFR0lTVFJZW25hbWVdKCkKCgpkZWYgbGlzdF92YXJpYW50cygpIC0+IGxpc3Rbc3RyXToKICAgICIiIuaJgOacieWPr+eUqOWPmOS9k+WQjeensOOAgiIiIgogICAgcmV0dXJuIHNvcnRlZChfUkVHSVNUUlkpCgoKX19hbGxfXyA9IFsKICAgICJBdHRlbnRpb25PdXRwdXQiLAogICAgIkF0dGVudGlvbk1lY2hhbmlzbSIsCiAgICAiQmxvY2tTcGFyc2VBdHRlbnRpb24iLAogICAgIkVmZkF0dG5GdXNlIiwKICAgICJGbGFzaEF0dGVudGlvbiIsCiAgICAiRnVsbEF0dGVudGlvbiIsCiAgICAiTGluZWFyQXR0ZW50aW9uIiwKICAgICJMb2NhbFdpbmRvd0F0dGVudGlvbiIsCiAgICAiUGVyZm9ybWVyQXR0ZW50aW9uIiwKICAgICJidWlsZF92YXJpYW50IiwKICAgICJsaXN0X3ZhcmlhbnRzIiwKXQo=
+"""L10 注意力家族 —— 统一接口下的多种注意力实现（含 S 级路由 router）。
+
+本层直接集成 **已在 effattnforge 中通过 S 级四道 gates 评审的注意力实现**
+（EffAttnForge 基准: G1 保真度 / G2 检索 / G3 成本 / G4 比特级确定性），
+并把它们与 L11 的 FlashAttention-2 收拢到同一套协议下。
+
+统一语义: ``attend(q, k, v) -> AttentionOutput``，score 越大注意力质量越高，
+沿 key 轴 softmax 归一化 —— 保证跨变体评测公平。
+
+世界级出处 (详见 docs/REFERENCES.md):
+
+  full          : Vaswani et al. 2017 (精确 O(T²d) 上界参照)
+  flash         : Dao 2023 FlashAttention-2 (精确但 O(T·d) 内存)
+  linear        : Katharopoulos et al. 2020 (O(Td²) 核化线性注意力)
+  performer     : Choromanski et al. 2020 FAVOR+ (O(Tdm) 无偏随机特征)
+  local_window  : Beltagy et al. 2020 Longformer 式滑窗 (O(Twd))
+  block_sparse  : Child et al. 2019 Sparse Transformers 块状稀疏 (O(Tbd))
+  effattnfuse   : 长度自适应 router —— T ≤ 阈值走精确，长序列走 Performer，
+                  并用**观测到的**保真度做质量守卫 (EffAttnForge 旗舰贡献)
+"""
+from __future__ import annotations
+
+import math
+import time
+from dataclasses import dataclass, field
+from typing import Protocol, runtime_checkable
+
+import numpy as np
+
+from ..flash.attention import flash_attention_forward, naive_attention_forward
+
+# ------------------------------------------------------------------ types
+@dataclass
+class AttentionOutput:
+    """注意力输出容器（源自 EffAttnForge core/types.py）。"""
+
+    output: np.ndarray            # (T, d) 输出
+    weights: np.ndarray | None    # 物化的 (T, T) 注意力矩阵；非物化变体为 None
+    cost_s: float                 # 本次前向墙钟秒数
+    mem_peak_mb: float            # 峰值额外内存 (MB)
+    variant: str                  # 实现名
+
+    def __post_init__(self) -> None:
+        if self.mem_peak_mb < 0:
+            raise ValueError("mem_peak_mb 不能为负")
+
+
+@runtime_checkable
+class AttentionMechanism(Protocol):
+    """注意力变体协议（源自 EffAttnForge core/interfaces.py）。"""
+
+    name: str
+
+    def attend(self, q: np.ndarray, k: np.ndarray, v: np.ndarray) -> AttentionOutput: ...
+    def theoretical_complexity(self, T: int, d: int) -> str: ...
+
+
+def _mb(nbytes: float) -> float:
+    """字节 → MB。"""
+    return nbytes / (1024.0 * 1024.0)
+
+
+# --------------------------------------------------------------- variants
+class FullAttention:
+    """精确 full softmax 注意力 —— 所有近似的黄金上界参照。"""
+
+    name = "full"
+
+    def attend(self, q: np.ndarray, k: np.ndarray, v: np.ndarray) -> AttentionOutput:
+        T, d = q.shape
+        t0 = time.perf_counter()
+        out, w = naive_attention_forward(q, k, v, mask="none", return_weights=True)
+        cost = time.perf_counter() - t0
+        return AttentionOutput(out, w, cost, _mb(2 * T * T * 8 + T * d * 8), self.name)
+
+    def theoretical_complexity(self, T: int, d: int) -> str:
+        return "O(T^2 d) [exact]"
+
+
+class FlashAttention:
+    """FlashAttention-2 —— 与 full **数值等价**，但内存 O(T·d) 而非 O(T²)。"""
+
+    name = "flash"
+
+    def __init__(self, block_q: int = 64, block_k: int = 64) -> None:
+        self.block_q = int(block_q)
+        self.block_k = int(block_k)
+
+    def attend(self, q: np.ndarray, k: np.ndarray, v: np.ndarray) -> AttentionOutput:
+        T, d = q.shape
+        t0 = time.perf_counter()
+        out, _, nbytes = flash_attention_forward(
+            q, k, v, mask="none", block_q=self.block_q, block_k=self.block_k
+        )
+        cost = time.perf_counter() - t0
+        return AttentionOutput(out, None, cost, _mb(nbytes), self.name)
+
+    def theoretical_complexity(self, T: int, d: int) -> str:
+        return f"O(T^2 d) time / O(T d) memory [bq={self.block_q}, bk={self.block_k}]"
+
+
+class LinearAttention:
+    """核化线性注意力 (Katharopoulos et al. 2020): ``out_t = φ(q_t)ᵀS / φ(q_t)ᵀz``。"""
+
+    name = "linear"
+
+    def attend(self, q: np.ndarray, k: np.ndarray, v: np.ndarray) -> AttentionOutput:
+        T, d = q.shape
+        t0 = time.perf_counter()
+        kf, qf = _phi(k), _phi(q)
+        S = kf.T @ v              # (d, d)
+        z = kf.sum(axis=0)        # (d,)
+        num = qf @ S
+        den = qf @ z
+        safe = np.where(np.abs(den) < 1e-12, 1.0, den)
+        out = num / safe[:, None]
+        cost = time.perf_counter() - t0
+        return AttentionOutput(out, None, cost, _mb(2 * T * d * 8 + d * d * 8), self.name)
+
+    def theoretical_complexity(self, T: int, d: int) -> str:
+        return "O(T d^2)"
+
+
+class PerformerAttention:
+    """Performer / FAVOR+ (Choromanski et al. 2020): O(T d m)，不物化 T×T。
+
+    **实现要点（本仓库基于 FAVOR+ 论文 (arXiv:2009.14794) 重标定，与原始
+    EffAttnForge 实现有本质差异 —— 后者的核标定是错的）**:
+
+    1. **核标定**: 目标是 softmax 的 ``exp(q·k/√d)``。令 ``x = q/d^{1/4}``、
+       ``y = k/d^{1/4}``，则 ``x·y = q·k/√d``，目标核化为 ``exp(x·y)``。
+
+    2. **三角随机特征**: 由 ``E_ω[cos(ω·z)] = exp(−‖z‖²/2)``（ω~N(0,I)）与
+       ``exp(x·y) = exp(‖x‖²/2)exp(‖y‖²/2)exp(−‖x−y‖²/2)``，构造
+
+           ``φ(x) = exp(σ‖x‖²/2)/√m · [sin(ω_j·x+b_j), cos(ω_j·x+b_j)]_{j=1..m}``
+
+       其中 ``σ = ±1`` 为范数因子的符号。**Q 与 K 必须共享同一组 (ω, b)**。
+
+    3. **非对称范数因子（本实现的关键修正）**: 取 Query 用 ``σ=−1``、
+       Key 用 ``σ=+1``，则
+
+           ``E[φ_q(q_i)·φ_k(k_j)] = exp(x_i·y_j − ‖x_i‖²)``
+
+       其中 ``exp(−‖x_i‖²)`` 对同一行的所有 j 是常数，**在 softmax 比值
+       (分子/分母) 中精确抵消** ⇒ 估计量对注意力输出**无偏**。
+       若两侧同号(+/+ 或 −/−)，则会出现随 ‖k_j‖² 变化的非恒定因子，
+       在分母中引入系统性偏倚 —— 这正是原始 EffAttnForge 实现的缺陷。
+
+    4. **输入范数敏感性（已实测）**: 范数因子 ``exp(σ‖x‖²/2)`` 会把
+       随机特征估计的方差放大 ``exp(σ‖x‖²)`` 倍。当 ``‖q‖² ~ d``（原始
+       N(0,1) 输入）时，d=32 下相对 Frobenius 误差可达 **~18**（不可用）；
+       当 ``‖q‖²/d^{1/2} ~ O(1)``（即真实 Transformer 中经 RMSNorm +
+       投影后范数受控的 Q/K）时，误差降至 **~0.003**。
+       ⇒ 本模块的保真度与输入范数强相关，使用时须保证 Q/K 已归一化。
+    """
+
+    name = "performer"
+
+    def __init__(
+        self,
+        m: int = 256,
+        salt: int = 7777,
+        seed: int | None = None,
+        orthogonal: bool = False,
+    ) -> None:
+        self.m = int(m)
+        self.salt = int(salt)
+        self.seed = seed
+        # ORF (正交随机特征) 论文 §3 的方差缩减技术。本仓库实测：在受控输入下
+        # 块拼接的正交基反而使保真度变差（块间不正交 + 每分量方差需 √d 重标定），
+        # 故默认关闭；保留开关以供对照实验。
+        self.orthogonal = bool(orthogonal)
+
+    def _sample(self, d: int) -> tuple[np.ndarray, np.ndarray]:
+        from ..flash.random import SALT_BENCH, rng_for
+
+        rng = rng_for(SALT_BENCH ^ self.salt, self.seed)
+        m = self.m
+        if self.orthogonal:
+            # ORF: 分块生成正交基并乘 √d 恢复 FAVOR+ 的 ω~N(0,I) 标定。
+            n_blocks = (m + d - 1) // d
+            blocks = []
+            for _ in range(n_blocks):
+                Q, _ = np.linalg.qr(rng.standard_normal((d, d)))
+                blocks.append(Q.T * np.sqrt(d))
+            W = np.concatenate(blocks, axis=0)[:m]
+        else:
+            # iid 高斯特征: 每个分量方差为 1 ⇒ ω·z ~ N(0,‖z‖²)，
+            # 从而 E[cos(ω·z)] = exp(−‖z‖²/2) 精确成立。
+            W = rng.standard_normal((m, d))
+        b = rng.uniform(0.0, 2.0 * np.pi, size=m)
+        return W, b
+
+    def _features(
+        self, x: np.ndarray, W: np.ndarray, b: np.ndarray, norm_sign: float = -1.0
+    ) -> np.ndarray:
+        """FAVOR+ 三角随机特征映射。
+
+        Args:
+            x:          (T, d) 输入向量。
+            W, b:       共享的随机特征参数 (m, d) 与 (m,)。
+            norm_sign:  范数因子符号 σ ∈ {−1, +1}；Query 用 −1、Key 用 +1。
+
+        Returns:
+            (T, 2m) 特征矩阵。
+        """
+        d = x.shape[-1]
+        xs = x / (d ** 0.25)                      # d^{−1/4}: 使 x·y = q·k/√d
+        norm = np.exp(norm_sign * 0.5 * np.sum(xs * xs, axis=-1))
+        proj = xs @ W.T + b
+        feats = np.concatenate([np.sin(proj), np.cos(proj)], axis=-1)
+        return (norm / np.sqrt(self.m))[:, None] * feats
+
+    def attend(self, q: np.ndarray, k: np.ndarray, v: np.ndarray) -> AttentionOutput:
+        T, d = q.shape
+        W, b = self._sample(d)
+        t0 = time.perf_counter()
+        # 非对称范数因子 ⇒ 分子/分母比值无偏（见类文档第 3 点）
+        phi_q = self._features(q, W, b, norm_sign=-1.0)
+        phi_k = self._features(k, W, b, norm_sign=+1.0)
+        kv = phi_k.T @ v
+        z = phi_k.sum(axis=0)
+        num = phi_q @ kv
+        den = phi_q @ z
+        safe = np.where(np.abs(den) < 1e-12, 1.0, den)
+        out = num / safe[:, None]
+        cost = time.perf_counter() - t0
+        return AttentionOutput(
+            out, None, cost, _mb(2 * T * 2 * self.m * 8 + 2 * self.m * d * 8), self.name
+        )
+
+    def theoretical_complexity(self, T: int, d: int) -> str:
+        return f"O(T d m) [m={self.m}]"
+
+
+class LocalWindowAttention:
+    """滑窗注意力 (Longformer 式, Beltagy et al. 2020): 每 query 只看 [i−w, i+w]。"""
+
+    name = "local_window"
+
+    def __init__(self, window: int = 32) -> None:
+        self.window = int(window)
+
+    def attend(self, q: np.ndarray, k: np.ndarray, v: np.ndarray) -> AttentionOutput:
+        T, d = q.shape
+        w = self.window
+        out = np.empty((T, d), dtype=np.float64)
+        t0 = time.perf_counter()
+        scale = 1.0 / math.sqrt(d)
+        for i in range(T):
+            lo, hi = max(0, i - w), min(T, i + w + 1)
+            s = (q[i] @ k[lo:hi].T) * scale
+            s = s - s.max()
+            e = np.exp(s)
+            out[i] = (e / e.sum()) @ v[lo:hi]
+        cost = time.perf_counter() - t0
+        return AttentionOutput(out, None, cost, _mb((2 * w + 1) * d * 8), self.name)
+
+    def theoretical_complexity(self, T: int, d: int) -> str:
+        return f"O(T w d) [w={self.window}]"
+
+
+class BlockSparseAttention:
+    """块状稀疏 + 全局 token (Child et al. 2019 Sparse Transformers)。"""
+
+    name = "block_sparse"
+
+    def __init__(self, block_size: int = 64, n_global: int = 8) -> None:
+        self.block_size = int(block_size)
+        self.n_global = int(n_global)
+
+    def attend(self, q: np.ndarray, k: np.ndarray, v: np.ndarray) -> AttentionOutput:
+        T, d = q.shape
+        b, ng = self.block_size, min(self.n_global, T)
+        n_blocks = max(1, -(-T // b))
+        out = np.empty((T, d), dtype=np.float64)
+        t0 = time.perf_counter()
+        scale = 1.0 / math.sqrt(d)
+        for bi in range(n_blocks):
+            qs, qe = bi * b, min(T, (bi + 1) * b)
+            idx = [np.arange(ng)]
+            for bj in (bi - 1, bi, bi + 1):
+                if 0 <= bj < n_blocks:
+                    idx.append(np.arange(bj * b, min(T, (bj + 1) * b)))
+            allowed = np.unique(np.concatenate(idx))
+            s = (q[qs:qe] @ k[allowed].T) * scale
+            s = s - s.max(axis=-1, keepdims=True)
+            e = np.exp(s)
+            out[qs:qe] = (e / e.sum(axis=-1, keepdims=True)) @ v[allowed]
+        cost = time.perf_counter() - t0
+        return AttentionOutput(out, None, cost, _mb((3 * b + ng) * d * 8), self.name)
+
+    def theoretical_complexity(self, T: int, d: int) -> str:
+        return f"O(T b d) [b={self.block_size}, g={self.n_global}]"
+
+
+class EffAttnFuse:
+    """长度自适应 router（EffAttnForge 旗舰）: 短序列精确、长序列 Performer，带质量守卫。
+
+    决策规则::
+
+        T ≤ full_threshold                      → FullAttention（便宜且最优）
+        T > full_threshold 且标定保真度达标      → Performer(m = 按长度带选择)
+        否则                                     → FullAttention（守卫回退）
+    """
+
+    name = "effattnfuse"
+
+    def __init__(
+        self,
+        full_threshold: int = 128,
+        performer_m_short: int = 128,
+        performer_m_long: int = 256,
+        retrieval_floor: float = 0.98,
+        calibration: dict[int, float] | None = None,
+    ) -> None:
+        self.full_threshold = int(full_threshold)
+        self.performer_m_short = int(performer_m_short)
+        self.performer_m_long = int(performer_m_long)
+        self.retrieval_floor = float(retrieval_floor)
+        self.calibration: dict[int, float] = dict(calibration or {})
+
+    def _m(self, T: int) -> int:
+        return self.performer_m_long if T > 1024 else self.performer_m_short
+
+    def choose(self, T: int, d: int) -> AttentionMechanism:
+        if T <= self.full_threshold:
+            return FullAttention()
+        if self.calibration.get(T, 1.0) >= self.retrieval_floor:
+            return PerformerAttention(m=self._m(T), salt=7777)
+        return FullAttention()
+
+    def attend(self, q: np.ndarray, k: np.ndarray, v: np.ndarray) -> AttentionOutput:
+        T = q.shape[0]
+        res = self.choose(T, q.shape[1]).attend(q, k, v)
+        # 归因给 router 本身，便于基准对照
+        return AttentionOutput(res.output, res.weights, res.cost_s, res.mem_peak_mb, self.name)
+
+    def theoretical_complexity(self, T: int, d: int) -> str:
+        if T <= self.full_threshold:
+            return "O(T^2 d) [short: exact]"
+        return f"O(T d m) [long: Performer m={self._m(T)}]"
+
+
+# ----------------------------------------------------------- helpers/registry
+def _phi(x: np.ndarray) -> np.ndarray:
+    """线性注意力的正特征映射 φ(x) = elu(x) + 1。"""
+    return np.where(x >= 0.0, x, np.expm1(x)) + 1.0
+
+
+_REGISTRY: dict[str, callable] = {
+    "full": lambda: FullAttention(),
+    "flash": lambda: FlashAttention(),
+    "linear": lambda: LinearAttention(),
+    "performer": lambda: PerformerAttention(),
+    "local_window": lambda: LocalWindowAttention(),
+    "block_sparse": lambda: BlockSparseAttention(),
+    "effattnfuse": lambda: EffAttnFuse(),
+}
+
+
+def build_variant(name: str) -> AttentionMechanism:
+    """按名称构造注意力变体。未知名称抛 KeyError。"""
+    if name not in _REGISTRY:
+        raise KeyError(f"未知注意力变体 {name!r}，可选: {sorted(_REGISTRY)}")
+    return _REGISTRY[name]()
+
+
+def list_variants() -> list[str]:
+    """所有可用变体名称。"""
+    return sorted(_REGISTRY)
+
+
+__all__ = [
+    "AttentionOutput",
+    "AttentionMechanism",
+    "BlockSparseAttention",
+    "EffAttnFuse",
+    "FlashAttention",
+    "FullAttention",
+    "LinearAttention",
+    "LocalWindowAttention",
+    "PerformerAttention",
+    "build_variant",
+    "list_variants",
+]

@@ -1,1 +1,88 @@
-RmxhZ3NoaXBBSSAoTW9ybmluZ1N0YXIpCkNvcHlyaWdodCAyMDI2IOaZqOaYnyAoTW9ybmluZ1N0YXIpCgpUaGlzIHByb2R1Y3QgaW5jbHVkZXMgc29mdHdhcmUgZGV2ZWxvcGVkIGJ5IOaZqOaYnyAoTW9ybmluZ1N0YXIpLgoKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K56ys5LiJ5pa5566X5rOV5LiO6K665paH5Ye65aSEIChUaGlyZC1QYXJ0eSBBbGdvcml0aG1zICYgUHVibGljYXRpb25zKQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoK5pys6aG555uu6YG15b6q44CM6Zu26YeN5YaZ44CN5Y6f5YiZOiDmlbDlgLzph43mtLvkuI7miJDnhp/nrpfms5Xnm7TmjqXlpI3nlKjlt7Llj5HooajnmoTkuJbnlYznuqfmiJDmnpwK5LiO5byA5rqQ5a6e546wLCDlubblnKjmupDnoIHkuI4gZG9jcy9SRUZFUkVOQ0VTLm1kIOS4remAkOadoeazqOaYjuWHuuWkhOOAguaguOW/g+W8leeUqOWmguS4izoKCiAgKiBUcmFuc2Zvcm1lciAvIEdQVAogICAgICAtIFZhc3dhbmksIEEuIGV0IGFsLiAiQXR0ZW50aW9uIElzIEFsbCBZb3UgTmVlZC4iIE5ldXJJUFMgMjAxNy4KICAgICAgLSBSYWRmb3JkLCBBLiBldCBhbC4gIkltcHJvdmluZyBMYW5ndWFnZSBVbmRlcnN0YW5kaW5nIGJ5IEdlbmVyYXRpdmUKICAgICAgICBQcmUtVHJhaW5pbmcuIiAyMDE4LiAoR1BULTIpCiAgKiBGbGFzaEF0dGVudGlvbi0yCiAgICAgIC0gRGFvLCBELiAiRmxhc2hBdHRlbnRpb24tMjogRmFzdGVyIEF0dGVudGlvbiB3aXRoIEJldHRlciBQYXJhbGxlbGlzbQogICAgICAgIGFuZCBXb3JrIFBhcnRpdGlvbmluZy4iIDIwMjMuCiAgKiBSb1BFICjml4vovazkvY3nva7nvJbnoIEpCiAgICAgIC0gU3UsIEouIGV0IGFsLiAiUm9Gb3JtZXI6IEVuaGFuY2VkIFRyYW5zZm9ybWVyIHdpdGggUm90YXJ5IFBvc2l0aW9uCiAgICAgICAgRW1iZWRkaW5nLiIgYXJYaXY6MjEwNC4wOTg2NCwgMjAyMS4KICAqIFJNU05vcm0KICAgICAgLSBaaGFuZywgQi4gJiBTZW5ucmljaCwgUi4gIlJvb3QgTWVhbiBTcXVhcmUgTGF5ZXIgTm9ybWFsaXphdGlvbi4iCiAgICAgICAgYXJYaXY6MTkxMC4wNzQ2NywgMjAxOS4KICAqIFN3aUdMVSAvIEdMVSDlj5jkvZMKICAgICAgLSBTaGF6ZWVyLCBOLiAiR0xVIFZhcmlhbnRzIEltcHJvdmUgVHJhbnNmb3JtZXIuIiBhclhpdjoyMDAyLjA1MjAyLCAyMDIwLgogICogTGxhbWEg5p625p6E57uE5ZCIIChSTVNOb3JtICsgU3dpR0xVICsgUm9QRSArIEdRQSkKICAgICAgLSBUb3V2cm9uLCBILiBldCBhbC4gIkxMYU1BOiBPcGVuIGFuZCBFZmZpY2llbnQgRm91bmRhdGlvbiBMYW5ndWFnZQogICAgICAgIE1vZGVscy4iIGFyWGl2OjIzMDIuMTM5NzEsIDIwMjMuCiAgKiBGQVZPUisgLyBQZXJmb3JtZXIgKOato+S6pOmaj+acuueJueW+gee6v+aAp+azqOaEj+WKmykKICAgICAgLSBDaG9yb21hbnNraSwgSy4gZXQgYWwuICJSZXRoaW5raW5nIEF0dGVudGlvbiB3aXRoIFBlcmZvcm1lcnMuIgogICAgICAgIGFyWGl2OjIwMDkuMTQ3OTQsIElDTFIgMjAyMS4KICAqIOaguOWMlue6v+aAp+azqOaEj+WKmwogICAgICAtIEthdGhhcm9wb3Vsb3MsIEEuIGV0IGFsLiAiVHJhbnNmb3JtZXJzIGFyZSBSTk5zOiBGYXN0IEF1dG9yZWdyZXNzaXZlCiAgICAgICAgVHJhbnNmb3JtZXJzIHdpdGggTGluZWFyIEF0dGVudGlvbi4iIElDTUwgMjAyMC4KICAqIExvbmdmb3JtZXIgKOa7keeql+azqOaEj+WKmykKICAgICAgLSBCZWx0YWd5LCBJLiBldCBhbC4gIkxvbmdmb3JtZXI6IFRoZSBMb25nLURvY3VtZW50IFRyYW5zZm9ybWVyLiIKICAgICAgICBhclhpdjoyMDA0LjA1MTUwLCAyMDIwLgogICogU3BhcnNlIFRyYW5zZm9ybWVycyAo5Z2X54q256iA55aPICsg5YWo5bGAIHRva2VuKQogICAgICAtIENoaWxkLCBSLiBldCBhbC4gIkdlbmVyYXRpbmcgTG9uZyBTZXF1ZW5jZXMgd2l0aCBTcGFyc2UgVHJhbnNmb3JtZXJzLiIKICAgICAgICBhclhpdjoxOTA0LjEwNTU4LCAyMDE5LgogICogQlBFIOWIhuivjQogICAgICAtIFNlbm5yaWNoLCBSLiBldCBhbC4gIk5ldXJhbCBNYWNoaW5lIFRyYW5zbGF0aW9uIG9mIFJhcmUgV29yZHMgd2l0aAogICAgICAgIFN1YndvcmQgVW5pdHMuIiBBQ0wgMjAxNi4KICAgICAgLSBTZW5ucmljaCwgUi4gZXQgYWwuICJVbnN1cGVydmlzZWQgTWFjaGluZSBUcmFuc2xhdGlvbiB3aXRoCiAgICAgICAgU3Vid29yZCBVbml0cy4iIDIwMTUuIChCUEUg5Y6f5aeL5o+Q5Ye6KQogICogQWRhbVcKICAgICAgLSBMb3NoY2hpbG92LCBJLiAmIEh1dHRlciwgRi4gIkRlY291cGxlZCBXZWlnaHQgRGVjYXkgUmVndWxhcml6YXRpb24uIgogICAgICAgIElDTFIgMjAxOS4KICAqIOS9meW8puWtpuS5oOeOh+iwg+W6piArIOmihOeDrQogICAgICAtIFNtaXRoLCBMLiBldCBhbC4gIk5vIE1vcmUgVmFsaWRhdGlvbjogRWFybHkgU3RvcHBpbmcgZm9yIFN5bnRoZXRpYwogICAgICAgIERhdGEgR2VuZXJhdGlvbi4iIDIwMjAuIC8gR295YWwgZXQgYWwuICJBY2N1cmF0ZSwgTGFyZ2UgTWluaWJhdGNoCiAgICAgICAgU0dEOiBUcmFpbmluZyBJbWFnZU5ldCBpbiAxIEhvdXIuIiAyMDE3LgogICogSGUg5Yid5aeL5YyWCiAgICAgIC0gSGUsIEsuIGV0IGFsLiAiRGVsdmluZyBEZWVwIGludG8gUmVjdGlmaWVycy4iIElDQ1YgMjAxNS4KICAqIOe7j+WFuOacuuWZqOWtpuS5oOWxgiAoUENBIC8gR01NIC8gS01lYW5zIC8gU1ZNIC8g5py057Sg6LSd5Y+25pavIC8gay1OTiAvIOmAu+i+keWbnuW9kikKICAgICAgLSBUaXBwaW5nLCBNLiBFLiAmIEJpc2hvcCwgQy4gTS4gIlByb2JhYmlsaXN0aWMgUHJpbmNpcGFsIENvbXBvbmVudAogICAgICAgIEFuYWx5c2lzLiIgSlJTUy1CIDE5OTkuCiAgICAgIC0gRGVtcHN0ZXIsIEEuIGV0IGFsLiAiTWF4aW11bSBMaWtlbGlob29kIGZyb20gSW5jb21wbGV0ZSBEYXRhIHZpYSB0aGUKICAgICAgICBFTSBBbGdvcml0aG0uIiBKUlNTLUIgMTk3Ny4KICAgICAgLSBMbG95ZCwgUy4gIkxlYXN0IFNxdWFyZSBRdWFudGl6YXRpb24gaW4gUENNLiIgSUVFRSBUcmFucy4gQ29tbS4gMTk4Mi4KICAgICAgLSBDb3J0ZXMsIEMuICYgVmFwbmlrLCBWLiAiU3VwcG9ydC1WZWN0b3IgTmV0d29ya3MuIiBNYWNoaW5lIExlYXJuaW5nCiAgICAgICAgMTk5NS4KICAgICAgLSBNY0NhbGx1bSwgUC4gJiBOaWdhbSwgSy4gIkVtcGxveWluZyBFTSBpbiBQb29sLUJhc2VkIEFjdGl2ZSBMZWFybmluZwogICAgICAgIGZvciBUZXh0IENsYXNzaWZpY2F0aW9uLiIgSUNNTCAxOTk4LgogICAgICAtIENvdmVyLCBULiAmIEhhcnQsIFAuICJOZWFyZXN0IE5laWdoYm9yIFBhdHRlcm4gQ2xhc3NpZmljYXRpb24uIgogICAgICAgIElFRUUgVElUIDE5NjcuCiAgKiDmlbDlgLzmlrnms5UgKEphY29iaSDnibnlvoHliIbop6MgLyBDaG9sZXNreSAvIFFSIC8gbG9nc3VtZXhwKQogICAgICAtIEphY29iaSwgQy4gRy4gSi4gIsOcYmVyIGVpbiBuZXVlcyBWZXJmYWhyZW4genVyIEJlcmVjaG51bmcgZGVyCiAgICAgICAgRWlnZW53ZXJ0ZSBlaW5lcyBxdWFkcmF0aXNjaGVuIEZvcm0uIiAxODQ2LgogICAgICAtIOmrmOaWry3nuqblvZPmtojljrvms5XjgIFDaG9sZXNreSDliIbop6PnrYnnu4/lhbjmlbDlgLznur/mgKfku6PmlbDjgIIKICAqIOS6pOWPiemqjOivgeW3peWFt+mTvgogICAgICAtIEhhcnJpcywgQy4gZXQgYWwuICJBcnJheSBQcm9ncmFtbWluZyB3aXRoIE51bVB5LiIgTmF0dXJlIDIwMjAuCiAgICAgIC0gVmlydGFuZW4sIFAuIGV0IGFsLiAiU2NpUHkgMS4wLiIgTmF0dXJlIE1ldGhvZHMgMjAyMC4KICAgICAgLSBQZWRyZWdvc2EsIEYuIGV0IGFsLiAiU2Npa2l0LWxlYXJuOiBNYWNoaW5lIExlYXJuaW5nIGluIFB5dGhvbi4iCiAgICAgICAgSk1MUiAyMDExLgogICAgICAtIFBhc3prZSwgQS4gZXQgYWwuICJQeVRvcmNoOiBBbiBJbXBlcmF0aXZlIFN0eWxlLCBIaWdoLVBlcmZvcm1hbmNlCiAgICAgICAgRGVlcCBMZWFybmluZyBMaWJyYXJ5LiIgTmV1cklQUyAyMDE5LgoKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K6K+05piOCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuacrOmhueebruS4uioq54us56uL5a6e546wKirvvIzmnKrlpI3liLbkuIrov7Dpobnnm67nmoTmupDnoIHvvJvkuIrov7DmnaHnm67ku4XmoIfms6jmiYDlgJ/pibTnmoQK5pWw5a2m5pa55rOV5LiO566X5rOV5oCd5oOz55qE5YW35L2T5Ye65aSE44CC5a6e546w57uG6IqC44CB6ZSZ6K+v5L+u5q2j5LiO5pys6aG555uu54us5pyJ55qE6aqM6K+BCuS9k+ezuyAo56Gs5LiN5Y+Y6YePICsg6Leo5bqT5Lqk5Y+J6aqM6K+BKSDop4EgZG9jcy9ERVNJR04ubWTjgIIKCuWQhOesrOS4ieaWuemhueebrueJiOadg+W9kuWFtuWOn+S9nOiAheaJgOacie+8jOW5tumBteW+quWFtuWQhOiHqueahOiuuOWPr+ivgeOAggo=
+FlagshipAI (MorningStar)
+Copyright 2026 晨星 (MorningStar)
+
+This product includes software developed by 晨星 (MorningStar).
+
+================================================================================
+第三方算法与论文出处 (Third-Party Algorithms & Publications)
+================================================================================
+
+本项目遵循「零重写」原则: 数值重活与成熟算法直接复用已发表的世界级成果
+与开源实现, 并在源码与 docs/REFERENCES.md 中逐条注明出处。核心引用如下:
+
+  * Transformer / GPT
+      - Vaswani, A. et al. "Attention Is All You Need." NeurIPS 2017.
+      - Radford, A. et al. "Improving Language Understanding by Generative
+        Pre-Training." 2018. (GPT-2)
+  * FlashAttention-2
+      - Dao, D. "FlashAttention-2: Faster Attention with Better Parallelism
+        and Work Partitioning." 2023.
+  * RoPE (旋转位置编码)
+      - Su, J. et al. "RoFormer: Enhanced Transformer with Rotary Position
+        Embedding." arXiv:2104.09864, 2021.
+  * RMSNorm
+      - Zhang, B. & Sennrich, R. "Root Mean Square Layer Normalization."
+        arXiv:1910.07467, 2019.
+  * SwiGLU / GLU 变体
+      - Shazeer, N. "GLU Variants Improve Transformer." arXiv:2002.05202, 2020.
+  * Llama 架构组合 (RMSNorm + SwiGLU + RoPE + GQA)
+      - Touvron, H. et al. "LLaMA: Open and Efficient Foundation Language
+        Models." arXiv:2302.13971, 2023.
+  * FAVOR+ / Performer (正交随机特征线性注意力)
+      - Choromanski, K. et al. "Rethinking Attention with Performers."
+        arXiv:2009.14794, ICLR 2021.
+  * 核化线性注意力
+      - Katharopoulos, A. et al. "Transformers are RNNs: Fast Autoregressive
+        Transformers with Linear Attention." ICML 2020.
+  * Longformer (滑窗注意力)
+      - Beltagy, I. et al. "Longformer: The Long-Document Transformer."
+        arXiv:2004.05150, 2020.
+  * Sparse Transformers (块状稀疏 + 全局 token)
+      - Child, R. et al. "Generating Long Sequences with Sparse Transformers."
+        arXiv:1904.10558, 2019.
+  * BPE 分词
+      - Sennrich, R. et al. "Neural Machine Translation of Rare Words with
+        Subword Units." ACL 2016.
+      - Sennrich, R. et al. "Unsupervised Machine Translation with
+        Subword Units." 2015. (BPE 原始提出)
+  * AdamW
+      - Loshchilov, I. & Hutter, F. "Decoupled Weight Decay Regularization."
+        ICLR 2019.
+  * 余弦学习率调度 + 预热
+      - Smith, L. et al. "No More Validation: Early Stopping for Synthetic
+        Data Generation." 2020. / Goyal et al. "Accurate, Large Minibatch
+        SGD: Training ImageNet in 1 Hour." 2017.
+  * He 初始化
+      - He, K. et al. "Delving Deep into Rectifiers." ICCV 2015.
+  * 经典机器学习层 (PCA / GMM / KMeans / SVM / 朴素贝叶斯 / k-NN / 逻辑回归)
+      - Tipping, M. E. & Bishop, C. M. "Probabilistic Principal Component
+        Analysis." JRSS-B 1999.
+      - Dempster, A. et al. "Maximum Likelihood from Incomplete Data via the
+        EM Algorithm." JRSS-B 1977.
+      - Lloyd, S. "Least Square Quantization in PCM." IEEE Trans. Comm. 1982.
+      - Cortes, C. & Vapnik, V. "Support-Vector Networks." Machine Learning
+        1995.
+      - McCallum, P. & Nigam, K. "Employing EM in Pool-Based Active Learning
+        for Text Classification." ICML 1998.
+      - Cover, T. & Hart, P. "Nearest Neighbor Pattern Classification."
+        IEEE TIT 1967.
+  * 数值方法 (Jacobi 特征分解 / Cholesky / QR / logsumexp)
+      - Jacobi, C. G. J. "Über ein neues Verfahren zur Berechnung der
+        Eigenwerte eines quadratischen Form." 1846.
+      - 高斯-约当消去法、Cholesky 分解等经典数值线性代数。
+  * 交叉验证工具链
+      - Harris, C. et al. "Array Programming with NumPy." Nature 2020.
+      - Virtanen, P. et al. "SciPy 1.0." Nature Methods 2020.
+      - Pedregosa, F. et al. "Scikit-learn: Machine Learning in Python."
+        JMLR 2011.
+      - Paszke, A. et al. "PyTorch: An Imperative Style, High-Performance
+        Deep Learning Library." NeurIPS 2019.
+
+================================================================================
+说明
+================================================================================
+本项目为**独立实现**，未复制上述项目的源码；上述条目仅标注所借鉴的
+数学方法与算法思想的具体出处。实现细节、错误修正与本项目独有的验证
+体系 (硬不变量 + 跨库交叉验证) 见 docs/DESIGN.md。
+
+各第三方项目版权归其原作者所有，并遵循其各自的许可证。

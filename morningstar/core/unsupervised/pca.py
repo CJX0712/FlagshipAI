@@ -1,1 +1,87 @@
-IiIiUENBIOKAlOKAlCBmb3JnZSDljY/mlrnlt64gKyBKYWNvYmkg54m55b6B5YiG6KejICsg5LiN5Y+Y6YeP44CCDQoNCuS4jeWPmOmHj++8iOS4lueVjOe6p+ehrOagh+WHhu+8ie+8mg0KICAqIOWNj+aWueW3ruefqemYteWvueensOWNiuato+Wumu+8iGlzX3N5bW1ldHJpY19wc2TvvIkNCiAgKiDnibnlvoHlkJHph4/lvbzmraTmraPkuqTlvZLkuIDvvJrigJZW4bWAViDiiJIgSeKAll9GIOKJiCAwDQogICogRWNrYXJ0LVlvdW5nIOacgOS8mOaAp++8muenqS1rIOaIquaWremHjeaehOivr+W3riA9IM6jX3tqPmt9IM674rG877yIRnJvYmVuaXVzIOacgOS8mO+8iQ0KICAqIOi3qOW6k+agoemqjO+8muS4jiBza2xlYXJuLmRlY29tcG9zaXRpb24uUENBIOmHjeaehOivr+W3ri/op6Pph4rmlrnlt67kuIDoh7QNCiIiIg0KZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucw0KDQppbXBvcnQgbnVtcHkgYXMgbnANCg0KZnJvbSAuLm1hdGh4LmxpbmFsZyBpbXBvcnQgamFjb2JpX2VpZ2VuLCBvcnRob2dvbmFsaXR5X2Vycm9yLCBpc19zeW1tZXRyaWNfcHNkDQoNCg0KY2xhc3MgUENBOg0KICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuX2NvbXBvbmVudHM9Tm9uZSk6DQogICAgICAgIHNlbGYubl9jb21wb25lbnRzID0gbl9jb21wb25lbnRzDQoNCiAgICBkZWYgZml0KHNlbGYsIFgpOg0KICAgICAgICBYID0gbnAuYXNhcnJheShYLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgICAgICBzZWxmLm1lYW5fID0gWC5tZWFuKGF4aXM9MCkNCiAgICAgICAgWGMgPSBYIC0gc2VsZi5tZWFuXw0KICAgICAgICBOID0gWC5zaGFwZVswXQ0KICAgICAgICBjb3YgPSAoWGMuVCBAIFhjKSAvIChOIC0gMSkNCiAgICAgICAgZWlndmFscywgZWlndmVjcywgaW5mbyA9IGphY29iaV9laWdlbihjb3YpDQogICAgICAgICMgamFjb2JpX2VpZ2VuIOW3suWNh+W6j++8m+WPlumZjeW6jw0KICAgICAgICBzZWxmLmVpZ2VudmFsdWVzXyA9IGVpZ3ZhbHNbOjotMV0NCiAgICAgICAgc2VsZi5jb21wb25lbnRzXyA9IGVpZ3ZlY3NbOiwgOjotMV0uVCAgIyDooYwgPSDkuLvmiJDliIYNCiAgICAgICAgc2VsZi5leHBsYWluZWRfdmFyaWFuY2VfID0gc2VsZi5laWdlbnZhbHVlc18NCiAgICAgICAgc2VsZi5leHBsYWluZWRfdmFyaWFuY2VfcmF0aW9fID0gc2VsZi5laWdlbnZhbHVlc18gLyBzZWxmLmVpZ2VudmFsdWVzXy5zdW0oKQ0KICAgICAgICBzZWxmLl9YYyA9IFhjDQogICAgICAgIHNlbGYuX2NvdiA9IGNvdg0KICAgICAgICBzZWxmLl9pbmZvID0gaW5mbw0KICAgICAgICBpZiBzZWxmLm5fY29tcG9uZW50cyBpcyBOb25lOg0KICAgICAgICAgICAgc2VsZi5uX2NvbXBvbmVudHMgPSBYLnNoYXBlWzFdDQogICAgICAgIHJldHVybiBzZWxmDQoNCiAgICBkZWYgdHJhbnNmb3JtKHNlbGYsIFgpOg0KICAgICAgICBYID0gbnAuYXNhcnJheShYLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgICAgICByZXR1cm4gKFggLSBzZWxmLm1lYW5fKSBAIHNlbGYuY29tcG9uZW50c19bOiBzZWxmLm5fY29tcG9uZW50c10uVA0KDQogICAgZGVmIHJlY29uc3RydWN0KHNlbGYsIFgpOg0KICAgICAgICBaID0gc2VsZi50cmFuc2Zvcm0oWCkNCiAgICAgICAgcmV0dXJuIFogQCBzZWxmLmNvbXBvbmVudHNfWzogc2VsZi5uX2NvbXBvbmVudHNdICsgc2VsZi5tZWFuXw0KDQogICAgZGVmIHJlY29uc3RydWN0aW9uX2Vycm9yKHNlbGYsIFgpOg0KICAgICAgICBYID0gbnAuYXNhcnJheShYLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgICAgICByZWMgPSBzZWxmLnJlY29uc3RydWN0KFgpDQogICAgICAgIHJldHVybiBmbG9hdChucC5tZWFuKChYIC0gcmVjKSAqKiAyKSkNCg0KICAgIGRlZiBjaGVja19pbnZhcmlhbnRzKHNlbGYpIC0+IGRpY3Q6DQogICAgICAgIHBzZCwgbWluX2VpZyA9IGlzX3N5bW1ldHJpY19wc2Qoc2VsZi5fY292KQ0KICAgICAgICBvcnRobyA9IG9ydGhvZ29uYWxpdHlfZXJyb3Ioc2VsZi5jb21wb25lbnRzXy5UKQ0KICAgICAgICAjIEVja2FydC1Zb3VuZ++8muenqS1rIOaIquaWremHjeaehOivr+W3ru+8iOmAkOWFg+e0oOWdh+WAvO+8ieacgOS8mOOAgg0KICAgICAgICAjIFhjIOeahCBGcm9iZW5pdXMg5q6L5beuwrIgPSDOo197aj5rfSDPg19qwrLvvIwoTi0xKcK3zqNfe2o+a30gzrvisbwgPSDOo197aj5rfSDPg19qwrLjgIINCiAgICAgICAgIyByZWNvbnN0cnVjdGlvbl9lcnJvciDnlKjnmoTmmK8gbnAubWVhbigoWC1yZWMpwrIp77yI5a+55YWo6YOoIE7Ct2Qg5Liq5YWD57Sg5rGC5Z2H5YC877yJ77yMDQogICAgICAgICMg5pWF55CG6K665YC86aG75YaN6Zmk5LulIGTvvJp0aGVvID0gKE4tMSkvKE7Ct2QpIMK3IM6jX3tqPmt9IM674rG844CCDQogICAgICAgIE4sIGQgPSBzZWxmLl9YYy5zaGFwZQ0KICAgICAgICBkcm9wcGVkID0gc2VsZi5laWdlbnZhbHVlc19bc2VsZi5uX2NvbXBvbmVudHM6XQ0KICAgICAgICB0aGVvID0gZmxvYXQoZHJvcHBlZC5zdW0oKSAqIChOIC0gMSkgLyAoTiAqIGQpKQ0KICAgICAgICByZWNfZXJyID0gc2VsZi5yZWNvbnN0cnVjdGlvbl9lcnJvcihzZWxmLl9YYyArIHNlbGYubWVhbl8pDQogICAgICAgIHJldHVybiB7DQogICAgICAgICAgICAiY292X3N5bW1ldHJpY19wc2QiOiB7InZhbHVlIjogbWluX2VpZywgInRocmVzaG9sZCI6IC0xZS04LCAicGFzc2VkIjogYm9vbChwc2QpfSwNCiAgICAgICAgICAgICJlaWdlbnZlY3RvcnNfb3J0aG9ub3JtYWwiOiB7InZhbHVlIjogb3J0aG8sICJ0aHJlc2hvbGQiOiAxZS04LCAicGFzc2VkIjogYm9vbChvcnRobyA8IDFlLTgpfSwNCiAgICAgICAgICAgICJlY2thcnRfeW91bmdfb3B0aW1hbCI6IHsNCiAgICAgICAgICAgICAgICAidGhlb3JldGljYWxfZHJvcHBlZF9lbmVyZ3kiOiB0aGVvLA0KICAgICAgICAgICAgICAgICJhY3R1YWxfcmVjb25fZXJyb3IiOiByZWNfZXJyLA0KICAgICAgICAgICAgICAgICJwYXNzZWQiOiBib29sKGFicyh0aGVvIC0gcmVjX2VycikgPCAxZS02ICogbWF4KDEsIHRoZW8pKSwNCiAgICAgICAgICAgIH0sDQogICAgICAgIH0NCg0KICAgIGRlZiBjb21wYXJlX3NrbGVhcm4oc2VsZiwgWCkgLT4gZGljdDoNCiAgICAgICAgZnJvbSBza2xlYXJuLmRlY29tcG9zaXRpb24gaW1wb3J0IFBDQSBhcyBTS1BDQQ0KICAgICAgICBYID0gbnAuYXNhcnJheShYLCBkdHlwZT1ucC5mbG9hdDY0KQ0KICAgICAgICBrID0gc2VsZi5uX2NvbXBvbmVudHMNCiAgICAgICAgc2sgPSBTS1BDQShuX2NvbXBvbmVudHM9aykuZml0KFgpDQogICAgICAgIG91cl9lcnIgPSBzZWxmLnJlY29uc3RydWN0aW9uX2Vycm9yKFgpDQogICAgICAgIHNrX2VyciA9IGZsb2F0KG5wLm1lYW4oKFggLSBzay5pbnZlcnNlX3RyYW5zZm9ybShzay50cmFuc2Zvcm0oWCkpKSAqKiAyKSkNCiAgICAgICAgZXZyX2RpZmYgPSBmbG9hdChucC5tYXgobnAuYWJzKA0KICAgICAgICAgICAgc2VsZi5leHBsYWluZWRfdmFyaWFuY2VfcmF0aW9fWzprXSAtIHNrLmV4cGxhaW5lZF92YXJpYW5jZV9yYXRpb18pKSkNCiAgICAgICAgcmV0dXJuIHsNCiAgICAgICAgICAgICJyZWNvbl9lcnJvcl9vdXJzIjogb3VyX2VyciwNCiAgICAgICAgICAgICJyZWNvbl9lcnJvcl9za2xlYXJuIjogc2tfZXJyLA0KICAgICAgICAgICAgImV4cGxhaW5lZF92YXJpYW5jZV9yYXRpb19tYXhkaWZmIjogZXZyX2RpZmYsDQogICAgICAgICAgICAicGFzc2VkIjogYm9vbChhYnMob3VyX2VyciAtIHNrX2VycikgPCAxZS02ICogbWF4KDEsIHNrX2VycikgYW5kIGV2cl9kaWZmIDwgMWUtNiksDQogICAgICAgIH0NCg==
+"""PCA —— forge 协方差 + Jacobi 特征分解 + 不变量。
+
+不变量（世界级硬标准）：
+  * 协方差矩阵对称半正定（is_symmetric_psd）
+  * 特征向量彼此正交归一：‖VᵀV − I‖_F ≈ 0
+  * Eckart-Young 最优性：秩-k 截断重构误差 = Σ_{j>k} λⱼ（Frobenius 最优）
+  * 跨库校验：与 sklearn.decomposition.PCA 重构误差/解释方差一致
+"""
+from __future__ import annotations
+
+import numpy as np
+
+from ..mathx.linalg import jacobi_eigen, orthogonality_error, is_symmetric_psd
+
+
+class PCA:
+    def __init__(self, n_components=None):
+        self.n_components = n_components
+
+    def fit(self, X):
+        X = np.asarray(X, dtype=np.float64)
+        self.mean_ = X.mean(axis=0)
+        Xc = X - self.mean_
+        N = X.shape[0]
+        cov = (Xc.T @ Xc) / (N - 1)
+        eigvals, eigvecs, info = jacobi_eigen(cov)
+        # jacobi_eigen 已升序；取降序
+        self.eigenvalues_ = eigvals[::-1]
+        self.components_ = eigvecs[:, ::-1].T  # 行 = 主成分
+        self.explained_variance_ = self.eigenvalues_
+        self.explained_variance_ratio_ = self.eigenvalues_ / self.eigenvalues_.sum()
+        self._Xc = Xc
+        self._cov = cov
+        self._info = info
+        if self.n_components is None:
+            self.n_components = X.shape[1]
+        return self
+
+    def transform(self, X):
+        X = np.asarray(X, dtype=np.float64)
+        return (X - self.mean_) @ self.components_[: self.n_components].T
+
+    def reconstruct(self, X):
+        Z = self.transform(X)
+        return Z @ self.components_[: self.n_components] + self.mean_
+
+    def reconstruction_error(self, X):
+        X = np.asarray(X, dtype=np.float64)
+        rec = self.reconstruct(X)
+        return float(np.mean((X - rec) ** 2))
+
+    def check_invariants(self) -> dict:
+        psd, min_eig = is_symmetric_psd(self._cov)
+        ortho = orthogonality_error(self.components_.T)
+        # Eckart-Young：秩-k 截断重构误差（逐元素均值）最优。
+        # Xc 的 Frobenius 残差² = Σ_{j>k} σ_j²，(N-1)·Σ_{j>k} λⱼ = Σ_{j>k} σ_j²。
+        # reconstruction_error 用的是 np.mean((X-rec)²)（对全部 N·d 个元素求均值），
+        # 故理论值须再除以 d：theo = (N-1)/(N·d) · Σ_{j>k} λⱼ。
+        N, d = self._Xc.shape
+        dropped = self.eigenvalues_[self.n_components:]
+        theo = float(dropped.sum() * (N - 1) / (N * d))
+        rec_err = self.reconstruction_error(self._Xc + self.mean_)
+        return {
+            "cov_symmetric_psd": {"value": min_eig, "threshold": -1e-8, "passed": bool(psd)},
+            "eigenvectors_orthonormal": {"value": ortho, "threshold": 1e-8, "passed": bool(ortho < 1e-8)},
+            "eckart_young_optimal": {
+                "theoretical_dropped_energy": theo,
+                "actual_recon_error": rec_err,
+                "passed": bool(abs(theo - rec_err) < 1e-6 * max(1, theo)),
+            },
+        }
+
+    def compare_sklearn(self, X) -> dict:
+        from sklearn.decomposition import PCA as SKPCA
+        X = np.asarray(X, dtype=np.float64)
+        k = self.n_components
+        sk = SKPCA(n_components=k).fit(X)
+        our_err = self.reconstruction_error(X)
+        sk_err = float(np.mean((X - sk.inverse_transform(sk.transform(X))) ** 2))
+        evr_diff = float(np.max(np.abs(
+            self.explained_variance_ratio_[:k] - sk.explained_variance_ratio_)))
+        return {
+            "recon_error_ours": our_err,
+            "recon_error_sklearn": sk_err,
+            "explained_variance_ratio_maxdiff": evr_diff,
+            "passed": bool(abs(our_err - sk_err) < 1e-6 * max(1, sk_err) and evr_diff < 1e-6),
+        }

@@ -1,1 +1,39 @@
-IyBQeXRob24KX19weWNhY2hlX18vCioucHlbY29kXQoqLmVnZy1pbmZvLwpidWlsZC8KZGlzdC8KLmVnZ3MvCnBpcC13aGVlbC1tZXRhZGF0YS8KCiMg6Jma5ouf546v5aKDCi52ZW52Lwp2ZW52LwplbnYvCgojIOa1i+ivleS4juW3peWFt+e8k+WtmAoucHl0ZXN0X2NhY2hlLwoucnVmZl9jYWNoZS8KLm15cHlfY2FjaGUvCi5jb3ZlcmFnZQpodG1sY292LwouYmVuY2htYXJrcy8KCiMg6K6t57uD5Lqn54mp77yI5L+d55WZ55uu5b2V57uT5p6E5LiO6K+05piO77yM5b+955Wl5aSn5L2T56ev5p2D6YeN77yJCnJlc3VsdHMvKi5ucHoKcmVzdWx0cy8qLnB0CnJlc3VsdHMvKi5iaW4KKi5ja3B0CmNoZWNrcG9pbnRzLwoKIyBJREUgLyBPUwoudnNjb2RlLwouaWRlYS8KLkRTX1N0b3JlClRodW1icy5kYgoKIyDkuLTml7bmlofku7YKKi5sb2cKKi50bXAKdG1wLwo=
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+pip-wheel-metadata/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 测试与工具缓存
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.benchmarks/
+
+# 训练产物（保留目录结构与说明，忽略大体积权重）
+results/*.npz
+results/*.pt
+results/*.bin
+*.ckpt
+checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.log
+*.tmp
+tmp/

@@ -1,1 +1,59 @@
-IiIi56Gu5a6a5oCn5Y+v5aSN546w6ZqP5py65rqQ77yI5aSN55uY6Zet546v55qE56Gs6KaB5rGC77yJ44CCCgrorr7orqHopoHngrnvvIjpm7bph43lhpnvvIk6CgogICog55u05o6l5aSN55SoIG51bXB5IOeahCAqKlBDRzY0KiogYml0IGdlbmVyYXRvciAoYG5wLnJhbmRvbS5kZWZhdWx0X3JuZ2ApIOKAlOKAlAogICAg6L+Z5pivIE1lbGlzc2EgTydOZWlsbCBQQ0cg5a625peP55qE5LiW55WM57qn5a6e546wIChPJ05laWxsIDIwMTQp77yMCiAgICDmiJHku6zkuI3oh6rlhpkgUFJOR++8jOWPquWBmuOAjOenjeWtkOa0vuWPkeOAjei/meS4gOWxguOAggogICog5YCf6Ym0IEVmZkF0dG5Gb3JnZSDnmoQgKipzYWx0IOa0vueUnyoqIOaooeW8jzog5YWo5bGAIGJhc2Ugc2VlZCArIOWbuuWumiBzYWx0CiAgICDihpIg5q+P5Liq5a2Q5rWB5LiA5LiqIEdlbmVyYXRvcuOAgnNhbHQg5piv5Luj56CB6YeM55qE5bi46YeP77yI57ud5LiN6ZqP5py677yJ77yMCiAgICDlm6DmraTpmo/mnLrmlbDmtojogJfpobrluo/ot6jov5DooYzlrozlhajkuIDoh7Qg4oeSIOWQjCBzZWVkICoq5q+U54m557qn5Y+v5aSN546wKirjgIIKCuS4uuS7gOS5iOi/meS5iOWBmuW+iOmHjeimgToKICAgIOS4u+a1geahhuaetum7mOiupOS4jeS/neivgSBjcm9zcy1ydW4gYml0LWV4YWN0bmVzc++8iOWkmue6v+eoi+W9kue6pumhuuW6j+S4jeehruWumuOAgQogICAg6ZqQ5byP5Yid5aeL5YyW6aG65bqP5LiN56Gu5a6a77yJ44CC56eR5a2m5aSN546w6KaB5rGC44CM5ZCMIHNlZWQg4oeSIOWQjOadg+mHjSDih5Ig5ZCM5oyH5qCH44CN77yMCiAgICDmnKzmqKHlnZfmiorov5nmnaHnuqbmnZ/mmL7lvI/ljJbjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBudW1weSBhcyBucAoKIyDpu4Tph5Hmr5TkvovluLjmlbDvvIhLbnV0aCDmlaPliJfvvInvvIznlKjkuo7mioogYmFzZSBzZWVkIOS4jiBzYWx0IOa3t+WQiO+8jOmBv+WFjeS9juS9jeebuOWFs+aAp+OAggpfR09MREVOOiBpbnQgPSAweDlFMzc3OUIxCgpfQkFTRV9TRUVEOiBpbnQgPSAxMzM3CgoKZGVmIHNldF9zZWVkKHNlZWQ6IGludCkgLT4gaW50OgogICAgIiIi6K6+5a6a5YWo5bGAIGJhc2Ugc2VlZCDlubbov5Tlm57lroPjgIIiIiIKICAgIGdsb2JhbCBfQkFTRV9TRUVECiAgICBfQkFTRV9TRUVEID0gaW50KHNlZWQpCiAgICByZXR1cm4gX0JBU0VfU0VFRAoKCmRlZiBnZXRfc2VlZCgpIC0+IGludDoKICAgICIiIuivu+WPluW9k+WJjeWFqOWxgCBiYXNlIHNlZWTjgIIiIiIKICAgIHJldHVybiBpbnQoX0JBU0VfU0VFRCkKCgpkZWYgcm5nX2ZvcihzYWx0OiBpbnQsIHNlZWQ6IGludCB8IE5vbmUgPSBOb25lKSAtPiBucC5yYW5kb20uR2VuZXJhdG9yOgogICAgIiIi5rS+55Sf56Gu5a6a5oCn5a2Q5rWBOiBgYGJhc2Vfc2VlZCBYT1Igc2FsdCAqIGdvbGRlbl9yYXRpb2BgICgzMi1iaXQg5oiq5patKeOAggoKICAgIEFyZ3M6CiAgICAgICAgc2FsdDog5Luj56CB5Lit55qEKirluLjph48qKu+8iOavj+S4qua2iOi0ueeCueS4gOS4qu+8ie+8jOeUqOS6jumalOemu+S4jeWQjOeUqOmAlOeahOmaj+acuua1geOAggogICAgICAgIHNlZWQ6IOimhuebluWFqOWxgCBiYXNlIHNlZWTvvIjmtYvor5XnlKjvvInvvJtOb25lIOihqOekuueUqOWFqOWxgCBzZWVk44CCCgogICAgUmV0dXJuczoKICAgICAgICBudW1weSBHZW5lcmF0b3IgKFBDRzY0KeOAggogICAgIiIiCiAgICBiYXNlID0gX0JBU0VfU0VFRCBpZiBzZWVkIGlzIE5vbmUgZWxzZSBpbnQoc2VlZCkKICAgIG1peGVkID0gKGludChiYXNlKSBeIChpbnQoc2FsdCkgKiBfR09MREVOKSkgJiAweEZGRkZGRkZGCiAgICByZXR1cm4gbnAucmFuZG9tLmRlZmF1bHRfcm5nKG1peGVkKQoKCiMg5ZCE55So6YCU55qEIHNhbHQg5bi46YeP6KGoIOKAlOKAlCDmlLnov5nph4znrYnkuo7mlLnlrp7pqozljY/orq7vvIzlv4XpobvmmL7lvI/jgIIKU0FMVF9JTklUOiBpbnQgPSAweDAwMDEgICAgICAjIOWPguaVsOWIneWni+WMlgpTQUxUX0RBVEE6IGludCA9IDB4MDAwMiAgICAgICMg5pWw5o2u5omT5LmxIC8g6YeH5qC3ClNBTFRfRFJPUE9VVDogaW50ID0gMHgwMDAzICAgIyBkcm9wb3V0IG1hc2sKU0FMVF9CRU5DSDogaW50ID0gMHgwMDA0ICAgICAjIOWfuuWHhua1i+ivleaVsOaNrueUn+aIkApTQUxUX1NBTVBMRTogaW50ID0gMHgwMDA1ICAgICMg55Sf5oiQ6Zi25q616YeH5qC3Cg==
+"""确定性可复现随机源（复盘闭环的硬要求）。
+
+设计要点（零重写）:
+
+  * 直接复用 numpy 的 **PCG64** bit generator (`np.random.default_rng`) ——
+    这是 Melissa O'Neill PCG 家族的世界级实现 (O'Neill 2014)，
+    我们不自写 PRNG，只做「种子派发」这一层。
+  * 借鉴 EffAttnForge 的 **salt 派生** 模式: 全局 base seed + 固定 salt
+    → 每个子流一个 Generator。salt 是代码里的常量（绝不随机），
+    因此随机数消耗顺序跨运行完全一致 ⇒ 同 seed **比特级可复现**。
+
+为什么这么做很重要:
+    主流框架默认不保证 cross-run bit-exactness（多线程归约顺序不确定、
+    隐式初始化顺序不确定）。科学复现要求「同 seed ⇒ 同权重 ⇒ 同指标」，
+    本模块把这条约束显式化。
+"""
+from __future__ import annotations
+
+import numpy as np
+
+# 黄金比例常数（Knuth 散列），用于把 base seed 与 salt 混合，避免低位相关性。
+_GOLDEN: int = 0x9E3779B1
+
+_BASE_SEED: int = 1337
+
+
+def set_seed(seed: int) -> int:
+    """设定全局 base seed 并返回它。"""
+    global _BASE_SEED
+    _BASE_SEED = int(seed)
+    return _BASE_SEED
+
+
+def get_seed() -> int:
+    """读取当前全局 base seed。"""
+    return int(_BASE_SEED)
+
+
+def rng_for(salt: int, seed: int | None = None) -> np.random.Generator:
+    """派生确定性子流: ``base_seed XOR salt * golden_ratio`` (32-bit 截断)。
+
+    Args:
+        salt: 代码中的**常量**（每个消费点一个），用于隔离不同用途的随机流。
+        seed: 覆盖全局 base seed（测试用）；None 表示用全局 seed。
+
+    Returns:
+        numpy Generator (PCG64)。
+    """
+    base = _BASE_SEED if seed is None else int(seed)
+    mixed = (int(base) ^ (int(salt) * _GOLDEN)) & 0xFFFFFFFF
+    return np.random.default_rng(mixed)
+
+
+# 各用途的 salt 常量表 —— 改这里等于改实验协议，必须显式。
+SALT_INIT: int = 0x0001      # 参数初始化
+SALT_DATA: int = 0x0002      # 数据打乱 / 采样
+SALT_DROPOUT: int = 0x0003   # dropout mask
+SALT_BENCH: int = 0x0004     # 基准测试数据生成
+SALT_SAMPLE: int = 0x0005    # 生成阶段采样

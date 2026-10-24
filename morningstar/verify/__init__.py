@@ -1,1 +1,115 @@
-IiIiTDEyIOmbhuaIkOmqjOivgeWxgiDigJTigJQg5LiN5Y+Y6YePICsg6Leo5bqT5Lqk5Y+J6aqM6K+BICsg5Z+65YeGICsg5oql5ZGK55Sf5oiQ44CCCgrlr7nlpJbmj5DkvpvkuKTkuKrpobblsYLog73lips6CgogIDEuIGBgdmVyaWZ5X3N1aXRlKClgYCAgIOKAlOKAlCDmlbDlrabkuI3lj5jph48gKyBQeVRvcmNoIOS6pOWPiemqjOivgeeahOWujOaVtOmXreeOrwogIDIuIGBgYmVuY2htYXJrX3N1aXRlKClgYCDigJTigJQg5rOo5oSP5Yqb5a625peP55qE5oCn6IO9L+WGheWtmC/kv53nnJ/luqbor4TmtYsKCue7k+aenOe7n+S4gOS4uuWPryBKU09OIOW6j+WIl+WMlueahCBkaWN077yM5L6bIENMSSAvIENJIC8g5paH5qGj6Ieq5Yqo5raI6LS544CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgaW1wb3J0bGliCmltcG9ydCBqc29uCmltcG9ydCBsb2dnaW5nCmltcG9ydCBwbGF0Zm9ybQppbXBvcnQgdGltZQpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZSwgdGltZXpvbmUKZnJvbSB0eXBpbmcgaW1wb3J0IFRZUEVfQ0hFQ0tJTkcKCmZyb20gLiBpbXBvcnQgY3Jvc3NjaGVjaywgaW52YXJpYW50cwoKaWYgVFlQRV9DSEVDS0lORzogICMgcHJhZ21hOiBubyBjb3ZlciAtIOS7heS+m+exu+Wei+ajgOafpeWZqAogICAgZnJvbSAuYmVuY2htYXJrIGltcG9ydCBiZW5jaG1hcmtfYXR0ZW50aW9uLCBiZW5jaG1hcmtfbWVtb3J5X3NjYWxpbmcKICAgIGZyb20gLnJlcG9ydCBpbXBvcnQgZm9ybWF0X21hcmtkb3duX3RhYmxlLCB3cml0ZV9yZXBvcnRzCgpfTE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgpfX2FsbF9fID0gWwogICAgImJlbmNobWFya19hdHRlbnRpb24iLAogICAgImJlbmNobWFya19tZW1vcnlfc2NhbGluZyIsCiAgICAiY3Jvc3NjaGVjayIsCiAgICAiZm9ybWF0X21hcmtkb3duX3RhYmxlIiwKICAgICJpbnZhcmlhbnRzIiwKICAgICJydW5fZnVsbF92ZXJpZmljYXRpb24iLAogICAgInZlcmlmeV9zdWl0ZSIsCiAgICAid3JpdGVfcmVwb3J0cyIsCl0KCiMg5oOw5oCn5a+85YWl55qE5a2Q5qih5Z2X5oiQ5ZGYOiDpgb/lhY3niLbljIXmj5DliY0gaW1wb3J0IOWtkOaooeWdl+WvvOiHtAojIGBgcHl0aG9uIC1tIG1vcm5pbmdzdGFyLnZlcmlmeS485a2Q5qih5Z2XPmBgIOaXtiBydW5weSDph43lpI3miafooYzlkYrorabjgIIKX0xBWlkgPSB7CiAgICAiYmVuY2htYXJrX2F0dGVudGlvbiI6ICIuYmVuY2htYXJrIiwKICAgICJiZW5jaG1hcmtfbWVtb3J5X3NjYWxpbmciOiAiLmJlbmNobWFyayIsCiAgICAiZm9ybWF0X21hcmtkb3duX3RhYmxlIjogIi5yZXBvcnQiLAogICAgIndyaXRlX3JlcG9ydHMiOiAiLnJlcG9ydCIsCn0KCgpkZWYgX19nZXRhdHRyX18obmFtZTogc3RyKToKICAgIGlmIG5hbWUgaW4gX0xBWlk6CiAgICAgICAgbW9kID0gaW1wb3J0bGliLmltcG9ydF9tb2R1bGUoX0xBWllbbmFtZV0sIF9fbmFtZV9fKQogICAgICAgIHZhbCA9IGdldGF0dHIobW9kLCBuYW1lKQogICAgICAgIGdsb2JhbHMoKVtuYW1lXSA9IHZhbAogICAgICAgIHJldHVybiB2YWwKICAgIHJhaXNlIEF0dHJpYnV0ZUVycm9yKGYibW9kdWxlIHtfX25hbWVfXyFyfSBoYXMgbm8gYXR0cmlidXRlIHtuYW1lIXJ9IikKCgpkZWYgdmVyaWZ5X3N1aXRlKCkgLT4gZGljdDoKICAgICIiIui3keWFqOmDqOS4jeWPmOmHjyArIOi3qOW6k+S6pOWPiemqjOivgeOAggoKICAgIFJldHVybnM6CiAgICAgICAgYGB7InRpbWVzdGFtcCI6Li4uLCAiZW52IjouLi4sICJpbnZhcmlhbnRzIjpbLi4uXSwgImNyb3NzY2hlY2tzIjpbLi4uXSwKICAgICAgICAgICAic3VtbWFyeSI6IHsuLi59fWBgCiAgICAiIiIKICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgaW52ID0gaW52YXJpYW50cy5ydW5fYWxsKCkKICAgIGNyb3NzID0gY3Jvc3NjaGVjay5ydW5fYWxsKCkKICAgIGludl9wYXNzID0gc3VtKDEgZm9yIHIgaW4gaW52IGlmIHJbInBhc3NlZCJdKQogICAgY3Jvc3NfcGFzcyA9IHN1bSgxIGZvciByIGluIGNyb3NzIGlmIHJbInBhc3NlZCJdKQogICAgY3Jvc3NfYXZhaWwgPSBzdW0oMSBmb3IgciBpbiBjcm9zcyBpZiByLmdldCgiYXZhaWxhYmxlIiwgVHJ1ZSkpCiAgICBzdW1tYXJ5ID0gewogICAgICAgICJpbnZhcmlhbnRzX3RvdGFsIjogbGVuKGludiksCiAgICAgICAgImludmFyaWFudHNfcGFzc2VkIjogaW52X3Bhc3MsCiAgICAgICAgImNyb3NzY2hlY2tzX3RvdGFsIjogbGVuKGNyb3NzKSwKICAgICAgICAiY3Jvc3NjaGVja3NfcGFzc2VkIjogY3Jvc3NfcGFzcywKICAgICAgICAiY3Jvc3NjaGVja3NfYXZhaWxhYmxlIjogY3Jvc3NfYXZhaWwsCiAgICAgICAgImFsbF9ncmVlbiI6IGludl9wYXNzID09IGxlbihpbnYpIGFuZCBjcm9zc19wYXNzID09IGxlbihjcm9zcyksCiAgICAgICAgIndhbGxfcyI6IHJvdW5kKHRpbWUucGVyZl9jb3VudGVyKCkgLSB0MCwgMyksCiAgICB9CiAgICByZXR1cm4gewogICAgICAgICJ0aW1lc3RhbXAiOiBkYXRldGltZS5ub3codGltZXpvbmUudXRjKS5pc29mb3JtYXQodGltZXNwZWM9InNlY29uZHMiKSwKICAgICAgICAiZW52IjogewogICAgICAgICAgICAicHl0aG9uIjogcGxhdGZvcm0ucHl0aG9uX3ZlcnNpb24oKSwKICAgICAgICAgICAgInBsYXRmb3JtIjogcGxhdGZvcm0ucGxhdGZvcm0oKSwKICAgICAgICAgICAgIm51bXB5IjogX19pbXBvcnRfXygibnVtcHkiKS5fX3ZlcnNpb25fXywKICAgICAgICB9LAogICAgICAgICJpbnZhcmlhbnRzIjogaW52LAogICAgICAgICJjcm9zc2NoZWNrcyI6IGNyb3NzLAogICAgICAgICJzdW1tYXJ5Ijogc3VtbWFyeSwKICAgIH0KCgpkZWYgcnVuX2Z1bGxfdmVyaWZpY2F0aW9uKAogICAgaW5jbHVkZV9iZW5jaG1hcmtzOiBib29sID0gVHJ1ZSwKICAgIGxlbmd0aHM6IHR1cGxlW2ludCwgLi4uXSA9ICgxMjgsIDUxMiwgMTAyNCksCiAgICBkOiBpbnQgPSAzMiwKKSAtPiBkaWN0OgogICAgIiIi5LiA56uZ5byPOiDpqozor4EgKyDln7rlh4bjgILov5Tlm57lrozmlbTmiqXlkYogZGljdOOAggoKICAgIEFyZ3M6CiAgICAgICAgaW5jbHVkZV9iZW5jaG1hcmtzOiDmmK/lkKbljIXlkKvms6jmhI/lipvln7rlh4YgKOi+g+aFoiwg5Y+v5YWz6ZetKeOAggogICAgICAgIGxlbmd0aHM6ICAgICAgICAgICDln7rlh4bnmoTluo/liJfplb/luqbmoaPkvY3jgIIKICAgICAgICBkOiAgICAgICAgICAgICAgICAg5Z+65YeG55qEIGhlYWRfZGlt44CCCiAgICAiIiIKICAgIHJlcG9ydCA9IHZlcmlmeV9zdWl0ZSgpCiAgICBpZiBpbmNsdWRlX2JlbmNobWFya3M6CiAgICAgICAgIyDlh73mlbDlhoXlr7zlhaU6IOaooeWdl+e6pyBfX2dldGF0dHJfXyDmg7DmgKfmmrTpnLLlj6rkvZznlKjkuo7lsZ7mgKforr/pl64sCiAgICAgICAgIyDkuI3kvZznlKjkuo7lkIzmqKHlnZflh73mlbDkvZPlhoXnmoToo7jlkI3mn6Xmib7jgIIKICAgICAgICBmcm9tIC5iZW5jaG1hcmsgaW1wb3J0IGJlbmNobWFya19hdHRlbnRpb24sIGJlbmNobWFya19tZW1vcnlfc2NhbGluZwoKICAgICAgICByZXBvcnRbImJlbmNobWFya3MiXSA9IHsKICAgICAgICAgICAgImF0dGVudGlvbiI6IGJlbmNobWFya19hdHRlbnRpb24obGVuZ3Rocz1sZW5ndGhzLCBkPWQpLAogICAgICAgICAgICAibWVtb3J5IjogYmVuY2htYXJrX21lbW9yeV9zY2FsaW5nKGxlbmd0aHM9bGVuZ3RocywgZD1kKSwKICAgICAgICB9CiAgICByZXR1cm4gcmVwb3J0Cg==
+"""L12 集成验证层 —— 不变量 + 跨库交叉验证 + 基准 + 报告生成。
+
+对外提供两个顶层能力:
+
+  1. ``verify_suite()``   —— 数学不变量 + PyTorch 交叉验证的完整闭环
+  2. ``benchmark_suite()`` —— 注意力家族的性能/内存/保真度评测
+
+结果统一为可 JSON 序列化的 dict，供 CLI / CI / 文档自动消费。
+"""
+from __future__ import annotations
+
+import importlib
+import json
+import logging
+import platform
+import time
+from datetime import datetime, timezone
+from typing import TYPE_CHECKING
+
+from . import crosscheck, invariants
+
+if TYPE_CHECKING:  # pragma: no cover - 仅供类型检查器
+    from .benchmark import benchmark_attention, benchmark_memory_scaling
+    from .report import format_markdown_table, write_reports
+
+_LOGGER = logging.getLogger(__name__)
+
+__all__ = [
+    "benchmark_attention",
+    "benchmark_memory_scaling",
+    "crosscheck",
+    "format_markdown_table",
+    "invariants",
+    "run_full_verification",
+    "verify_suite",
+    "write_reports",
+]
+
+# 惰性导入的子模块成员: 避免父包提前 import 子模块导致
+# ``python -m morningstar.verify.<子模块>`` 时 runpy 重复执行告警。
+_LAZY = {
+    "benchmark_attention": ".benchmark",
+    "benchmark_memory_scaling": ".benchmark",
+    "format_markdown_table": ".report",
+    "write_reports": ".report",
+}
+
+
+def __getattr__(name: str):
+    if name in _LAZY:
+        mod = importlib.import_module(_LAZY[name], __name__)
+        val = getattr(mod, name)
+        globals()[name] = val
+        return val
+    raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
+
+
+def verify_suite() -> dict:
+    """跑全部不变量 + 跨库交叉验证。
+
+    Returns:
+        ``{"timestamp":..., "env":..., "invariants":[...], "crosschecks":[...],
+           "summary": {...}}``
+    """
+    t0 = time.perf_counter()
+    inv = invariants.run_all()
+    cross = crosscheck.run_all()
+    inv_pass = sum(1 for r in inv if r["passed"])
+    cross_pass = sum(1 for r in cross if r["passed"])
+    cross_avail = sum(1 for r in cross if r.get("available", True))
+    summary = {
+        "invariants_total": len(inv),
+        "invariants_passed": inv_pass,
+        "crosschecks_total": len(cross),
+        "crosschecks_passed": cross_pass,
+        "crosschecks_available": cross_avail,
+        "all_green": inv_pass == len(inv) and cross_pass == len(cross),
+        "wall_s": round(time.perf_counter() - t0, 3),
+    }
+    return {
+        "timestamp": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "env": {
+            "python": platform.python_version(),
+            "platform": platform.platform(),
+            "numpy": __import__("numpy").__version__,
+        },
+        "invariants": inv,
+        "crosschecks": cross,
+        "summary": summary,
+    }
+
+
+def run_full_verification(
+    include_benchmarks: bool = True,
+    lengths: tuple[int, ...] = (128, 512, 1024),
+    d: int = 32,
+) -> dict:
+    """一站式: 验证 + 基准。返回完整报告 dict。
+
+    Args:
+        include_benchmarks: 是否包含注意力基准 (较慢, 可关闭)。
+        lengths:           基准的序列长度档位。
+        d:                 基准的 head_dim。
+    """
+    report = verify_suite()
+    if include_benchmarks:
+        # 函数内导入: 模块级 __getattr__ 惰性暴露只作用于属性访问,
+        # 不作用于同模块函数体内的裸名查找。
+        from .benchmark import benchmark_attention, benchmark_memory_scaling
+
+        report["benchmarks"] = {
+            "attention": benchmark_attention(lengths=lengths, d=d),
+            "memory": benchmark_memory_scaling(lengths=lengths, d=d),
+        }
+    return report

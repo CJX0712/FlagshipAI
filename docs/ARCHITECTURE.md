@@ -1,1 +1,210 @@
-IyDmnrbmnoTor7TmmI4gwrcgTW9ybmluZ1N0YXIgRmxhZ3NoaXBBSQoKPiDkvZzogIXvvJrmmajmmJ8gKE1vcm5pbmdTdGFyKSDCtyB2MS4wLjAKCi0tLQoKIyMg5LiA44CB5Y2B5LqM5bGC5pig5bCECgp8IOWxgiB8IOaooeWdlyB8IOiBjOi0oyB8IOS4lueVjOe6p+WHuuWkhCB8CnwgLS0tIHwgLS0tIHwgLS0tIHwgLS0tIHwKfCAqKkwxMioqIHwgYG1vcm5pbmdzdGFyLnZlcmlmeWAgfCDkuI3lj5jph48gwrcg6Leo5bqT5Lqk5Y+J6aqM6K+BIMK3IOWfuuWHhiDCtyDmiqXlkYrnlJ/miJAgfCDigJQg77yI5pys6aG555uu5Y6f5Yib77yJIHwKfCAqKkwxMSoqIHwgYG1vcm5pbmdzdGFyLmZsYXNoYCB8IEdQVCDlhoXmoLjvvJpSb1BFIC8gUk1TTm9ybSAvIFN3aUdMVSAvIEdRQSAvIEtWLUNhY2hlIC8gQlBFIC8gQWRhbVcgfCBWYXN3YW5pIDIwMTc7IERhbyAyMDIzOyBTdSAyMDIxOyBaaGFuZyAyMDE5OyBTaGF6ZWVyIDIwMjA7IFRvdXZyb24gMjAyMzsgU2VubnJpY2ggMjAxNjsgTG9zaGNoaWxvdiAyMDE5IHwKfCAqKkwxMCoqIHwgYG1vcm5pbmdzdGFyLmF0dGVudGlvbmAgfCDms6jmhI/lipvlrrbml4/vvJpmdWxsIC8gZmxhc2ggLyBsaW5lYXIgLyBwZXJmb3JtZXIgLyBsb2NhbCAvIHNwYXJzZSAvIGZ1c2UgfCBWYXN3YW5pIDIwMTc7IERhbyAyMDIzOyBLYXRoYXJvcG91bG9zIDIwMjA7IENob3JvbWFuc2tpIDIwMjE7IEJlbHRhZ3kgMjAyMDsgQ2hpbGQgMjAxOSB8CnwgKipMOSoqIHwgYG1vcm5pbmdzdGFyLmNvcmUuZGVlcGAgfCBNTFAgwrcg5aSa5aS05rOo5oSP5YqbIHwgUnVtZWxoYXJ0IDE5ODY7IFZhc3dhbmkgMjAxNyB8CnwgKipMOCoqIHwgYG1vcm5pbmdzdGFyLmNvcmUudW5zdXBlcnZpc2VkLnBjYWAgfCDkuLvmiJDliIbliIbmnpAgfCBUaXBwaW5nICYgQmlzaG9wIDE5OTk7IFBlYXJzb24gMTkwMSB8CnwgKipMNyoqIHwgYG1vcm5pbmdzdGFyLmNvcmUudW5zdXBlcnZpc2VkLmttZWFuc2AgYGdtbWAgfCBLLU1lYW5zIMK3IOmrmOaWr+a3t+WQiCB8IExsb3lkIDE5ODI7IERlbXBzdGVyIDE5NzcgfAp8ICoqTDYqKiB8IGBtb3JuaW5nc3Rhci5jb3JlLnN1cGVydmlzZWQua25uYCBgbmFpdmVfYmF5ZXNgIHwgay1OTiDCtyDmnLTntKDotJ3lj7bmlq8gfCBDb3ZlciAmIEhhcnQgMTk2NzsgTWNDYWxsdW0gJiBOaWdhbSAxOTk4IHwKfCAqKkw1KiogfCBgbW9ybmluZ3N0YXIuY29yZS5zdXBlcnZpc2VkLnN2bWAgfCDmlK/mjIHlkJHph4/mnLogfCBDb3J0ZXMgJiBWYXBuaWsgMTk5NTsgQm9zZXIgMTk5MiB8CnwgKipMNCoqIHwgYG1vcm5pbmdzdGFyLmNvcmUuc3VwZXJ2aXNlZC5saW5lYXJgIGBsb2dpc3RpY2AgfCDnur/mgKflm57lvZIgwrcg6YC76L6R5Zue5b2SIHwgTmVsZGVyICYgV2VkZGVyYnVybiAxOTcyOyBWZXJodWxzdCAxODM4IHwKfCAqKkwzKiogfCBgbW9ybmluZ3N0YXIuY29yZS5tYXRoeC5vcHRpbWl6ZWAgKyBgZmxhc2gub3B0aW1gIHwg5qKv5bqm5LiL6ZmNIMK3IOair+W6puajgOmqjCDCtyBBZGFtVyB8IENhdWNoeSAxODQ3OyBMb3NoY2hpbG92ICYgSHV0dGVyIDIwMTkgfAp8ICoqTDIqKiB8IGBtb3JuaW5nc3Rhci5jb3JlLm1hdGh4YCB8IOamgueOh+e7n+iuoSDCtyDkv6Hmga/orrogwrcgbG9nc3VtZXhwIHwgU2hhbm5vbiAxOTQ4OyBQZWFybCAxOTg4IHwKfCAqKkwxKiogfCBgbW9ybmluZ3N0YXIuY29yZS5tYXRoeC5saW5hbGdgIHwg57q/5oCn5Luj5pWw77yaQ2hvbGVza3kgLyBKYWNvYmkgLyBRUiB8IENob2xlc2t5IDE5MTA7IEphY29iaSAxODQ2IHwKCi0tLQoKIyMg5LqM44CB5qih5Z2X5L6d6LWW5Zu+CgpgYGAKICAgICAgICAgICAgICAgICAgICAgICAgbW9ybmluZ3N0YXIvCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCCiAgICAgICAg4pSM4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pS84pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSQCiAgICAgICAg4pSCICAgICAgICAgICAgICAgICAgICDilIIgICAgICAgICAgICAgICAgICAgIOKUggogICAgICAgIOKWvCAgICAgICAgICAgICAgICAgICAg4pa8ICAgICAgICAgICAgICAgICAgICDilrwKICAgY29yZS8gICAgICAgICAgICAgICAgYXR0ZW50aW9uLyAgICAgICAgICAgIHZlcmlmeS8KICAgKEwx4oCTTDkpICAgICAgICAgICAgICAgKEwxMCkgICAgICAgICAgICAgICAgKEwxMikKICAgICAgICDilIIgICAgICAgICAgICAgICAgICAgIOKUgiAgICAgICAgICAgICAgICAgICAg4pSCCiAgICAgICAg4pSCICAgICAgICAgICAgICAgICAgICDilIIgIOS+nei1liBmbGFzaC5hdHRlbnRpb24g4pSCCiAgICAgICAg4pSCICAgICAgICAgICAgICAgICAgICDilrwgICAgICAgICAgICAgICAgICAgIOKUggogICAgICAgIOKUgiAgICAgICAgICAgICAgZmxhc2gvYXR0ZW50aW9uLnB5ICAgICAgICAg4pSCCiAgICAgICAg4pSCICAgICAgICAgICAgICAgICAgICDilIIgICAgICAgICAgICAgICAgICAgIOKUggogICAgICAgIOKUgiAgICAgICAgICAgICAgICAgICAg4pa8ICAgICAgICAgICAgICAgICAgICDilrwKICAgICAgICDilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilrYgZmxhc2gvICDil4DilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJgKICAgICAgICAgICAgICAgICAgICAgICAgKEwxMSkKICAgICAgICAgICAgICAgICAgICAgYXR0ZW50aW9uICBvcHRpbSAgbW9kdWxlcwogICAgICAgICAgICAgICAgICAgICBtb2RlbCAgdHJhaW5lciAgdG9rZW5pemVyICByYW5kb20KYGBgCgoqKuWIhuWxguinhOWImSoq77yI5Lil5qC85Y2V5ZCR77yM56aB5q2i5Y+N5ZCR5L6d6LWW77yJ77yaCgoxLiBgY29yZWAgKirkuI3kvp3otZYqKiBgZmxhc2hgIC8gYGF0dGVudGlvbmAgLyBgdmVyaWZ5YOKAlOKAlOWug+aYr+e6r+aVsOWtpuW6leW6p+OAggoyLiBgZmxhc2hgIOS+nei1liBgY29yZWDvvIjlj6/pgInvvInkuI4gbnVtcHnvvJsqKuS4jeS+nei1lioqIGBhdHRlbnRpb25gIOWutuaXj+WxggogICDvvIjlroPmnInoh6rlt7HnmoQgYGZsYXNoL2F0dGVudGlvbi5weWAg5YaF5qC45a6e546w77yJ44CCCjMuIGBhdHRlbnRpb25gIOS+nei1liBgZmxhc2guYXR0ZW50aW9uYCDnmoTlupXlsYLljp/or63vvIhgbmFpdmVfYXR0ZW50aW9uX2ZvcndhcmRgIC8KICAgYGZsYXNoX2F0dGVudGlvbl9mb3J3YXJkYCAvIGBLVkNhY2hlYO+8ieOAggo0LiBgdmVyaWZ5YCDkvp3otZblhajpg6jkuIvlsYLigJTigJTlroPmmK8qKuWUr+S4gCoq5YWB6K645qiq5ZCR5L6d6LWW55qE5bGC77yM5Zug5Li65a6D55qE6IGM6LSjCiAgIOaBsOaBsOaYr+S6pOWPiemqjOivgeOAggoKPiAqKuS4uuS9lSBgZmxhc2gvYXR0ZW50aW9uLnB5YCDkuI4gYGF0dGVudGlvbi9fX2luaXRfXy5weWAg5bm25a2YKirvvJoKPiDliY3ogIXmmK8qKuWGheaguOWOn+ivrSoq77yI57uZ5a6aIHEvay92IOefqemYteWBmuS4gOasoeazqOaEj+WKm++8jOiiqyBHUFQg5qih5Z6L5YaF6YOo6LCD55So77yJ77ybCj4g5ZCO6ICF5pivKirms6jmhI/lipvlrrbml4/nrZbnlaXlsYIqKu+8iOe7n+S4gOeahCBgYXR0ZW5kKClgIOWNj+iuriArIOWfuuWHhiArIOi3r+eUse+8ieOAggo+IOS4pOiAheiBjOi0o+S4jeWQjO+8jOaVheWIhuWxguiAjOmdnuWQiOW5tuOAggoKLS0tCgojIyDkuInjgIHmoLjlv4PmlbDmja7mtYEKCiMjIyAzLjEg6K6t57uD77yIYGVuZ2luZT0ibmFpdmUiYO+8iQoKYGBgCnRva2VucyDilIDilIBtYWtlX2JhdGNoZXPilIDilIDilrYgKHgsIHkpICAgICAgICAgICAgICAgICAgICAg5q+P5qC35pys54us56uL5YmN5ZCRCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCCiAgIGlkeCAoVCwpIOKUgOKUgOKWtiBlbWJlZCBsb29rdXAg4pSA4pSA4pa2IHggKFQsIEMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCCiAgICAgICAg4pSM4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pS04pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSQCiAgICAgICAg4pSCICDmr4/lsYI6ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKUggogICAgICAgIOKUgiAgIGgxID0gUk1TTm9ybSh4KSAgICAgICAgICAgICAgICAgICAgICDilIIKICAgICAgICDilIIgICBxLGssdiA9IGgxIEAgV3txLGssdn0gICAgICAgICAgICAgICAg4pSCCiAgICAgICAg4pSCICAgcWgsa2ggPSBSb1BFKHEsaywgcG9zKSAgICAgICAgICAgICAgIOKUggogICAgICAgIOKUgiAgIFAgPSBzb2Z0bWF4KHFowrdraOG1gC/iiJpkaCArIGNhdXNhbCkgICAgIOKUgiAg4oaQIOeJqeWMliAoVCxUKe+8jOWPjeWQkemcgOimgQogICAgICAgIOKUgiAgIGF0dG5fb3V0ID0gKFDCt3ZoKSBAIFdvICAgICAgICAgICAgICAg4pSCCiAgICAgICAg4pSCICAgeDIgPSB4ICsgYXR0bl9vdXQgICAgICAgICAgICAgICAgICAgIOKUggogICAgICAgIOKUgiAgIGgyID0gUk1TTm9ybSh4MikgICAgICAgICAgICAgICAgICAgICDilIIKICAgICAgICDilIIgICBmZm4gPSAoU3dpc2goaDJAV2cpIOKKmSBoMkBXdSkgQCBXZCAgICDilIIKICAgICAgICDilIIgICB4ICA9IHgyICsgZmZuICAgICAgICAgICAgICAgICAgICAgICAg4pSCCiAgICAgICAg4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSs4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSYCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCCiAgICAgICAgICAgICAgICAgICAgeGYgPSBSTVNOb3JtKHgpCiAgICAgICAgICAgICAgICAgICAgbG9naXRzID0geGYgQCBsbV9oZWFkCiAgICAgICAgICAgICAgICAgICAgbG9zcyA9IENyb3NzRW50cm9weShsb2dpdHMsIHRhcmdldHMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCCiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2t3YXJkKCkgIOKGkCDmiYvlhpnop6PmnpDmoq/luqYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilIIKICAgICAgICAgICAgICAgICAgICAgICAgQWRhbVcuc3RlcChwYXJhbXMsIGdyYWRzKQpgYGAKCioq5q6L5beu5ouT5omR77yI5Y+N5ZCR55qE5qC45b+D77yJKirvvJoKCmBgYAp4X291dCA9IHgyICsgZmZuLCAgIHgyID0geF9pbiArIGF0dG5fb3V0CgriiIJ4X2luID0g4oiCeDIgKOaui+W3ruebtOi/nikgICsgIOKIgngyL+KIgmF0dG5fb3V0IMK3IOKIgmF0dG5fb3V0L+KIgnhfaW4KICAgICAgPSBkeDIgICAgICAgICAgICAgKyAgUk1TTm9ybeKCgV9id2QoIGRhdHRuX291dCApCmBgYAoK5Lu75L2V5q6L5beu55u06L+e6aG555qE6YGX5ryP6YO95Lya6K6p5qKv5bqm6K+v5beuKirpmo/lsYLmlbDmlL7lpKflubblj43lj7cqKuKAlOKAlOi/meato+aYrwpbREVTSUdOLm1kIMKnMy4xXShERVNJR04ubWQjMzEtcm9wZS3pgIbml4vovazotJ/ntKLlvJXlm57nu5Xmoq/luqbmo4DpqowtZzEpIOaOkuafpeaXtueahOeOsOixoeOAggoKIyMjIDMuMiDmjqjnkIbvvIhgZW5naW5lPSJmbGFzaCJgICsgS1YtQ2FjaGXvvIkKCmBgYApwcmVmaWxsOiAgZm9yd2FyZChwcm9tcHQsIGVuZ2luZT0iZmxhc2giLCBrdl9jYWNoZV9wZXJfbGF5ZXI9Y2FjaGVzLCBzdGFydF9wb3M9MCkKICAgICAgICAgIOKGkiBLViDnvJPlrZjlhpnlhaUgcHJvbXB0IOWFqOmDqOS9jee9rueahCBLL1YKICAgICAgICAgIOKGkiDlj5bmnIDlkI7kuIDooYwgbG9naXRzIOmHh+agt+esrOS4gOS4quaWsCB0b2tlbgoKZGVjb2RlOiAgIGZvciB0IGluIHJhbmdlKG1heF9uZXdfdG9rZW5zIC0gMSk6CiAgICAgICAgICAgICAgZm9yd2FyZChbbGFzdF0sIGVuZ2luZT0iZmxhc2giLAogICAgICAgICAgICAgICAgICAgICAga3ZfY2FjaGVfcGVyX2xheWVyPWNhY2hlcywgc3RhcnRfcG9zPXBvcykKICAgICAgICAgICAgICDihpIg57yT5a2Y6L+95YqgIDEg5Liq5L2N572u55qEIEsvVgogICAgICAgICAgICAgIOKGkiDms6jmhI/lipvlr7njgIznvJPlrZjkuK3lhajpg6jkvY3nva4gKyDmlrDkvY3nva7jgI3orqHnrpcKICAgICAgICAgICAgICDihpIg6YeH5qC35LiL5LiA5LiqIHRva2VuCmBgYAoK5aSN5p2C5bqm77yacHJlZmlsbCBPKFTCsmQp77yM5q+P5q2lIGRlY29kZSBPKFRkKSDigJTigJQgKirmgLvku6Pku7cgTyhUwrJkKSDkvYbmmL7lrZggTyhUwrdkKSoq44CCCgoqKuS9jee9ruWvuem9kCoq77yIYHN0YXJ0X3Bvc2DvvInvvJpxdWVyeSDnmoTnu53lr7nkvY3nva4gPSBgc3RhcnRfcG9zICsgaWDvvJsKUm9QRSDnlKjlkIzkuIDnu4TkvY3nva7ml4vovawgUSDkuI4gS++8jOe8k+WtmOS4reW3suWtmOeahCBLIOS/neaMgeWFtuWOn+Wni+aXi+i9rOinkuW6puOAggoKIyMjIDMuMyDpqozor4HkuI7ln7rlh4YKCmBgYAptb3JuaW5nc3Rhci52ZXJpZnkK4pSc4pSA4pSAIGludmFyaWFudHMucnVuX2FsbCgpICAgICAgMTYg5p2h5pWw5a2m5LiN5Y+Y6YeP77yI57qvIG51bXB577yM5peg5aSW6YOo5L6d6LWW77yJCuKUnOKUgOKUgCBjcm9zc2NoZWNrLnJ1bl9hbGwoKSAgICAgIDcg6aG5IFB5VG9yY2gg5Lqk5Y+J6aqM6K+B77yI6ZyAIHRvcmNo77yM57y65aSx5YiZ5qCH6K6w6Lez6L+H77yJCuKUnOKUgOKUgCBiZW5jaG1hcmsK4pSCICAg4pSc4pSA4pSAIGJlbmNobWFya19hdHRlbnRpb24oKSA3IOWPmOS9kyDDlyDogJfml7Yv5YaF5a2YL+S/neecn+W6pi/mo4DntKLnjocK4pSCICAg4pSc4pSA4pSAIGJlbmNobWFya19tZW1vcnlfc2NhbGluZygpICBuYWl2ZSBPKFTCsikgdnMgZmxhc2ggTyhUKQrilIIgICDilJTilIDilIAgY2hlY2tfZGV0ZXJtaW5pc21fcmVydW5zKCkg5ZCMIHNlZWQg6YeN5aSN6L+Q6KGMCuKUlOKUgOKUgCByZXBvcnQKICAgIOKUnOKUgOKUgCBmb3JtYXRfbWFya2Rvd25fdGFibGUoKQogICAg4pSc4pSA4pSAIHJlbmRlcl92ZXJpZmljYXRpb25fbWQoKQogICAg4pSU4pSA4pSAIHdyaXRlX3JlcG9ydHMoKSAg4oaSICByZXN1bHRzL3ZlcmlmaWNhdGlvbi5qc29uICsgcmVzdWx0cy9WRVJJRklDQVRJT04ubWQKYGBgCgotLS0KCiMjIOWbm+OAgeaJqeWxleaMh+WNlwoKIyMjIOWKoOS4gOS4quaWsOeahOazqOaEj+WKm+WPmOS9kwoKYGBgcHl0aG9uCmZyb20gbW9ybmluZ3N0YXIuYXR0ZW50aW9uIGltcG9ydCBBdHRlbnRpb25PdXRwdXQKCmNsYXNzIE15QXR0ZW50aW9uOgogICAgbmFtZSA9ICJteV9hdHRlbnRpb24iCiAgICBkZWYgYXR0ZW5kKHNlbGYsIHEsIGssIHYpIC0+IEF0dGVudGlvbk91dHB1dDoKICAgICAgICBvdXQgPSAuLi4gICAgICAgICAgIyAoVCwgZCkKICAgICAgICByZXR1cm4gQXR0ZW50aW9uT3V0cHV0KG91dCwgTm9uZSwgY29zdF9zLCBtZW1fcGVha19tYiwgc2VsZi5uYW1lKQogICAgZGVmIHRoZW9yZXRpY2FsX2NvbXBsZXhpdHkoc2VsZiwgVCwgZCkgLT4gc3RyOgogICAgICAgIHJldHVybiAiTyguLi4pIgoKIyDms6jlhowKX1JFR0lTVFJZWyJteV9hdHRlbnRpb24iXSA9IE15QXR0ZW50aW9uCmBgYAoK5Y2P6K6u77yIYEF0dGVudGlvbk1lY2hhbmlzbWAgUHJvdG9jb2zvvInopoHmsYLvvJpgbmFtZWAg5bGe5oCnICsgYGF0dGVuZCgpYCArCmB0aGVvcmV0aWNhbF9jb21wbGV4aXR5KClg44CC5rOo5YaM5ZCO6Ieq5Yqo6L+b5YWl5Z+65YeG5LiOIGBsaXN0X3ZhcmlhbnRzKClg44CCCgojIyMg5Yqg5LiA5p2h56Gs5LiN5Y+Y6YePCgpgYGBweXRob24KZnJvbSBtb3JuaW5nc3Rhci52ZXJpZnkuaW52YXJpYW50cyBpbXBvcnQgX3JlcwoKZGVmIGNoZWNrX215X2ludmFyaWFudCh0b2w6IGZsb2F0ID0gMWUtOSkgLT4gZGljdDoKICAgIC4uLgogICAgcmV0dXJuIF9yZXMoIlg5X215X2ludmFyaWFudCIsIHZhbHVlLCB0b2wsIHZhbHVlIDwgdG9sLCAi6K+05piOIikKCiMg5rOo5YaM5YiwIEFMTF9JTlZBUklBTlRTCkFMTF9JTlZBUklBTlRTWyJYOV9teV9pbnZhcmlhbnQiXSA9IGNoZWNrX215X2ludmFyaWFudApgYGAKCmBfcmVzYCDnu5/kuIDkuqflh7ogYHtuYW1lLCB2YWx1ZSwgdGhyZXNob2xkLCBwYXNzZWQsIGRldGFpbH1g77yM6Ieq5Yqo6KKr5oql5ZGK55Sf5oiQ5ZmoCua4suafk+aIkCBNYXJrZG93biDooajmoLzjgIIKCiMjIyDliqDkuIDpobnot6jlupPkuqTlj4npqozor4EKCmBgYHB5dGhvbgpmcm9tIG1vcm5pbmdzdGFyLnZlcmlmeS5jcm9zc2NoZWNrIGltcG9ydCBfcmVzLCBfdG9yY2gKCmRlZiBjcm9zc19teV9vcChzZWVkOiBpbnQgPSAwLCB0b2w6IGZsb2F0ID0gMWUtMTIpIC0+IGRpY3Q6CiAgICB0b3JjaCA9IF90b3JjaCgpCiAgICBpZiB0b3JjaCBpcyBOb25lOgogICAgICAgIHJldHVybiBfc2tpcCgiWDEwX215X29wIikKICAgIC4uLgogICAgcmV0dXJuIF9yZXMoIlgxMF9teV9vcCIsIGRpZmYsIHRvbCwgZGlmZiA8IHRvbCwgIuivtOaYjiIpCmBgYAoKLS0tCgojIyDkupTjgIHkvp3otZbnrZbnlaUKCnwg5L6d6LWWIHwg5b+F6ZyA5oCnIHwg55So6YCUIHwKfCAtLS0gfCAtLS0gfCAtLS0gfAp8IGBudW1weWAgfCAqKuW/hemcgCoqIHwg5YWo6YOo5pWw5YC86K6h566XIHwKfCBgdG9yY2hgIHwg5Y+v6YCJIHwg6Leo5bqT5Lqk5Y+J6aqM6K+B77yIWDHigJNYN++8ie+8m+e8uuWkseaXtuebuOWFs+mhueagh+iusCBgYXZhaWxhYmxlPUZhbHNlYCDogIzpnZ7lpLHotKUgfAp8IGBzY2lweWAgfCDlj6/pgIkgfCDnu4/lhbggTUwg5bGC55qE6YOo5YiG5a+554Wn5a6e6aqMIHwKfCBgc2Npa2l0LWxlYXJuYCB8IOWPr+mAiSB8IFBDQSAvIEtNZWFucyAvIEdNTSDnmoTot6jlupPlr7nnhacgfAp8IGBweXRlc3RgIHwg5byA5Y+RIHwg5Y2V5YWD5rWL6K+VIHwKCioq6K6+6K6h5Y6f5YiZKirvvJrmoLjlv4Plip/og73pm7bph43kvp3otZbvvIjlj6rpnIAgbnVtcHnvvInvvIzlj6/pgInkvp3otZblj6rnlKjkuo4qKumqjOivgSoq6ICM6Z2eCioq5a6e546wKirigJTigJTov5nmoLfku7vkvZXkurrpg73og73lnKjoo7ggbnVtcHkg546v5aKD5LiL6LeR6YCa5a6M5pW055qE5LiN5Y+Y6YeP5aWX5Lu244CCCg==
+# 架构说明 · MorningStar FlagshipAI
+
+> 作者：晨星 (MorningStar) · v1.0.0
+
+---
+
+## 一、十二层映射
+
+| 层 | 模块 | 职责 | 世界级出处 |
+| --- | --- | --- | --- |
+| **L12** | `morningstar.verify` | 不变量 · 跨库交叉验证 · 基准 · 报告生成 | — （本项目原创） |
+| **L11** | `morningstar.flash` | GPT 内核：RoPE / RMSNorm / SwiGLU / GQA / KV-Cache / BPE / AdamW | Vaswani 2017; Dao 2023; Su 2021; Zhang 2019; Shazeer 2020; Touvron 2023; Sennrich 2016; Loshchilov 2019 |
+| **L10** | `morningstar.attention` | 注意力家族：full / flash / linear / performer / local / sparse / fuse | Vaswani 2017; Dao 2023; Katharopoulos 2020; Choromanski 2021; Beltagy 2020; Child 2019 |
+| **L9** | `morningstar.core.deep` | MLP · 多头注意力 | Rumelhart 1986; Vaswani 2017 |
+| **L8** | `morningstar.core.unsupervised.pca` | 主成分分析 | Tipping & Bishop 1999; Pearson 1901 |
+| **L7** | `morningstar.core.unsupervised.kmeans` `gmm` | K-Means · 高斯混合 | Lloyd 1982; Dempster 1977 |
+| **L6** | `morningstar.core.supervised.knn` `naive_bayes` | k-NN · 朴素贝叶斯 | Cover & Hart 1967; McCallum & Nigam 1998 |
+| **L5** | `morningstar.core.supervised.svm` | 支持向量机 | Cortes & Vapnik 1995; Boser 1992 |
+| **L4** | `morningstar.core.supervised.linear` `logistic` | 线性回归 · 逻辑回归 | Nelder & Wedderburn 1972; Verhulst 1838 |
+| **L3** | `morningstar.core.mathx.optimize` + `flash.optim` | 梯度下降 · 梯度检验 · AdamW | Cauchy 1847; Loshchilov & Hutter 2019 |
+| **L2** | `morningstar.core.mathx` | 概率统计 · 信息论 · logsumexp | Shannon 1948; Pearl 1988 |
+| **L1** | `morningstar.core.mathx.linalg` | 线性代数：Cholesky / Jacobi / QR | Cholesky 1910; Jacobi 1846 |
+
+---
+
+## 二、模块依赖图
+
+```
+                        morningstar/
+                             │
+        ┌────────────────────┼────────────────────┐
+        │                    │                    │
+        ▼                    ▼                    ▼
+   core/                attention/            verify/
+   (L1–L9)               (L10)                (L12)
+        │                    │                    │
+        │                    │  依赖 flash.attention │
+        │                    ▼                    │
+        │              flash/attention.py         │
+        │                    │                    │
+        │                    ▼                    ▼
+        └──────────────▶ flash/  ◀───────────────┘
+                        (L11)
+                     attention  optim  modules
+                     model  trainer  tokenizer  random
+```
+
+**分层规则**（严格单向，禁止反向依赖）：
+
+1. `core` **不依赖** `flash` / `attention` / `verify`——它是纯数学底座。
+2. `flash` 依赖 `core`（可选）与 numpy；**不依赖** `attention` 家族层
+   （它有自己的 `flash/attention.py` 内核实现）。
+3. `attention` 依赖 `flash.attention` 的底层原语（`naive_attention_forward` /
+   `flash_attention_forward` / `KVCache`）。
+4. `verify` 依赖全部下层——它是**唯一**允许横向依赖的层，因为它的职责
+   恰恰是交叉验证。
+
+> **为何 `flash/attention.py` 与 `attention/__init__.py` 并存**：
+> 前者是**内核原语**（给定 q/k/v 矩阵做一次注意力，被 GPT 模型内部调用）；
+> 后者是**注意力家族策略层**（统一的 `attend()` 协议 + 基准 + 路由）。
+> 两者职责不同，故分层而非合并。
+
+---
+
+## 三、核心数据流
+
+### 3.1 训练（`engine="naive"`）
+
+```
+tokens ──make_batches──▶ (x, y)                     每样本独立前向
+                             │
+   idx (T,) ──▶ embed lookup ──▶ x (T, C)
+                             │
+        ┌────────────────────┴────────────────────┐
+        │  每层:                                  │
+        │   h1 = RMSNorm(x)                      │
+        │   q,k,v = h1 @ W{q,k,v}                │
+        │   qh,kh = RoPE(q,k, pos)               │
+        │   P = softmax(qh·khᵀ/√dh + causal)     │  ← 物化 (T,T)，反向需要
+        │   attn_out = (P·vh) @ Wo               │
+        │   x2 = x + attn_out                    │
+        │   h2 = RMSNorm(x2)                     │
+        │   ffn = (Swish(h2@Wg) ⊙ h2@Wu) @ Wd    │
+        │   x  = x2 + ffn                        │
+        └────────────────────┬────────────────────┘
+                             │
+                    xf = RMSNorm(x)
+                    logits = xf @ lm_head
+                    loss = CrossEntropy(logits, targets)
+                             │
+                        backward()  ← 手写解析梯度
+                             │
+                        AdamW.step(params, grads)
+```
+
+**残差拓扑（反向的核心）**：
+
+```
+x_out = x2 + ffn,   x2 = x_in + attn_out
+
+∂x_in = ∂x2 (残差直连)  +  ∂x2/∂attn_out · ∂attn_out/∂x_in
+      = dx2             +  RMSNorm₁_bwd( dattn_out )
+```
+
+任何残差直连项的遗漏都会让梯度误差**随层数放大并反号**——这正是
+[DESIGN.md §3.1](DESIGN.md#31-rope-逆旋转负索引回绕梯度检验-g1) 排查时的现象。
+
+### 3.2 推理（`engine="flash"` + KV-Cache）
+
+```
+prefill:  forward(prompt, engine="flash", kv_cache_per_layer=caches, start_pos=0)
+          → KV 缓存写入 prompt 全部位置的 K/V
+          → 取最后一行 logits 采样第一个新 token
+
+decode:   for t in range(max_new_tokens - 1):
+              forward([last], engine="flash",
+                      kv_cache_per_layer=caches, start_pos=pos)
+              → 缓存追加 1 个位置的 K/V
+              → 注意力对「缓存中全部位置 + 新位置」计算
+              → 采样下一个 token
+```
+
+复杂度：prefill O(T²d)，每步 decode O(Td) —— **总代价 O(T²d) 但显存 O(T·d)**。
+
+**位置对齐**（`start_pos`）：query 的绝对位置 = `start_pos + i`；
+RoPE 用同一组位置旋转 Q 与 K，缓存中已存的 K 保持其原始旋转角度。
+
+### 3.3 验证与基准
+
+```
+morningstar.verify
+├── invariants.run_all()      16 条数学不变量（纯 numpy，无外部依赖）
+├── crosscheck.run_all()      7 项 PyTorch 交叉验证（需 torch，缺失则标记跳过）
+├── benchmark
+│   ├── benchmark_attention() 7 变体 × 耗时/内存/保真度/检索率
+│   ├── benchmark_memory_scaling()  naive O(T²) vs flash O(T)
+│   └── check_determinism_reruns() 同 seed 重复运行
+└── report
+    ├── format_markdown_table()
+    ├── render_verification_md()
+    └── write_reports()  →  results/verification.json + results/VERIFICATION.md
+```
+
+---
+
+## 四、扩展指南
+
+### 加一个新的注意力变体
+
+```python
+from morningstar.attention import AttentionOutput
+
+class MyAttention:
+    name = "my_attention"
+    def attend(self, q, k, v) -> AttentionOutput:
+        out = ...          # (T, d)
+        return AttentionOutput(out, None, cost_s, mem_peak_mb, self.name)
+    def theoretical_complexity(self, T, d) -> str:
+        return "O(...)"
+
+# 注册
+_REGISTRY["my_attention"] = MyAttention
+```
+
+协议（`AttentionMechanism` Protocol）要求：`name` 属性 + `attend()` +
+`theoretical_complexity()`。注册后自动进入基准与 `list_variants()`。
+
+### 加一条硬不变量
+
+```python
+from morningstar.verify.invariants import _res
+
+def check_my_invariant(tol: float = 1e-9) -> dict:
+    ...
+    return _res("X9_my_invariant", value, tol, value < tol, "说明")
+
+# 注册到 ALL_INVARIANTS
+ALL_INVARIANTS["X9_my_invariant"] = check_my_invariant
+```
+
+`_res` 统一产出 `{name, value, threshold, passed, detail}`，自动被报告生成器
+渲染成 Markdown 表格。
+
+### 加一项跨库交叉验证
+
+```python
+from morningstar.verify.crosscheck import _res, _torch
+
+def cross_my_op(seed: int = 0, tol: float = 1e-12) -> dict:
+    torch = _torch()
+    if torch is None:
+        return _skip("X10_my_op")
+    ...
+    return _res("X10_my_op", diff, tol, diff < tol, "说明")
+```
+
+---
+
+## 五、依赖策略
+
+| 依赖 | 必需性 | 用途 |
+| --- | --- | --- |
+| `numpy` | **必需** | 全部数值计算 |
+| `torch` | 可选 | 跨库交叉验证（X1–X7）；缺失时相关项标记 `available=False` 而非失败 |
+| `scipy` | 可选 | 经典 ML 层的部分对照实验 |
+| `scikit-learn` | 可选 | PCA / KMeans / GMM 的跨库对照 |
+| `pytest` | 开发 | 单元测试 |
+
+**设计原则**：核心功能零重依赖（只需 numpy），可选依赖只用于**验证**而非
+**实现**——这样任何人都能在裸 numpy 环境下跑通完整的不变量套件。

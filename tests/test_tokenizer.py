@@ -1,1 +1,84 @@
-IiIiQlBFIOWIhuivjeWZqOa1i+ivlSDigJTigJQg5b6A6L+U5peg5o2f44CB56Gu5a6a5oCn44CB6L6555WM5aSE55CG44CCIiIiDQpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zDQoNCmltcG9ydCBudW1weSBhcyBucA0KaW1wb3J0IHB5dGVzdA0KDQpmcm9tIG1vcm5pbmdzdGFyLmZsYXNoLnRva2VuaXplciBpbXBvcnQgQlBFVG9rZW5pemVyLCBjb21wcmVzc2lvbl9yYXRpbywgdG9rZW5fZnJlcXVlbmNpZXMNCg0KQ09SUFVTID0gWw0KICAgICJUaGUgcXVpY2sgYnJvd24gZm94IGp1bXBzIG92ZXIgdGhlIGxhenkgZG9nLiIsDQogICAgIuaZqOaYn+mUu+mAoOS4lueVjOmhtue6p+S6uuW3peaZuuiDveezu+e7n++8jOmbtumHjeWGmeOAgembhuWkp+aIkOOAgeWPr+mqjOivgeOAgiIsDQogICAgIlRyYW5zZm9ybWVycyBzY2FsZTogYXR0ZW50aW9uIGlzIGFsbCB5b3UgbmVlZCwgYnV0IG1lbW9yeSBpcyB0aGUgd2FsbC4iLA0KICAgICJSTVNOb3JtLCBSb1BFLCBTd2lHTFUg4oCUIHRoZSBMbGFtYSByZWNpcGUuIiwNCl0gKiA4DQoNCg0KQHB5dGVzdC5maXh0dXJlKHNjb3BlPSJtb2R1bGUiKQ0KZGVmIHRvaygpOg0KICAgIHJldHVybiBCUEVUb2tlbml6ZXIoKS50cmFpbihDT1JQVVMsIHZvY2FiX3NpemU9MzAwKQ0KDQoNCmRlZiB0ZXN0X3JvdW5kdHJpcF9wcmVzZXJ2ZXNfdGV4dCh0b2spOg0KICAgIGZvciB0ZXh0IGluIENPUlBVU1s6NF06DQogICAgICAgIGlkcyA9IHRvay5lbmNvZGUodGV4dCkNCiAgICAgICAgYXNzZXJ0IHRvay5kZWNvZGUoaWRzKSA9PSB0ZXh0LCBmIuW+gOi/lOWksei0pToge3RleHQhcn0iDQoNCg0KZGVmIHRlc3RfZW5jb2RlX2lzX2RldGVybWluaXN0aWModG9rKToNCiAgICBhID0gdG9rLmVuY29kZSgiYXR0ZW50aW9uIGlzIGFsbCB5b3UgbmVlZCIpDQogICAgYiA9IHRvay5lbmNvZGUoImF0dGVudGlvbiBpcyBhbGwgeW91IG5lZWQiKQ0KICAgIGFzc2VydCBhID09IGINCg0KDQpkZWYgdGVzdF90cmFpbl9pc19kZXRlcm1pbmlzdGljKCk6DQogICAgdDEgPSBCUEVUb2tlbml6ZXIoKS50cmFpbihDT1JQVVMsIHZvY2FiX3NpemU9MzAwKQ0KICAgIHQyID0gQlBFVG9rZW5pemVyKCkudHJhaW4oQ09SUFVTLCB2b2NhYl9zaXplPTMwMCkNCiAgICBhc3NlcnQgdDEubWVyZ2VzID09IHQyLm1lcmdlcw0KICAgIGFzc2VydCB0MS52b2NhYl9zaXplID09IHQyLnZvY2FiX3NpemUNCg0KDQpkZWYgdGVzdF92b2NhYl9zaXplX3Jlc3BlY3RlZCh0b2spOg0KICAgIGFzc2VydCB0b2sudm9jYWJfc2l6ZSA8PSAzMDANCg0KDQpkZWYgdGVzdF9taW5fdm9jYWJfc2l6ZV9ndWFyZCgpOg0KICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yLCBtYXRjaD0idm9jYWJfc2l6ZSIpOg0KICAgICAgICBCUEVUb2tlbml6ZXIoKS50cmFpbihDT1JQVVMsIHZvY2FiX3NpemU9MTYpDQoNCg0KZGVmIHRlc3RfZW5jb2RlX2VtcHR5X3N0cmluZyh0b2spOg0KICAgIGFzc2VydCB0b2suZW5jb2RlKCIiKSA9PSBbXQ0KDQoNCmRlZiB0ZXN0X2VuY29kZV9iYXRjaCh0b2spOg0KICAgIGJhdGNoID0gdG9rLmVuY29kZV9iYXRjaChbImhlbGxvIiwgIndvcmxkIl0pDQogICAgYXNzZXJ0IGxlbihiYXRjaCkgPT0gMg0KICAgIGFzc2VydCBhbGwoaXNpbnN0YW5jZSh4LCBsaXN0KSBmb3IgeCBpbiBiYXRjaCkNCg0KDQpkZWYgdGVzdF9zYXZlX2xvYWRfcm91bmR0cmlwKHRtcF9wYXRoLCB0b2spOg0KICAgIHBhdGggPSBzdHIodG1wX3BhdGggLyAidG9rLmpzb24iKQ0KICAgIHRvay5zYXZlKHBhdGgpDQogICAgdDIgPSBCUEVUb2tlbml6ZXIubG9hZChwYXRoKQ0KICAgIHRleHQgPSAi5pmo5pifIEZsYWdzaGlwQUk6IOmbtumHjeWGmSINCiAgICBhc3NlcnQgdDIuZW5jb2RlKHRleHQpID09IHRvay5lbmNvZGUodGV4dCkNCiAgICBhc3NlcnQgdDIuZGVjb2RlKHQyLmVuY29kZSh0ZXh0KSkgPT0gdGV4dA0KDQoNCmRlZiB0ZXN0X2NvbXByZXNzaW9uX3JhdGlvKHRvayk6DQogICAgcmF0aW8gPSBjb21wcmVzc2lvbl9yYXRpbyh0b2ssIENPUlBVUykgICMg562+5ZCNOiAodG9rZW5pemVyLCB0ZXh0cykNCiAgICBhc3NlcnQgcmF0aW8gPiAwDQoNCg0KZGVmIHRlc3RfdG9rZW5fZnJlcXVlbmNpZXModG9rKToNCiAgICBmcmVxID0gdG9rZW5fZnJlcXVlbmNpZXMoQ09SUFVTLCB0b2spDQogICAgYXNzZXJ0IGxlbihmcmVxKSA+IDANCiAgICBhc3NlcnQgc3VtKGZyZXEudmFsdWVzKCkpID4gMA0KDQoNCmRlZiB0ZXN0X3Vua25vd25fY2hhcnNfZmFsbGJhY2sodG9rKToNCiAgICAiIiLmnKrop4Hov4fnmoTlrZfnrKblv4Xpobvog73lronlhajnvJbnoIEgKOWbnumAgOWIsOWtl+iKgue6pynjgIIiIiINCiAgICBpZHMgPSB0b2suZW5jb2RlKCLwn5qA8J+MnyIpDQogICAgYXNzZXJ0IGxlbihpZHMpID4gMA0KICAgIGFzc2VydCB0b2suZGVjb2RlKGlkcykgPT0gIvCfmoDwn4yfIg0K
+"""BPE 分词器测试 —— 往返无损、确定性、边界处理。"""
+from __future__ import annotations
+
+import numpy as np
+import pytest
+
+from morningstar.flash.tokenizer import BPETokenizer, compression_ratio, token_frequencies
+
+CORPUS = [
+    "The quick brown fox jumps over the lazy dog.",
+    "晨星锻造世界顶级人工智能系统，零重写、集大成、可验证。",
+    "Transformers scale: attention is all you need, but memory is the wall.",
+    "RMSNorm, RoPE, SwiGLU — the Llama recipe.",
+] * 8
+
+
+@pytest.fixture(scope="module")
+def tok():
+    return BPETokenizer().train(CORPUS, vocab_size=300)
+
+
+def test_roundtrip_preserves_text(tok):
+    for text in CORPUS[:4]:
+        ids = tok.encode(text)
+        assert tok.decode(ids) == text, f"往返失败: {text!r}"
+
+
+def test_encode_is_deterministic(tok):
+    a = tok.encode("attention is all you need")
+    b = tok.encode("attention is all you need")
+    assert a == b
+
+
+def test_train_is_deterministic():
+    t1 = BPETokenizer().train(CORPUS, vocab_size=300)
+    t2 = BPETokenizer().train(CORPUS, vocab_size=300)
+    assert t1.merges == t2.merges
+    assert t1.vocab_size == t2.vocab_size
+
+
+def test_vocab_size_respected(tok):
+    assert tok.vocab_size <= 300
+
+
+def test_min_vocab_size_guard():
+    with pytest.raises(ValueError, match="vocab_size"):
+        BPETokenizer().train(CORPUS, vocab_size=16)
+
+
+def test_encode_empty_string(tok):
+    assert tok.encode("") == []
+
+
+def test_encode_batch(tok):
+    batch = tok.encode_batch(["hello", "world"])
+    assert len(batch) == 2
+    assert all(isinstance(x, list) for x in batch)
+
+
+def test_save_load_roundtrip(tmp_path, tok):
+    path = str(tmp_path / "tok.json")
+    tok.save(path)
+    t2 = BPETokenizer.load(path)
+    text = "晨星 FlagshipAI: 零重写"
+    assert t2.encode(text) == tok.encode(text)
+    assert t2.decode(t2.encode(text)) == text
+
+
+def test_compression_ratio(tok):
+    ratio = compression_ratio(tok, CORPUS)  # 签名: (tokenizer, texts)
+    assert ratio > 0
+
+
+def test_token_frequencies(tok):
+    freq = token_frequencies(CORPUS, tok)
+    assert len(freq) > 0
+    assert sum(freq.values()) > 0
+
+
+def test_unknown_chars_fallback(tok):
+    """未见过的字符必须能安全编码 (回退到字节级)。"""
+    ids = tok.encode("🚀🌟")
+    assert len(ids) > 0
+    assert tok.decode(ids) == "🚀🌟"

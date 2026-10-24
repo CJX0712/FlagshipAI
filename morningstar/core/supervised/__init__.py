@@ -1,1 +1,8 @@
-IiIiTDQtTDYg55uR552j5a2m5LmgIGZvcmdlIOaooeWdl++8iOe6ryBudW1weSDlrp7njrAgKyDkuI3lj5jph4/vvInjgIIiIiINCmZyb20gLmxpbmVhciBpbXBvcnQgTGluZWFyUmVncmVzc2lvbg0KZnJvbSAubG9naXN0aWMgaW1wb3J0IExvZ2lzdGljUmVncmVzc2lvbg0KZnJvbSAubmFpdmVfYmF5ZXMgaW1wb3J0IEdhdXNzaWFuTkINCmZyb20gLmtubiBpbXBvcnQgS05laWdoYm9yc0NsYXNzaWZpZXINCmZyb20gLnN2bSBpbXBvcnQgU1ZDDQoNCl9fYWxsX18gPSBbIkxpbmVhclJlZ3Jlc3Npb24iLCAiTG9naXN0aWNSZWdyZXNzaW9uIiwgIkdhdXNzaWFuTkIiLCAiS05laWdoYm9yc0NsYXNzaWZpZXIiLCAiU1ZDIl0NCg==
+"""L4-L6 监督学习 forge 模块（纯 numpy 实现 + 不变量）。"""
+from .linear import LinearRegression
+from .logistic import LogisticRegression
+from .naive_bayes import GaussianNB
+from .knn import KNeighborsClassifier
+from .svm import SVC
+
+__all__ = ["LinearRegression", "LogisticRegression", "GaussianNB", "KNeighborsClassifier", "SVC"]

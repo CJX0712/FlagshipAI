@@ -1,1 +1,270 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCiMg8J+MnyBNb3JuaW5nU3RhciBGbGFnc2hpcEFJCgoqKuS4lueVjOmhtue6pyBBSSDns7vnu58gwrcg6Zu26YeN5YaZIMK3IOmbhuWkp+aIkCDCtyDlj6/pqozor4Egwrcg6Zet546v5Lqk5LuYKioKClshW1B5dGhvbl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9weXRob24tMy4xMCUyQi1ibHVlLnN2ZyldKGh0dHBzOi8vd3d3LnB5dGhvbi5vcmcvKQpbIVtMaWNlbnNlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL2xpY2Vuc2UtQXBhY2hlLS0yLjAtZ3JlZW4uc3ZnKV0oTElDRU5TRSkKWyFbVGVzdHNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvdGVzdHMtOTQlMjBwYXNzZWQtc3VjY2Vzcy5zdmcpXSh0ZXN0cykKWyFbSW52YXJpYW50c10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9pbnZhcmlhbnRzLTE2JTJGMTYtc3VjY2Vzcy5zdmcpXShkb2NzL0RFU0lHTi5tZCkKWyFbQ3Jvc3NjaGVja10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9jcm9zc2NoZWNrLTclMkY3JTIwdnMlMjBQeVRvcmNoLXN1Y2Nlc3Muc3ZnKV0oZG9jcy9ERVNJR04ubWQpCgoqKuS9nOiAhe+8muaZqOaYnyAoTW9ybmluZ1N0YXIpKioKClvlv6vpgJ/lvIDlp4tdKCPlv6vpgJ/lvIDlp4spIMK3IFvmnrbmnoRdKCPljYHkuozlsYLmnrbmnoQpIMK3IFvlpI3njrBdKCPlrozmlbTlpI3njrApIMK3IFvmgKfog71dKCPmgKfog73lr7nmr5QpIMK3IFvmlofmoaNdKCPmlofmoaPntKLlvJUpIMK3IFvlvJXnlKhdKCPlvJXnlKjkuI7oh7TosKIpCgo8L2Rpdj4KCi0tLQoKIyMg6L+Z5piv5LuA5LmICgoqKkZsYWdzaGlwQUkqKiDmmK/kuIDkuKoqKuWPr+i/kOihjOOAgeWPr+WkjeeOsOOAgeWPr+mqjOivgSoq55qE546w5Luj5aSn6K+t6KiA5qih5Z6L57O757uf44CCCgrlroPkuI3mmK/jgIzlj4jkuIDkuKogVHJhbnNmb3JtZXIg5pWZ56iL44CN77yM6ICM5piv5LiA5aWXKirlt6XnqIvkuIrlrozmlbTpl63njq8qKueahCBBSSDns7vnu5/vvJoKCnwg57u05bqmIHwg5Lqk5LuY5YaF5a65IHwKfCAtLS0gfCAtLS0gfAp8ICoq566X5rOVKiogfCDlhajpg6jnq5nlnKjlt7Llj5HooajnmoTkuJbnlYznuqfmiJDmnpzkuYvkuIrvvIhGbGFzaEF0dGVudGlvbi0yIC8gUm9QRSAvIFJNU05vcm0gLyBTd2lHTFUgLyBHUUEgLyBGQVZPUisgLyBBZGFtVyAvIEJQRe+8ie+8jOmAkOadoeazqOaYjuWHuuWkhO+8jCoq6Zu26YeN5YaZKiogfAp8ICoq5qih5Z6LKiogfCDlrozmlbQgZGVjb2Rlci1vbmx5IEdQVO+8mnByZS1ub3JtICsgUm9QRSArIFJNU05vcm0gKyBTd2lHTFUgKyBHUUEgKyBLVi1DYWNoZe+8jCoq5omL5YaZ5Y+N5ZCR5Lyg5pKtKirvvIjpnZ7oh6rliqjlvq7liIbvvIkgfAp8ICoq6aqM6K+BKiogfCAqKjE2IOadoeaVsOWtpuehrOS4jeWPmOmHjyoqICsgKio3IOmhuSBQeVRvcmNoIOi3qOW6k+S6pOWPiemqjOivgSoq77yM5YWo6YOo6YCa6L+HIHwKfCAqKua1i+ivlSoqIHwgKio5NCDpobnljZXlhYPmtYvor5UqKuWFqOe7vyB8CnwgKirorq3nu4MqKiB8IOecn+WunuaUtuaVm++8mmxvc3MgNS42NCDihpIgMy4zNe+8jOmqjOivgembhuWQjOatpeS4i+mZje+8jOmHh+agt+iDveWkjeeOsOS4reaWh+aooeW8jyB8CnwgKirmgKfog70qKiB8IOazqOaEj+WKm+WutuaXjyA3IOWPmOS9k+eahOiAl+aXtiAvIOWGheWtmCAvIOS/neecn+W6puS4iee7tOmHj+WMluWvueavlCB8CgojIyMg5LiO44CM5LuO6Zu25a6e546w44CN55qE5LiJ5Liq5pys6LSo5Yy65YirCgoxLiAqKuS4jemHjeWGmei9ruWtkCoq77yaRmxhc2hBdHRlbnRpb24tMiDnmoTlnKjnur8gc29mdG1heOOAgUZBVk9SKyDnmoTmraPkuqTpmo/mnLrnibnlvoHjgIFBZGFtVyDnmoTop6PogKboobDlh4/igJTigJTlhajpg6jmjInorrrmlofljp/lp4vlhazlvI/lrp7njrDlubbms6jmmI7lh7rlpITvvIzpmYQqKumAkOadoee6oOmUmeiusOW9lSoq77yI6KeBIFtkb2NzL0RFU0lHTi5tZF0oZG9jcy9ERVNJR04ubWQj5LiJ5bey6KKr6aqM6K+B5L2T57O75oqT5Ye65bm25L+u5aSN55qE5Zub5Liq55yf5a6e57y66Zm3Ke+8ieOAggoyLiAqKuS4jeaYr+OAjOeci+i1t+adpeWvueOAjSoq77ya5q+P5Liq566X5a2Q6YO95pyJ5LiA5p2hKirlj6/ooqvni6znq4vlrp7njrDkuqTlj4npqozor4HnmoTnoazkuI3lj5jph48qKuOAguair+W6puW/hemhu+mAmui/h+S4reW/g+W3ruWIhuajgOmqjO+8jOazqOaEj+WKm+W/hemhu+S4jiBQeVRvcmNoIOmAkOS9jeS4gOiHtO+8jOS8mOWMluWZqOi9qOi/ueW/hemhu+S4jiBgdG9yY2gub3B0aW0uQWRhbVdgIOWvuem9kOWIsOacuuWZqOeyvuW6puOAggozLiAqKuS4jeaYr+OAjOi3kemAmuWwseihjOOAjSoq77ya5LiA6ZSu5aSN546w6ISa5pysICsgQ0kg5Zub54mI5pys55+p6Zi1ICsg6Ieq5Yqo55Sf5oiQ55qE6aqM6K+B5oql5ZGKICsg5Z+65YeG5a+55q+U6KGo77yM5YWo6YOo6JC955uY5Li65Y+v5a6h6K6h5Lqn54mp44CCCgotLS0KCiMjIOW/q+mAn+W8gOWniwoKIyMjIOWuieijhQoKYGBgYmFzaApnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL0NKWDA3MTIvRmxhZ3NoaXBBSS5naXQKY2QgRmxhZ3NoaXBBSQoKcHl0aG9uIC1tIHZlbnYgLnZlbnYgJiYgc291cmNlIC52ZW52L2Jpbi9hY3RpdmF0ZSAgICMgV2luZG93czogLnZlbnZcU2NyaXB0c1xhY3RpdmF0ZQpwaXAgaW5zdGFsbCAtZSAiLltkZXZdIiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgZGV2IOWQqyB0b3JjaCAvIHB5dGVzdCAvIHNjaXB5IC8gc2tsZWFybgpgYGAKCj4g5qC45b+D5Yqf6IO95LuF5L6d6LWWICoqbnVtcHkqKu+8m2B0b3JjaGAg5LuF55So5LqO6Leo5bqT5Lqk5Y+J6aqM6K+B77yMYHNjaXB5YC9gc2tsZWFybmAg5LuF55So5LqO57uP5YW45py65Zmo5a2m5Lmg5bGC55qE5a+554Wn5a6e6aqM44CCCgojIyMg5LiA6ZSu5aSN546wCgpgYGBiYXNoCm1ha2UgYWxsICAgICAgIyA9IGluc3RhbGwgKyB0ZXN0ICsgdmVyaWZ5ICsgYmVuY2ggKyB0cmFpbgpgYGAKCuaIluWIhuatpeaJp+ihjO+8mgoKYGBgYmFzaAptYWtlIHRlc3QgICAgICMgOTQg6aG55Y2V5YWD5rWL6K+VCm1ha2UgdmVyaWZ5ICAgIyAxNiDkuI3lj5jph48gKyA3IOi3qOW6k+mqjOivgSDihpIgcmVzdWx0cy9WRVJJRklDQVRJT04ubWQKbWFrZSBiZW5jaCAgICAjIOazqOaEj+WKm+WfuuWHhiDihpIgcmVzdWx0cy9CRU5DSE1BUksubWQKbWFrZSB0cmFpbiAgICAjIOaXl+iIsCBHUFQg6K6t57uDIDgwMCDmraUg4oaSIHJlc3VsdHMvdHJhaW5fc3VtbWFyeS5qc29uCmBgYAoKIyMjIOS4ieihjOS7o+eggeeUqOi1t+adpQoKYGBgcHl0aG9uCmZyb20gbW9ybmluZ3N0YXIuZmxhc2ggaW1wb3J0IEdQVCwgR1BUQ29uZmlnCgptb2RlbCA9IEdQVChHUFRDb25maWcodm9jYWJfc2l6ZT01MTIsIGRfbW9kZWw9MTI4LCBuX2xheWVyPTQsCiAgICAgICAgICAgICAgICAgICAgICBuX2hlYWQ9NCwgbl9rdl9oZWFkPTIpLCBzZWVkPTQyKQoKb3V0ID0gbW9kZWwuZ2VuZXJhdGUoWzEsIDIsIDNdLCBtYXhfbmV3X3Rva2Vucz02NCwgdGVtcGVyYXR1cmU9MC44LCBzZWVkPTQyKQpwcmludChvdXQpICAgICAgICAgICMg5aKe6YeP6Kej56CB77yM5bimIEtWLUNhY2hl77yM5YaF5a2YIE8oVMK3ZCkKYGBgCgotLS0KCiMjIOWNgeS6jOWxguaetuaehAoKYGBgCuKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkArilIIgTDEyIOmbhuaIkOmqjOivgeS4juS6pOS7mCAgIG1vcm5pbmdzdGFyLnZlcmlmeSAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCCuKUgiAgICAgMTYg5LiN5Y+Y6YePIMK3IDcg6Leo5bqT5Lqk5Y+J6aqM6K+BIMK3IOWfuuWHhiDCtyDmiqXlkYrnlJ/miJAgICAgICAgICAgICAgICAgICDilIIK4pSc4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSkCuKUgiBMMTEg5aSn5qih5Z6L5YaF5qC4ICAgICBtb3JuaW5nc3Rhci5mbGFzaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCCuKUgiAgICAgR1BUIMK3IFJvUEUgwrcgUk1TTm9ybSDCtyBTd2lHTFUgwrcgR1FBIMK3IEtWLUNhY2hlIMK3IEJQRSDCtyBBZGFtVyAg4pSCCuKUgiAgICAg4piFIOaJi+WGmeWPjeWQkeS8oOaSre+8iOaXoOiHquWKqOW+ruWIhu+8iSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilIIK4pSc4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSkCuKUgiBMMTAg6auY5pWI5rOo5oSP5YqbICAgICBtb3JuaW5nc3Rhci5hdHRlbnRpb24gICAgICAgICAgICAgICAgICAgICAgICAg4pSCCuKUgiAgICAgZnVsbCDCtyBmbGFzaCDCtyBsaW5lYXIgwrcgcGVyZm9ybWVyIMK3IGxvY2FsX3dpbmRvdyDCtyAgICAgICAgICAg4pSCCuKUgiAgICAgYmxvY2tfc3BhcnNlIMK3IGVmZmF0dG5mdXNl77yI6ZW/5bqm6Ieq6YCC5bqU6Lev55SxICsg6LSo6YeP5a6I5Y2r77yJICAgICAgIOKUggrilJzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilKQK4pSCIEw5ICDnpZ7nu4/nvZHnu5wgICAgICAgbW9ybmluZ3N0YXIuY29yZS5kZWVwICAgICAgICAgICAgICAgICAgICAgICAg4pSCCuKUgiBMOCAg6ZmN57u0ICAgICAgICAgICBtb3JuaW5nc3Rhci5jb3JlLnVuc3VwZXJ2aXNlZC5wY2EgICAgICAgICAgICAg4pSCCuKUgiBMNyAg6IGa57G7ICAgICAgICAgICBtb3JuaW5nc3Rhci5jb3JlLnVuc3VwZXJ2aXNlZC5rbWVhbnMgLyBnbW0gICAg4pSCCuKUgiBMNiAg5qaC546H5LiO6Z2e5Y+CICAgICAgbW9ybmluZ3N0YXIuY29yZS5zdXBlcnZpc2VkLmtubiAvIG5haXZlX2JheWVzIOKUggrilIIgTDUgIOaguOaWueazleS4jiBTVk0gICBtb3JuaW5nc3Rhci5jb3JlLnN1cGVydmlzZWQuc3ZtICAgICAgICAgICAgICDilIIK4pSCIEw0ICDnur/mgKcv5bm/5LmJ5qih5Z6LICAgbW9ybmluZ3N0YXIuY29yZS5zdXBlcnZpc2VkLmxpbmVhciAvIGxvZ2lzdGlj4pSCCuKUgiBMMyAg5b6u56ev5YiG5LiO5LyY5YyWICAgIG1vcm5pbmdzdGFyLmNvcmUubWF0aHgub3B0aW1pemUgICAgICAgICAgICAgIOKUggrilIIgTDIgIOamgueOh+e7n+iuoSAgICAgICAgbW9ybmluZ3N0YXIuY29yZS5tYXRoeCAgICAgICAgICAgICAgICAgICAgICAg4pSCCuKUgiBMMSAg57q/5oCn5Luj5pWwICAgICAgIG1vcm5pbmdzdGFyLmNvcmUubWF0aHgubGluYWxnICAgICAgICAgICAgICAgIOKUggrilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJgKYGBgCgrmr4/kuIDlsYLnmoTnrpfms5Xlh7rlpITop4EgW2RvY3MvUkVGRVJFTkNFUy5tZF0oZG9jcy9SRUZFUkVOQ0VTLm1kKe+8jOiuvuiuoeWPluiIjeingSBbZG9jcy9ERVNJR04ubWRdKGRvY3MvREVTSUdOLm1kKeOAggoKIyMjIOebruW9lee7k+aehAoKYGBgCkZsYWdzaGlwQUkvCuKUnOKUgOKUgCBtb3JuaW5nc3Rhci8K4pSCICAg4pSc4pSA4pSAIGNvcmUvICAgICAgICAgICAjIEwx4oCTTDkgIOaVsOWtpuS4jue7j+WFuCBNTCDlupXluqcK4pSCICAg4pSc4pSA4pSAIGZsYXNoLyAgICAgICAgICAjIEwxMSDml5foiLDlpKfmqKHlnovlhoXmoLgK4pSCICAg4pSc4pSA4pSAIGF0dGVudGlvbi8gICAgICAjIEwxMCDms6jmhI/lipvlrrbml48K4pSCICAg4pSU4pSA4pSAIHZlcmlmeS8gICAgICAgICAjIEwxMiDkuI3lj5jph48gwrcg6Leo5bqTIMK3IOWfuuWHhiDCtyDmiqXlkYoK4pSc4pSA4pSAIHRlc3RzLyAgICAgICAgICAgICAgIyA5NCDpobnljZXlhYPmtYvor5UK4pSc4pSA4pSAIGV4YW1wbGVzLyAgICAgICAgICAgIyDorq3nu4MgLyDnlJ/miJAgLyDln7rlh4Yg56S65L6LCuKUnOKUgOKUgCBkb2NzLyAgICAgICAgICAgICAgICMg6K6+6K6hIC8gQVBJIC8g5p625p6EIC8g5byV55SoIC8g5Z+65YeGCuKUnOKUgOKUgCByZXN1bHRzLyAgICAgICAgICAgICMg6Ieq5Yqo55Sf5oiQ55qE6aqM6K+B5LiO5Z+65YeG5Lqn54mpCuKUnOKUgOKUgCBzY3JpcHRzLyAgICAgICAgICAgICMg5LiA6ZSu6ISa5pysCuKUnOKUgOKUgCBNYWtlZmlsZSAgICAgICAgICAgICMg5aSN546w5rWB5rC057q/CuKUnOKUgOKUgCBweXByb2plY3QudG9tbArilJzilIDilIAgTElDRU5TRSAgICAgICAgICAgICAjIEFwYWNoZS0yLjAK4pSU4pSA4pSAIE5PVElDRSAgICAgICAgICAgICAgIyDnrKzkuInmlrnnrpfms5Xlh7rlpITmuIXljZUKYGBgCgotLS0KCiMjIOWujOaVtOWkjeeOsAoKYGBgYmFzaAojIDEpIOeOr+WigwptYWtlIHZlbnYgJiYgbWFrZSBkZXYKCiMgMikg5Y2V5YWD5rWL6K+V77yIOTQg6aG577yJCm1ha2UgdGVzdAojIOKGkiAxMDAlIHBhc3NlZAoKIyAzKSDmlbDlrabkuI3lj5jph48gKyBQeVRvcmNoIOi3qOW6k+S6pOWPiemqjOivgQptYWtlIHZlcmlmeQojIOKGkiDkuI3lj5jph48gMTYvMTYgwrcg6Leo5bqTIDcvNyDCtyDlhajnu789VHJ1ZQojIOKGkiByZXN1bHRzL3ZlcmlmaWNhdGlvbi5qc29uICsgcmVzdWx0cy9WRVJJRklDQVRJT04ubWQKCiMgNCkg5rOo5oSP5Yqb5Z+65YeGCm1ha2UgYmVuY2gKIyDihpIgcmVzdWx0cy9iZW5jaG1hcmsuanNvbiArIHJlc3VsdHMvQkVOQ0hNQVJLLm1kCgojIDUpIOiuree7g+mXreeOrwptYWtlIHRyYWluCiMg4oaSIHRyYWluIDUuNjQg4oaSIDMuMzUgfCB2YWwgNS42MyDihpIgMy40MSB8IOmHh+agt+i+k+WHuuWPr+WkjeeOsOS4reaWh+aooeW8jwojIOKGkiByZXN1bHRzL3RyYWluX2xvZy5qc29uICsgcmVzdWx0cy90cmFpbl9zdW1tYXJ5Lmpzb24KYGBgCgoqKuWPr+WkjeeOsOaAp+S/neivgSoq77ya5Yid5aeL5YyW44CB5pWw5o2u6YeH5qC344CB55Sf5oiQ6YeH5qC35YWo6YOo55Sx5pi+5byPIGBzZWVkYCDpqbHliqjvvJvlkIwgc2VlZCDkuIvliJ3lp4vljJbkuI7liY3lkJHovpPlh7oqKumAkOS9jeS4gOiHtCoq77yI5LiN5Y+Y6YePIFAx77yJ44CCCgotLS0KCiMjIOaAp+iDveWvueavlAoKIyMjIOazqOaEj+WKm+WutuaXj+S4iee7tOWvueavlAoKPiDmlbDmja7nlLEgYG1ha2UgYmVuY2hgIOWcqOacrOacuuiHquWKqOeUn+aIkO+8jOingSBbcmVzdWx0cy9CRU5DSE1BUksubWRdKHJlc3VsdHMvQkVOQ0hNQVJLLm1kKeOAggoKfCDlj5jkvZMgfCDlpI3mnYLluqYgfCDlhoXlrZggfCDkv53nnJ/luqYgfCDlh7rlpIQgfAp8IC0tLSB8IC0tLSB8IC0tLSB8IC0tLSB8IC0tLSB8CnwgYGZ1bGxgIHwgTyhUwrJkKSB8IE8oVMKyKSB8IDEuMDAw77yI5Z+65YeG77yJIHwgVmFzd2FuaSBldCBhbC4gMjAxNyB8CnwgYGZsYXNoYCB8IE8oVMKyZCkg5pe26Ze0IC8gKipPKFRkKSDlhoXlrZgqKiB8ICoqTyhUZCkqKiB8ICoqMS4wMDAqKu+8iOaVsOWAvOetieS7t++8iSB8IERhbyAyMDIzIHwKfCBgbGluZWFyYCB8IE8oVGTCsikgfCBPKGTCsikgfCAwLjA4OCB8IEthdGhhcm9wb3Vsb3MgZXQgYWwuIDIwMjAgfAp8IGBwZXJmb3JtZXJgIHwgTyhUZG0pIHwgTyhkbSkgfCAwLjA0MSB8IENob3JvbWFuc2tpIGV0IGFsLiAyMDIxIHwKfCBgbG9jYWxfd2luZG93YCB8IE8oVHdkKSB8IE8od2QpIHwg56qX5Y+j5YaF57K+56GuIHwgQmVsdGFneSBldCBhbC4gMjAyMCB8CnwgYGJsb2NrX3NwYXJzZWAgfCBPKFRiZCkgfCBPKGJkKSB8IOWdl+WGheeyvuehriB8IENoaWxkIGV0IGFsLiAyMDE5IHwKfCBgZWZmYXR0bmZ1c2VgIHwg6Ieq6YCC5bqUIHwg6Ieq6YCC5bqUIHwg6LSo6YeP5a6I5Y2rIHwgRWZmQXR0bkZvcmdlIHwKCioq5YWz6ZSu57uT6K66KirvvJpgZmxhc2hgIOWcqCAqKlQ9NDA5NioqIOaXtuWzsOWAvOmineWkluWGheWtmCAqKjIuMiBNQioqIHZzIGBuYWl2ZWAg55qEICoqMjcwLjUgTUIqKu+8iCoqMTIxw5cqKiDkvJjlir/vvInvvIzkuJTovpPlh7rkuI7nsr7noa7ms6jmhI/lipsqKumAkOS9jeS4gOiHtCoq77yI6K+v5beuIDQuOWUtMTbvvInigJTigJTlhoXlrZjlopnooqvmtojpmaTvvIzmlbDlrabnu5PmnpzkuI3lj5jjgIIKCiMjIyDorq3nu4Ppl63njq8KCnwg5oyH5qCHIHwg5Yid5aeLIHwg5pyA57uIIHwKfCAtLS0gfCAtLS0gfCAtLS0gfAp8IOiuree7g+aNn+WksSB8IDUuNjM2IHwgKiozLjM1MioqIHwKfCDpqozor4HmjZ/lpLEgfCA1LjYyOCB8ICoqMy40MTIqKiB8Cnwg6aqM6K+B5Zuw5oOR5bqmIHwgMjQzIHwgKiozMC4zKiogfAp8IOair+W6puiMg+aVsCB8IDEuNDEzIHwgMC40MDjvvIjnqLPlrprvvIkgfAp8IOWimemSnyB8IOKAlCB8IDE3MSBzIC8gODAwIOatpe+8iENQVe+8jDMg5bGCIDk2IOe7tO+8iSB8CgojIyMg5qih5Z6L6KeE5qihCgp8IOmFjee9riB8IOWPguaVsOmHjyB8CnwgLS0tIHwgLS0tIHwKfCAzIOWxgiDDlyA5NiDnu7TvvIjnpLrkvovvvIkgfCAzNTcsMjE2IHwKfCA0IOWxgiDDlyAxMjgg57u077yI6buY6K6k77yJIHwgfjEuMCBNIHwKCi0tLQoKIyMg6aqM6K+B5L2T57O7CgrmnKzpobnnm67mnIDmoLjlv4PnmoTotYTkuqfmmK8qKumqjOivgeS9k+ezuyoq77ya5q+P5Liq566X5a2Q6YO95pyJ5LiA5p2h5Y+v6KKr54us56uL5a6e546w5Lqk5Y+J6aqM6K+B55qE56Gs5LiN5Y+Y6YeP44CCCgp8IOe8luWPtyB8IOS4jeWPmOmHjyB8IOWunua1i+WAvCB8CnwgLS0tIHwgLS0tIHwgLS0tIHwKfCBJMSB8IEZsYXNoQXR0ZW50aW9uLTIg4omhIOeyvuehruazqOaEj+WKmyB8IDQuOTRlLTE2IHwKfCBJMiB8IOazqOaEj+WKm+adg+mHjemAkOihjOmaj+acuuWMliB8IDIuMjJlLTE2IHwKfCBJMyB8IOWboOaenOaOqeeggeS4iuS4ieinkuaBkuS4uiAwIHwgMC4wMGUrMDAgfAp8IEk0IHwga2V5IOW5s+enu+S4jeWPmO+8iGxvZ3N1bWV4cCDnqLPlrprvvIkgfCAxLjIyZS0xMyB8CnwgSTUgfCDovpPlh7rokL3lnKggdmFsdWUg5Ye45YyF5YaFIHwgMS41NiB8CnwgSTYgfCBLVi1DYWNoZSDlop7ph48g4omhIOWFqOmHj+WJjeWQkSB8IDQuMjdlLTE2IHwKfCBJNyB8IEZsYXNoIOWGheWtmOasoeS6jOasoe+8iFQ9NDA5NiDnnIEgMTIxw5fvvIkgfCAxLjIxZSswMiB8CnwgUjEgfCBSb1BFIOebuOWvueS9jee9ruaAp+i0qCB8IDcuNTNlLTE1IHwKfCBSMiB8IFJvUEUg5L+d6IyDICsg5Y+M5a6e546w6YCQ5L2N5LiA6Ie0IHwgOC44OGUtMTYgfAp8IFIzIHwgUk1TTm9ybSDljZXkvY0gUk1TIHwgMS45NGUtMTAgfAp8IEcxIHwgKirlhajmqKHlnovop6PmnpDmoq/luqYg4omhIOS4reW/g+W3ruWIhioqIHwgMC4wMGUrMDAgfAp8IEc0IHwg5Z2H5YyA6aKE5rWL5pe25Lqk5Y+J54a1IOKJoSBsbihWKSB8IDAuMDBlKzAwIHwKfCBQMSB8IOWQjCBzZWVkIOmAkOS9jeehruWumuaApyB8IDAuMDBlKzAwIHwKfCBUMSB8IEJQRSDnvJbop6PnoIHml6DmjZ/lvoDov5QgfCAwLjAwZSswMCB8CnwgVDMgfCBCUEUg6K6t57uD56Gu5a6a5oCnIHwgMC4wMGUrMDAgfAp8IEE0IHwg6L+R5Ly85rOo5oSP5Yqb5L+d55yf5bqm77yIbGluZWFyL3BlcmZvcm1lcu+8iSB8IDguODNlLTAyIHwKfCBYMeKAk1g3IHwgKip2cyBQeVRvcmNoIOmAkOW8oOmHj+S6pOWPiemqjOivgSoqIHwg4omkIDUuNmUtMTUgfAoK5a6M5pW05riF5Y2V5LiO5Yik5o2u6KeBIFtkb2NzL0RFU0lHTi5tZF0oZG9jcy9ERVNJR04ubWQj5LiN5Y+Y6YeP5riF5Y2VKeOAggoKLS0tCgojIyDmlofmoaPntKLlvJUKCnwg5paH5qGjIHwg5YaF5a65IHwKfCAtLS0gfCAtLS0gfAp8IFtkb2NzL0RFU0lHTi5tZF0oZG9jcy9ERVNJR04ubWQpIHwg5p625p6E5Yaz562W44CB6YCQ5bGC6K6+6K6h44CBKirlm5vkuKrooqvpqozor4HkvZPns7vmipPlh7rnmoTnnJ/lrp7nvLrpmbcqKuOAgeS4jeWPmOmHj+a4heWNlSB8CnwgW2RvY3MvQVJDSElURUNUVVJFLm1kXShkb2NzL0FSQ0hJVEVDVFVSRS5tZCkgfCDljYHkuozlsYLmmKDlsITjgIHmqKHlnZfkvp3otZbjgIHmlbDmja7mtYEgfAp8IFtkb2NzL0FQSS5tZF0oZG9jcy9BUEkubWQpIHwg5YWo6YOo5YWs5byA5o6l5Y+j55So5rOV5LiO56S65L6LIHwKfCBbZG9jcy9SRUZFUkVOQ0VTLm1kXShkb2NzL1JFRkVSRU5DRVMubWQpIHwg6K665paH5LiO5byA5rqQ6aG555uu5Ye65aSE44CB6Ie06LCiIHwKfCBbZG9jcy9CRU5DSE1BUktTLm1kXShkb2NzL0JFTkNITUFSS1MubWQpIHwg5Z+65YeG57uT5p6c6Kej6K+75LiO5aSN546w5pa55rOVIHwKfCBbTk9USUNFXShOT1RJQ0UpIHwg56ys5LiJ5pa5566X5rOV5Ye65aSE5riF5Y2V77yI5rOV5b6L5aOw5piO77yJIHwKCi0tLQoKIyMg5byV55So5LiO6Ie06LCiCgrmnKzpobnnm64qKueLrOeri+WunueOsCoq77yM5pyq5aSN5Yi25Lu75L2V56ys5LiJ5pa56aG555uu5rqQ56CB44CC5YCf6Ym055qE5pWw5a2m5pa55rOV5LiO566X5rOV5oCd5oOz5Z2H5bey5ZyoCltOT1RJQ0VdKE5PVElDRSkg5LiOIFtkb2NzL1JFRkVSRU5DRVMubWRdKGRvY3MvUkVGRVJFTkNFUy5tZCkg5Lit6YCQ5p2h5rOo5piO5Ye65aSE44CCCgrmoLjlv4PlvJXnlKjvvJoKCi0gVmFzd2FuaSBldCBhbC4gKDIwMTcpICpBdHRlbnRpb24gSXMgQWxsIFlvdSBOZWVkKiDigJQgVHJhbnNmb3JtZXIKLSBEYW8gKDIwMjMpICpGbGFzaEF0dGVudGlvbi0yKiDigJQg5YaF5a2Y5aKZ55qE5q2j6KejCi0gU3UgZXQgYWwuICgyMDIxKSAqUm9Gb3JtZXIqIOKAlCDml4vovazkvY3nva7nvJbnoIEKLSBaaGFuZyAmIFNlbm5yaWNoICgyMDE5KSAqUk1TTm9ybSogwrcgU2hhemVlciAoMjAyMCkgKlN3aUdMVSoKLSBUb3V2cm9uIGV0IGFsLiAoMjAyMykgKkxMYU1BKiDigJQg5p625p6E57uE5ZCI6IyD5byPCi0gQ2hvcm9tYW5za2kgZXQgYWwuICgyMDIxKSAqUGVyZm9ybWVycyAvIEZBVk9SKyog4oCUIOe6v+aAp+azqOaEj+WKmwotIExvc2hjaGlsb3YgJiBIdXR0ZXIgKDIwMTkpICpBZGFtVyogwrcgU2VubnJpY2ggZXQgYWwuICgyMDE2KSAqQlBFKgoKLS0tCgojIyDorrjlj6/or4EKCltBcGFjaGUgTGljZW5zZSAyLjBdKExJQ0VOU0UpIMKpIDIwMjYg5pmo5pifIChNb3JuaW5nU3RhcikKCi0tLQoKPGRpdiBhbGlnbj0iY2VudGVyIj4KPHN1Yj7pm7bph43lhpkgwrcg6ZuG5aSn5oiQIMK3IOWPr+mqjOivgSDCtyDpl63njq/kuqTku5g8L3N1Yj4KPC9kaXY+Cg==
+<div align="center">
+
+# 🌟 MorningStar FlagshipAI
+
+**世界顶级 AI 系统 · 零重写 · 集大成 · 可验证 · 闭环交付**
+
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE)
+[![Tests](https://img.shields.io/badge/tests-94%20passed-success.svg)](tests)
+[![Invariants](https://img.shields.io/badge/invariants-16%2F16-success.svg)](docs/DESIGN.md)
+[![Crosscheck](https://img.shields.io/badge/crosscheck-7%2F7%20vs%20PyTorch-success.svg)](docs/DESIGN.md)
+
+**作者：晨星 (MorningStar)**
+
+[快速开始](#快速开始) · [架构](#十二层架构) · [复现](#完整复现) · [性能](#性能对比) · [文档](#文档索引) · [引用](#引用与致谢)
+
+</div>
+
+---
+
+## 这是什么
+
+**FlagshipAI** 是一个**可运行、可复现、可验证**的现代大语言模型系统。
+
+它不是「又一个 Transformer 教程」，而是一套**工程上完整闭环**的 AI 系统：
+
+| 维度 | 交付内容 |
+| --- | --- |
+| **算法** | 全部站在已发表的世界级成果之上（FlashAttention-2 / RoPE / RMSNorm / SwiGLU / GQA / FAVOR+ / AdamW / BPE），逐条注明出处，**零重写** |
+| **模型** | 完整 decoder-only GPT：pre-norm + RoPE + RMSNorm + SwiGLU + GQA + KV-Cache，**手写反向传播**（非自动微分） |
+| **验证** | **16 条数学硬不变量** + **7 项 PyTorch 跨库交叉验证**，全部通过 |
+| **测试** | **94 项单元测试**全绿 |
+| **训练** | 真实收敛：loss 5.64 → 3.35，验证集同步下降，采样能复现中文模式 |
+| **性能** | 注意力家族 7 变体的耗时 / 内存 / 保真度三维量化对比 |
+
+### 与「从零实现」的三个本质区别
+
+1. **不重写轮子**：FlashAttention-2 的在线 softmax、FAVOR+ 的正交随机特征、AdamW 的解耦衰减——全部按论文原始公式实现并注明出处，附**逐条纠错记录**（见 [docs/DESIGN.md](docs/DESIGN.md#三已被验证体系抓出并修复的四个真实缺陷)）。
+2. **不是「看起来对」**：每个算子都有一条**可被独立实现交叉验证的硬不变量**。梯度必须通过中心差分检验，注意力必须与 PyTorch 逐位一致，优化器轨迹必须与 `torch.optim.AdamW` 对齐到机器精度。
+3. **不是「跑通就行」**：一键复现脚本 + CI 四版本矩阵 + 自动生成的验证报告 + 基准对比表，全部落盘为可审计产物。
+
+---
+
+## 快速开始
+
+### 安装
+
+```bash
+git clone https://github.com/CJX0712/FlagshipAI.git
+cd FlagshipAI
+
+python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -e ".[dev]"                              # dev 含 torch / pytest / scipy / sklearn
+```
+
+> 核心功能仅依赖 **numpy**；`torch` 仅用于跨库交叉验证，`scipy`/`sklearn` 仅用于经典机器学习层的对照实验。
+
+### 一键复现
+
+```bash
+make all      # = install + test + verify + bench + train
+```
+
+或分步执行：
+
+```bash
+make test     # 94 项单元测试
+make verify   # 16 不变量 + 7 跨库验证 → results/VERIFICATION.md
+make bench    # 注意力基准 → results/BENCHMARK.md
+make train    # 旗舰 GPT 训练 800 步 → results/train_summary.json
+```
+
+### 三行代码用起来
+
+```python
+from morningstar.flash import GPT, GPTConfig
+
+model = GPT(GPTConfig(vocab_size=512, d_model=128, n_layer=4,
+                      n_head=4, n_kv_head=2), seed=42)
+
+out = model.generate([1, 2, 3], max_new_tokens=64, temperature=0.8, seed=42)
+print(out)          # 增量解码，带 KV-Cache，内存 O(T·d)
+```
+
+---
+
+## 十二层架构
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ L12 集成验证与交付   morningstar.verify                          │
+│     16 不变量 · 7 跨库交叉验证 · 基准 · 报告生成                  │
+├─────────────────────────────────────────────────────────────────┤
+│ L11 大模型内核     morningstar.flash                             │
+│     GPT · RoPE · RMSNorm · SwiGLU · GQA · KV-Cache · BPE · AdamW  │
+│     ★ 手写反向传播（无自动微分）                                  │
+├─────────────────────────────────────────────────────────────────┤
+│ L10 高效注意力     morningstar.attention                         │
+│     full · flash · linear · performer · local_window ·           │
+│     block_sparse · effattnfuse（长度自适应路由 + 质量守卫）       │
+├─────────────────────────────────────────────────────────────────┤
+│ L9  神经网络       morningstar.core.deep                        │
+│ L8  降维           morningstar.core.unsupervised.pca             │
+│ L7  聚类           morningstar.core.unsupervised.kmeans / gmm    │
+│ L6  概率与非参      morningstar.core.supervised.knn / naive_bayes │
+│ L5  核方法与 SVM   morningstar.core.supervised.svm              │
+│ L4  线性/广义模型   morningstar.core.supervised.linear / logistic│
+│ L3  微积分与优化    morningstar.core.mathx.optimize              │
+│ L2  概率统计        morningstar.core.mathx                       │
+│ L1  线性代数       morningstar.core.mathx.linalg                │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+每一层的算法出处见 [docs/REFERENCES.md](docs/REFERENCES.md)，设计取舍见 [docs/DESIGN.md](docs/DESIGN.md)。
+
+### 目录结构
+
+```
+FlagshipAI/
+├── morningstar/
+│   ├── core/           # L1–L9  数学与经典 ML 底座
+│   ├── flash/          # L11 旗舰大模型内核
+│   ├── attention/      # L10 注意力家族
+│   └── verify/         # L12 不变量 · 跨库 · 基准 · 报告
+├── tests/              # 94 项单元测试
+├── examples/           # 训练 / 生成 / 基准 示例
+├── docs/               # 设计 / API / 架构 / 引用 / 基准
+├── results/            # 自动生成的验证与基准产物
+├── scripts/            # 一键脚本
+├── Makefile            # 复现流水线
+├── pyproject.toml
+├── LICENSE             # Apache-2.0
+└── NOTICE              # 第三方算法出处清单
+```
+
+---
+
+## 完整复现
+
+```bash
+# 1) 环境
+make venv && make dev
+
+# 2) 单元测试（94 项）
+make test
+# → 100% passed
+
+# 3) 数学不变量 + PyTorch 跨库交叉验证
+make verify
+# → 不变量 16/16 · 跨库 7/7 · 全绿=True
+# → results/verification.json + results/VERIFICATION.md
+
+# 4) 注意力基准
+make bench
+# → results/benchmark.json + results/BENCHMARK.md
+
+# 5) 训练闭环
+make train
+# → train 5.64 → 3.35 | val 5.63 → 3.41 | 采样输出可复现中文模式
+# → results/train_log.json + results/train_summary.json
+```
+
+**可复现性保证**：初始化、数据采样、生成采样全部由显式 `seed` 驱动；同 seed 下初始化与前向输出**逐位一致**（不变量 P1）。
+
+---
+
+## 性能对比
+
+### 注意力家族三维对比
+
+> 数据由 `make bench` 在本机自动生成，见 [results/BENCHMARK.md](results/BENCHMARK.md)。
+
+| 变体 | 复杂度 | 内存 | 保真度 | 出处 |
+| --- | --- | --- | --- | --- |
+| `full` | O(T²d) | O(T²) | 1.000（基准） | Vaswani et al. 2017 |
+| `flash` | O(T²d) 时间 / **O(Td) 内存** | **O(Td)** | **1.000**（数值等价） | Dao 2023 |
+| `linear` | O(Td²) | O(d²) | 0.088 | Katharopoulos et al. 2020 |
+| `performer` | O(Tdm) | O(dm) | 0.041 | Choromanski et al. 2021 |
+| `local_window` | O(Twd) | O(wd) | 窗口内精确 | Beltagy et al. 2020 |
+| `block_sparse` | O(Tbd) | O(bd) | 块内精确 | Child et al. 2019 |
+| `effattnfuse` | 自适应 | 自适应 | 质量守卫 | EffAttnForge |
+
+**关键结论**：`flash` 在 **T=4096** 时峰值额外内存 **2.2 MB** vs `naive` 的 **270.5 MB**（**121×** 优势），且输出与精确注意力**逐位一致**（误差 4.9e-16）——内存墙被消除，数学结果不变。
+
+### 训练闭环
+
+| 指标 | 初始 | 最终 |
+| --- | --- | --- |
+| 训练损失 | 5.636 | **3.352** |
+| 验证损失 | 5.628 | **3.412** |
+| 验证困惑度 | 243 | **30.3** |
+| 梯度范数 | 1.413 | 0.408（稳定） |
+| 墙钟 | — | 171 s / 800 步（CPU，3 层 96 维） |
+
+### 模型规模
+
+| 配置 | 参数量 |
+| --- | --- |
+| 3 层 × 96 维（示例） | 357,216 |
+| 4 层 × 128 维（默认） | ~1.0 M |
+
+---
+
+## 验证体系
+
+本项目最核心的资产是**验证体系**：每个算子都有一条可被独立实现交叉验证的硬不变量。
+
+| 编号 | 不变量 | 实测值 |
+| --- | --- | --- |
+| I1 | FlashAttention-2 ≡ 精确注意力 | 4.94e-16 |
+| I2 | 注意力权重逐行随机化 | 2.22e-16 |
+| I3 | 因果掩码上三角恒为 0 | 0.00e+00 |
+| I4 | key 平移不变（logsumexp 稳定） | 1.22e-13 |
+| I5 | 输出落在 value 凸包内 | 1.56 |
+| I6 | KV-Cache 增量 ≡ 全量前向 | 4.27e-16 |
+| I7 | Flash 内存次二次（T=4096 省 121×） | 1.21e+02 |
+| R1 | RoPE 相对位置性质 | 7.53e-15 |
+| R2 | RoPE 保范 + 双实现逐位一致 | 8.88e-16 |
+| R3 | RMSNorm 单位 RMS | 1.94e-10 |
+| G1 | **全模型解析梯度 ≡ 中心差分** | 0.00e+00 |
+| G4 | 均匀预测时交叉熵 ≡ ln(V) | 0.00e+00 |
+| P1 | 同 seed 逐位确定性 | 0.00e+00 |
+| T1 | BPE 编解码无损往返 | 0.00e+00 |
+| T3 | BPE 训练确定性 | 0.00e+00 |
+| A4 | 近似注意力保真度（linear/performer） | 8.83e-02 |
+| X1–X7 | **vs PyTorch 逐张量交叉验证** | ≤ 5.6e-15 |
+
+完整清单与判据见 [docs/DESIGN.md](docs/DESIGN.md#不变量清单)。
+
+---
+
+## 文档索引
+
+| 文档 | 内容 |
+| --- | --- |
+| [docs/DESIGN.md](docs/DESIGN.md) | 架构决策、逐层设计、**四个被验证体系抓出的真实缺陷**、不变量清单 |
+| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | 十二层映射、模块依赖、数据流 |
+| [docs/API.md](docs/API.md) | 全部公开接口用法与示例 |
+| [docs/REFERENCES.md](docs/REFERENCES.md) | 论文与开源项目出处、致谢 |
+| [docs/BENCHMARKS.md](docs/BENCHMARKS.md) | 基准结果解读与复现方法 |
+| [NOTICE](NOTICE) | 第三方算法出处清单（法律声明） |
+
+---
+
+## 引用与致谢
+
+本项目**独立实现**，未复制任何第三方项目源码。借鉴的数学方法与算法思想均已在
+[NOTICE](NOTICE) 与 [docs/REFERENCES.md](docs/REFERENCES.md) 中逐条注明出处。
+
+核心引用：
+
+- Vaswani et al. (2017) *Attention Is All You Need* — Transformer
+- Dao (2023) *FlashAttention-2* — 内存墙的正解
+- Su et al. (2021) *RoFormer* — 旋转位置编码
+- Zhang & Sennrich (2019) *RMSNorm* · Shazeer (2020) *SwiGLU*
+- Touvron et al. (2023) *LLaMA* — 架构组合范式
+- Choromanski et al. (2021) *Performers / FAVOR+* — 线性注意力
+- Loshchilov & Hutter (2019) *AdamW* · Sennrich et al. (2016) *BPE*
+
+---
+
+## 许可证
+
+[Apache License 2.0](LICENSE) © 2026 晨星 (MorningStar)
+
+---
+
+<div align="center">
+<sub>零重写 · 集大成 · 可验证 · 闭环交付</sub>
+</div>
